@@ -2,9 +2,9 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Live-TV™ Official",Live-TV™
 https://jiocdn.fun/jio/jiotv/livxXe.php?c=Jio_Football_Bangali_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU" group-title="Live-TV™ Official",Live-TV™ Movies
+#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Live-TV™ Official",Live-TV™ Movies
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU" group-title="Live-TV™ Official",Live-TV™ Sports
+#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Live-TV™ Official",Live-TV™ Sports
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="Bangladesh",BTV (1)
