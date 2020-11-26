@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Live-TV™ Official",Live-TV™
-https://jiocdn.fun/jio/jiotv/livxXe.php?c=Jio_Football_Bangali_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Live-TV™ Official",Live-TV™ Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Official Streaming",Live-TV™
+http://tamilgo.com/api1cdn/dth/dth3.php?uid=RahulVala_6431028&id=a00x
+#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Movies
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Live-TV™ Official",Live-TV™ Sports
+#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Sports
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="Bangladesh",BTV (1)
@@ -1683,8 +1683,10 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.dishurdu.com/images/PK-Sports-Logo.png" group-title="Sports",PK Sports
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",Ptv Sports 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",Ptv Sports (1)
 https://live-kcs.cdnvideo.ru/shaamtv/superleag/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",Ptv Sports (2)
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png",S Cricket
 https://tivimateplaylists.live/scricketnn
@@ -2076,8 +2078,10 @@ http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="" group-title="English",RED HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="" group-title="English",Thrill
+#EXTINF:-1 tvg-logo="" group-title="English",Thrill (1)
 https://www.livedoomovies.com/02_Thrill_720p/chunklist.m3u8?Live-TV™
+#EXTINF:-1 tvg-logo="" group-title="English",Thrill (2)
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English",HBO Signature
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8?Live-TV™
