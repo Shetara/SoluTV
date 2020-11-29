@@ -586,7 +586,7 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Bangladesh",Channel T1 IPTV
 http://128.199.212.160/channelt1/1080/index.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Bangladesh",Torongo TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Bangladesh",Tarongo TV
 http://stream.telelivebd.com/Torongotv/Torongotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.qtvbangla.tv/wp-content/uploads/2019/09/Qtv-Logo-.png" group-title="Bangladesh",QTV Bangla
@@ -1766,11 +1766,7 @@ http://103.205.133.20/hls/ten3.m3u8
 http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2016/01/White_Vertical.png" group-title="Sports",Sony ESPN HD
-http://nodemaster.homelinux.com/ESPN-HD/mpegts?token=cOAOwU8SC2
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2016/01/White_Vertical.png" group-title="Sports",ESPN Brazil (1)
-http://189.91.128.150:5555/udp/227.10.20.81:1234
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2016/01/White_Vertical.png" group-title="Sports",ESPN Brazil (2)
-http://nodemaster.homelinux.com/ESPNBRASIL-HD/mpegts?token=cOAOwU8SC2
+
 
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/F1D_425x243.png" group-title="Sports",Fox Cricket HD
 https://tivimateplaylists.live/astroymcricketn
@@ -2555,6 +2551,100 @@ http://digitalxpress.gcdn.co/live1/beinfatafeathd/index.m3u8
 http://digitalxpress.gcdn.co/live1/beingourmet/index.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 1 Premiere" tvg-logo="https://media.elcinema.com/tvguide/1322_1.png" group-title="Bein(ترفيهية)",AR: beIN Movies 1 Premiere
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 2 HD" tvg-logo="https://media.elcinema.com/tvguide/1323_1.png" group-title="Bein(ترفيهية)",AR: beIN Movies 2 HD
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 3 HD" tvg-logo="https://media.elcinema.com/tvguide/1324_1.png" group-title="Bein(ترفيهية)",AR: beIN Movies 3 HD
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 Family" tvg-logo="https://media.elcinema.com/tvguide/1325_1.png" group-title="Bein(ترفيهية)",AR: beIN Movies 4 Family
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11849134/16x9/947/533/ce7b6d3a188810bc716b13e436ed1c8/Wc/bein-sports-max.png" group-title="Bein(ترفيهية)",bein sports max 1
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/16/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/12992756/16x9/947/533/61cb993fb3007f35fa56cf932a20cfe0/Yv/bein-sports-max-2.png" group-title="Bein(ترفيهية)",bein sports max 2
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/29/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg" group-title="Bein(ترفيهية)",bein spor haber
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/11/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Bein(ترفيهية)",nba tv
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/57/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",s sport
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/58/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",s sport 2
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/59/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",smart spor
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/60/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",Tivibuspor 3
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/63/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",Skysport formula 1
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/1/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",eurosport 2
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/36/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",gstv
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/39/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",trt spor 2
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/100/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",bein gurme
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/10/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",bein iz
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/12/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",Animal Planet
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/3/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",bbc earth
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/6/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",history
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/40/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",discovery
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/32/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",discovery idx
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/41/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",discovery science
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/33/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",nat geo wild
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/55/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",nat geo 
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/56/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",viasat history
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/64/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",baby tv
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/5/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1326_1.png" group-title="Bein(ترفيهية)",bein box office 1
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/7/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_BOX_OFFICE_2.png" group-title="Bein(ترفيهية)",bein box office 2
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/8/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_BOX_OFFICE_3.png" group-title="Bein(ترفيهية)",bein box office 3
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/9/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1323_1.png" group-title="Bein(ترفيهية)",bein movies action
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/13/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1325_1.png" group-title="Bein(ترفيهية)",bein movies family
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/15/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",moviesmart premium 2
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/17/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_MOVIES_STARS.png" group-title="Bein(ترفيهية)",bein movies stars
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/18/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://www.izle9.com/uploads/icerik/23257wVk72JPuxdDMEmsXWYo8mnTB8fdCWEum0fTPxR0y.png" group-title="Bein(ترفيهية)",bein movies turk
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/19/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-comedy-logo.png" group-title="Bein(ترفيهية)",bein series comedy
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/20/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://www.hadarasport.com/wp-content/uploads/2018/05/bein-prem2.gif" group-title="Bein(ترفيهية)",bein movies action 2
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/21/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgyukle.com/2019/12/27/VQzIQI.png" group-title="Bein(ترفيهية)",bein series vice
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/23/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://www.uydufrekans.com/images/sinematvaksiyon.png" group-title="Bein(ترفيهية)",Sinema aksiyon
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/2/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",Animasyon
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/4/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",corona virus canlı 
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/31/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=173" group-title="Bein(ترفيهية)",sinema aksiyon 2
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/44/naxi/caxi.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Bein(ترفيهية)",|best|BEINSPORTS 1 ʰᵈ
 http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/350.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Bein(ترفيهية)",|best|BEINSPORTS 2 ʰᵈ
@@ -2579,14 +2669,6 @@ http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/359.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 1 Premiere" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 1 Premiere
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 2 HD
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 3 HD
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 4 Family
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
 
 
 
@@ -2840,13 +2922,13 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",Sangeet Bangla (1)
 http://master.beeiptv.com:8081/MB/sangeetbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",Sangeet Bangla (2)
-http://103.205.133.50/hls/sangeetbangla.m3u8
+http://103.205.133.20/hls/sangeetbangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Dhoom Music
 https://load.airtelxstream.in/dhoommusic/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",9xM (1)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="" group-title="Music",9xM (2)
-http://103.205.133.50/hls/9xm.m3u8
+http://103.205.133.20/hls/9xm.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="" group-title="Music",Music Mastii
