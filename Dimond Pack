@@ -816,7 +816,7 @@ http://198.255.87.59:8080/INDIA_HINDI/STAR_GOLD_SELECT_HD/tracks-v1a1/mono.m3u8?
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/73770383.cms" group-title="IND HINDI",Star Gold 2
-https://tivimateplaylists.live/sg250fps
+http://bdvisioniptv.ddns.net:25461/Syed/Syed/783
 
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/105614-image24.jpg" group-title="IND HINDI",Star World
 
@@ -1145,7 +1145,7 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/2136-And_TV_HD.png" group-title="IND HINDI",&tv HD (2)
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/2136-And_TV_HD.png" group-title="IND HINDI",&tv HD (3)
-https://load.airtelxstream.in/tvhd/smil:common.smil/index.m3u8
+http://103.135.208.14:8082/74/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/2136-And_TV_HD.png" group-title="IND HINDI",&tv HD (4)
 http://bdvisioniptv.ddns.net:25461/Syed/Syed/636
 
@@ -1198,7 +1198,7 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8?Live-TV�
 https://streamitv.multitvsolution.in/idvo/housefullmovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/amp_metadata_content_image_min_696px_wide/public/images/story/2011/12/01/UTV.jpg?itok=NVaX2Q5V" group-title="IND HINDI",Utv Action (1)
-http://45.249.187.238:8081/hls/tsl-7.m3u8?Live-TV™
+http://bdvisioniptv.ddns.net:25461/Syed/Syed/830
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/amp_metadata_content_image_min_696px_wide/public/images/story/2011/12/01/UTV.jpg?itok=NVaX2Q5V" group-title="IND HINDI",Utv Action (2)
 http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/amp_metadata_content_image_min_696px_wide/public/images/story/2011/12/01/UTV.jpg?itok=NVaX2Q5V" group-title="IND HINDI",Utv Action (3)
@@ -1818,6 +1818,8 @@ http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports",Star S 1 Sel. (4)
 http://istreamtv.xyz/api/isports/isports.php?id=1257
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports",Star S 1 Sel. (5)
+http://bdvisioniptv.ddns.net:25461/Syed/Syed/212
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (1)
 http://otv.ftpbd.net/streams/114/index.m3u8?Live-TV™
@@ -1829,6 +1831,8 @@ http://103.102.136.106:8080/cmcltv/livesports.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (5)
 http://istreamtv.xyz/api/isports/isports.php?id=1258
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (6)
+http://bdvisioniptv.ddns.net:25461/Syed/Syed/198
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
