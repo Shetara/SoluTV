@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Official Streaming",Live-TV™
-http://istreamtv.xyz/api/isports/isports.php?id=1259
+http://103.205.133.20/hls/btv.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Movies
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Sports
@@ -1781,6 +1781,8 @@ http://113.212.111.246:8080/hls/col2.m3u8
 http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
 #EXTINF:-1 tvg-logo="https://techstuffpro.com/wp-content/uploads/2020/09/SS1HD-2.jpg" group-title="Sports",Star Sports 1 (5)
 http://istreamtv.xyz/api/isports/isports.php?id=1256
+#EXTINF:-1 tvg-logo="https://techstuffpro.com/wp-content/uploads/2020/09/SS1HD-2.jpg" group-title="Sports",Star Sports 1 (6)
+http://bdvisioniptv.ddns.net:25461/Syed/Syed/661
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/technosports.co.in/wp-content/uploads/2020/10/timthumb.jpg?fit=620%2C350&ssl=1" group-title="Sports",Star Sports 1 Hindi (1)
 http://103.205.133.20/hls/chss1.m3u8
@@ -1803,6 +1805,9 @@ http://global.thunderbd.com/26/tracks-v1a1/mono.m3u8
 http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (5)
 http://istreamtv.xyz/api/isports/isports.php?id=1262
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (6)
+http://bdvisioniptv.ddns.net:25461/Syed/Syed/200
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112" group-title="Sports",Star Sports 3
 http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/tracks-v1a1/mono.m3u8?token=Live-TV™.live
@@ -1846,8 +1851,11 @@ http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjEGlmlRlgpSF6zn3RdwHAlR4LgckyXnhWPYIPH=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Geo Super (2)
 http://dx3.gcdn.co/GEOSUPER/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (1)
 http://istreamtv.xyz/api/isports/isports.php?id=1259
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (2)
+http://bdvisioniptv.ddns.net:25461/Syed/Syed/107
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRS1KOa5Etrq8YBSpdqpSXxdsUzZtnI0JGOQ&usqp=CAU" group-title="Sports",Willow Extra
 http://istreamtv.xyz/api/isports/isports.php?id=1260
@@ -2810,8 +2818,10 @@ http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b110
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="" group-title="Kids",CARTOON NETWORK IND
+#EXTINF:-1 tvg-logo="" group-title="Kids",CARTOON NETWORK IND (1)
 http://otv.ftpbd.net/streams/123/index.m3u8?Live-TV™
+#EXTINF:-1 tvg-logo="" group-title="Kids",CARTOON NETWORK IND (2)
+http://bdvisioniptv.ddns.net:25461/Syed/Syed/148
 #EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",CN Arabic
@@ -2821,13 +2831,13 @@ http://otv.ftpbd.net/streams/122/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY (2)
 http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel
-http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/50129
+http://bdvisioniptv.ddns.net:25461/Syed/Syed/111
 #EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY jr.
 http://79.137.41.99/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICK BAN
-https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_nickelodeonPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+http://bdvisioniptv.ddns.net:25461/Syed/Syed/201
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICK (1)
 http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICK (2)
@@ -2848,6 +2858,8 @@ https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?Live-TV™
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Sony YAY (2)
 https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8?@asfaiptv
+#EXTINF:-1 tvg-logo="" group-title="Kids",Sony YAY (3)
+http://bdvisioniptv.ddns.net:25461/Syed/Syed/734
 #EXTINF:-1 tvg-logo="" group-title="Kids",POGO (1)
 http://dx3.gcdn.co/kids-POGO/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",POGO (2)
