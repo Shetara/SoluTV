@@ -2857,7 +2857,8 @@ https://tivimateplaylists.live/smrukds
 http://otv.ftpbd.net/streams/123/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",CARTOON NETWORK IND (2)
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist.m3u8
-#https://tivimateplaylists.rocks/CARTOONNETWORKjpp
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",CARTOON NETWORK IND (3)
+https://tivimateplaylists.rocks/CARTOONNETWORKjpp
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN Plus
