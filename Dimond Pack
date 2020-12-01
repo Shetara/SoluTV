@@ -1795,7 +1795,7 @@ http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
 https://tivimateplaylists.live/astroymcricketn
 
 #EXTINF:-1 tvg-logo="https://techstuffpro.com/wp-content/uploads/2020/09/SS1HD-2.jpg" group-title="Sports",Star Sports 1 (1)
-http://113.212.111.246:8080/hls/col30.m3u8
+https://ccntv.anytv.live/starsp1/index.m3u8
 #EXTINF:-1 tvg-logo="https://techstuffpro.com/wp-content/uploads/2020/09/SS1HD-2.jpg" group-title="Sports",Star Sports 1 (2)
 http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1 tvg-logo="https://techstuffpro.com/wp-content/uploads/2020/09/SS1HD-2.jpg" group-title="Sports",Star Sports 1 (3)
@@ -1806,6 +1806,8 @@ http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
 http://istreamtv.xyz/api/isports/isports.php?id=1256
 #EXTINF:-1 tvg-logo="https://techstuffpro.com/wp-content/uploads/2020/09/SS1HD-2.jpg" group-title="Sports",Star Sports 1 (6)
 https://tivimateplaylists.live/star-sports-1-testingn
+#EXTINF:-1 tvg-logo="https://techstuffpro.com/wp-content/uploads/2020/09/SS1HD-2.jpg" group-title="Sports",Star Sports 1 (6)
+http://113.212.111.246:8080/hls/col30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/technosports.co.in/wp-content/uploads/2020/10/timthumb.jpg?fit=620%2C350&ssl=1" group-title="Sports",Star Sports 1 Hindi (1)
 http://103.205.133.20/hls/chss1.m3u8
@@ -1821,7 +1823,7 @@ https://tivimateplaylists.live/starsportstamilLLLLLL
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (1)
 http://otv.ftpbd.net/streams/116/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (2)
-http://103.205.133.20/hls/chss2.m3u8
+https://ccntv.anytv.live/starsp2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (3)
 http://global.thunderbd.com/26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (4)
@@ -1830,6 +1832,8 @@ http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8
 http://istreamtv.xyz/api/isports/isports.php?id=1262
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (6)
 https://tivimateplaylists.live/star-sports-2-testingn
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (2)
+http://103.205.133.20/hls/chss2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112" group-title="Sports",Star Sports 3
@@ -2876,7 +2880,7 @@ https://tivimateplaylists.live/disney-international
 #EXTINF:-1 tvg-logo="" group-title="Kids",KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICK BAN
-http://bdvisioniptv.ddns.net:25461/Syed/Syed/201
+http://stm.aklivetv.com:8080/nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICK (1)
 http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",NICK (2)
@@ -2884,7 +2888,7 @@ http://aklivetv.com:8080/nick/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="Kids",NICK HD+
 https://tivimateplaylists.live/nikjr50fps
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",NICK Sonic
-http://stm.aklivetv.com:8080/nick/tracks-v1a1/mono.m3u8
+https://ccntv.anytv.live/nick/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Nickelodeon
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids",NICK Jr. (1)
