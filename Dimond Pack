@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Official Streaming",Live-TV™
-http://otv.ftpbd.net/streams/108/index.m3u8
-#http://istreamtv.xyz/api/isports/isports.php?id=1259
+https://z5ams.akamaized.net/out/v1/81b68c3858bf4481ad93679fd4253cf6/hdntl=exp=1607017279~acl=%2f*~data=hdntl~hmac=b32a1b00c7664abff36f7e77b08b228dfc78e9216497b4053f22855bbbb78d2b/index_26.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Movies
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Sports
