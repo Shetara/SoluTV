@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Official Streaming",Live-TV™
-https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
+http://otv.ftpbd.net/streams/108/index.m3u8
 #http://istreamtv.xyz/api/isports/isports.php?id=1259
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Movies
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
@@ -1152,7 +1152,7 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/2136-And_TV_HD.png" group-title="IND HINDI",&tv HD (2)
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/2136-And_TV_HD.png" group-title="IND HINDI",&tv HD (3)
-http://103.135.208.14:8082/74/index.m3u8
+https://liveanevia.mncnow.id/live/eds/AndTV/sa_dash_vmx/AndTV.mpd
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/2136-And_TV_HD.png" group-title="IND HINDI",&tv HD (4)
 http://156.146.43.241:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=Live-TV™.live
 
@@ -1870,7 +1870,7 @@ http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?tok
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (1)
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (2)
-http://otv.ftpbd.net/streams/108/index.m3u8
+https://rhridoy136.shortcm.li/titashsports.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (3)
 http://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
 
@@ -1953,29 +1953,29 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8?Live-TV™
 
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 1 HD
-http://ydv2wp0o6ma.atrbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
+http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45282
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 2 HD
-http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/258
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/2
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 3 HD
-http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1758
+http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45288
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 4 HD
-http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/260
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/4
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 5 HD
-http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1760
+http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45307
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 6 HD
-http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1761
+http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45298
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 7 HD
-http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1762
+http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45301
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 8 HD
-http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1780
+http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45304
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 9 HD
-http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1764
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/9
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 10 HD
-http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1765
+http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45310
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 11 HD
-http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1543
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/14
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.logolynx.com/images/logolynx/ec/ec8ec7f6ad6e6ee5dab88ea49978e15b.png",Bein 13 IPL
-https://tivimateplaylists.live/bein13-newn
+http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/17
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://1.bp.blogspot.com/-Ef7FxZ3bcqo/XrqC9QpNUtI/AAAAAAAAC18/-PixYJS18vk9l8vWxOqdQCl47C1h7P81wCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BCricket.jpg",Sky Cricket
 http://dx4.gcdn.co/UK1302/index.m3u8
