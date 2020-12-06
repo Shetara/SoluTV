@@ -700,14 +700,14 @@ https://load.airtelxstream.in/kanaknews/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND BAN",Star Jalsha (1)
 http://103.205.133.20/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND BAN",Star Jalsha (2)
-http://master.beeiptv.com:8081/colorsiptv/starjalsha/playlist.m3u8
+http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND BAN",Star Jalsha (3)
 https://ccntv.anytv.live/starjalsha/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-jalsha-hd-logo-300x300.jpg" group-title="IND BAN",Star Jalsha HD (1)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-jalsha-hd-logo-300x300.jpg" group-title="IND BAN",Star Jalsha HD (2)
-http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
+http://156.146.43.241:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=Live-TV™.live
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-jalsha-hd-logo-300x300.jpg" group-title="IND BAN",Star Jalsha HD (3)
 http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
 
@@ -720,7 +720,7 @@ http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg" group-title="IND BAN",Jalsha Movies HD (1)
 http://global.thunderbd.com/31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg" group-title="IND BAN",Jalsha Movies HD (2)
-http://master.beeiptv.com:8081/colorsiptv/starjalshamovies/playlist.m3u8
+http://156.146.43.241:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=Live-TV™.live
 
 #EXTINF:-1 group-title="IND HINDI" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav
 http://dx3.gcdn.co/hindi-STARUTSAVHD/index.m3u8
@@ -827,7 +827,7 @@ http://bdvisioniptv.ddns.net:25461/Syed/Syed/783
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/105614-image24.jpg" group-title="IND HINDI",Star World
 
 #EXTINF:-1 tvg-logo="https://tvwish.com/img/channel/55.jpg" group-title="IND HINDI",STAR WORLD HD
-http://digitalxpress.gcdn.co/live1/OSNSTARWORLD/index.m3u8
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4862
 
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/colors-bangla.png" group-title="IND BAN",Colors Bangla (1)
 http://103.205.133.20/hls/etvbangla.m3u8
@@ -896,7 +896,7 @@ http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/Zee_Bangla_HD_Logo.jpg" group-title="IND BAN",Zee Bangla HD (4)
 http://master.beeiptv.com:8081/colorsiptv/zeebangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/Zee_Bangla_HD_Logo.jpg" group-title="IND BAN",Zee Bangla HD (5)
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
+http://156.146.43.241:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=Live-TV™.live
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1210849260477894657/WVb9De1_.jpg" group-title="IND BAN",Zee Bangla Cinema (1)
 http://103.141.66.36/bpk-tv/10263/default/index.m3u8?Live-TV™
@@ -961,6 +961,8 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngJ85N_BmQZeKKs9bDgEJfIE_A5cquHw-eRJRPWgg=s900-c-k-c0x00ffffff-no-rj" group-title="IND HINDI",Zee Cafe
 https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png",Zee Cafe HD
+http://156.146.43.241:2200/R-EX/ENGLISH_ZEE_CAFE_HD-in/index.m3u8?token=Live-TV™.live
 
 #EXTINF:-1 tvg-logo="https://bdtv.live/new/uploads/tv_image/zee-cafe-hd.jpg" group-title="IND HINDI",Zee Cafe HD (1)
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
@@ -1050,7 +1052,7 @@ https://ccntv.anytv.live/sonyaath/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="IND HINDI",Sony Pix
 http://45.249.187.238:8081/hls/new21.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_929/PORTRAIT/gXP7mJt1.png" group-title="IND HINDI",Sony Pix HD
-https:\\ott.bingebd.com\live\ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_pixPQRT_98sdfhs0_f36erxty_forsgst63_DH\chunklist_b6850950.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_SONY_PIX_HD-in/tracks-v1a1/mono.m3u8?token=Live-TV™.live
 
 #EXTINF:-1 tvg-logo="https://leadsdubai.com/wp-content/uploads/Sony-TV-Ads.jpg" group-title="IND HINDI",Sony Intertenment (1)
 http://103.205.133.20/hls/chs.m3u8?Live-TV™
@@ -1074,7 +1076,7 @@ http://106.0.54.6:8080/hls/tcm_sonymax_cm_ip.m3u8
 https://ccntv.anytv.live/sonymax/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-CEEISoMPHi8/XrIzXm0b14I/AAAAAAAAMxc/NyBp_iGgZzsItEOCb13oUnmvRshpEPlvACLcBGAsYHQ/s1600/IMG_20200506_091351.jpg" group-title="IND HINDI",Sony Max HD
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
+http://208.115.215.42/Sony_Max_HD/track-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thedigitalhash.com/wp-content/uploads/2020/07/oggB1WhH.png" group-title="IND HINDI",Sony Max 2 (1)
 https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
@@ -1291,12 +1293,14 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="IND HINDI",Paramount HD
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/FOX-HD.png" group-title="IND HINDI",Fox
-https://chama.ml/channelgratisan-FOX
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/z1x8j5OWyBbl7YNLeJUK3uKn5B4=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/219201/fox-crime-035db1.jpg" group-title="IND HINDI",Fox Crime (1)
 http://194.54.183.122:8000/play/a01m
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/z1x8j5OWyBbl7YNLeJUK3uKn5B4=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/219201/fox-crime-035db1.jpg" group-title="IND HINDI",Fox Crime (2)
 http://136.243.177.164/FOXCRIME/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="IND HINDI",Bollywood TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="IND HINDI",Manoranjan Tv
 https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8?Live-TV™
 
@@ -1310,7 +1314,7 @@ http://103.204.164.136:1935/live/smil:careworld.smil/playlist.m3u8?Live-TV™
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="IND HINDI",STAR WORLD HD
-http://198.255.87.59:8080/INDIA_ENGLISH/STAR_WORLD_HD/tracks-v1a1/mono.m3u8?token=test
+http://156.146.43.241:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=Live-TV™.live
 
 #EXTINF:-1 tvg-logo="https://b4uplus.com/images/logo.png" group-title="IND HINDI",B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
@@ -1771,7 +1775,7 @@ http://otv.ftpbd.net/streams/106/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD (2)
 https://rhridoy136.shortcm.li/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD (3)
-https://load.airtelxstream.in/sonysixhd/smil:common.smil/chunklist.m3u8
+http://156.146.43.241:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/mono.m3u8?token=Live-TV™.live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD (4)
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 
@@ -1862,7 +1866,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports",Star S 1 Sel. (4)
 https://rhridoy136.shortcm.li/starsportsselect1hd.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports",Star S 1 Sel. (5)
-http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=Live-TV™.live
+http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=Live-TV™.live
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (1)
 http://otv.ftpbd.net/streams/114/index.m3u8?Live-TV™
@@ -2340,7 +2344,7 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 http://45.249.187.238:8081/hls/new13.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="" group-title="English",Star Movies SD
-http://45.249.187.238:8081/hls/tsl-8.m3u8?Live-TV™
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4861
 #EXTINF:-1 tvg-logo="" group-title="English",Star Movies HD
 http://otv.ftpbd.net/streams/125/index.m3u8
 
