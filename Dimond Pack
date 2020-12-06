@@ -1618,8 +1618,10 @@ http://156.146.43.241:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=Live-TV�
 http://156.146.43.241:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=Live-TV™.live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/StarSuvarnaLogo.jpg" group-title="IND TA+TE",STAR SUVARNA
 http://89.187.169.203:2200/R-EX/KANNADA_STAR_SUVARNA_HD-in/tracks-v1a1/mono.m3u8?token=Live-TV™.live
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngnCsyxEU0Q55ltYo7o3143D2plIzbPS0JuRbNpy8w=s900-c-k-c0x00ffffff-no-rj" group-title="IND TA+TE",STAR VIJAY HD
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngnCsyxEU0Q55ltYo7o3143D2plIzbPS0JuRbNpy8w=s900-c-k-c0x00ffffff-no-rj" group-title="IND TA+TE",STAR VIJAY HD (1)
 http://156.146.43.241:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=Live-TV™.live
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngnCsyxEU0Q55ltYo7o3143D2plIzbPS0JuRbNpy8w=s900-c-k-c0x00ffffff-no-rj" group-title="IND TA+TE",STAR VIJAY HD (2)
+http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IND TA+TE" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png",Sai TV
 http://156.146.43.241:2200/R-EX/TELUGU_GEMINI_NEWS-in/index.m3u8?token=Live-TV™.live
 
