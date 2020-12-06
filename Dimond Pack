@@ -1,3 +1,20 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Solaiman514 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+Solaiman514
+/
+Live-TV-
+Private
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Official Streaming",Live-TV™
@@ -7,6 +24,9 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/corona/corona.isml/corona-audio_208
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Sports
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="Bangladesh",BTV (1)
 http://103.205.133.20/hls/btv.m3u8?Live-TV™
@@ -1778,6 +1798,8 @@ https://rhridoy136.shortcm.li/sonysix.m3u8
 http://156.146.43.241:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/mono.m3u8?token=Live-TV™.live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD (4)
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD (5)
+http://103.135.208.14:8082/24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-1-logopedia-fandom-sony-ten-2-png-650_390.jpg" group-title="Sports",Sony Ten 1 HD (1)
 https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
@@ -1884,9 +1906,10 @@ http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?tok
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (1)
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (2)
-https://rhridoy136.shortcm.li/titashsports.m3u8
+https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (3)
-http://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
+http://10.16.100.207:8082/sports/sportst.m3u8
+#http://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjEGlmlRlgpSF6zn3RdwHAlR4LgckyXnhWPYIPH=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Geo Super (1)
@@ -2899,31 +2922,31 @@ http://79.137.41.99/DisneyChannel/index.m3u8
 http://156.146.43.241:2200/R-EX/KIDS_DISNEY_XD-in/index.m3u8?token=Live-TV™.live
 #EXTINF:-1 group-title="Kids" tvg-logo="https://exchange4media.gumlet.io/news-photo/1507190484_3cwE4C_big.jpg",Disney International HD
 http://156.146.43.241:2200/R-EX/KIDS_DISNEY_INTERNATIONAL_HD-in/index.m3u8?token=Live-TV™.live
-#EXTINF:-1 tvg-logo="" group-title="Kids",KETNET JUNIOR
+#EXTINF:-1 tvg-logo="https://www.ketnet.be/sites/default/files/image/article/juniorlog.jpg" group-title="Kids",KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",NICK BAN
+#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2020/11/95/5fb6e2694684a.png" group-title="Kids",NICK BAN
 http://stm.aklivetv.com:8080/nick/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",NICK (1)
+#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2020/11/95/5fb6e2694684a.png" group-title="Kids",NICK (1)
 http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",NICK (2)
+#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2020/11/95/5fb6e2694684a.png" group-title="Kids",NICK (2)
 http://aklivetv.com:8080/nick/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="Kids",NICK HD+
 https://tivimateplaylists.live/nikjr50fps
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",NICK Sonic
 https://ccntv.anytv.live/nick/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",Nickelodeon (1)
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000039210000/PORTRAIT/oilcCZz8.png" group-title="Kids",Nickelodeon (1)
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",Nickelodeon (2)
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000039210000/PORTRAIT/oilcCZz8.png" group-title="Kids",Nickelodeon (2)
 http://136.243.177.164/NICKELODEON/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids",NICK Jr. (1)
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids",NICK Jr. (2)
 http://dx3.gcdn.co/kids-NICKJR/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.pn" group-title="Kids",Discovery Kids (1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids (1)
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.pn" group-title="Kids",Discovery Kids (2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids (2)
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.pn" group-title="Kids",Discovery Kids (3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids (3)
 http://streamitv.multitvsolution.in/idvo/discoverykidseng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png" group-title="Kids",Sony YAY (1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
@@ -2931,15 +2954,15 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
 https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8?@asfaiptv
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png" group-title="Kids",Sony YAY (3)
 http://bdvisioniptv.ddns.net:25461/Syed/Syed/734
-#EXTINF:-1 tvg-logo="" group-title="Kids",POGO (1)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="Kids",POGO (1)
 http://dx3.gcdn.co/kids-POGO/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",POGO (2)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="Kids",POGO (2)
 https://tivimateplaylists.live/pog50fps
 #EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/75195424.cms" group-title="Kids",ZEE5 Kids
 https://dx3.gcdn.co/kids-HUNGAMATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/1200px-CBeebies.png" group-title="Kids",BBC Cbeebies
 http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-logo="" group-title="Kids",Disney XD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/694100068643790848/rOXHdCy-_400x400.png" group-title="Kids",Disney XD
 https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="Kids",ANIMAX (1)
@@ -2950,35 +2973,33 @@ http://210.210.155.35/dr9445/h/h144/01.m3u8
 https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
 
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",AniPlus
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="Kids",AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="" group-title="Kids",Spacetoon
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Kids",Spacetoon
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?Live-TV™
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Pop_logo_red_it_0.png",POP
 http://92.246.85.106:8000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",3ABN KIDS TV
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.jpg" group-title="Kids",3ABN KIDS TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="" group-title="Kids",karusel TV
+#EXTINF:-1 tvg-logo="https://www.thematv.com/medias/channels/karusel-tv/Logo_Carousel.jpg" group-title="Kids",karusel TV
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_KARUSEL/variant.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="" group-title="Kids",EBS KIDS
+#EXTINF:-1 tvg-logo="https://www.kctvjeju.com/images/product/vod/ebs_kids.png" group-title="Kids",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="" group-title="Kids",TCT Kids
+#EXTINF:-1 tvg-logo="https://vhx.imgix.net/tctkids/assets/47e7ce05-2b79-4c91-84aa-ac851214a07f-54bbabfc.png?auto=format%2Ccompress&fit=crop&h=720&w=1280" group-title="Kids",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="" group-title="Kids",SPACETOON KIDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Kids",SPACETOON KIDS
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="" group-title="Kids",TRT Cocuk
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniKvLWthPa5o1TYobGTsmNZI-qKHIJy4zyq382n_A=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",TRT Cocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",GEM Kids
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemkids.png?14" group-title="Kids",GEM Kids
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",PBS KIDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png" group-title="Kids",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="" group-title="Kids",Ketnet Junior
-http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",CARTOON RETRO
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/65/8e/8f/658e8f4f4a5ace089f8624a68c9a0bae.jpg" group-title="Kids",CARTOON RETRO
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",Da Vinci
+#EXTINF:-1 tvg-logo="https://dijitalmedyavecocuk.bilgi.edu.tr/wp-content/uploads/2020/04/da-vinci-ba%C5%9Fl%C4%B1k-g%C3%B6rseli.png" group-title="Kids",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="Kids", Tom & Jerry
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/tomandjerry/images/a/af/Bandicam_2019-11-01_09-13-40-754.png/revision/latest/top-crop/width/360/height/360?cb=20191101201546" group-title="Kids",Tom & Jerry
 http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and.the.Chocolate.Factory.2017.720p.WEB-DL.TR.mkv
 
 
