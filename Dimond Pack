@@ -117,7 +117,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/d9/d1/b2d9d1a4dd594c8f0bedfaf9f6a95b2c.jpg" group-title="Bangladesh",DESH TV (2)
 http://103.141.66.36/bpk-tv/10038/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/d9/d1/b2d9d1a4dd594c8f0bedfaf9f6a95b2c.jpg" group-title="Bangladesh",DESH TV (3)
-http://103.205.133.20/hls/deshtv.m3u8
+http://103.205.133.48/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/d9/d1/b2d9d1a4dd594c8f0bedfaf9f6a95b2c.jpg" group-title="Bangladesh",DESH TV (4)
 https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshtv.stream/live-orgin/deshtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/d9/d1/b2d9d1a4dd594c8f0bedfaf9f6a95b2c.jpg" group-title="Bangladesh",DESH TV (5)
@@ -701,7 +701,7 @@ https://load.airtelxstream.in/kanaknews/smil:common.smil/chunklist.m3u8
                                             
                                             
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND BAN",Star Jalsha (1)
-http://103.205.133.20/hls/chsj.m3u8
+http://103.205.133.48/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND BAN",Star Jalsha (2)
 http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND BAN",Star Jalsha (3)
@@ -1841,7 +1841,7 @@ http://istreamtv.xyz/api/isports/isports.php?id=1256
 http://113.212.111.246:8080/hls/col30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/technosports.co.in/wp-content/uploads/2020/10/timthumb.jpg?fit=620%2C350&ssl=1" group-title="Sports",Star Sports 1 Hindi (1)
-http://103.205.133.20/hls/chss1.m3u8
+http://103.205.133.48/hls/chss1.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/technosports.co.in/wp-content/uploads/2020/10/timthumb.jpg?fit=620%2C350&ssl=1" group-title="Sports",Star Sports 1 Hindi (2)
 http://dx3.gcdn.co/STARSPORTS3/index.m3u8
 
@@ -1860,7 +1860,7 @@ http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (5)
 http://istreamtv.xyz/api/isports/isports.php?id=1262
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (6)
-http://103.205.133.20/hls/chss2.m3u8
+http://103.205.133.48/hls/chss2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112" group-title="Sports",Star Sports 3
@@ -3038,8 +3038,10 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://master.beeiptv.com:8081/MB/sangeetbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",Sangeet Bangla (2)
 http://103.205.133.20/hls/sangeetbangla.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",Dhoom Music
+#EXTINF:-1 tvg-logo="" group-title="Music",Dhoom Music (1)
 https://load.airtelxstream.in/dhoommusic/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Dhoom Music (2)
+http://103.205.133.48/hls/dhoommusic.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",9xM (1)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="" group-title="Music",9xM (2)
