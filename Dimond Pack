@@ -11,7 +11,6 @@ http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="Bangladesh",BTV (1)
 http://103.205.133.20/hls/btv.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="Bangladesh",BTV (2)
@@ -1079,8 +1078,10 @@ http://106.0.54.6:8080/hls/tcm_sonymax_cm_ip.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/07/27/sony.jpg" group-title="IND HINDI",Sony Max (5)
 https://ccntv.anytv.live/sonymax/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-CEEISoMPHi8/XrIzXm0b14I/AAAAAAAAMxc/NyBp_iGgZzsItEOCb13oUnmvRshpEPlvACLcBGAsYHQ/s1600/IMG_20200506_091351.jpg" group-title="IND HINDI",Sony Max HD
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-CEEISoMPHi8/XrIzXm0b14I/AAAAAAAAMxc/NyBp_iGgZzsItEOCb13oUnmvRshpEPlvACLcBGAsYHQ/s1600/IMG_20200506_091351.jpg" group-title="IND HINDI",Sony Max HD (1)
 http://208.115.215.42/Sony_Max_HD/track-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-CEEISoMPHi8/XrIzXm0b14I/AAAAAAAAMxc/NyBp_iGgZzsItEOCb13oUnmvRshpEPlvACLcBGAsYHQ/s1600/IMG_20200506_091351.jpg" group-title="IND HINDI",Sony Max HD (2)
+http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thedigitalhash.com/wp-content/uploads/2020/07/oggB1WhH.png" group-title="IND HINDI",Sony Max 2 (1)
 https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
@@ -1898,7 +1899,8 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (3)
 http://10.16.100.207:8082/sports/sportst.m3u8
-#http://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (4)
+http://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjEGlmlRlgpSF6zn3RdwHAlR4LgckyXnhWPYIPH=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Geo Super (1)
