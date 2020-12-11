@@ -1102,7 +1102,8 @@ http://103.205.133.21/hls/andtv.m3u8
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/2136-And_TV_HD.png" group-title="IND हिंदी",&tv HD (1)
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
+https://watchindia.net:8443/live/04245/14504/782.m3u8
+#http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/2136-And_TV_HD.png" group-title="IND हिंदी",&tv HD (2)
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/2136-And_TV_HD.png" group-title="IND हिंदी",&tv HD (3)
