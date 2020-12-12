@@ -11,7 +11,6 @@ http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (1)
 http://103.205.133.20/hls/btv.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (2)
@@ -804,7 +803,7 @@ http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
 http://208.115.215.42/Colors_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.colorsmarathi.com/wp-content/uploads/2020/02/25140832/CM-Logo-without-Petal.png" group-title="IND हिंदी",COLORS MARATHI HD
-https://jiocdn.fun/jio/jiotv/livxXe.php?c=Jio_Football_Bangali_HD&q=1200&e=.m3u8
+https://watchindia.net:8443/live/04245/14504/2083.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="IND हिंदी",Colors Cineplex HD (1)
 https://wxca.cf/j/Colors_Cineplex_HD/master.m3u8?signature=71c563eadccd82f5b77c1591d7986d5c3c803709&unique=83d1402d58a19879145815c8257d9598
@@ -1101,7 +1100,7 @@ https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8?Live-TV™
 https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b0/bb/50/b0bb507caa0a22ef3b062f74f5482168.jpg" group-title="IND हिंदी",E24
-http://103.103.32.106:9981/stream/channelid/930958032
+https://watchindia.net:8443/live/04245/14504/829.m3u8
 
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla
 http://otv.ftpbd.net/streams/127/index.m3u8
@@ -1877,7 +1876,7 @@ https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD (1)
 http://otv.ftpbd.net/streams/106/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD (2)
-https://rhridoy136.shortcm.li/sonysix.m3u8
+https://watchindia.net:8443/live/04245/14504/2144.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD (3)
 http://156.146.43.241:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/mono.m3u8?token=Live-TV™.live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD (4)
@@ -1886,7 +1885,8 @@ http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 http://103.135.208.14:8082/24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-1-logopedia-fandom-sony-ten-2-png-650_390.jpg" group-title="Sports",Sony Ten 1 HD (1)
-https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
+https://watchindia.net:8443/live/04245/14504/1756.m3u8
+#https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-1-logopedia-fandom-sony-ten-2-png-650_390.jpg" group-title="Sports",Sony Ten 1 HD (2)
 https://rhridoy136.shortcm.li/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-1-logopedia-fandom-sony-ten-2-png-650_390.jpg" group-title="Sports",Sony Ten 1 HD (3)
@@ -1898,7 +1898,8 @@ http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tvwish.com/img/channel/154.jpg" group-title="Sports",Sony Ten 2 HD (1)
-https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
+https://watchindia.net:8443/live/04245/14504/1757.m3u8
+#https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tvwish.com/img/channel/154.jpg" group-title="Sports",Sony Ten 2 HD (2)
 http://otv.ftpbd.net/streams/112/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvwish.com/img/channel/154.jpg" group-title="Sports",Sony Ten 2 HD (3)
@@ -1907,7 +1908,8 @@ http://103.205.133.20/hls/ten2.m3u8
 http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-live-streaming-watch-online-sony-ten-png-810_456.png" group-title="Sports",Sony Ten 3 HD (1)
-https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
+https://watchindia.net:8443/live/04245/14504/1758.m3u8
+#https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-live-streaming-watch-online-sony-ten-png-810_456.png" group-title="Sports",Sony Ten 3 HD (2)
 https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-live-streaming-watch-online-sony-ten-png-810_456.png" group-title="Sports",Sony Ten 3 HD (3)
@@ -1930,12 +1932,13 @@ http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" group-title="Sports",Star Sports 1 (4)
 http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" group-title="Sports",Star Sports 1 (5)
-http://istreamtv.xyz/api/isports/isports.php?id=1256
+https://watchindia.net:8443/live/04245/14504/808.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" group-title="Sports",Star Sports 1 (6)
 http://113.212.111.246:8080/hls/col30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/technosports.co.in/wp-content/uploads/2020/10/timthumb.jpg?fit=620%2C350&ssl=1" group-title="Sports",Star Sports 1 Hindi (1)
-http://103.205.133.48/hls/chss1.m3u8
+https://watchindia.net:8443/live/04245/14504/1072.m3u8
+#http://103.205.133.48/hls/chss1.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/technosports.co.in/wp-content/uploads/2020/10/timthumb.jpg?fit=620%2C350&ssl=1" group-title="Sports",Star Sports 1 Hindi (2)
 http://dx3.gcdn.co/STARSPORTS3/index.m3u8
 
@@ -2003,7 +2006,8 @@ http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8?Live-TV™
 http://dx3.gcdn.co/GEOSUPER/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (1)
-http://istreamtv.xyz/api/isports/isports.php?id=1259
+https://watchindia.net:8443/live/04245/14504/1067.m3u8
+#http://istreamtv.xyz/api/isports/isports.php?id=1259
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (2)
 https://tivimateplaylists.live/willown
 
@@ -3029,7 +3033,7 @@ http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2020/11/95/5fb6e2694684a.png" group-title="Kids",NICK (2)
 http://aklivetv.com:8080/nick/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="Kids",NICK HD+
-https://tivimateplaylists.live/nikjr50fps
+http://156.146.43.241:2200/R-EX/KIDS_NICK_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=Live-TV™.live
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",NICK Sonic
 https://ccntv.anytv.live/nick/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000039210000/PORTRAIT/oilcCZz8.png" group-title="Kids",Nickelodeon (1)
@@ -3049,13 +3053,14 @@ http://streamitv.multitvsolution.in/idvo/discoverykidseng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png" group-title="Kids",Sony YAY (1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png" group-title="Kids",Sony YAY (2)
-https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8?@asfaiptv
+https://watchindia.net:8443/live/04245/14504/2104.m3u8
+#https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png" group-title="Kids",Sony YAY (3)
-http://bdvisioniptv.ddns.net:25461/Syed/Syed/734
+https://watchindia.net:8443/live/04245/14504/2126.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="Kids",POGO (1)
 http://dx3.gcdn.co/kids-POGO/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="Kids",POGO (2)
-https://tivimateplaylists.live/pog50fps
+http://156.146.43.241:2200/R-EX/HINDI_POGO_KIDS-in/tracks-v1a1/mono.m3u8?token=Live-TV™.live
 #EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/75195424.cms" group-title="Kids",ZEE5 Kids
 https://dx3.gcdn.co/kids-HUNGAMATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/1200px-CBeebies.png" group-title="Kids",BBC Cbeebies
