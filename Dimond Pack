@@ -10,7 +10,6 @@ http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (1)
 http://103.205.133.21/hls/btv.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (2)
@@ -2164,30 +2163,33 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8?Live-TV™
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8?Live-TV™
 
 
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 1 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45282
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 2 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/2
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 3 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45288
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 4 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/4
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 5 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45307
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 6 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45298
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 7 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45301
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 8 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45304
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 9 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/9
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 10 HD
-http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45310
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 11 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/14
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.logolynx.com/images/logolynx/ec/ec8ec7f6ad6e6ee5dab88ea49978e15b.png",Bein 13 IPL
-http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/17
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sports",Bein Sports 1 HD
+http://135.181.31.32/hls/bein1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sports",Bein Sports 2 HD
+http://135.181.31.32/hls/bein2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="Sports",Bein Sports 3 HD
+http://135.181.31.32/hls/bein3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="Sports",Bein Sports 4 HD
+http://135.181.31.32/hls/bein4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="Sports",Bein Sports 5 HD
+http://135.181.31.32/hls/bein5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RSKRsZ/HD6.png" group-title="Sports",Bein Sports 6 HD
+http://135.181.31.32/hls/bein6.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYfQFGh/HD7.png" group-title="Sports",Bein Sports 7 HD
+http://135.181.31.32/hls/bein7.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YXC7Wgy/HD8.png" group-title="Sports",Bein Sports 8 HD
+http://135.181.31.32/hls/bein8.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zX4TC60/HD9.png" group-title="Sports",Bein Sports 9 HD
+http://135.181.31.32/hls/bein9.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T8Gw0JT/HD10.png" group-title="Sports",Bein Sports 10 HD
+http://135.181.31.32/hls/bein10.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pPktm5R8tTQ/WpKWWzdKisI/AAAAAAAACM0/erJcZTuy4VMhDeNkravjGSk9UzdiPeZGgCLcBGAs/s1600/dz%2Bprokora%2Bkooora%2Bkora%2Byallashoot_11-HD.png" group-title="Sports",Bein Sports 11 HD
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/71491.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://1.bp.blogspot.com/-tex37P2mfps/WpKTtGSVQvI/AAAAAAAACMY/xRNKA-EvhoYMCGYSjqySnJU-5tVZXQL7wCLcBGAs/w320/dz%2Bprokora%2Bkooora%2Bkora%2Byallashoot_12-HD.png",Bein Sports 12 HD
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/1490.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.nadirsat.com/Packages_files/HD13-1.png",Bein Sports 13 HD
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/1489.m3u8
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://1.bp.blogspot.com/-Ef7FxZ3bcqo/XrqC9QpNUtI/AAAAAAAAC18/-PixYJS18vk9l8vWxOqdQCl47C1h7P81wCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BCricket.jpg",Sky Cricket
 http://dx4.gcdn.co/UK1302/index.m3u8
@@ -2215,6 +2217,30 @@ http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/de-skybundesliga.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-vector-logo-small.png",Sky Sports Racing
 http://160.119.77.116:8081/iptv/uk-attheraces.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sports",|best|BEINSPORTS 1 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/350.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sports",|best|BEINSPORTS 2 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/351.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="Sports",|best|BEINSPORTS 3 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/352.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="Sports",|best|BEINSPORTS 4 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/353.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="Sports",|best|BEINSPORTS 5 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/354.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RSKRsZ/HD6.png" group-title="Sports",|best|BEINSPORTS 6 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/355.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYfQFGh/HD7.png" group-title="Sports",|best|BEINSPORTS 7 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/356.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YXC7Wgy/HD8.png" group-title="Sports",|best|BEINSPORTS 8 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/357.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zX4TC60/HD9.png" group-title="Sports",|best|BEINSPORTS 9 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/358.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T8Gw0JT/HD10.png" group-title="Sports",|best|BEINSPORTS 10 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/359.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX SPORT 1 (1)
@@ -2770,183 +2796,10 @@ http://89.187.169.206:2200/EX/Sky_Cinema_Family_HD-uk/index.m3u8?token=Live-TV�
 #EXTINF: tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/73/184454.jpg" group-title="English",Sky Cinema Select
 http://89.187.169.206:2200/EX/Sky_Cinema_Select_HD-uk/index.m3u8?token=Live-TV™.live
 
-
-
-
-                                        ********Bein(ترفيهية)*******
-
-
-
-
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="Bein(ترفيهية)", |S1| OSN Ya Hala Cinma ʰᵈ
-http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f3/B4U_Aflam_Logo.png", group-title="Bein(ترفيهية)", |S1| B4u
-http://digitalxpress.gcdn.co/live1/OSNYAHALA/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2000px-WWE_Logo.svg.png", group-title="Bein(ترفيهية)" |S1| OSN WWE ʰᵈ
-http://dx3.gcdn.co/OSNWWE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="Bein(ترفيهية)", |S1| OSN kids
-http://digitalxpress.gcdn.co/live1/osnmoviesfirst/index.m3u8
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="Bein(ترفيهية)", |S1| OSN Movies ʰᵈ
-http://digitalxpress.gcdn.co/live1/osnmovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png" group-title="Bein(ترفيهية)", |S1| OSN: Star Movies
-http://digitalxpress.gcdn.co/live1/osnstarmovies/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1280px-Fox_Crime_2017.svg.png" group-title="Bein(ترفيهية)",|bp| MYHD: Fox Crime
-http://xtream.pro:8080/live/blackpearl-sat/fKA3dn44CN/4870.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1322_1.png" group-title="Bein(ترفيهية)", |S1| beIN Movies 1 ʰᵈ
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD1/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1323_1.png" group-title="Bein(ترفيهية)", |S1| beIN Movies 2 ʰᵈ
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1324_1.png" group-title="Bein(ترفيهية)", |S1| beIN Movies 3 ʰᵈ
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1325_1.png" group-title="Bein(ترفيهية)", |S1| beIN Movies 4 ʰᵈ
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1327_1.png" group-title="Bein(ترفيهية)", |S1| beIN Series 1 ʰᵈ
-http://digitalxpress.gcdn.co/live1/BEINSERIESHD1/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1328_1.png" group-title="Bein(ترفيهية)", |S1| beIN Series 2 ʰᵈ
-http://digitalxpress.gcdn.co/live1/BEINSERIESHD2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Bein(ترفيهية)", |S1| beIN Boomerang ʰᵈ
-http://digitalxpress.gcdn.co/live1/beinboomeranghd/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/Cartoon-Network-Arabic-1.png" group-title="Bein(ترفيهية)", |S1| beIN Cartoon Network ʰᵈ
-http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/The_logo_of_be_junior_TV_Channel.png" group-title="Bein(ترفيهية)", |S1| be junior
-http://digitalxpress.gcdn.co/live1/beinbejunior/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Baraem_new_logo.png/1200px-Baraem_new_logo.png" group-title="Bein(ترفيهية)", |S1| Braem
-http://digitalxpress.gcdn.co/live1/beinbaraem/index.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-KlQVgXlGIn8/XHhD6ntD6YI/AAAAAAAAIKU/gbcwwPfix9cc2Y22i-XxLLpBPjH1FY6hgCK4BGAYYCw/s1600/logo%2Bjeem%2Btv.png" group-title="Bein(ترفيهية)", |S1| Bein j
-http://digitalxpress.gcdn.co/live1/beinjeemhd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Bein(ترفيهية)", |S1| BEIN AMC ʰᵈ
-http://digitalxpress.gcdn.co/live1/BEINAMCHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/FATAFEAT-1.png" group-title="Bein(ترفيهية)", |S1| bein fatafeathd
-http://digitalxpress.gcdn.co/live1/beinfatafeathd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/Gourmet.png" group-title="Bein(ترفيهية)", |S1| bein Gourmet
-http://digitalxpress.gcdn.co/live1/beingourmet/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 1 Premiere" tvg-logo="https://media.elcinema.com/tvguide/1322_1.png" group-title="Bein(ترفيهية)",AR: beIN Movies 1 Premiere
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 2 HD" tvg-logo="https://media.elcinema.com/tvguide/1323_1.png" group-title="Bein(ترفيهية)",AR: beIN Movies 2 HD
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 3 HD" tvg-logo="https://media.elcinema.com/tvguide/1324_1.png" group-title="Bein(ترفيهية)",AR: beIN Movies 3 HD
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 Family" tvg-logo="https://media.elcinema.com/tvguide/1325_1.png" group-title="Bein(ترفيهية)",AR: beIN Movies 4 Family
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11849134/16x9/947/533/ce7b6d3a188810bc716b13e436ed1c8/Wc/bein-sports-max.png" group-title="Bein(ترفيهية)",bein sports max 1
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/16/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/12992756/16x9/947/533/61cb993fb3007f35fa56cf932a20cfe0/Yv/bein-sports-max-2.png" group-title="Bein(ترفيهية)",bein sports max 2
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/29/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg" group-title="Bein(ترفيهية)",bein spor haber
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/11/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Bein(ترفيهية)",nba tv
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/57/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",s sport
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/58/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",s sport 2
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/59/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",smart spor
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/60/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",Tivibuspor 3
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/63/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",Skysport formula 1
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/1/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",eurosport 2
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/36/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",gstv
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/39/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",trt spor 2
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/100/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",bein gurme
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/10/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",bein iz
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/12/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",Animal Planet
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/3/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",bbc earth
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/6/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",history
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/40/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",discovery
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/32/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",discovery idx
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/41/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",discovery science
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/33/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",nat geo wild
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/55/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",nat geo 
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/56/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",viasat history
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/64/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",baby tv
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/5/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1326_1.png" group-title="Bein(ترفيهية)",bein box office 1
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/7/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_BOX_OFFICE_2.png" group-title="Bein(ترفيهية)",bein box office 2
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/8/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_BOX_OFFICE_3.png" group-title="Bein(ترفيهية)",bein box office 3
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/9/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1323_1.png" group-title="Bein(ترفيهية)",bein movies action
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/13/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1325_1.png" group-title="Bein(ترفيهية)",bein movies family
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/15/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",moviesmart premium 2
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/17/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_MOVIES_STARS.png" group-title="Bein(ترفيهية)",bein movies stars
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/18/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://www.izle9.com/uploads/icerik/23257wVk72JPuxdDMEmsXWYo8mnTB8fdCWEum0fTPxR0y.png" group-title="Bein(ترفيهية)",bein movies turk
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/19/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-comedy-logo.png" group-title="Bein(ترفيهية)",bein series comedy
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/20/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://www.hadarasport.com/wp-content/uploads/2018/05/bein-prem2.gif" group-title="Bein(ترفيهية)",bein movies action 2
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/21/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgyukle.com/2019/12/27/VQzIQI.png" group-title="Bein(ترفيهية)",bein series vice
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/23/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://www.uydufrekans.com/images/sinematvaksiyon.png" group-title="Bein(ترفيهية)",Sinema aksiyon
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/2/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",Animasyon
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/4/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein(ترفيهية)",corona virus canlı 
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/31/naxi/caxi.m3u8
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=173" group-title="Bein(ترفيهية)",sinema aksiyon 2
-https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/44/naxi/caxi.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Bein(ترفيهية)",|best|BEINSPORTS 1 ʰᵈ
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/350.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Bein(ترفيهية)",|best|BEINSPORTS 2 ʰᵈ
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/351.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="Bein(ترفيهية)",|best|BEINSPORTS 3 ʰᵈ
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/352.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="Bein(ترفيهية)",|best|BEINSPORTS 4 ʰᵈ
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/353.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="Bein(ترفيهية)",|best|BEINSPORTS 5 ʰᵈ
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/354.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4RSKRsZ/HD6.png" group-title="Bein(ترفيهية)",|best|BEINSPORTS 6 ʰᵈ
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/355.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hYfQFGh/HD7.png" group-title="Bein(ترفيهية)",|best|BEINSPORTS 7 ʰᵈ
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/356.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YXC7Wgy/HD8.png" group-title="Bein(ترفيهية)",|best|BEINSPORTS 8 ʰᵈ
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/357.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zX4TC60/HD9.png" group-title="Bein(ترفيهية)",|best|BEINSPORTS 9 ʰᵈ
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/358.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T8Gw0JT/HD10.png" group-title="Bein(ترفيهية)",|best|BEINSPORTS 10 ʰᵈ
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/359.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7CEvBzPxqUOgwINekoyE281BTQxsFu8opxw&usqp=CAU" group-title="English",Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpqQmdRajh0w61GAiPsSdKUZDh8HTlLhwl8Q&usqp=CAU" group-title="English",Blue Ant Entertainment
+http://45.126.83.51/dr9445/h/h16/index.m3u8
 
 
 
