@@ -222,11 +222,8 @@ http://master.beeiptv.com:8081/LAW/zeebanglacinema/playlist.m3u8
 http://master.beeiptv.com:8081/LAW/starmovies/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Any-Tv", Discovery Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Any-Tv",Discovery Bangla
 https://khulnalive.anytv.live/discoverybangla/index.m3u8
-#https://ccntv.anytv.live/discoverybangla/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Any-Tv",Atn News
 https://khulnalive.anytv.live/atnnews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Any-Tv",Somoy
@@ -279,7 +276,6 @@ https://khulnalive.anytv.live/sonysab/index.m3u8
 https://khulnalive.anytv.live/ten1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Any-Tv",Aljazira
 https://khulnalive.anytv.live/alja/index.m3u8
-
 
 
 
@@ -357,7 +353,6 @@ http://10.16.100.201/hindi/cm_sonysix_hd.m3u8
 http://10.16.100.207:8082/sports/mtuness.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2MTTFmEKapIMaRlFFc72hg7rWdp-PuG4XFcNBymgrORZfiUTx&usqp=CAU" group-title="IPTV-1",9XM
 http://10.16.100.204/hls/9xm_720.m3u8
-
 
 
 
@@ -449,7 +444,6 @@ https://rhridoy136.shortcm.li/bbcworldnews.m3u8?Live-TV™
 https://rhridoy136.shortcm.li/foxlife.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="IPTV-2",Iqra Bangla TV
 https://rhridoy136.shortcm.li/iqrabangla.m3u8?Live-TV™
-
 
 
 
