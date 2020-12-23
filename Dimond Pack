@@ -774,7 +774,7 @@ https://botallen.live/t/244/master.m3u8?signature=99eebd2f3e16d5c6deb881f3ac881e
 http://103.146.55.212:8088/starbharat/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxXRbO9y2-zQOkFq_BcBlspqOX-pYz3V0Ms7fnhRg=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",Star Gold (1)
-http://185.246.210.52:2200/NL/stargold-uk/index.m3u8?token=Live-TV™.live
+http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/61789
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxXRbO9y2-zQOkFq_BcBlspqOX-pYz3V0Ms7fnhRg=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",Star Gold (2)
 http://dx3.gcdn.co/hindi-STARGOLD/index.m3u8
 
@@ -1088,9 +1088,9 @@ https://botallen.live/j/Sony_Max_HD/master.m3u8?signature=93063a95f6b086adca212c
 #EXTINF:-1 tvg-logo="https://www.thedigitalhash.com/wp-content/uploads/2020/07/oggB1WhH.png" group-title="IND हिंदी",Sony Max 2 (1)
 https://botallen.live/t/120/master.m3u8?signature=d2ac00218bb8ca1d9df820307bec17c885f3f566&unique=a3ea5fcf33888593d48cf58ec9420922
 #EXTINF:-1 tvg-logo="https://www.thedigitalhash.com/wp-content/uploads/2020/07/oggB1WhH.png" group-title="IND हिंदी",Sony Max 2 (2)
-http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
+http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.thedigitalhash.com/wp-content/uploads/2020/07/oggB1WhH.png" group-title="IND हिंदी",Sony Max 2 (3)
-http://89.187.169.206:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=
+http://77.166.114.98/scriptstar/mp.php/http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201901/sony-sab.jpg" group-title="IND हिंदी",Sony Sab (1)
 https://botallen.live/j/Sony_SAB/master.m3u8?signature=10f72fca69be468df5cdbf639f1156d414267b58&unique=383dc6ddcdd3b7166230423ea3b90f6e
