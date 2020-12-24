@@ -1438,9 +1438,9 @@ http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Jonack_logo.png/revision/latest/smart/width/200/height/200?cb=20191219100522" group-title="অসমীয়া",Jonack
 #https://load.airtelxstream.in/jonack/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/rang-tv-channel-logo-300x300.jpg" group-title="অসমীয়া",Rang TV Assam
-#https://load.airtelxstream.in/rang/smil:common.smil/chunklist.m3u8
+https://botallen.live/t/101/master.m3u8?signature=7c20cf2543805504aaa086e93cd03704e2ee0024&unique=383dc6ddcdd3b7166230423ea3b90f6e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTo2XXhXHYVwrXK6PuR8T8IfxLq53dIEnbPHw&usqp=CAU" group-title="অসমীয়া",Ramdhenu TV
-#https://load.airtelxstream.in/ramdhenu/smil:common.smil/chunklist.m3u8
+https://botallen.live/t/214/master.m3u8?signature=a620928418c2383f883fbf36202d2ef6a4477e27&unique=383dc6ddcdd3b7166230423ea3b90f6e
 #EXTINF:-1 tvg-logo="https://www.satiitv.com/wp-content/uploads/2020/08/ddassam.jpg" group-title="অসমীয়া",DD Assam
 #https://load.airtelxstream.in/ddnortheast/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Assam_Talks_logo.png" group-title="অসমীয়া",Assam Talk
@@ -1648,6 +1648,8 @@ http://89.187.169.203:2200/R-EX/KANNADA_STAR_SUVARNA_HD-in/tracks-v1a1/mono.m3u8
 http://156.146.43.241:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=Live-TV™.live
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngnCsyxEU0Q55ltYo7o3143D2plIzbPS0JuRbNpy8w=s900-c-k-c0x00ffffff-no-rj" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",STAR VIJAY HD (2)
 http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/JGqZMmnBSk.png",Gemini TV HD
+https://botallen.live/t/355/master.m3u8?signature=b7cf26fbf99598d8fd897469f127a8f6e4cece77&unique=383dc6ddcdd3b7166230423ea3b90f6e
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/CZaJijsFez.png",Gemini Movies HD
 https://botallen.live/t/362/master.m3u8?signature=0a9269bf5f26472ffefcce11bdff4004190de538&unique=a3ea5fcf33888593d48cf58ec9420922
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun TV SD
@@ -1666,6 +1668,8 @@ https://botallen.live/z/0-9-zeetelugu/master.m3u8?signature=c17f4dc97e68a4e7b5f4
 https://botallen.live/z/0-9-zeetamil/master.m3u8?signature=ea135a49e71db7628d042cd6e4b69f2b22e8cb3c&unique=a3ea5fcf33888593d48cf58ec9420922
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/z/zwrypSxCAh.png",Zee Picchar
 https://botallen.live/z/0-9-241/master.m3u8?signature=b22310a31d092dc8e9911bbd10d2c27023411d56&unique=a3ea5fcf33888593d48cf58ec9420922
+#EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/fkvGbgydOk.png",Zee Thirai
+https://botallen.live/t/797/master.m3u8?signature=67f126e7f1200e366fc744aae2785d770a080f02&unique=383dc6ddcdd3b7166230423ea3b90f6e
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-LFshxm0LCAo/WIyO8AFq_NI/AAAAAAAADP0/317sR41hbGw5qEP2eQEEY5Jdiwzp3Kx7gCLcB/s1600/1hd.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Asianet HD
 https://botallen.live/t/292/master.m3u8?signature=33a50e43ea3458e6ae8036f068192af2fcf5e759&unique=a3ea5fcf33888593d48cf58ec9420922
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/TpRBzTmKyy.png",Asianet Movies
@@ -3031,18 +3035,24 @@ https://botallen.live/t/144/master.m3u8?signature=d018beb027441849b9257bad281c64
 http://156.146.43.241:2200/R-EX/KIDS_DISNEY_INTERNATIONAL_HD-in/index.m3u8?token=Live-TV™.live
 #EXTINF:-1 tvg-logo="https://www.ketnet.be/sites/default/files/image/article/juniorlog.jpg" group-title="Kids",KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2020/11/95/5fb6e2694684a.png" group-title="Kids",NICK BAN
+#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2020/11/95/5fb6e2694684a.png" group-title="Kids",NICK Bangla
 http://stm.aklivetv.com:8080/nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2020/11/95/5fb6e2694684a.png" group-title="Kids",NICK Hindi
+https://botallen.live/j/Nick_Hindi/master.m3u8?signature=67407f1147ace9ce03a49af58afcce6fb12d1999&unique=383dc6ddcdd3b7166230423ea3b90f6e
+#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2020/11/95/5fb6e2694684a.png" group-title="Kids",NICK Telegu
+https://botallen.live/j/Nick_Telugu/master.m3u8?signature=cde07148f961b35b493dd0168e64054bbab84bce&unique=383dc6ddcdd3b7166230423ea3b90f6e
+#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2020/11/95/5fb6e2694684a.png" group-title="Kids",NICK Tamil
+#https://botallen.live/t/138/master.m3u8?signature=7f494fabd130c1b09cb5d1e409ce60ecd140883e&unique=a3ea5fcf33888593d48cf58ec9420922
 #EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2020/11/95/5fb6e2694684a.png" group-title="Kids",NICK (1)
 http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2020/11/95/5fb6e2694684a.png" group-title="Kids",NICK (2)
 http://103.146.55.212:8088/nick/tracks-v1a1/mono.m3u8
 #http://aklivetv.com:8080/nick/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2020/11/95/5fb6e2694684a.png" group-title="Kids",NICK Telegu
-https://botallen.live/t/138/master.m3u8?signature=7f494fabd130c1b09cb5d1e409ce60ecd140883e&unique=a3ea5fcf33888593d48cf58ec9420922
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="Kids",NICK HD+
 https://botallen.live/t/433/master.m3u8?signature=18b77d22bf84ded17be578e536c20cd9c7b9242e&unique=a3ea5fcf33888593d48cf58ec9420922
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",NICK Sonic (1)
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",NICK Sonic Hindi
+https://botallen.live/j/sonic_Hindi/master.m3u8?signature=4468a790fcd2f74454e71a471c57b1801cc8f4c6&unique=383dc6ddcdd3b7166230423ea3b90f6e
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",NICK Sonic 
 https://botallen.live/t/127/master.m3u8?signature=201b9931e7a5fbe2cc4c7ec88c25809e037cd0f2&unique=a3ea5fcf33888593d48cf58ec9420922
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",NICK Sonic (2)
 https://any.hitectv.live:4443/nick/tracks-v1a1/mono.m3u8
@@ -3067,7 +3077,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png" group-title="Kids",Sony YAY (2)
 https://botallen.live/t/45/master.m3u8?signature=b801e7a92eb0de8f5987b76042132738f0ec95c0&unique=a3ea5fcf33888593d48cf58ec9420922
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png" group-title="Kids",Sony YAY (3)
-https://watchindia.net:8443/live/04245/14504/2126.m3u8
+https://botallen.live/j/Sony_Yay_Hindi/master.m3u8?signature=7788c4681bf8b79b09bf1a09a0b962dd6f869c1c&unique=383dc6ddcdd3b7166230423ea3b90f6e
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="Kids",POGO (1)
 https://botallen.live/t/239/master.m3u8?signature=7815de1a04733facdf57db6752b60150e4b85661&unique=a3ea5fcf33888593d48cf58ec9420922
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="Kids",POGO (2)
