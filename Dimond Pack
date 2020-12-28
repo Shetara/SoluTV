@@ -1176,7 +1176,8 @@ https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8?Live-TV™
 
 
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla
-http://sunnetwork.in/vedio/SNBA_06_07_NANDINI_PROMO_30SEC_PRO_557781.mp4
+http://tv.bdtv.xyz:8080/token/sunbangla/chunks.m3u8?nimblesessionid=162628&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAyMCAzOjE1OjE1IFBNJmhhc2hfdmFsdWU9ZnEveEJKWnJyaWJNUzJKaWVqVjNvQT09JnZhbGlkbWludXRlcz01
+#http://sunnetwork.in/vedio/SNBA_06_07_NANDINI_PROMO_30SEC_PRO_557781.mp4
 #https://103.99.250.202:1935/sunbanglatv/myStream/playlist.m3u8
 #http://103.99.250.202:1935/sunbanglatv/myStream/chunklist_w1270250710.m3u8
 
