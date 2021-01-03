@@ -15,9 +15,9 @@ https://botallen.live/z/0-9-299/master.m3u8?signature=dda3498172bc1574f63ad056d6
 
 
 #https://imgur.com/wetMWlV.png      Web Series 
-#https://imgur.com/nNEU2Eu.png      Movie
-#https://imgur.com/bTbI6Zs.png      FM Radio      বাংলাদেশ
-#https://imgur.com/sabFwb1.png      Natok
+#https://imgur.com/nNEU2Eu.png/https://imgur.com/undefined.png      Movie
+#https://imgur.com/bTbI6Zs.png/https://imgur.com/7NS0zco.png      FM Radio      বাংলাদেশ
+#https://imgur.com/sabFwb1.png/https://imgur.com/undefined.png      Natok
 #https://imgur.com/5Ql7D8S.png      adult
 
 
@@ -707,6 +707,8 @@ http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" group-title="IND বাংলা",Calcutta News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
 
+#EXTINF:-1 group-title="IND বাংলা" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg",News18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1 group-title="IND বাংলা" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Lokmat_voot.png",News18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 
@@ -1491,6 +1493,8 @@ https://streamitv.multitvsolution.in/idvo/ddodia.m3u8
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1 tvg-logo="http://kanaknews.com/wp-content/uploads/2018/12/K-LOGO-SMALL-1.png" group-title="ଓଡ଼ିଆ",Kanak News
 #https://load.airtelxstream.in/kanaknews/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://ghaintnet.akamaized.net/GhaintPunjab/otv-ghaintpunjab.jpg" group-title="ଓଡ଼ିଆ",OTV 
+https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
 
 
 
@@ -1538,7 +1542,8 @@ http://z5amshls.akamaized.net/kalak/tracks-v1a1/playlist.m3u8
 https://livestream.5centscdn.com/pakustv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://d3cj74lp9272r8.cloudfront.net/channels/thumbnails/000/000/001/original/hum_channel_icon.png?1505470330" group-title="پاکستان",HUM TV HD
-http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8?Live-TV™
+http://185.232.53.5:2086/arellano/kgtL965n2Y/94968
+#http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029819158622560257/IX7fTqWA_400x400.jpg" group-title="پاکستان",Hum News
 http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
@@ -1559,6 +1564,8 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/77b4eeb83d65677094a11e2b52abd64cfc537ef63286cc111dd0f2f389b4fc0c.png" group-title="پاکستان",Tag TV (2)
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="پاکستان",GEO ENTERTAINMENT
+http://185.232.53.5:2086/arellano/kgtL965n2Y/94962
 #EXTINF:-1 tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="پاکستان",Geo News 
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 
@@ -2154,7 +2161,7 @@ http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8?Live-TV™
 http://dx3.gcdn.co/GEOSUPER/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (1)
-https://watchindia.net:8443/live/92622/76447/1067.m3u8
+http://185.232.53.5:2086/arellano/kgtL965n2Y/94797
 #http://istreamtv.xyz/api/isports/isports.php?id=1259
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (2)
 https://tivimateplaylists.live/willown
