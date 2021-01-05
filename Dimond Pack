@@ -779,7 +779,7 @@ http://103.146.55.212:8088/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnN0YXJiaGFyYXR0di53ZXdpbGx3aW5fc2NyZWVuXzJfMTU0NDg4ODM0Nl8wNzk/screen-2.jpg?h=355&fakeurl=1&type=.jpg" group-title="IND हिंदी",Star Bharat HD (1)
 http://103.146.55.212:8088/starbharat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnN0YXJiaGFyYXR0di53ZXdpbGx3aW5fc2NyZWVuXzJfMTU0NDg4ODM0Nl8wNzk/screen-2.jpg?h=355&fakeurl=1&type=.jpg" group-title="IND हिंदी",Star Bharat HD (2)
-
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3678.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxXRbO9y2-zQOkFq_BcBlspqOX-pYz3V0Ms7fnhRg=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",Star Gold (1)
 http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/61789
@@ -791,12 +791,13 @@ https://khulnalive.anytv.live/stargold/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-gold-hd-logo-300x300.jpg" group-title="IND हिंदी",Star Gold HD (2)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.52:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=Live-TV™.live
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-gold-hd-logo-300x300.jpg" group-title="IND हिंदी",Star Gold HD (3)
-
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3673.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1039847503829585920/uHnCus7M.jpg" group-title="IND हिंदी",Star Gold Select HD (1)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=Live-TV™.live
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1039847503829585920/uHnCus7M.jpg" group-title="IND हिंदी",Star Gold Select HD (2)
-http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3674.m3u8
+#http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1039847503829585920/uHnCus7M.jpg" group-title="IND हिंदी",Star Gold Select HD (3)
 http://185.246.210.52:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=Live-TV™.live
 
@@ -1182,7 +1183,8 @@ https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8?Live-TV™
 
 
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla
-http://sunnetwork.in/vedio/SNBA_06_07_NANDINI_PROMO_30SEC_PRO_557781.mp4
+http://tv.bdtv.xyz:8080/token/sunbangla/chunks.m3u8?nimblesessionid=305736&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjEgNTo1MDowMiBBTSZoYXNoX3ZhbHVlPTE4Ri9DdGtqaDZiZGx6Wk9URFFKNGc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+#http://sunnetwork.in/vedio/SNBA_06_07_NANDINI_PROMO_30SEC_PRO_557781.mp4
 #https://103.99.250.202:1935/sunbanglatv/myStream/playlist.m3u8
 #http://103.99.250.202:1935/sunbanglatv/myStream/chunklist_w1270250710.m3u8
 
@@ -1542,7 +1544,7 @@ http://z5amshls.akamaized.net/kalak/tracks-v1a1/playlist.m3u8
 https://livestream.5centscdn.com/pakustv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://d3cj74lp9272r8.cloudfront.net/channels/thumbnails/000/000/001/original/hum_channel_icon.png?1505470330" group-title="پاکستان",HUM TV HD (1)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94968
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3504.m3u8
 #http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://d3cj74lp9272r8.cloudfront.net/channels/thumbnails/000/000/001/original/hum_channel_icon.png?1505470330" group-title="پاکستان",HUM TV HD (2)
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6730/index.m3u8
@@ -1570,7 +1572,7 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="پاکستان",GEO ENTERTAINMENT (1)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94962
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3505.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="پاکستان",GEO ENTERTAINMENT (2)
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6723/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="پاکستان",Geo News 
@@ -2090,14 +2092,15 @@ http://113.212.111.246:8080/hls/col30.m3u8
 https://khulnalive.anytv.live/starsp1/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i2.wp.com/technosports.co.in/wp-content/uploads/2020/10/timthumb.jpg?fit=620%2C350&ssl=1" group-title="Sports",Star Sports 1 Hindi (1)
-http://10.100.100.134/live/skyfeed1001/index.m3u8
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3860.m3u8
+#http://10.100.100.134/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/technosports.co.in/wp-content/uploads/2020/10/timthumb.jpg?fit=620%2C350&ssl=1" group-title="Sports",Star Sports 1 Hindi (2)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=Live-TV™.live
 #http://103.205.133.48/hls/chss1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2019/03/SS-Bangla-Logo_6.jpg&w=620&h=350&zc=1&q=100" group-title="Sports",Star Sports 1 Bangla
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=Live-TV™.live
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3865.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (1)
 http://otv.ftpbd.net/streams/116/index.m3u8?Live-TV™
@@ -2168,7 +2171,7 @@ http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8?Live-TV™
 http://dx3.gcdn.co/GEOSUPER/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (1)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94797
+
 #http://istreamtv.xyz/api/isports/isports.php?id=1259
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (2)
 https://tivimateplaylists.live/willown
@@ -3358,9 +3361,9 @@ https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://p5.img.cctvpic.com/photoAlbum/templet/special/PAGEscDuWa51ueLmHqSynult190202/ELMTX2VugFomB1Hj1RdmAsgb190217_1550557434.jpg" group-title="中国",CCTV 1
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
+#https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.meituan.net/csc/945cc0d005d4c98fbde9ded11c6c57d111784.jpg" group-title="中国",龙岩综合
-http://stream.lytv.net.cn/2/sd/live.m3u8
+#http://stream.lytv.net.cn/2/sd/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="中国",
 
 #EXTINF:-1 tvg-logo="" group-title="中国",
