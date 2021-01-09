@@ -22,9 +22,11 @@ https://botallen.live/z/0-9-299/master.m3u8?signature=dda3498172bc1574f63ad056d6
 
 
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (1)
-http://103.205.133.38/hls/btv.m3u8?Live-TV™
+https://www.bioscopelive.com/en/channel/channel-i|Referer:https://bioskopelive.com
+#http://103.205.133.38/hls/btv.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (2)
-http://master.beeiptv.com:8081/LAW/btv/playlist.m3u8
+https://www.bioscopelive.com/en/channel/nickelodeon|User-Agent:BPlayer
+#http://master.beeiptv.com:8081/LAW/btv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="বাংলাদেশ",Sangsad TV (1)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8?Live-TV™
