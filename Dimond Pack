@@ -6,8 +6,7 @@ https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/in
 #https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/corona/corona.isml/corona-audio_208482_und=208000-video=877600.m3u8
 #http://istreamtv.xyz/api/isports/isports.php?id=1259
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Movies
-https://jiocdn.fun/redboooxXxx.php?id=2789&e=.m3u8
-#https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Cricket
 http://43.251.86.6:8080/hls/channel_1.m3u8
 #http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
@@ -705,10 +704,10 @@ http://dx3.gcdn.co/hindi-STARUTSAVHD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images-vod.wixmp.com/ceb800c0-c2cc-4726-8014-162eec7e4e04/images/e22df72ff92643f6890df7a483359eac~mv2/v1/fill/w_330,h_330/file.png" group-title="IND বাংলা",Orange Bangla
-https://streamitv.multitvsolution.in/idvo/orangetv.m3u8?Live-TV™
+https://itvorigin.multitvsolution.com/idvo/orangetv.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/comp/kolkata/m8/033p1228459399q4i2m8/catalogue/r-plus-bengali-channel-park-street-kolkata-satellite-channels-0ne4fbj81z.jpg?clr=#333333" group-title="IND বাংলা",R Plus Gold
-https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8?Live-TV™
+https://itvorigin.multitvsolution.com/idvo/rplusgold.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="IND বাংলা",Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
@@ -1164,12 +1163,12 @@ http://208.115.215.42/Sony_Mix_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhDVkXbG-WQsn3UwfxuZkkHWHtBBvNk447VqCch=s900-c-k-c0x00ffffff-no-rj" group-title="IND বাংলা",Enter 10 Bangla (1)
 https://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhDVkXbG-WQsn3UwfxuZkkHWHtBBvNk447VqCch=s900-c-k-c0x00ffffff-no-rj" group-title="IND বাংলা",Enter 10 Bangla (2)
-http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
+
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="https://yt3.ggpht.com/a/AATXAJxXTkc1RTZEVA6BJ3lI-6-kuDkFtDhqFzSUX7Qy6A=s900-c-k-c0xffffffff-no-rj-mo",Dangal TV (1)
 https://itvorigin.multitvsolution.com/idvo/dangal_540p/index.m3u8
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="https://yt3.ggpht.com/a/AATXAJxXTkc1RTZEVA6BJ3lI-6-kuDkFtDhqFzSUX7Qy6A=s900-c-k-c0xffffffff-no-rj-mo",Dangal TV (2)
-https://streamitv.multitvsolution.in/idvo/dangal_360p/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-aakaash-aa-9189.jpg" group-title="IND বাংলা",Akash 8 (1)
 http://103.141.66.36/bpk-tv/10112/default/index.m3u8?Live-TV™
@@ -1190,7 +1189,7 @@ http://45.127.244.7:8080/hls/channel14.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/0mhjMU8iD0hd94cPZbSCvbnVUDD4Bqyx0SWZHN6_Y9vETF8B_UnBR-d2OBslG05getk_gPbVep2HolYZYWIK6VpuTzxavB2TSN9FJwWianMzT4U0DYVGo_hm" group-title="IND हिंदी",DD Odia (1)
-https://streamitv.multitvsolution.in/idvo/ddodia.m3u8
+https://itvorigin.multitvsolution.com/idvo/ddodia.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/0mhjMU8iD0hd94cPZbSCvbnVUDD4Bqyx0SWZHN6_Y9vETF8B_UnBR-d2OBslG05getk_gPbVep2HolYZYWIK6VpuTzxavB2TSN9FJwWianMzT4U0DYVGo_hm" group-title="IND हिंदी",DD Odia (2)
 
 
@@ -1201,16 +1200,17 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/in
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-08QQXuBPmmI/XqcIQtJ7lyI/AAAAAAAAAOg/h6vLFcREk8YQafuAATcMWM2TyyJNv1tUQCLcBGAsYHQ/w640/bengla%2Btimes.JPG" group-title="IND বাংলা",Bangla Time
-https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8?Live-TV™
+https://itvorigin.multitvsolution.com/idvo/banglatimetv.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://livebengalitv.files.wordpress.com/2017/10/news-time-bangla.jpg?w=1180" group-title="IND বাংলা",News Time Bangla
-https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8?Live-TV™
+https://itvorigin.multitvsolution.com/idvo/newstimebangla.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b0/bb/50/b0bb507caa0a22ef3b062f74f5482168.jpg" group-title="IND हिंदी",E24
 
 
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla
-http://sunnetwork.in/vedio/SNBA_06_07_NANDINI_PROMO_30SEC_PRO_557781.mp4
+http://rv.imax.re:80/307200102131/307200102131/83740.m3u8
+#http://sunnetwork.in/vedio/SNBA_06_07_NANDINI_PROMO_30SEC_PRO_557781.mp4
 #https://103.99.250.202:1935/sunbanglatv/myStream/playlist.m3u8
 #http://103.99.250.202:1935/sunbanglatv/myStream/chunklist_w1270250710.m3u8
 
@@ -1294,7 +1294,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?Live-TV™
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/HousefullMoviesLogo.jpg" group-title="IND हिंदी",Housefull Movies
-https://streamitv.multitvsolution.in/idvo/housefullmovies.m3u8
+https://itvorigin.multitvsolution.com/idvo/housefullmovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/amp_metadata_content_image_min_696px_wide/public/images/story/2011/12/01/UTV.jpg?itok=NVaX2Q5V" group-title="IND हिंदी",Utv Action (1)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=Live-TV™.live
@@ -1455,7 +1455,8 @@ http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/EN
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="IND हिंदी",TRAVEL XP HD Tamil
 
 #EXTINF:-1 tvg-logo="https://www.ryt9.com/img/files/20181218/iq81c481637385bcf87f023cac1ab26003.jpg" group-title="IND हिंदी",LOVE NATURE 4K
-http://dmitry-tv.my1.ru/his/zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#http://dmitry-tv.my1.ru/his/zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
 #http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nt.global.ssl.fastly.net/images/sponsor-logos/1431873937579-skynatureiconsquarefullbleedrgb1.jpg" group-title="IND हिंदी",Sky Nature
 http://185.246.210.53:2200/EX/Sky_Nature_HD-uk/index.m3u8?token=Live-TV™.live
@@ -1515,7 +1516,7 @@ https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJw3_xqyR7EWuIdTi4_YH3CThaaN1tsYeTmJhnQW=s900-c-k-c0x00ffffff-no-rj" group-title="ଓଡ଼ିଆ",Prag News
 #https://load.airtelxstream.in/pragnews/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/DD_Odia.png" group-title="ଓଡ଼ିଆ",DD Odia
-https://streamitv.multitvsolution.in/idvo/ddodia.m3u8
+https://itvorigin.multitvsolution.com/idvo/ddodia.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyw_roXq4XySiDUSelWTyx1K_WYJdvY5L3hm5Hweg=s900-c-k-c0xffffffff-no-rj-mo" group-title="ଓଡ଼ିଆ",MBC TV
 #https://load.airtelxstream.in/mbctv/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TARANG_TV.jpg" group-title="ଓଡ଼ିଆ",Tarang TV
@@ -2028,7 +2029,7 @@ http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/inde
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/isaiaruvi_new_roku.jpg" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Isaiaruvi
 #https://load.airtelxstream.in/isaiaruvi/smil:common.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/moon.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Moon TV (1)
-https://streamitv.multitvsolution.in/idvo/moontv_540p/index.m3u8
+https://itvorigin.multitvsolution.com/idvo/moontv_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/moon.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Moon TV (2)
 https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/ibc-1.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",IBC Tamil
@@ -2170,7 +2171,7 @@ http://103.205.133.21/hls/chss2.m3u8
 http://103.84.253.5:80/live/fastfeed1002/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a6/38/33/a6383306c863e1987a7636a90154b2c1.jpg" group-title="Sports",Star Sports 4
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_FIRST-in/index.m3u8?token=Live-TV™.live
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports",Star S 1 Sel. (1)
 http://otv.ftpbd.net/streams/113/index.m3u8?Live-TV™
@@ -2199,7 +2200,7 @@ https://rhridoy136.shortcm.li/starsportsselect2hd.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (6)
 http://43.230.123.21:8080/live/starsportsselect-2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (7)
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=Live-TV™.live
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (1)
@@ -2224,11 +2225,11 @@ http://dx3.gcdn.co/GEOSUPER/index.m3u8
 
 #http://istreamtv.xyz/api/isports/isports.php?id=1259
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (2)
-https://tivimateplaylists.live/willown
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2746,m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRS1KOa5Etrq8YBSpdqpSXxdsUzZtnI0JGOQ&usqp=CAU" group-title="Sports",Willow Extra
-http://istreamtv.xyz/api/isports/isports.php?id=1260
+rtmp://58.200.131.2:1935/livetv/starsports
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/57/6c/36/576c36c2b45e2bc52b2360fcd2fd2eb4.png" group-title="Sports",Ten Sports
 http://45.127.244.7:8080/hls/channel5.m3u8
