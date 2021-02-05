@@ -1209,7 +1209,7 @@ https://itvorigin.multitvsolution.com/idvo/newstimebangla.m3u8?Live-TV™
 
 
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla
-http://rv.imax.re:80/307200102131/307200102131/83740.m3u8
+http://rv.imax.re:80/307200102131/307200102131/83740
 #http://sunnetwork.in/vedio/SNBA_06_07_NANDINI_PROMO_30SEC_PRO_557781.mp4
 #https://103.99.250.202:1935/sunbanglatv/myStream/playlist.m3u8
 #http://103.99.250.202:1935/sunbanglatv/myStream/chunklist_w1270250710.m3u8
@@ -2225,7 +2225,7 @@ http://dx3.gcdn.co/GEOSUPER/index.m3u8
 
 #http://istreamtv.xyz/api/isports/isports.php?id=1259
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (2)
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2746,m3u8
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2746.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRS1KOa5Etrq8YBSpdqpSXxdsUzZtnI0JGOQ&usqp=CAU" group-title="Sports",Willow Extra
