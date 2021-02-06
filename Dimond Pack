@@ -36,7 +36,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://103.141.66.36/bpk-tv/10036/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="বাংলাদেশ",Sangsad TV (3)
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (1)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (2)
@@ -943,6 +943,9 @@ http://103.205.133.21/hls/zeetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tv-hd-logo-300x300.jpg" group-title="IND हिंदी",Zee Tv HD
 http://z5amshls.akamaized.net/apacsea/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png" group-title="IND हिंदी",ZEE หนัง
+https://cdn6.goprimetime.info/feed/LC5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/202006/zee-anmol.jpeg" group-title="IND हिंदी",Zee Anmol (1)
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6597/index.m3u8
@@ -2222,8 +2225,7 @@ http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8?Live-TV™
 http://dx3.gcdn.co/GEOSUPER/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (1)
-
-#http://istreamtv.xyz/api/isports/isports.php?id=1259
+http://istreamtv.xyz/api/isports/isports.php?id=1259
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (2)
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2746
 
@@ -2627,7 +2629,7 @@ http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103530
                                         
 
 
-#EXTINF:-1 tvg-logo="https://img2.pngio.com/al-jazeera-logo-png-transparent-al-jazeera-logopng-images-pluspng-al-jazeera-english-png-1431_1766.png" group-title="English",Al Jazeera HD (1)
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/al-jara-logo-png-transparent-al-jazeera-logopng-images-pluspng-al-jazeera-english-png-1431_1766.png" group-title="English",Al Jazeera HD (1)
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/al-jazeera-logo-png-transparent-al-jazeera-logopng-images-pluspng-al-jazeera-english-png-1431_1766.png" group-title="English",Al Jazeera HD (2)
 http://103.146.55.212:8088/alja/tracks-v1a1/mono.m3u8
