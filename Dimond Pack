@@ -6,14 +6,15 @@ https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/in
 #https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/corona/corona.isml/corona-audio_208482_und=208000-video=877600.m3u8
 #http://istreamtv.xyz/api/isports/isports.php?id=1259
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Movies
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
+http://fun6.xyz:8880/HINDI_CINEMA_01/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Cricket
 http://43.251.86.6:8080/hls/channel_1.m3u8
 #http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football
 http://45.134.21.230/hls/T1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Music
-https://botallen.live/z/0-9-299/master.m3u8?signature=dda3498172bc1574f63ad056d6f51dd27bf29ecd&unique=a3ea5fcf33888593d48cf58ec9420922
+http://fun6.xyz:8880/HINDI_CINEMA_02/index.m3u8
+
 
 
 #https://imgur.com/wetMWlV.png      Web Series 
@@ -1128,7 +1129,8 @@ http://208.115.215.42/Sony_Max_HD/track-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-CEEISoMPHi8/XrIzXm0b14I/AAAAAAAAMxc/NyBp_iGgZzsItEOCb13oUnmvRshpEPlvACLcBGAsYHQ/s1600/IMG_20200506_091351.jpg" group-title="IND हिंदी",Sony Max HD (2)
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6574/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-CEEISoMPHi8/XrIzXm0b14I/AAAAAAAAMxc/NyBp_iGgZzsItEOCb13oUnmvRshpEPlvACLcBGAsYHQ/s1600/IMG_20200506_091351.jpg" group-title="IND हिंदी",Sony Max HD (3)
-https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/indialpc@!2/sonysetmaxhd/chunks.m3u8?nimblesessionid=24694944&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjEgMjoyNzowMiBBTSZoYXNoX3ZhbHVlPStPdVUrUGdxeEVwZlRLWUVjbW5BdUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://mynetworks.info:80/live/ashraf333/333ashraf/6510.m3u8
+#https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/indialpc@!2/sonysetmaxhd/chunks.m3u8?nimblesessionid=24694944&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjEgMjoyNzowMiBBTSZoYXNoX3ZhbHVlPStPdVUrUGdxeEVwZlRLWUVjbW5BdUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1 tvg-logo="https://www.thedigitalhash.com/wp-content/uploads/2020/07/oggB1WhH.png" group-title="IND हिंदी",Sony Max 2 (1)
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6625/index.m3u8
