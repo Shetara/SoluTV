@@ -9,7 +9,8 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
 https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.india.com/wp-content/uploads/2019/11/t10-league.jpg" group-title="Official Streaming",T10 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMi3Igr6L6DyReEavKr4LgGUuLSo3WOjjpDdLX42PblWblo1XgW07Lqt_l1aNESePRcc&usqp=CAU" group-title="Official Streaming",World Serise
+https://vootlivelinear.akamaized.net/hls/live/2013018/rsws_test_english/master_3628.m3u8
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football 1
 http://45.134.21.230/hls/T1.m3u8
@@ -745,7 +746,7 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
                                             
                                             
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND বাংলা",Star Jalsha (1)
-http://103.205.133.48/hls/chsj.m3u8
+http://103.251.247.105:3001/aostv/5fb8b539813f1de2333c31b9/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND বাংলা",Star Jalsha (2)
 http://103.205.133.21/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND বাংলা",Star Jalsha (3)
@@ -766,6 +767,8 @@ http://hitectv.live/hls/stream31.m3u8
 #http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-jalsha-hd-logo-300x300.jpg" group-title="IND বাংলা",Star Jalsha HD (4)
 http://103.146.55.212:8088/starjalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-jalsha-hd-logo-300x300.jpg" group-title="IND বাংলা",Star Jalsha HD (5)
+http://?b2RrV3lFVU5ZOVdURlpWYmg5eWJ6MFdaSVJIWnJaWFJsUldXU2wzUVBaRVp0MW1iNUZEVDJGVmVvbEZhTFJuVk1SblRCRlRTd1FGYkhSWFVxbEZOMU5WV3JFMVYycFhaMllEY3RORGFQTmpRcVZXUXhWV1l6QkhPNVVuUzFaM1JNZDJiU1YzYTRJa1FyZGxjMGNEZVRsMkwyOVVXdkVIY3lBRlZWcFdleVpGUnJVbk56QUhiT0puUW5wVWNIOVVZMWRqZTVOR1o=
 
 
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/JuoLJnTTkh.png" group-title="IND বাংলা",Jalsha Movies (1)
@@ -776,6 +779,8 @@ http://103.146.55.212:8088/jalshamovies/tracks-v1a1/mono.m3u8
 https://any.hitectv.live:4443/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/JuoLJnTTkh.png" group-title="IND বাংলা",Jalsha Movies (4)
 http://45.127.244.7:8080/hls/channel13.m3u8
+#EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/JuoLJnTTkh.png" group-title="IND বাংলা",Jalsha Movies (5)
+http://103.251.247.105:3001/aostv/5fc11a9477ef280ee69891ba/aos.m3u8|tokenUrl:/4_4
 
 
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/zSsmeBIqsv.png" group-title="IND বাংলা",Jalsha Movies HD (1)
@@ -783,7 +788,9 @@ http://103.81.104.222:80/hls/stream27.m3u8
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/zSsmeBIqsv.png" group-title="IND বাংলা",Jalsha Movies HD (2)
 http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/zSsmeBIqsv.png" group-title="IND বাংলা",Jalsha Movies HD (3)
-http://global.thunderbd.com/31/tracks-v1a1/mono.m3u8
+http://?MWRrV3lFVU5ZVlhURlpWYmg5aWV6MFdaSVJIWnVaWFJsUldXUzkyUVBaRVp0MW1lNUZEVDJGVmV2bEZhTFJuVk1wM1R6NGtiM1pFZXROM1V2VUZVdXRXZEVSamJZTkhNMHRrVjA5MGRaMWtSWlJuYXVCMVN2a3pMUWxYVnUxVVZGMW1jUlZrWTBoVllxcFZaaVZtWVRkbVFydFdaaVZUYkp4RU1JdFVWeWRYWXpjbWR0aDJWcEJsZTRKRmJPOWlZTXBXU3FCVFk=
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/zSsmeBIqsv.png" group-title="IND বাংলা",Jalsha Movies HD (4)
+http://hitectv.live/hls/stream27.m3u8
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav
 http://dx3.gcdn.co/hindi-STARUTSAVHD/index.m3u8
@@ -1444,12 +1451,15 @@ https://itvorigin.multitvsolution.com/idvo/newstimebangla.m3u8?Live-TV™
 http://?eWRrV3lFVU5ZOVdURlpWYmg5Q2R6MFdaSVJIWndaWFJscEZVb2gzYjVrR2RuaFVld2sxY2haamFwNUdNMzVVUU5OSE1yVlRRMUZWZHIxRVprUkhNNloxUXg5bVdMOTJjMlJETlRobGF1QkhhSVZXVjF0Mkx4UTFMNGtHWnFaWE00UURlRXBYTjNNMlp6dGtNRmxEV1ZwbmFUVmxOeUpuY1RWWFV3TldQ
 
 
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla (1)
 http://103.251.247.105:3001/aostv/5fafa2a66f4e8cc0b51d8d34/aos.m3u8|tokenUrl:/4_4
 #http://rv.imax.re:80/307200102131/307200102131/83740
 #http://sunnetwork.in/vedio/SNBA_06_07_NANDINI_PROMO_30SEC_PRO_557781.mp4
 #https://103.99.250.202:1935/sunbanglatv/myStream/playlist.m3u8
 #http://103.99.250.202:1935/sunbanglatv/myStream/chunklist_w1270250710.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla (2)
+http://?NGRrV3lFVU5ZVlhURlpWYmg5U2R6MFdaSVJIWnhaWFJsRjFOTDltYkhabmRybDFjdzFHT3ZaWFM0aFRSelIyYlhCWFpPdEdlb0ZrYllCblVzMW1RbzlDTWhwR2FuVm5OMTRXUzFKVmR4Y0ZlbVJET29sMU40RkZTMUlIYzVWM0xTQkZjdlVuTXYxV01zZEdNb2wxU1B4MlFvaEZWa05rZUZ4a1lXSkZSdlJ6U2tObllyRkhORmRrZHlwMVpzTkVWV1YwY29KRWU=
+
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/402/logo/115x115/mobile_logo_789226001563606539.png" group-title="IND हिंदी",&tv (1)
 http://103.205.133.21/hls/andtv.m3u8
