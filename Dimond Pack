@@ -7,13 +7,13 @@ https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/in
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #http://43.251.86.6:8080/hls/channel_1.m3u8
 #http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
+
 https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMi3Igr6L6DyReEavKr4LgGUuLSo3WOjjpDdLX42PblWblo1XgW07Lqt_l1aNESePRcc&usqp=CAU" group-title="Official Streaming",World Serise
 https://vootlivelinear.akamaized.net/hls/live/2013018/rsws_test_english/master_3628.m3u8
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv 1
-https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
+#https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
+
+http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football 1
 http://45.134.21.230/hls/T1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football 2
@@ -1393,10 +1393,11 @@ http://?M2RrV3lFVU5ZOVdURlpWYmg5aWV6MFdaSVJIWnFaWFJscEZVb3QyYjVrR2RuaFVld2sxY2ha
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2422/logo/240x240/mobile_logo_395146001610630298.png" group-title="IND हिंदी",Sony Wah (1)
-http://208.115.215.42/Sony_Mix_HD/tracks-v1a1/mono.m3u8
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2422/logo/240x240/mobile_logo_395146001610630298.png" group-title="IND हिंदी",Sony Wah (2)
 http://?cGRrV3lFVU5ZeFdURlpWYmg5aWV6MFdaSVJIWnVaWFJscEZVb1IzYjVrR2RuaGtkd2sxY2haamF4NUdNMzVVUU41R01MQnpRNWwzWjJaa05OQlRabkZrYVhOVE1TTm5RWU5WZTJkMFpIVjJTTWhHU3BaMGM1SldWczkyTE5oMmQ0Um5kNFZUYVlWMFZuZEZSeFFqU0hwbVVCNTJLSUZIYzRsMVlPTldQ
-
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2422/logo/240x240/mobile_logo_395146001610630298.png" group-title="IND हिंदी",Sony Wah (3)
+http://208.115.215.42/Sony_Mix_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2019/11/18/enter10.jpg?itok=eDrzgRRi" group-title="IND हिंदी",Enter 10
 http://103.251.247.106:3001/aostv/600832e1af05178ef75e1df9/aos.m3u8|tokenUrl:/4_4
 
@@ -1425,10 +1426,11 @@ http://?PUluVTNCM01wcFhhb1JuYjFrWFV3dEVUMU5HVFM1MmQzSUZjSHRDZTVjbmNEUldjeHBXZE9a
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/377/logo/115x115/mobile_logo_487153001554527298.png" group-title="IND বাংলা",Ruposhi Bangla (2)
 http://?NkoxZHdOVGE2NUdhMDVXTjVGVmNMeFVkanhrVW5kM05TUlhkdXBuYTNObmMzRjNhSE5XYlpoR1IxaEhhMFZIUlFkMktEVkhSM0ZuY2hkWE9pcEVUcUZEVUpGMmN6SUhONFZGWlV0V2F3WmxOUXgyUnp4VU1yWW1kS2xHUnJ4bWQwazNhMk16TUlOMFkxbHpZa2gwUWE5MkxtUlZXUWxIZHdwVmRIbFdZcWh6UmxsMmNyRTNLeTlTY1hsamQ0SUdTT3htZHMxR1dLZEhaa05IZVZsRlJGTm5jeFowTDVoa2I0aEhTekUwVFNoMk5SRmtOeVowWjZaRWV3ZFVUeFYyUnpWV1JuVlhUNVkwZDVGM2RrbG1Ud1JIVzFWblR4QVROMWhHYWFaVVZKVnpieFlGTU5WVFc1WlRNWFZsUXd3bVNscFhiSVZHZXFabWRSMVRQ
 
-
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/370/logo/115x115/mobile_logo_525894001563630186.png" group-title="IND বাংলা",DD Bangla (1)
-http://?cmRrV3lFVU5ZVlhURlpWYmg5eVp6MFdaSVJIWnBaWFJscEZVb1IzYjVrR2RuaEVkd2sxY2haamFuNUdNMzVVUU5obU12WkVPWlpXZXpvSE0wbFZVbzlrYm5CalI0bFhiakpYYUVwRmNFTmtWck4yUnd0a04yZ0ZNb0ozYzVoelExbGtlRVJqYlY5MFZ1bGtZTmRGUno4R05IRlZSWE5XZE1sell3TlhQ
+https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/370/logo/115x115/mobile_logo_525894001563630186.png" group-title="IND বাংলা",DD Bangla (2)
+http://?cmRrV3lFVU5ZVlhURlpWYmg5eVp6MFdaSVJIWnBaWFJscEZVb1IzYjVrR2RuaEVkd2sxY2haamFuNUdNMzVVUU5obU12WkVPWlpXZXpvSE0wbFZVbzlrYm5CalI0bFhiakpYYUVwRmNFTmtWck4yUnd0a04yZ0ZNb0ozYzVoelExbGtlRVJqYlY5MFZ1bGtZTmRGUno4R05IRlZSWE5XZE1sell3TlhQ
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/370/logo/115x115/mobile_logo_525894001563630186.png" group-title="IND বাংলা",DD Bangla (3)
 http://?NlZIVG9Kak5qeFdlUzlpTTNsRGQ0NVdSM0FUVDRsbmJtQnpWeEpITll0MGNDTmxkMFpsUjB3bWF0SldNeXBsYXU1bWMxbFZiVlZGZHFSRFR3dFdPejVVUjRWR2JHQkhiczkwWTQwMmJoNVVjeEpGUnhwWFIwY2tNd1JYZTFFVVpEcEdjV1ptYkhWbldwbERPNU5XUmtGWFlPMTBMTUZIYUZOR001bG5Xb2RWZERWSFNCZEhWMG8yYXFWWGJudDJWek1uUXpaMlM2WnpSczVXUnlwa2V6dGtlcmdWZHZZR1Z5QlRhVEZ6YnlnM1pUZFdaVDFVYVJKVk1FaDJRdmR6VVVSVGQxQW5UMklWWXpjVWJMUkdWT1pYTXhwRlNUNTBaWGRITXlRalJyUVdheVFsZUU5VWF1ZDNkdEpuVHhZSFZ5ZGpUR2QxYXNsbWRCMVRQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/DDSahyadriLogo.jpg/220px-DDSahyadriLogo.jpg" group-title="IND हिंदी",DD Sahyadri 
@@ -1454,14 +1456,15 @@ https://itvorigin.multitvsolution.com/idvo/newstimebangla.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/385/logo/115x115/mobile_logo_174491001563772860.png" group-title="IND हिंदी",E24
 http://?eWRrV3lFVU5ZOVdURlpWYmg5Q2R6MFdaSVJIWndaWFJscEZVb2gzYjVrR2RuaFVld2sxY2haamFwNUdNMzVVUU5OSE1yVlRRMUZWZHIxRVprUkhNNloxUXg5bVdMOTJjMlJETlRobGF1QkhhSVZXVjF0Mkx4UTFMNGtHWnFaWE00UURlRXBYTjNNMlp6dGtNRmxEV1ZwbmFUVmxOeUpuY1RWWFV3TldQ
 
-
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla (1)
+https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla (2)
 http://103.251.247.105:3001/aostv/5fafa2a66f4e8cc0b51d8d34/aos.m3u8|tokenUrl:/4_4
 #http://rv.imax.re:80/307200102131/307200102131/83740
 #http://sunnetwork.in/vedio/SNBA_06_07_NANDINI_PROMO_30SEC_PRO_557781.mp4
 #https://103.99.250.202:1935/sunbanglatv/myStream/playlist.m3u8
 #http://103.99.250.202:1935/sunbanglatv/myStream/chunklist_w1270250710.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla (2)
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla (3)
 http://?NGRrV3lFVU5ZVlhURlpWYmg5U2R6MFdaSVJIWnhaWFJsRjFOTDltYkhabmRybDFjdzFHT3ZaWFM0aFRSelIyYlhCWFpPdEdlb0ZrYllCblVzMW1RbzlDTWhwR2FuVm5OMTRXUzFKVmR4Y0ZlbVJET29sMU40RkZTMUlIYzVWM0xTQkZjdlVuTXYxV01zZEdNb2wxU1B4MlFvaEZWa05rZUZ4a1lXSkZSdlJ6U2tObllyRkhORmRrZHlwMVpzTkVWV1YwY29KRWU=
 
 
@@ -1724,7 +1727,7 @@ https://cdn.live.shemaroome.com/marathibana/smil:marathibanaadp.smil/chunklist.m
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="IND বাংলা",TRAVEL XP HD Bangla
 http://103.81.104.222:80/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="IND हिंदी",TRAVEL XP HD Hindi
-
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="IND हिंदी",TRAVEL XP HD English
 
 #EXTINF:-1 tvg-logo="https://www.ryt9.com/img/files/20181218/iq81c481637385bcf87f023cac1ab26003.jpg" group-title="IND हिंदी",LOVE NATURE 4K
@@ -3467,7 +3470,8 @@ http://?NmRrV3lFVU5ZbFdURlpWYmg5aWF6MFdaSVJIWnBaWFJscEZVbzUyYjVrR2RuaEVld2sxY2ha
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/612/logo/240x240/mobile_logo_032827001584856027.png" group-title="Kids",Sony YAY (2)
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6627/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/612/logo/240x240/mobile_logo_032827001584856027.png" group-title="Kids",Sony YAY (3)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8
+https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/612/logo/240x240/mobile_logo_032827001584856027.png" group-title="Kids",Sony YAY (4)
 http://103.81.104.222:80/hls/stream32.m3u8
 
@@ -3576,6 +3580,8 @@ http://103.205.133.21/hls/dhoommusic.m3u8
 http://?NEoxZHdOVGE2aEdhMDVXTjVGbGRMeFVkanhrVXFkM05TNUdSd2hYTXpFa1RPOTJiMjh5YUI5a1NxUkRVNlpuYzJzMlVDQjNRc0puY3pnR2RWVkhkenAxVWlwWGJ4YzJkU0ZITlJKMlpVTjNNdkJGVXZoa1VzUlRWTHBYYmgxR2R6SldkdmtXYTNVVGF0ZEZkSU5rUjBOWFdCRnpkaWhFYXR4VU94d1VNczUyVjNZRU1vbFdVd0VsV2xaVmVoWkdOR0ZrUXpOMlptcDBNNHBHYUpGWGFyb21iNk5HYVlWRFQxWm5SdGRHV2lCSGExUVZjNEIxZEdKRU1zTkhVc3gyVTVGak1GcFhNMGxWUA==
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/405/logo/115x115/mobile_logo_153227001563707398.png" group-title="Music",Dhoom Music (6)
 http://?MGRrV3lFVU5ZZFhURlpWYmg5eWJ6MFdaSVJIWnRaWFJscEZVb2wyYjVrR2RuaDBad2sxY2haamFwNUdNMzVVUU5sbk0xWTNaMThtY3laRVc1TWxZdlJITm14a1lCTkhXNVJEWnhBamVyNUVic2h6Ym9GWE54TWxaWlYzTTRVMExYcEdiNWREYXJzQ1pzeGtRaUprVnJwV2R0bGpRb1IzYTJoVE40Y1dQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYAK27s6yApNIA9H25yC_eMELECZy20QZh7EeHzvoL_hJeSDyw&usqp=CAU" group-title="Music",Bangla Takies
+https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/103264-9xm.jpg?format=webp&w=400&dpr=2.6" group-title="Music",9xM (1)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/103264-9xm.jpg?format=webp&w=400&dpr=2.6" group-title="Music",9xM (2)
@@ -3629,9 +3635,7 @@ https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 https://live.hungama.com/linear/dhamaal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sangeet_Bhojpuri.jpg" group-title="Music",Sangeet Bhojpuri
 https://m-c01-j2apps.s.llnwi.net/hls/0432.SangeetBhojpuri.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Sangeet_Marathi.jpg" group-title="Music",Sangeet Marathi (1)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Sangeet_Marathi.jpg" group-title="Music",Sangeet Marathi (2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Sangeet_Marathi.jpg" group-title="Music",Sangeet Marathi
 http://103.141.66.36/bpk-tv/10334/default/manifest.mpd?=.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/1c97d135732337.Y3JvcCw3MjAsNTYyLDAsNg.jpg" group-title="Music",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?Live-TV™
@@ -3732,6 +3736,56 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gembollywood-icon.png" group-title="Iran",GEM Bollywood
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemclassic-icon.png" group-title="Iran",GEM Classic
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemdrama-icon.png" group-title="Iran",GEM Drama
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemjunior-icon.png" group-title="Iran",GEM Junior
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemkids-icon.png" group-title="Iran",GEM Kids
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemseries-icon.png" group-title="Iran",Gem Series
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemtv-icon.png" group-title="Iran",GEM TV
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemusa-icon.png" group-title="Iran",GEM USA
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",Manoto
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",River
+https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",Rubix
+https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",Mifa
+https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",Sahar Urdu
+https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",Press TV
+https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",Radio Farda
+https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",VOA Persian
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",EBC1 TV
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",Rangarang TV
+http://iptv.rangarang.us/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",Ganje Hozoor
+https://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",INTV Simaye Azadi
+https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",Mohabat TV
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",Parnian TV
+https://live2.parnian.tv/hls/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",Pars TV
+https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",PBC Tapesh TV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Iran",Persian Bazar
+https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
 
 
 
