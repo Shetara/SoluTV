@@ -155,71 +155,71 @@ http://ctgiptv.kitv.live:1935/live/test/test1/08.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",BTV National
-http://master.beeiptv.com:8081/mob/btv/playlist.m3u8
+http://master.beeiptv.com:8081/master/btv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",ATN Bangla
-http://master.beeiptv.com:8081/mob/atnbangla/playlist.m3u8
+http://master.beeiptv.com:8081/master/atnbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Channel I HD
-http://master.beeiptv.com:8081/mob/channeli/playlist.m3u8
+http://master.beeiptv.com:8081/master/channeli/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",NTV
-http://master.beeiptv.com:8081/mob/ntv/playlist.m3u8
+http://master.beeiptv.com:8081/master/ntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",RTV
-http://master.beeiptv.com:8081/mob/rtv/playlist.m3u8
+http://master.beeiptv.com:8081/master/rtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Gazi TV
-http://master.beeiptv.com:8081/mob/gtv/playlist.m3u8
+http://master.beeiptv.com:8081/master/gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Maasranga TV
-http://master.beeiptv.com:8081/mob/maasranga/playlist.m3u8
+http://master.beeiptv.com:8081/master/maasranga/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Channel 9 HD
-http://master.beeiptv.com:8081/mob/channel9/playlist.m3u8
+http://master.beeiptv.com:8081/master/channel9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Bangla Vision
-http://master.beeiptv.com:8081/mob/banglavision/playlist.m3u8
+http://master.beeiptv.com:8081/master/banglavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Duronto TV
-http://master.beeiptv.com:8081/mob/duronto/playlist.m3u8
+http://master.beeiptv.com:8081/master/duronto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Deepto TV HD
-http://master.beeiptv.com:8081/mob/deeptotv/playlist.m3u8
+http://master.beeiptv.com:8081/master/deeptotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Asian TV
-http://master.beeiptv.com:8081/mob/asian/playlist.m3u8
+http://master.beeiptv.com:8081/master/asian/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Boishakhi TV
-http://master.beeiptv.com:8081/mob/boishakhi/playlist.m3u8
+http://master.beeiptv.com:8081/master/boishakhi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Bangla TV
-http://master.beeiptv.com:8081/mob/banglatv/playlist.m3u8
+http://master.beeiptv.com:8081/master/banglatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Desh TV
-http://master.beeiptv.com:8081/mob/desh/playlist.m3u8
+http://master.beeiptv.com:8081/master/desh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",SATV
-http://master.beeiptv.com:8081/mob/satv/playlist.m3u8
+http://master.beeiptv.com:8081/master/satv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Nagorik TV
-http://master.beeiptv.com:8081/mob/nagoriktv/playlist.m3u8
+http://master.beeiptv.com:8081/master/nagoriktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Mohona TV
-http://master.beeiptv.com:8081/mob/mohona/playlist.m3u8
+http://master.beeiptv.com:8081/master/mohona/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",MY TV
-http://master.beeiptv.com:8081/mob/mytv/playlist.m3u8
+http://master.beeiptv.com:8081/master/mytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",ATN News
-http://master.beeiptv.com:8081/mob/atnnews/playlist.m3u8
+http://master.beeiptv.com:8081/master/atnnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",News 24
-http://master.beeiptv.com:8081/mob/news24/playlist.m3u8
+http://master.beeiptv.com:8081/master/news24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",DBC News
-http://master.beeiptv.com:8081/mob/dbcnews/playlist.m3u8
+http://master.beeiptv.com:8081/master/dbcnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Somoy News
-http://master.beeiptv.com:8081/mob/somoy/playlist.m3u8
+http://master.beeiptv.com:8081/master/somoy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Jamuna TV
-http://master.beeiptv.com:8081/mob/jamunatv/playlist.m3u8
+http://master.beeiptv.com:8081/master/jamunatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Channel 24
-http://master.beeiptv.com:8081/mob/channel24/playlist.m3u8
+http://master.beeiptv.com:8081/master/channel24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Gaan Bangla
-http://master.beeiptv.com:8081/mob/gaanbangla/playlist.m3u8
+http://master.beeiptv.com:8081/master/gaanbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Star Jalsha
-http://master.beeiptv.com:8081/mob/starjalsha/playlist.m3u8
+http://master.beeiptv.com:8081/master/starjalsha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Zee Bangla HD
-http://master.beeiptv.com:8081/mob/zeebangla/playlist.m3u8
+http://master.beeiptv.com:8081/master/zeebangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Sony Aath
-http://master.beeiptv.com:8081/mob/sonyaath/playlist.m3u8
+http://master.beeiptv.com:8081/master/sonyaath/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Colors Bangla HD
-http://master.beeiptv.com:8081/mob/colorsbangla/playlist.m3u8
+http://master.beeiptv.com:8081/master/colorsbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Jalsha Movies HD
-http://master.beeiptv.com:8081/mob/starjalshamovies/playlist.m3u8
+http://master.beeiptv.com:8081/master/starjalshamovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Zee Bangla Cinema
-http://master.beeiptv.com:8081/mob/zeebanglacinema/playlist.m3u8
+http://master.beeiptv.com:8081/master/zeebanglacinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BeeIPTV",Star Movies
-http://master.beeiptv.com:8081/mob/starmovies/playlist.m3u8
+http://master.beeiptv.com:8081/master/starmovies/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Any-Tv",Discovery Bangla
