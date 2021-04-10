@@ -11,7 +11,8 @@ http://62.171.150.44:1935/live/live1/chunklist_w2083329833.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
 https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.news247plus.com/contents_img/N247P-news-image-6291405812-23776-1597979555.jpg" group-title="Official Streaming",IPL-2021
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1617998293/ei/dV1wYOf1G7v64-EPtrW9uAw/ip/27.147.207.156/id/rGTrmQEOY5A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/2160/maudio/1/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKFUa0cKwtwG17NV0XFuCXQnFr2KrJKF_zvgwsoly1MUAiBX8E8RFuUGLL0RVrGBnB6NzmP_LAckD41YCZnBAfosEw%3D%3D/file/index.m3u8
+https://live.liquefy.cc/live/live/index.m3u8?sign=1618066150-4312714594de69dbf64d801b888b9e7a
+#https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1617998293/ei/dV1wYOf1G7v64-EPtrW9uAw/ip/27.147.207.156/id/rGTrmQEOY5A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/2160/maudio/1/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKFUa0cKwtwG17NV0XFuCXQnFr2KrJKF_zvgwsoly1MUAiBX8E8RFuUGLL0RVrGBnB6NzmP_LAckD41YCZnBAfosEw%3D%3D/file/index.m3u8
 #https://vootlivelinear.akamaized.net/hls/live/2013018/rsws_test_english/master_3628.m3u8
 #https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
 
@@ -3984,8 +3985,6 @@ http://stream.lytv.net.cn/2/sd/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="中国",
 
 #EXTINF:-1 tvg-logo="" group-title="中国",
-
-
 
 
 
