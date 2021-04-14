@@ -5,8 +5,7 @@
 https://llvod.mxplay.com/video/2543714c43aef14fae52f0ac7331cf17/2/hls/h264_high.m3u8
 #https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Cricket
-http://62.171.150.44:1935/live/live1/chunklist_w2083329833.m3u8
-#http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #http://43.251.86.6:8080/hls/channel_1.m3u8
 #http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
@@ -254,7 +253,7 @@ http://master.beeiptv.com:8081/master/gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (3)
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (4)
-http://62.171.150.44:1935/live/live1/chunklist_w1451715879.m3u8
+http://43.230.123.20:8082/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (5)
 http://62.171.150.44:1935/live/live1/chunklist_w1025283343.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (6)
@@ -1197,8 +1196,8 @@ http://103.205.133.21/hls/zeecinema.m3u8
 http://?MFZIVG9Kak5qcFdlUzlpTTNsamQ0NVdSM0FUVHpsbmJtQnpWeHRHTll0MGNDTjFiMFpsUjB3bWE2SldNeXBsYXVwbmMxbFZiVlZsYnFSRFR3dFdPczVVUjRWR2JHbEhiczkwWTQwbWJoNVVjeEpGUjNwWFIwY2tNd3BYZTFFVVpEcDJjV0YxU3ZJbmRwSjNURU5tU3dCM0xvZFZjWEptZDN3a05YSjNVNTlHV1FkVVJoNTJjSk5YY2FObWNMZDJLRlJHYjVsWFFCSm1UT3AzVVFWbk1hZG1hWHRVUzNobmFuUmxWdEZFV1d4R2IySjJRNUFGZHZOSGNNaFZVM1JIZTZGMlIzaDJZNVVWUA==
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/532-5320038_zee-cinema.png" group-title="IND हिंदी",Zee Cinema HD (6)
 http://103.81.104.222:80/hls/stream25.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/532-5320038_zee-cinema.png" group-title="IND हिंदी",Zee Cinema HD ()
-http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/532-5320038_zee-cinema.png" group-title="IND हिंदी",Zee Cinema HD (7)
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="https://image3.mouthshut.com/images/imagesp/925933400s.png",Zee5 Theatre
 
@@ -2600,7 +2599,8 @@ http://otv.ftpbd.net/streams/108/index.m3u8
 http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (6)
 http://103.251.247.105:3001/aostv/5f9687840ebdfb11f1048e46/aos.m3u8|tokenUrl:/4_4
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (7)
+http://62.171.150.44:1935/live/live1/chunklist_w2083329833.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjEGlmlRlgpSF6zn3RdwHAlR4LgckyXnhWPYIPH=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Geo Super (1)
 http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8?Live-TV™
@@ -3995,6 +3995,4 @@ http://stream.lytv.net.cn/2/sd/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="中国",
 
 #EXTINF:-1 tvg-logo="" group-title="中国",
-
-
 
