@@ -5,7 +5,8 @@
 https://llvod.mxplay.com/video/2543714c43aef14fae52f0ac7331cf17/2/hls/h264_high.m3u8
 #https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Cricket
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+https://show.streamingbd.com/hls/eflix/May1fL2-M4SFUPy1z6bGYg/1619101232/bd_t_sports.m3u8
+#http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #http://43.251.86.6:8080/hls/channel_1.m3u8
 #http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
@@ -2616,7 +2617,8 @@ http://103.102.136.106:8080/cmcltv/tsports.m3u8
 http://?cWRrV3lFVU5ZQlhURlpWYmg5Q2J6MFdaSVJIWjBaWFJsRjFOTDltYkhabmRybGxjdzFHT3ZaWFN5aFRSelIyYlhSblpVbERjVUpXYndZbVFKaFhXeWxsUWFoV1pVaG5XdFYxUk9wa2VvcDBTaE5rWjNOWE9vSkdjQmxtVW9SWGNDVjBiNVUzVlBaMmIyeFVjeEpuVlpOblZZSm1kaFpYYjJobmR5QTNZd2htYTNsR1Z6bDJjc1ozVU1SRmRLZEdjMUpWUXRKRk4=
 #http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (4)
-http://otv.ftpbd.net/streams/108/index.m3u8
+https://probashibangla-tv.telelivebd.com/linkers/tsports.stream/playlist.m3u8
+#http://otv.ftpbd.net/streams/108/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (5)
 http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (6)
