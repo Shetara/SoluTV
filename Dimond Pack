@@ -12,7 +12,7 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
 https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
-https://sonydai.akamaized.net/linear/hls/pb/event/9RUnGSO8Tpq6hoLGEtnAyg/stream/85a0f334-e4e4-4fcf-b245-80ea2869c2d1:SIN/variant/0a45b179d4765c74a30fc504b1bcfbcd/bandwidth/hdntl=exp=1619262548~acl=%2f*~id=49221463507945453963259160157077~data=hdntl~hmac=6fe338e42800c01e76cb1cec67cdd5b2e8a608fafc62ba1218718effa0247e96/1201200.m3u8
+https://sonydai.akamaized.net/hls/live/2022315/DAI11ME/master.m3u8?hdnea=exp=1619220074~acl=/*~id=2104220606179727215~hmac=1add7cdfa5e3e71c6bd797c76cfb670bb9549a83439628bed8cf9c7b786d3e18&originpath=/linear/hls/pb/event/9RUnGSO8Tpq6hoLGEtnAyg/stream/2f886310-b7e1-4896-b0b3-942f1bf7c0dc:SIN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.news247plus.com/contents_img/N247P-news-image-6291405812-23776-1597979555.jpg" group-title="Official Streaming",IPL-2021
 http://?MmRrV3lFVU5ZdFdURlpWYmg5U2N6MFdaSVJIWnZaWFJscEZVb1ozYjVrR2RuaFVhd2sxY2haamE0NUdNMzVVUU41V01XcDJOYVp6ZDBzQ04wTWpjemhIY1Voa1pxQkhSSHgyY0hsVWIyUkVaM1VGVTVaVlF2MEdUUmhuVVVkV2N5bDNhV0JqY2pSbmIwRkZaS1owWlNkbWVRMVVSbmxHYkhOemFyUVRQ
@@ -26,8 +26,7 @@ https://rootercwpoc.akamaized.net/hls/6bbe7e03508a0161f7ea89f02d330560/mid.m3u8
 #https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",SL vs BAN
-https://sonydai.akamaized.net/linear/hls/pb/event/9RUnGSO8Tpq6hoLGEtnAyg/stream/85a0f334-e4e4-4fcf-b245-80ea2869c2d1:SIN/variant/0a45b179d4765c74a30fc504b1bcfbcd/bandwidth/hdntl=exp=1619262548~acl=%2f*~id=49221463507945453963259160157077~data=hdntl~hmac=6fe338e42800c01e76cb1cec67cdd5b2e8a608fafc62ba1218718effa0247e96/1201200.m3u8
-#http://?NWRrV3lFVU5ZeFdURlpWYmg5aWJ6MFdaSVJIWnJaWFJscEZVb0YzYjVrR2RuaEVld2sxY2haamF0NUdNMzVVUU5sM00wWVZNU2wzYjNFMlZVTlZSeGxFZXJFbmVQQlhVYWhqZHc0V2NYdGtRNGtUWXpoSFJIWmpidmxuUWlaVWN5ZDFkME5sWTNOa2QyRjNkVzFrVHRwSE00cGxjT1JWZDNRMVlzTlhQ
+http://?NWRrV3lFVU5ZeFdURlpWYmg5aWJ6MFdaSVJIWnJaWFJscEZVb0YzYjVrR2RuaEVld2sxY2haamF0NUdNMzVVUU5sM00wWVZNU2wzYjNFMlZVTlZSeGxFZXJFbmVQQlhVYWhqZHc0V2NYdGtRNGtUWXpoSFJIWmpidmxuUWlaVWN5ZDFkME5sWTNOa2QyRjNkVzFrVHRwSE00cGxjT1JWZDNRMVlzTlhQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",Pak vs ZIM
 http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2haamFuNUdNMzVVUU5GWE1XcDJOYVpqYTBzQ04wTWpjcGhIY1Voa1pxVkhSSHgyY3hOa2E2aFZhcTFFYzRkSFpsbGtlTjUyUmFoR2Q0bGpic0ZFWkhKV1dyVnphaFZFUzFJM1k2NVVPSk5GYXY1MllvOVdQ
 
