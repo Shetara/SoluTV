@@ -5,8 +5,7 @@
 https://llvod.mxplay.com/video/2543714c43aef14fae52f0ac7331cf17/2/hls/h264_high.m3u8
 #https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Cricket
-https://show.streamingbd.com/hls/eflix/May1fL2-M4SFUPy1z6bGYg/1619101232/bd_t_sports.m3u8
-#http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #http://43.251.86.6:8080/hls/channel_1.m3u8
 #http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
@@ -24,7 +23,8 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/8564ba98176
 #https://vootlivelinear.akamaized.net/hls/live/2013018/rsws_test_english/master_3628.m3u8
 #https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",SL vs BAN
+http://?NWRrV3lFVU5ZeFdURlpWYmg5aWJ6MFdaSVJIWnJaWFJscEZVb0YzYjVrR2RuaEVld2sxY2haamF0NUdNMzVVUU5sM00wWVZNU2wzYjNFMlZVTlZSeGxFZXJFbmVQQlhVYWhqZHc0V2NYdGtRNGtUWXpoSFJIWmpidmxuUWlaVWN5ZDFkME5sWTNOa2QyRjNkVzFrVHRwSE00cGxjT1JWZDNRMVlzTlhQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",Pak vs ZIM
 http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2haamFuNUdNMzVVUU5GWE1XcDJOYVpqYTBzQ04wTWpjcGhIY1Voa1pxVkhSSHgyY3hOa2E2aFZhcTFFYzRkSFpsbGtlTjUyUmFoR2Q0bGpic0ZFWkhKV1dyVnphaFZFUzFJM1k2NVVPSk5GYXY1MllvOVdQ
 
@@ -2525,7 +2525,8 @@ http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/18807
 #http://103.81.104.222:80/hls/stream15.m3u8
 #https://khulnalive.anytv.live/starsp1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" group-title="Sports",Star Sports 1 (7)
-http://otv.ftpbd.net/streams/104/index.m3u8
+https://show.streamingbd.com/hls/eflix/May1fL2-M4SFUPy1z6bGYg/1619101232/bd_t_sports.m3u8
+#http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" group-title="Sports",Star Sports 1 (8)
 http://113.212.111.246:8080/hls/col2.m3u8
 
@@ -3564,6 +3565,11 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/612/logo/240x240/mobile_logo_032827001584856027.png" group-title="Kids",Sony YAY (4)
 http://103.81.104.222:80/hls/stream32.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjHh88awY5zeaAdK1qqA1kIKNGYxOwGzB-PuNYd=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",WOW KIDS (1)
+http://161.97.162.167:1936/live/watannews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjHh88awY5zeaAdK1qqA1kIKNGYxOwGzB-PuNYd=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",WOW KIDS (2)
+http://161.97.162.167:1936/live/watannews/chunklist_w799269245.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="Kids",POGO (1)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_POGO_KIDS-in/tracks-v1a1/mono.m3u8?token=Live-TV™.live
