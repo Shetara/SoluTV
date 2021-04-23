@@ -11,7 +11,8 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
 https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
+https://sonydai.akamaized.net/linear/hls/pb/event/9RUnGSO8Tpq6hoLGEtnAyg/stream/85a0f334-e4e4-4fcf-b245-80ea2869c2d1:SIN/variant/0a45b179d4765c74a30fc504b1bcfbcd/bandwidth/hdntl=exp=1619262548~acl=%2f*~id=49221463507945453963259160157077~data=hdntl~hmac=6fe338e42800c01e76cb1cec67cdd5b2e8a608fafc62ba1218718effa0247e96/1201200.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.news247plus.com/contents_img/N247P-news-image-6291405812-23776-1597979555.jpg" group-title="Official Streaming",IPL-2021
 http://?MmRrV3lFVU5ZdFdURlpWYmg5U2N6MFdaSVJIWnZaWFJscEZVb1ozYjVrR2RuaFVhd2sxY2haamE0NUdNMzVVUU41V01XcDJOYVp6ZDBzQ04wTWpjemhIY1Voa1pxQkhSSHgyY0hsVWIyUkVaM1VGVTVaVlF2MEdUUmhuVVVkV2N5bDNhV0JqY2pSbmIwRkZaS1owWlNkbWVRMVVSbmxHYkhOemFyUVRQ
@@ -25,25 +26,26 @@ https://rootercwpoc.akamaized.net/hls/6bbe7e03508a0161f7ea89f02d330560/mid.m3u8
 #https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",SL vs BAN
-http://?NWRrV3lFVU5ZeFdURlpWYmg5aWJ6MFdaSVJIWnJaWFJscEZVb0YzYjVrR2RuaEVld2sxY2haamF0NUdNMzVVUU5sM00wWVZNU2wzYjNFMlZVTlZSeGxFZXJFbmVQQlhVYWhqZHc0V2NYdGtRNGtUWXpoSFJIWmpidmxuUWlaVWN5ZDFkME5sWTNOa2QyRjNkVzFrVHRwSE00cGxjT1JWZDNRMVlzTlhQ
+https://sonydai.akamaized.net/linear/hls/pb/event/9RUnGSO8Tpq6hoLGEtnAyg/stream/85a0f334-e4e4-4fcf-b245-80ea2869c2d1:SIN/variant/0a45b179d4765c74a30fc504b1bcfbcd/bandwidth/hdntl=exp=1619262548~acl=%2f*~id=49221463507945453963259160157077~data=hdntl~hmac=6fe338e42800c01e76cb1cec67cdd5b2e8a608fafc62ba1218718effa0247e96/1201200.m3u8
+#http://?NWRrV3lFVU5ZeFdURlpWYmg5aWJ6MFdaSVJIWnJaWFJscEZVb0YzYjVrR2RuaEVld2sxY2haamF0NUdNMzVVUU5sM00wWVZNU2wzYjNFMlZVTlZSeGxFZXJFbmVQQlhVYWhqZHc0V2NYdGtRNGtUWXpoSFJIWmpidmxuUWlaVWN5ZDFkME5sWTNOa2QyRjNkVzFrVHRwSE00cGxjT1JWZDNRMVlzTlhQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",Pak vs ZIM
 http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2haamFuNUdNMzVVUU5GWE1XcDJOYVpqYTBzQ04wTWpjcGhIY1Voa1pxVkhSSHgyY3hOa2E2aFZhcTFFYzRkSFpsbGtlTjUyUmFoR2Q0bGpic0ZFWkhKV1dyVnphaFZFUzFJM1k2NVVPSk5GYXY1MllvOVdQ
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football 1
-http://45.134.21.230/hls/T1.m3u8
+#http://45.134.21.230/hls/T1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football 2
-http://45.134.21.230/hls/T2.m3u8
+#http://45.134.21.230/hls/T2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football 3
-http://45.134.21.230/hls/T3.m3u8
+#http://45.134.21.230/hls/T3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football 4
-http://45.134.21.230/hls/T4.m3u8
+#http://45.134.21.230/hls/T4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Movies 1 
-http://fun6.xyz:8880/HINDI_CINEMA_01/index.m3u8
+#http://fun6.xyz:8880/HINDI_CINEMA_01/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Movies 2
-http://fun6.xyz:8880/HINDI_CINEMA_02/index.m3u8
+#http://fun6.xyz:8880/HINDI_CINEMA_02/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Movies 3
-http://fun6.xyz:8880/HINDI_CINEMA_03/index.m3u8
+#http://fun6.xyz:8880/HINDI_CINEMA_03/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (1)
