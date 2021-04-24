@@ -32,7 +32,8 @@ http://?NWRrV3lFVU5ZeFdURlpWYmg5aWJ6MFdaSVJIWnJaWFJscEZVb0YzYjVrR2RuaEVld2sxY2ha
 http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2haamFuNUdNMzVVUU5GWE1XcDJOYVpqYTBzQ04wTWpjcGhIY1Voa1pxVkhSSHgyY3hOa2E2aFZhcTFFYzRkSFpsbGtlTjUyUmFoR2Q0bGpic0ZFWkhKV1dyVnphaFZFUzFJM1k2NVVPSk5GYXY1MllvOVdQ
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football 1
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,h_494,q_auto:low,w_344/https://origin-staticv2.sonyliv.com/portrait_thumb/SerieA20-21_Portrait_Thumb.jpg" group-title="Official Streaming",Serie A Football
+https://sonydaime.akamaized.net/hls/live/2005445/DAI6ME/master.m3u8?hdnea=exp=1619312782~acl=/*~id=190722103586182465~hmac=af62dd56861e53e1d50adba80945cf682623a1e6bc1a3feadfda9b9c3a307b6f&originpath=/linear/hls/pb/event/g1cPcUIdSQC_3FXsrgV5iA/stream/17fb981e-c54b-4ba5-97b5-32f25b7d9fb7:SIN2/master.m3u8
 #http://45.134.21.230/hls/T1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football 2
 #http://45.134.21.230/hls/T2.m3u8
