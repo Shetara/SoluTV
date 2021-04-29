@@ -12,8 +12,6 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
 https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
-https://sonydai.akamaized.net/hls/live/2022315/DAI11ME/master.m3u8?hdnea=exp=1619220074~acl=/*~id=2104220606179727215~hmac=1add7cdfa5e3e71c6bd797c76cfb670bb9549a83439628bed8cf9c7b786d3e18&originpath=/linear/hls/pb/event/9RUnGSO8Tpq6hoLGEtnAyg/stream/2f886310-b7e1-4896-b0b3-942f1bf7c0dc:SIN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.news247plus.com/contents_img/N247P-news-image-6291405812-23776-1597979555.jpg" group-title="Official Streaming",IPL-2021
 http://?MmRrV3lFVU5ZdFdURlpWYmg5U2N6MFdaSVJIWnZaWFJscEZVb1ozYjVrR2RuaFVhd2sxY2haamE0NUdNMzVVUU41V01XcDJOYVp6ZDBzQ04wTWpjemhIY1Voa1pxQkhSSHgyY0hsVWIyUkVaM1VGVTVaVlF2MEdUUmhuVVVkV2N5bDNhV0JqY2pSbmIwRkZaS1owWlNkbWVRMVVSbmxHYkhOemFyUVRQ
@@ -27,7 +25,7 @@ https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/119835505_189294659687373_5
 #https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",SL vs BAN
-http://?NWRrV3lFVU5ZeFdURlpWYmg5aWJ6MFdaSVJIWnJaWFJscEZVb0YzYjVrR2RuaEVld2sxY2haamF0NUdNMzVVUU5sM00wWVZNU2wzYjNFMlZVTlZSeGxFZXJFbmVQQlhVYWhqZHc0V2NYdGtRNGtUWXpoSFJIWmpidmxuUWlaVWN5ZDFkME5sWTNOa2QyRjNkVzFrVHRwSE00cGxjT1JWZDNRMVlzTlhQ
+https://sonydai.akamaized.net/hls/live/2022315/DAI11ME/master.m3u8?hdnea=exp=1619716071~acl=/*~id=2104290507180330848~hmac=e2544a44d527b6b889243acad00bb667927f9ecde44e87a3e809b2d4a548c46b&originpath=/linear/hls/pb/event/9RUnGSO8Tpq6hoLGEtnAyg/stream/1f9055a5-4c11-472e-8509-70af1d69236f:SIN/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",Pak vs ZIM
 http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2haamFuNUdNMzVVUU5GWE1XcDJOYVpqYTBzQ04wTWpjcGhIY1Voa1pxVkhSSHgyY3hOa2E2aFZhcTFFYzRkSFpsbGtlTjUyUmFoR2Q0bGpic0ZFWkhKV1dyVnphaFZFUzFJM1k2NVVPSk5GYXY1MllvOVdQ
 
