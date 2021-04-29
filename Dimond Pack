@@ -1446,7 +1446,7 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 http://?cGRrV3lFVU5ZeFdURlpWYmg5aWV6MFdaSVJIWnVaWFJscEZVb1IzYjVrR2RuaGtkd2sxY2haamF4NUdNMzVVUU41R01MQnpRNWwzWjJaa05OQlRabkZrYVhOVE1TTm5RWU5WZTJkMFpIVjJTTWhHU3BaMGM1SldWczkyTE5oMmQ0Um5kNFZUYVlWMFZuZEZSeFFqU0hwbVVCNTJLSUZIYzRsMVlPTldQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2422/logo/240x240/mobile_logo_395146001610630298.png" group-title="IND हिंदी",Sony Wah (3)
 http://208.115.215.42/Sony_Mix_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2019/11/18/enter10.jpg?itok=eDrzgRRi" group-title="IND हिंदी",Enter 10
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v3/imageContent-798-j5m7esnc-m10.png" group-title="IND हिंदी",Enter 10
 http://103.251.247.106:3001/aostv/600832e1af05178ef75e1df9/aos.m3u8|tokenUrl:/4_4
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhDVkXbG-WQsn3UwfxuZkkHWHtBBvNk447VqCch=s900-c-k-c0x00ffffff-no-rj" group-title="IND বাংলা",Enter 10 Bangla (1)
@@ -1454,9 +1454,9 @@ https://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhDVkXbG-WQsn3UwfxuZkkHWHtBBvNk447VqCch=s900-c-k-c0x00ffffff-no-rj" group-title="IND বাংলা",Enter 10 Bangla (2)
 http://103.81.104.222:80/hls/stream26.m3u8
 
-#EXTINF:-1 group-title="IND हिंदी" tvg-logo="https://yt3.ggpht.com/a/AATXAJxXTkc1RTZEVA6BJ3lI-6-kuDkFtDhqFzSUX7Qy6A=s900-c-k-c0xffffffff-no-rj-mo",Dangal TV (1)
+#EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-158-j5frd560-v2/imageContent-158-j5frd560-m3.png",Dangal TV (1)
 https://itvorigin.multitvsolution.com/idvo/dangal_540p/index.m3u8
-#EXTINF:-1 group-title="IND हिंदी" tvg-logo="https://yt3.ggpht.com/a/AATXAJxXTkc1RTZEVA6BJ3lI-6-kuDkFtDhqFzSUX7Qy6A=s900-c-k-c0xffffffff-no-rj-mo",Dangal TV (2)
+#EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-158-j5frd560-v2/imageContent-158-j5frd560-m3.png",Dangal TV (2)
 http://103.251.247.106:3001/aostv/600830e2af05178ef75e1df3/aos.m3u8|tokenUrl:/4_4
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/371/logo/115x115/mobile_logo_330756001564829116.png" group-title="IND বাংলা",Akash 8 (1)
@@ -1481,18 +1481,12 @@ http://?cmRrV3lFVU5ZVlhURlpWYmg5eVp6MFdaSVJIWnBaWFJscEZVb1IzYjVrR2RuaEVkd2sxY2ha
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/370/logo/115x115/mobile_logo_525894001563630186.png" group-title="IND বাংলা",DD Bangla (3)
 http://?NlZIVG9Kak5qeFdlUzlpTTNsRGQ0NVdSM0FUVDRsbmJtQnpWeEpITll0MGNDTmxkMFpsUjB3bWF0SldNeXBsYXU1bWMxbFZiVlZGZHFSRFR3dFdPejVVUjRWR2JHQkhiczkwWTQwMmJoNVVjeEpGUnhwWFIwY2tNd1JYZTFFVVpEcEdjV1ptYkhWbldwbERPNU5XUmtGWFlPMTBMTUZIYUZOR001bG5Xb2RWZERWSFNCZEhWMG8yYXFWWGJudDJWek1uUXpaMlM2WnpSczVXUnlwa2V6dGtlcmdWZHZZR1Z5QlRhVEZ6YnlnM1pUZFdaVDFVYVJKVk1FaDJRdmR6VVVSVGQxQW5UMklWWXpjVWJMUkdWT1pYTXhwRlNUNTBaWGRITXlRalJyUVdheVFsZUU5VWF1ZDNkdEpuVHhZSFZ5ZGpUR2QxYXNsbWRCMVRQ
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/DDSahyadriLogo.jpg/220px-DDSahyadriLogo.jpg" group-title="IND हिंदी",DD Sahyadri 
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11378-j9jq0f9s-v1/imageContent-11378-j9jq0f9s-m1.png" group-title="IND हिंदी",DD Sahyadri 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/0mhjMU8iD0hd94cPZbSCvbnVUDD4Bqyx0SWZHN6_Y9vETF8B_UnBR-d2OBslG05getk_gPbVep2HolYZYWIK6VpuTzxavB2TSN9FJwWianMzT4U0DYVGo_hm" group-title="IND हिंदी",DD Odia (1)
-https://itvorigin.multitvsolution.com/idvo/ddodia.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/0mhjMU8iD0hd94cPZbSCvbnVUDD4Bqyx0SWZHN6_Y9vETF8B_UnBR-d2OBslG05getk_gPbVep2HolYZYWIK6VpuTzxavB2TSN9FJwWianMzT4U0DYVGo_hm" group-title="IND हिंदी",DD Odia (2)
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Dd_national.jpg/240px-Dd_national.jpg" group-title="IND हिंदी",DD National (1)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png" group-title="IND हिंदी",DD National (1)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Dd_national.jpg/240px-Dd_national.jpg" group-title="IND हिंदी",DD National (2)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png" group-title="IND हिंदी",DD National (2)
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-08QQXuBPmmI/XqcIQtJ7lyI/AAAAAAAAAOg/h6vLFcREk8YQafuAATcMWM2TyyJNv1tUQCLcBGAsYHQ/w640/bengla%2Btimes.JPG" group-title="IND বাংলা",Bangla Time
@@ -1708,11 +1702,11 @@ http://156.146.43.241:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=Live-T
 #EXTINF:-1 tvg-logo="https://b4uplus.com/images/logo.png" group-title="IND हिंदी",B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjngTaLAtfJjrOY-PiSWYzOR6ND5S5FTIWLjs36=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",B4U Movies (1)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="IND हिंदी",B4U Movies (1)
 http://global.thunderbd.com/45/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjngTaLAtfJjrOY-PiSWYzOR6ND5S5FTIWLjs36=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",B4U Movies (2)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="IND हिंदी",B4U Movies (2)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjngTaLAtfJjrOY-PiSWYzOR6ND5S5FTIWLjs36=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",B4U Movies (3)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="IND हिंदी",B4U Movies (3)
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="IND हिंदी",B4U Kadak
@@ -1724,9 +1718,9 @@ https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjz91fksDZ5Ix_yDu9kcuj8t4gngY8_nWg32ICD9g=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_Omw-rW8O2kqFU-pOBq8at2OoRjP3cO557X2g=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",Kappa TV (1)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11520-j9jtr0y8-v1/imageContent-11520-j9jtr0y8-m1.png" group-title="IND हिंदी",Kappa TV (1)
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_Omw-rW8O2kqFU-pOBq8at2OoRjP3cO557X2g=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",Kappa TV (2)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11520-j9jtr0y8-v1/imageContent-11520-j9jtr0y8-m1.png" group-title="IND हिंदी",Kappa TV (2)
 
 
 #EXTINF:-1 tvg-logo="https://www.knowledgeskey.com/wp-content/uploads/2020/11/ABZY-Movie-1024x576.jpg" group-title="IND हिंदी",ABZY MOVIES
@@ -1761,15 +1755,15 @@ https://itvorigin.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/1120/logo/240x240/mobile_logo_848669001584341629.png" group-title="IND हिंदी",Animal PlaNet (2)
 http://?NWRrV3lFVU5ZMVdURlpWYmg5Q2F6MFdaSVJIWnhaWFJscEZVbzEyYjVrR2RuaDBad2sxY2haamE1NUdNMzVVUU5wMk0zVWtTSEYyWkdGa2U1cFhkMTUyVkpGalJhSlhaMDQwVUpabGMzTURPTkpsY3VCamFyZzFZeWNuY3AxV1F6c3lhcjkwTTBCektzeEdPcGgwWTRvWGRVbDJNd1kxWlg1VU9xVlZQ
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhFd-Hr2Khtqa6gdcu9OGnK6wX6sknaDKTepVky6A=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",ZEE HINDUSTAN
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11978-j9lum7d4-v1/imageContent-11978-j9lum7d4-m1.png" group-title="IND हिंदी",ZEE HINDUSTAN
 https://load.airtelxstream.in/zeehindustan/smil:common.smil/chunklist.smil.m3u8
 #EXTINF:-1 tvg-logo="https://trendingmediaafrica.com/wp-content/uploads/2018/05/Zee-World.jpg" group-title="IND हिंदी",Zee World
 http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.assettype.com/afaqs/import/all/news/images/news_story_grfx/2018/54153_1_home_big.jpg?w=1200&h=750" group-title="IND हिंदी",SHEMAROO CLASSIC
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52945-ka1wdss8-v2/imageContent-52945-ka1wdss8-m2.png" group-title="IND हिंदी",SHEMAROO CLASSIC
 https://m-c036-j2apps.s.llnwi.net/hls/3200.FaktMarathi.in.m3u8
 #EXTINF:-1 tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood-Premiere/5d790527a609d2a47a000004/large_16_9.jpg" group-title="IND हिंदी",Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fshemaroomarathi.jpg" group-title="IND हिंदी",Shemaroo Hindi TV
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52945-ka1wdss8-v2/imageContent-52945-ka1wdss8-m2.png" group-title="IND हिंदी",Shemaroo Hindi TV
 https://cdn.live.shemaroome.com/marathibana/smil:marathibanaadp.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f4/25/5b/f4255bb483dfe956bd5d046956bec584.png" group-title="IND हिंदी",HISTORY 18 HD
 
@@ -1844,7 +1838,7 @@ https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist
 http://?dFZIVG9Kak5qOVdlUzlpTTNsRGU0NVdSM0FUVG5sbmJtQnpWeHhHTll0MGNDTjFhMFpsUjB3bWF5SldNeXBsYXV4bWMxbFZiVlZsZXFSRFR3dFdPcTVVUjRWR2JHNUdiczkwWTQwbWNoNVVjeEpGUnBwWFIwY2tNd1ZYZTFFVVpEcDJaV2xWTnVGbVp1WjFWd3gwYkx0R1JoVkRVaGxWZTFabFFZTm1ZekJIU1lSMGFRNVdiSmhXTkdwRmJ5aDBkV1oxTjU5aVZGcDBTb2xtYWt4a2J1SkdkaGhuVTBOWFdvOVNRelJUVXJjWGR6aEdaQ1pUZVRoRFo2aDNac0IxVURWMWQ0c21kNU1YUA==
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJw3_xqyR7EWuIdTi4_YH3CThaaN1tsYeTmJhnQW=s900-c-k-c0x00ffffff-no-rj" group-title="ଓଡ଼ିଆ",Prag News
 #https://load.airtelxstream.in/pragnews/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/DD_Odia.png" group-title="ଓଡ଼ିଆ",DD Odia
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11366-j9jpvkw0-v1/imageContent-11366-j9jpvkw0-m1.png" group-title="ଓଡ଼ିଆ",DD Odia
 https://itvorigin.multitvsolution.com/idvo/ddodia.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyw_roXq4XySiDUSelWTyx1K_WYJdvY5L3hm5Hweg=s900-c-k-c0xffffffff-no-rj-mo" group-title="ଓଡ଼ିଆ",MBC TV
 #https://load.airtelxstream.in/mbctv/smil:common.smil/chunklist.m3u8
@@ -2070,20 +2064,20 @@ https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/s
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/StarSuvarnaLogo.jpg" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",STAR SUVARNA
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngnCsyxEU0Q55ltYo7o3143D2plIzbPS0JuRbNpy8w=s900-c-k-c0x00ffffff-no-rj" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",STAR VIJAY HD (1)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",STAR VIJAY HD (1)
 http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/10174
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngnCsyxEU0Q55ltYo7o3143D2plIzbPS0JuRbNpy8w=s900-c-k-c0x00ffffff-no-rj" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",STAR VIJAY HD (2)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",STAR VIJAY HD (2)
 http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/JGqZMmnBSk.png",Gemini TV HD
 
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/CZaJijsFez.png",Gemini Movies HD
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6710/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun TV HD (1)
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6692/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun TV HD (2)
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun TV HD (1)
 http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun TV HD (3)
+#EXTINF:-1 tvg-id="" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun TV HD (2)
 https://catchup.yuppcdn.net/amazonv2/20/preview/suntvhd/master/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun TV HD (3)
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun Life
 https://catchup.yuppcdn.net/amazonv2/20/preview/sunlife/master/master.m3u8
 #https://load.airtelxstream.in/sunlife/smil:common.smil/index.m3u8
@@ -2526,25 +2520,25 @@ https://gma2.blab.email/fs2.m3u8
 http://sonyiptv.net:8080/prasad123/00000/120192
 
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" group-title="Sports",Star Sports 1 (1)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 (1)
 http://?PWtHZG9WRmNtRjNkdGhGTlZaemMwUkRObU5WYUVkV1phZFVUdWRqY0taVFMxTWtNNlozTW9CWFdtcEdOS1IwYjYxVWNTOTBNaFJIZHJaMGJoVmpTUVJIZU9sWFpJZEZkalYwUkdaVk55QkhkTUZXTklwR2J1UnpRem9sZTNjak4wc2tTMkZqTUtkemIxSVhicXBXYklWV2UxZFhjRDlVY3h0a1E0c3lNakZuVTVnMFVabEViTEZHYnJFa2VvdEdhcUpsV3JoR1JzTnpRbnhrZXdKMlJGZFdkb0IxYndsWFI0OG1lMVZFZW10aWNySjFjeFVtVnh4VVVDTlRUQnBtTUhoM0sxbFhlSFJUU3lrR1QxTlZTeGxWZWlKSFV5aGpUdk5uZXNCbFRYQkhiNTVXTzF3MkxscG1ZeGdsVjVORmJRcDJOYWRUT3pSVlRpUlVWYVZIY3dKRlN6QURjeE0wU3Nsek42aHpSSFJHYzNSM1pVWlRRRWhEZUVwV1ZQeDJjcWxsY3pkMlpXaDNRTTUyUlU5bWEyZDFhU1prWTFkRWVUTm5jMGRtWUxOMlpNdEdjNXNVYXdra1VxOUNlelpHTmxWSFJJVlViM1pHY3ZwSFQzdDJUMEpEVmpSV2NqVm5ZSVpGYVVOa2F2RWpVdkpYZXJaWE13Z0RlWUIzTDFNbU5RaGpid1UwUzZsVVJ0WlVhb0pWWXZkV1VMVm5XdmtGYURsMEszZ2xjMWRsU0VKVFR3bFdPT0ZuUXN4RWJOZDFhdkZqYm9wVlRXcDJkb2wzTnJaSGN6RlhlUDEwTURSM1l1cEZOajUyYXlZSGR5WVVhMWQxYVB0bVJMRlRSMUZFY3c5RVV5Y25WMmN6U2xaRGFHdG1kV2RqYnk5V1A=
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" group-title="Sports",Star Sports 1 (2)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 (2)
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" group-title="Sports",Star Sports 1 (3)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 (3)
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
 #http://tv.neobd.net:1935/live/tv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" group-title="Sports",Star Sports 1 (4)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 (4)
 http://103.146.55.212:8088/starsp1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" group-title="Sports",Star Sports 1 (5)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 (5)
 http://?M2RrV3lFVU5ZdFdURlpWYmg5eVp6MFdaSVJIWnpaWFJsUldXU3AzUVBaRVp0MVdkNUZEVDJGVmU1bEZhTFJuVk1kSFVSWm5kMkVGY0lWMmNoRjJOcWRXVTM1bVRVMVdlNE1rU09KVGRwWkdkUVJGVXJKVFNNZFdXclJITktObE0yeFdkeDAwYjFKV1YyNTBRNlJ6Y1Q5MlJVSlVlT2xrY0hWa2RWVmxTblZEY1RGVGV5TlhNeGxVZXZjMGN5RUdjaHBFTnJGRmI=
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" group-title="Sports",Star Sports 1 (6)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 (6)
 http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/18807
 #http://103.81.104.222:80/hls/stream15.m3u8
 #https://khulnalive.anytv.live/starsp1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" group-title="Sports",Star Sports 1 (7)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 (7)
 https://show.streamingbd.com/hls/eflix/May1fL2-M4SFUPy1z6bGYg/1619101232/bd_t_sports.m3u8
 #http://otv.ftpbd.net/streams/104/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-1-logo-300x300.jpg" group-title="Sports",Star Sports 1 (8)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 (8)
 http://113.212.111.246:8080/hls/col2.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" group-title="Sports",Star Sports 1 Hindi (1)
@@ -2563,21 +2557,21 @@ http://sonyiptv.net:8080/prasad123/00000/147053
 http://uk4.zecast.com:1935/star-live/cloud2t/chunklist_w8761599.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (1)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 (1)
 http://otv.ftpbd.net/streams/116/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (2)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 (2)
 http://luckonline.eu:8080/17424/cnyzqDETiP/1370
 #ttp://103.81.104.222:80/hls/stream16.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (3)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 (3)
 http://global.thunderbd.com/26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (4)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 (4)
 http://103.146.55.212:8088/starsp2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (5)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 (5)
 http://?PTRHZG9WRmNtRkhhdGhGTlZaemN4UkRObU5WYUV4V1phZFVUdWRUZEtaVFMxTWtNdlozTW9CWFdteEdOS1IwYjYxMGFUaEVjMngyTTBKMGNVRjFMeWhXUlhSMllsdGlicmQxS2pGVmFvNVdXRGhWTlBSbmQ1aGxVaUpUYzRBRFdOdGtOMWxGV2hCVGRyWlhVcm9XVUdWVGFsdENkUVoyZHJGVFQwWVhVSEJuV29ObmRJVlhjdkluZXVWSFY0UjBScjUwTHc1MlN6bzNUbGxEYVpORmNKUkRTME5rTTY1MkxyRlhlalpYTUlGa2E0Z0dlRFZuZTFObWV5TTBaRmwyTTNWWE01TjJkNFJWVHZCelIzcDBUbkpYU3o0bU5ZUm5jeGgwYXhWVVFqeFVWdEpHTUQ5Q2EwMFdjYWhuWnVSa2JKRmpVT1JUVXFsRU5oaHpUS2QyUno5U1NCRkRkb1JIVnJjV2VuaDBhWk5XUk1kMk12dEVadVJUZFZSVloxMDBMNmREUkxkR2JrMW1SVVJsYTJ3RWN0OUNOdmNFZXcxRU1CWlZRcmRHTXdwVmJwWm5hMEVsV3BwVWV4Rm5UQ3BXWlJobmRpeFdNUTVrY1VabFNDdENjbkJsU2haVk82bG5UM0V6Tm1Ga2RVcFZWMW9sU3U5a1NzZFdSYU5uZHRSMU5SWlRlM2MwU3VaVWQ0dHlhbXBXVWFCSFNxbGpZUUJUYUVWVFk0bFdaeEIxWkNKeks1ZEhaeVUxY0RaRGNGTlZOdVJqVnU5aVF6UWxaMjEyTUlsVU5rWjBhMVUzVVhaVGFvUkRNbXhrVndRbmJoNTBaRUpFY3VaRWV4WkZab1oyUkxkMlVoQkhWQk5rTUlGWGRDNTBidlUwVm9WVlA=
 #https://khulnalive.anytv.live/starsp2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (6)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 (6)
 http://103.205.133.48/hls/chss2.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 (7)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 (7)
 http://103.205.133.21/hls/chss2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112" group-title="Sports",Star Sports 3 (1)
@@ -2592,33 +2586,33 @@ http://?eGRrV3lFVU5ZTlhURlpWYmg5Q2J6MFdaSVJIWjBaWFJsRjFOTGxuYkhabmRybGxidzFHT3Za
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a6/38/33/a6383306c863e1987a7636a90154b2c1.jpg" group-title="Sports",Star Sports 4
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports",Star S 1 Sel. (1)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star S 1 Sel. (1)
 http://221.120.204.4/STAR-SPORTS-SELECT-1-/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports",Star S 1 Sel. (2)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star S 1 Sel. (2)
 http://?PWdIZG9WRmNtRjNidGhGTlZaemMyUkRObU5WYUVKWFphZFVUdWRqYUtaVFMxTWtNcFozTW9CWFdtWkhOS1IwYjYxRWRVWjJTaTVtTTNkVFNCbEZNdmQzVnE5Q01yTVVkeUpsWjRGek0wMUViajlpUlFWM1FuUmxVWGQzWmF0MGNCeDJhNUpWT3h0a1NRNVdhSTFrTU9OR2NhNVVhTEZWVXNKMVJWUjFSekEzYVRSR1ZYTlZhTGxuYm41VVZuVmpNeXQyWktOWFI1SkVSd0EzYVpKMkxYcFdOMDVrYVlsRmFoaDNjUlJXWW1wR2V5a1VRalZWWXBwMFYxNG1UMEluYlVkbFEyVURkdmdrVXAxbU42TkVWR0pEVTZsWFVFNWtTMXRVZE9ORFZ4RmxSdWxuYnloM1QzcFhOTU5FTnpwMmRxRm5lNEEzWXVGbVFOcFZUbmQzWWtkbllOTmtjNkpVU3doMk14OUNXV3BHVENwbldtVmxiaU4yZGtSMVlDRm5jMGxHZHNSWFZHMTJMaGh6WTVKMmFXSldWVE5tTm9obmF2OWtNRk5IV3hKSFcxUkVlSU5VWnpVWFoxRkhNVEJGVXdsbVFQQjNNTkpIZFhKSGM0VVRkdFp6Y3pSWGNrOTJTUWRqVUJoVmRVaFhTYXhtZXpoSE9tRmtVVnAzYjJoVVZyRXpjbUpuVXp0a1VwaEZVdnRXU0JGblQwRjJTNkpWYllwM0xSQjNWNFpXTjRBM016cG5RUWRsZE5wa2VNZHpiQjUwTXQ1a1F6UldXdlJITVpkelVrRjFiRTUyYjJSVVd1ZFhPM0ZFVndOM2RtZGxkNEVXZDR0R1pKMW1kNWgzZHBoeks1bG5TRWhqYnlJVmJqWldSb1ozVDJsVVA=
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports",Star S 1 Sel. (3)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star S 1 Sel. (3)
 http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports",Star S 1 Sel. (4)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star S 1 Sel. (4)
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1760519830.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports",Star S 1 Sel. (5)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star S 1 Sel. (5)
 http://43.230.123.21:8080/live/starsportsselect-1.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports",Star S 1 Sel. (6)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star S 1 Sel. (6)
 http://103.81.104.222:80/hls/stream12.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (1)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (1)
 http://221.120.204.4/STAR-SPORTS-SELECT-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (2)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (2)
 http://?PWdIZG9WRmNtRkhidGhGTlZaemM1UkRObU5WYUV4V1phZFVUdWR6YktaVFMxTWtNdlozTW9CWFdtUkhOS1IwYjYxRWFScGtjblpVU3RSV1JTaDJZdkpuV3ZKVlZNWkRkeGxYVDVORFZ2aFdXbzkwY29OWGRXaEdlTVZEZDFoemNPVjBRMjVXUnRselZEOUdNTEJUVkJwVWVLZFVWRUZWVTNaRU1QbG1haFpuVm81a01FaG5lRTVtZHNwV1VzZFVWS1ZsZGlwSE55TVRPeVVHZHpGVVNhRkVXdmRqU0hKSFNIZEhVdnAwVjVnRGN1bGpaM2MzVndWMmNuUlVjMHAyUzVBRFVMTjBjbXAxVnFwSFV3OVVOT1JYY3J0bWVNSlhOMU1HZFpCVFp4c1NXcDFtU0cxR015Y1dWdFZUZGwxVWR2WWxVUmhYYngxR056OFNNdnBuYWs5RWV5cDJabFZqZXZZVVV6Vmtjck0wTVRSWFpybDJObkpEY3M5a1lPbGtZdmgzTkpGVFZQaFdPbDUyVnlWRGRFQkhPM1pYVW5aa1JFZFZXdXgyZDJvMVRCQkZiWFJuY0hoa2E0QkZkNVFFU3NwM2NrbDBUdGQzY3Naa2J5cDJibzVHVzV4bWNLWjNkWkpuU2paVGIzUWpUNEVIVDU5a1JKNUVXMlIzU2xoSFp5d2tieTRHVHp3bU0wTmtlTk5UT085bVMxWTFRck56YkI5bVNGRldjMDkyS1NoMEw0SjNTYVJUVG5sbmRqaG1VellrVHZKVVpoSkdTclZuTTJFbGI0bG1iTWxUYURsSE4xeDBhb2RUVm5GM1Mza25hRVYzYWFGbk1CSmtjdnBtUVlOWFlGbDNVTFpYZGxwMWI0Z1ZZemhITnQxVVA=
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (3)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (3)
 http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (4)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (4)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (5)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (5)
 http://103.251.247.106:3001/aostv/60084c4daf05178ef75e1e0e/aos.m3u8|tokenUrl:/4_4
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (6)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (6)
 http://43.230.123.21:8080/live/starsportsselect-2.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="Sports",Star S 2 Sel. (7)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (7)
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 #htps://rhridoy136.shortcm.li/starsportsselect2hd.m3u8
 
