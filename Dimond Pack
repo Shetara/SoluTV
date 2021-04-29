@@ -853,15 +853,15 @@ https://itvorigin.multitvsolution.com/idvo/rplusgold.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="IND বাংলা",Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/khushboo-bangla-tv-channel-logo-150x150.jpg" group-title="IND বাংলা",Khusbo Bangla (1)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27017-jjo92wyg-v1/imageContent-27017-jjo92wyg-m1.png" group-title="IND বাংলা",Khusbo Bangla (1)
 http://103.141.66.36/bpk-tv/10139/default/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/khushboo-bangla-tv-channel-logo-150x150.jpg" group-title="IND বাংলা",Khusboo Bangla (2)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27017-jjo92wyg-v1/imageContent-27017-jjo92wyg-m1.png" group-title="IND বাংলা",Khusboo Bangla (2)
 https://itvorigin.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-movu8hXt938/UH_QigkyqNI/AAAAAAAAAJI/lh9GXGMFauc/s1600/logo.png" group-title="IND বাংলা",Ekhon Kolkata
 http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" group-title="IND বাংলা",Calcutta News
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24685-jgrl9bqg-v1/imageContent-24685-jgrl9bqg-m2.png" group-title="IND বাংলা",Calcutta News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
 
 #EXTINF:-1 group-title="IND বাংলা" tvg-logo="https://indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2020/06/30/abp.jpg?itok=hvdQpABW",ABP Anondo
@@ -869,33 +869,33 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1158" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027842_channel_1533905958_1531815427_News18-Tamil_1_1_500x50011.png" group-title="IND हिंदी",News18 Tamil
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-192-j5fsr3s0-v1/imageContent-192-j5fsr3s0-m1.png" group-title="IND हिंदी",News18 Tamil
 https://news18tnvoot-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8|User-Agent:KAIOS
 #EXTINF:-1 tvg-id="1158" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027950_channel_1533906114_1531815785_News18-Chattisgarh11.png" group-title="IND हिंदी",News18 Mpcg
 https://news18mpchvoot-lh.akamaihd.net/i/n18mpcg_1@175737/index_5_av-p.m3u8|User-Agent:KAIOS
-#EXTINF:-1 tvg-id="1158" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027785_channel_1533905929_1531815076_News18-Gujarati_1_1_500x50011.png" group-title="IND हिंदी",News18 Gujarati
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-15-j5f97j2o-v4/imageContent-15-j5f97j2o-m3.png" group-title="IND हिंदी",News18 Gujarati
 https://news18gujvoot.akamaized.net/i/n18gujarat_1@370955/index_5_av-p.m3u8|User-Agent:KAIOS
-#EXTINF:-1 tvg-id="1158" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027769_channel_1533906477_1531816400_News18-Odia_1_1_500x50011.png" group-title="IND हिंदी",News18 Odia
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13243-jbirprzs-v1/imageContent-13243-jbirprzs-m1.png" group-title="IND हिंदी",News18 Odia
 https://news18odiavoot-lh.akamaihd.net/i/n18odia_1@179753/index_5_av-p.m3u8|User-Agent:KAIOS
-#EXTINF:-1 tvg-id="1158" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027908_channel_1534165411_News18-Lokmat_1_1_500x5001.png" group-title="IND हिंदी",News18 Lokmat
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12140-j9p7vga8-v1/imageContent-12140-j9p7vga8-m1.png" group-title="IND हिंदी",News18 Lokmat
 https://news18lokmatvoot-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8|User-Agent:KAIOS
-#EXTINF:-1 tvg-id="1158" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027920_channel_1533906346_channel_1533120932_News18-Kerala11.png" group-title="IND हिंदी",News18 Kerala
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12309-ja9ac8n4-v1/imageContent-12309-ja9ac8n4-m1.png" group-title="IND हिंदी",News18 Kerala
 https://news18keralavoot-lh.akamaihd.net/i/n18kerala_1@526583/index_5_av-p.m3u8|User-Agent:KAIOS
-#EXTINF:-1 tvg-id="1158" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027834_channel_1533906016_1531815470_News18-Kannada_1_1_500x50011.png" group-title="IND हिंदी",News18 Kannada
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9824-j85wb88o-v1/imageContent-9824-j85wb88o-m1.png" group-title="IND हिंदी",News18 Kannada
 https://news18kanadavoot-lh.akamaihd.net/i/n18kannada_1@372918/master.m3u8|User-Agent:KAIOS
-#EXTINF:-1 tvg-id="1158" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027949_channel_1533906298_1531816214_News18-Himachal-Pradesh_1_1_500x50011.png" group-title="IND हिंदी",News18 Punjabi
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1011-j5ng33kg-v1/imageContent-1011-j5ng33kg-m1.png" group-title="IND हिंदी",News18 Punjabi
 https://news18hipuvoot-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8|User-Agent:KAIOS
-#EXTINF:-1 tvg-id="1158" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027989_channel_1533906267_1531816166_News18-Assam_1_1_500x50011.png" group-title="IND हिंदी",News18 Assame
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12390-jai3fgy0-v1/imageContent-12390-jai3fgy0-m1.png" group-title="IND हिंदी",News18 Assame
 https://news18asnevoot-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8|User-Agent:KAIOS
 #EXTINF:-1 tvg-id="1158" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535028055_channel_1533906226_1531816009_News18-UP11.png" group-title="IND हिंदी",News18 Upuk
 https://news18upukvoot-lh.akamaihd.net/i/n18upuk_1@175735/index_5_av-p.m3u8|User-Agent:KAIOS
-#EXTINF:-1 tvg-id="1158" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027926_channel_1533906053_1531815606_News18-Urdu_1_1_500x50011.png" group-title="IND हिंदी",News18 Urdu
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11426-j9jqror4-v2/imageContent-11426-j9jqror4-m3.png" group-title="IND हिंदी",News18 Urdu
 https://news18urduvoot-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8|User-Agent:KAIOS
-#EXTINF:-1 tvg-id="1158" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027984_channel_1533906156_1531815870_News18-Rajasthan11.png" group-title="IND हिंदी",News18 Tamil
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23226-jeyiac80-v1/imageContent-23226-jeyiac80-m1.png" group-title="IND हिंदी",News18 Rajasthan
 https://news18rajthnvoot-lh.akamaihd.net/i/n18raj_1@175738/index_5_av-p.m3u8|User-Agent:KAIOS
-#EXTINF:-1 tvg-id="1158" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535028061_channel_1533906086_1531815737_News18-Jharkhand11.png" group-title="IND हिंदी",News18 Bihari
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23206-jey39grs-v1/imageContent-23206-jey39grs-m2.png" group-title="IND हिंदी",News18 Bihari
 https://news18bijhvoot-lh.akamaihd.net/i/n18biharjh_1@175736/index_5_av-p.m3u8|User-Agent:KAIOS
-#EXTINF:-1 tvg-id="1158" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027739_channel_1533905845_1531814815_News18-Bangla_1_1_500x50011.png" group-title="IND हिंदी",News18 Bangla
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-22186-jenuxy6g-v2/imageContent-22186-jenuxy6g-m5.png" group-title="IND हिंदी",News18 Bangla
 https://news18banglavoot-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8|User-Agent:KAIOS
 
 
@@ -906,7 +906,7 @@ http://global.thunderbd.com/46/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnijC5mLJ4TP-iJe3lQnb20QdOi_rRTi-4nzzD8SJA=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",PATRIKA RAJASTHAN
 
 
-#EXTINF:-1 tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg" group-title="IND हिंदी",AAJ TAK HD	 				
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" group-title="IND हिंदी",AAJ TAK HD	 				
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Arre_Brand_UDigital_Logo.png" group-title="IND हिंदी",ARRE HD
@@ -3504,27 +3504,27 @@ http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b110
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Kids/5bebcba7a609d202b3000005/large_16_9.jpg" group-title="Kids",Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/playlist_ak.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",CARTOON NETWORK IND (1)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",CARTOON NETWORK IND (1)
 http://otv.ftpbd.net/streams/123/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",CARTOON NETWORK IND (2)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",CARTOON NETWORK IND (2)
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",Cartoon Network
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN Plus
+#EXTINF:-1 group-title="Kids" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",CN Plus
 http://103.251.247.106:3001/aostv/60083660af05178ef75e1e01/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",CN Arabic
 http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/08/02/Untitled-1_26.jpg" group-title="Kids",Hungama Kids
 https://tivimateplaylists.live/hungamakidzszs
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids",DISNEY (1)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",DISNEY (1)
 http://otv.ftpbd.net/streams/122/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids",DISNEY (2)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",DISNEY (2)
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney Channel
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="Kids",DISNEY jr. (1)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png" group-title="Kids",DISNEY jr. (1)
 http://79.137.41.99/DisneyChannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="Kids",DISNEY jr. (2)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png" group-title="Kids",DISNEY jr. (2)
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://exchange4media.gumlet.io/news-photo/1507190484_3cwE4C_big.jpg",Disney International HD
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/KIDS_DISNEY_INTERNATIONAL_HD-in/index.m3u8?token=Live-TV™.live
@@ -3583,9 +3583,9 @@ http://161.97.162.167:1936/live/watannews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjHh88awY5zeaAdK1qqA1kIKNGYxOwGzB-PuNYd=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",WOW KIDS (2)
 http://161.97.162.167:1936/live/watannews/chunklist_w799269245.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="Kids",POGO (1)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Kids",POGO (1)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_POGO_KIDS-in/tracks-v1a1/mono.m3u8?token=Live-TV™.live
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="Kids",POGO (2)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Kids",POGO (2)
 http://182.176.93.225:8000/play/a01p
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/SewJoaeUcv.png" group-title="Kids",Jio KIDS
@@ -3673,13 +3673,13 @@ http://?cUoxZHdOVGE2aEhhMDVXTjVGRmJMeFVkanhrVXBkM05TeFdWWWhXYVhGSGU0YzFadlFsTTFv
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Music",Music Choice TV
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/musicchoice.stream/live-orgin/musicchoice.stream/chunks.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",Sangeet Bangla (1)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-864-j5mava4o-v1/imageContent-864-j5mava4o-m1.png" group-title="Music",Sangeet Bangla (1)
 http://master.beeiptv.com:8081/mob/sangeetbangla/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",Sangeet Bangla (2)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-864-j5mava4o-v1/imageContent-864-j5mava4o-m1.png" group-title="Music",Sangeet Bangla (2)
 http://103.205.133.21/hls/sangeetbangla.m3u8
-#EXTINF:-1 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",Sangeet Bangla (3)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-864-j5mava4o-v1/imageContent-864-j5mava4o-m1.png" group-title="Music",Sangeet Bangla (3)
 http://?PXdtVTNCM01wcG5hb1JuYjFrWFVudEVUMU5HVFNWM2QzSUZjSHRTYjVjbmNEUldjdnBXZE9aVFVIcFdjMlpYVjZoMWFFTjNUTWhGTm4xRVdtWkVUU2QyWVlSbVJvUlZhMklEUk5wa1d1VjBiMmNYU1h0V2R4aFVWNWtXZHpCVFRWTkVjbkJUZTJrekxINTJhVWxHT2lGVGNTUnpOdTFtYTUxa2VGUldWeVZYZXNCMVIyeFVhNU4zWTFZMVExaFZiSVpXT3A1R1V2UnpNbEpFYk9CSFMzcFVjdEpYUkYxVVdFTm5RMUEzTVVKbmFNSmthVWgzYTBObVkwY0Rja0ozVFFWbGQ0TlVlbHR5TW1Sa1JuaEhPWGRVYXZSWFp5OVdPeW9tZXlNbVJJUkdk
-#EXTINF:-1 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",Sangeet Bangla (4)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-864-j5mava4o-v1/imageContent-864-j5mava4o-m1.png" group-title="Music",Sangeet Bangla (4)
 http://?eEoxZHdOVGE2dEdhMDVXTjVGVmNMeFVkanhrVTNkM05TNTJOWWRXVVBsMVpyMEVib3RTUUZoRmVvTkZkUjVrV0xOWGFNSkdjc0ZuYTNzQ1dFSlZXdGhEYzBzRWExRlhaWWxtU3Fsa2VSWnpaVTl5YnFkVmVNaFRhMkluVmhCWFpHVkhkNE1YZTROWE5yeFVTaFIwUjV3V2M0MGtOMTRFYXY0V05HdFVUd2hFZEJoblU0QTNLNVIzU0NGR2FCbEhOd3BuVDVkWFRyZFZNNUZYWW9sV1JySlZhcGhEYnZoVVN5ZFZXVjFtVTFrblJXcDJONHhHYnZ3RU5JRmpVNHRpUmxaMVpJcEhOdEJIYm1ObmFSUjBad1lGVzBCMVF5RlRjMEZYU3dFVlcxb1hiMk0wTGhOVFN1aERUNU4zWlpsSGR6RnphMEJsYU1oRmFuMVRQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/405/logo/115x115/mobile_logo_153227001563707398.png" group-title="Music",Dhoom Music (1)
 http://103.146.55.212:8088/dhoom/tracks-v1a1/mono.m3u8
@@ -3713,9 +3713,9 @@ https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhVJfMKRvghWP1ibjmaTUyx3POPieBt057RJes6Mw=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Music Mastii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnihoG2Ik78RvjQi7hEokUQEkOIljdzQWXTq465Q=s900-c-k-c0x00ffffff-no-rj" group-title="Music",B4U Music (1)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png" group-title="Music",B4U Music (1)
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnihoG2Ik78RvjQi7hEokUQEkOIljdzQWXTq465Q=s900-c-k-c0x00ffffff-no-rj" group-title="Music",B4U Music (2)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png" group-title="Music",B4U Music (2)
 http://89.187.169.205:2200/NL/b4umusic-in/index.m3u8?token=
 #http://dx3.gcdn.co/hindi-B4UMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng25zyBjV3cEOdnl385akI7zPkjiiq_0VIxJz__iA=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Zee ETC
@@ -3726,19 +3726,19 @@ http://?NWRrV3lFVU5ZUlhURlpWYmg5aWJ6MFdaSVJIWnNaWFJscEZVb2QyYjVrR2RuaFVkd2sxY2ha
 http://z5amshls.akamaized.net/zing/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/391/logo/115x115/mobile_logo_768627001557730377.png" group-title="Music",Zing (3)
 http://?clZIVG9Kak5qbFhlUzlpTTNsVGQ0NVdSM0FUVHNsbmJtQnpWeHRHTll0MGNDTlZiMFpsUjB3bWEzSldNeXBsYXVabmMxbFZiVlYxWnFSRFR3dFdPeTVVUjRWR2JHOUdiczkwWTQwR2FoNVVjeEpGUjRwWFIwY2tNd0JYZTFFVVpEcEdiV1pXUm1aR2V3MTBWVWRETlBoWFJ5Um5jV0pVZGExbU5PcDFMb0YwUlJkRlIxSjNUTFpWYjJja2EzQlhSTnBIZHlwbWM0TXpZVk5IVVFaRWVWdDBaNGMwUUVkV1EwVlVjc3RHUnZWbmRIQlRVQjVtYm9kSFVYSldhdTEyS0dOak5NeEdPa2xVUA==
-#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/02/14/9x-jalwa.jpg?itok=Ln0OzLW1" group-title="Music",9x Jalwa (1)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-102-j5fl5pyg-v1/imageContent-102-j5fl5pyg-m1.png" group-title="Music",9x Jalwa (1)
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/02/14/9x-jalwa.jpg?itok=Ln0OzLW1" group-title="Music",9x Jalwa (2)
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-102-j5fl5pyg-v1/imageContent-102-j5fl5pyg-m1.png" group-title="Music",9x Jalwa (2)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="http://www.radioandmusic.com/sites/www.radioandmusic.com/files/styles/490x490/public/images/biz/2017/07/24/Tashan2.jpg?itok=vqlkVcxJ" group-title="Music",9x Tashan
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-180-j5fsqxls-v1/imageContent-180-j5fsqxls-m1.png" group-title="Music",9x Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjFvkIZEtHTi8hE1SNUURvHII718GxBDWbs-Lq34Q=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Zoom (1)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png" group-title="Music",Zoom (1)
 http://103.146.55.212:8088/zoom/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjFvkIZEtHTi8hE1SNUURvHII718GxBDWbs-Lq34Q=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Zoom (2)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png" group-title="Music",Zoom (2)
 http://hitectv.live/hls/stream8.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjFvkIZEtHTi8hE1SNUURvHII718GxBDWbs-Lq34Q=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Zoom (3)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png" group-title="Music",Zoom (3)
 http://?dkoxZHdOVGE2MUdhMDVXTjVGRmFMeFVkanhrVTVkM05TTjNiMDhtTmpsSFJ4c1diRU56YjZCRE0yNTBTUEozVDJjSFZqWm1hSlpYZUhKblZabFZWbngwU285eWJsaDNZcE5GTXlRMGFzcDBRbUowTDA5R2MxVUVTVGhuTXloalVuaFRkQnBWVTVCVlcwUlhkc2huV3JOSFJrTlZZREZsZG5oMGI1bzNOcXBVY3JwWFF4Z1hUVnhtUnhOVGVrQlRkTVozYnRkbE12TldScjhtZVdsRWV3eGthaVIxWnJvbVV0Sm5TekIzS1N0R092NWtVaDUwWmlOMVFERmpjM2hUVGxkelV0MVdNTDFVUA==
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjFvkIZEtHTi8hE1SNUURvHII718GxBDWbs-Lq34Q=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Zoom (4)
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png" group-title="Music",Zoom (4)
 http://103.81.104.222/hls/stream8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g6Fggh3/SBI-MUSIC.jpg" group-title="Music",SBi Music
 http://livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
@@ -3748,7 +3748,7 @@ https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 https://live.hungama.com/linear/dhamaal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sangeet_Bhojpuri.jpg" group-title="Music",Sangeet Bhojpuri
 https://m-c01-j2apps.s.llnwi.net/hls/0432.SangeetBhojpuri.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Sangeet_Marathi.jpg" group-title="Music",Sangeet Marathi
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-870-j5mb6j80-v1/imageContent-870-j5mb6j80-m1.png" group-title="Music",Sangeet Marathi
 http://103.141.66.36/bpk-tv/10334/default/manifest.mpd?=.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/1c97d135732337.Y3JvcCw3MjAsNTYyLDAsNg.jpg" group-title="Music",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?Live-TV™
