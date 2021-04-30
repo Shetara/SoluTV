@@ -989,7 +989,7 @@ http://ms-azure-video.gslb.startimestv.com/live/STAR_LIFE_1034_500_480x360_27746
 https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/1518144333_MALtTY_unnamed.jpg" group-title="IND हिंदी",Star Plus (1)
-http://khulnalive.anytv.live:8080/starplus/index.m3u8
+http://103.205.133.19/hls/chsp.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/1518144333_MALtTY_unnamed.jpg" group-title="IND हिंदी",Star Plus (2)
 http://global.thunderbd.com/67/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/1518144333_MALtTY_unnamed.jpg" group-title="IND हिंदी",Star Plus (3)
@@ -1000,7 +1000,7 @@ http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 http://208.115.215.42/Star_Plus_HD_UK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="IND हिंदी",Star Plus HD (1)
-http://103.205.133.19/hls/chsp.m3u8?Live-TV™
+https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="IND हिंदी",Star Plus HD (2)
 http://103.205.133.21/hls/chsp.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="IND हिंदी",Star Plus HD (3)
@@ -1740,9 +1740,9 @@ http://156.146.43.241:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=Live-T
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="IND हिंदी",B4U Movies (1)
-http://global.thunderbd.com/45/tracks-v1a1/mono.m3u8
+https://ott.bingebd.com/live/ngrp:b4u_movies_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="IND हिंदी",B4U Movies (2)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.m3u8
+http://global.thunderbd.com/45/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="IND हिंदी",B4U Movies (3)
 
 
