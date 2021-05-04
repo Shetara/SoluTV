@@ -31,7 +31,7 @@ http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2ha
 
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,h_494,q_auto:low,w_344/https://origin-staticv2.sonyliv.com/portrait_thumb/SerieA20-21_Portrait_Thumb.jpg" group-title="Official Streaming",Serie A Football
-https://sonydaime.akamaized.net/hls/live/2005445/DAI6ME/master.m3u8?hdnea=exp=1620005083~acl=/*~id=190722103586182465~hmac=7969516c0b94d1e1ecf4297286ff501b25695e58138cef4cab7d1bc5465b67b3&originpath=/linear/hls/pb/event/g1cPcUIdSQC_3FXsrgV5iA/stream/def60be8-648c-4528-8891-af515745e5a6:SIN/master.m3u8
+https://d3suou6a9afvzs.cloudfront.net/out/v1/c4ee26f87643415299bb830250a9d622/index.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,h_494,q_auto:low,w_344/https://origin-staticv2.sonyliv.com/portrait_thumb/SerieA20-21_Portrait_Thumb.jpg" group-title="Official Streaming",Serie A Football
 https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master.m3u8?hdnea=exp=1620005156~acl=/*~id=190722103586182465~hmac=2bf361087512343a4b8acee5bc36cd1bdd6cc74ae9719a39305ea98ccd44dea3
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,h_494,q_auto:low,w_344/https://origin-staticv2.sonyliv.com/portrait_thumb/SerieA20-21_Portrait_Thumb.jpg" group-title="Official Streaming",Serie A Football
@@ -2665,7 +2665,7 @@ http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 http://sonyiptv.net:8080/prasad123/00000/77811
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (1)
-http://103.205.133.19/hls/tsports.m3u8
+http://103.205.133.48/hls/tsports.m3u8
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (2)
 http://103.102.136.106:8080/cmcltv/tsports.m3u8
