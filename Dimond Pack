@@ -53,6 +53,12 @@ https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master
 #http://fun6.xyz:8880/HINDI_CINEMA_03/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="International;Infotainment",NASA TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="International;Infotainment",NASA Media TV 
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8 
+
+
 
 
 #EXTINF:-1 tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/2c33201c7d208b0ea9ff445b6708ffb2.png" group-title="The Believer",(Illuminati Agenda) The Army of Shaytan Series
@@ -1681,9 +1687,10 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8?Live-TV�
 https://itvorigin.multitvsolution.com/idvo/housefullmovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/amp_metadata_content_image_min_696px_wide/public/images/story/2011/12/01/UTV.jpg?itok=NVaX2Q5V" group-title="IND हिंदी",Utv Action (1)
-http://103.81.104.118/hls/stream7.m3u8
+http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/amp_metadata_content_image_min_696px_wide/public/images/story/2011/12/01/UTV.jpg?itok=NVaX2Q5V" group-title="IND हिंदी",Utv Action (2)
-http://otv.ftpbd.net/streams/124/index.m3u8
+http://103.81.104.118/hls/stream7.m3u8
+#http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/amp_metadata_content_image_min_696px_wide/public/images/story/2011/12/01/UTV.jpg?itok=NVaX2Q5V" group-title="IND हिंदी",Utv Action (3)
 http://hitectv.live/hls/stream7.m3u8
 
@@ -2145,7 +2152,7 @@ https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/StarSuvarnaLogo.jpg" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",STAR SUVARNA
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",STAR VIJAY HD (1)
-http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/10174
+http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",STAR VIJAY HD (2)
 http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/JGqZMmnBSk.png",Gemini TV HD
@@ -2157,12 +2164,16 @@ http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun TV HD (2)
 https://catchup.yuppcdn.net/amazonv2/20/preview/suntvhd/master/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun TV HD (3)
+http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/60733112f28dd/60733112f28dd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun Life
 https://catchup.yuppcdn.net/amazonv2/20/preview/sunlife/master/master.m3u8
 #https://load.airtelxstream.in/sunlife/smil:common.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/sun_music.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun Music HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/sun_music.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun Music HD (1)
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/sun_music.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun Music HD (2)
+http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/6090349a372d6/6090349a372d6.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/sun_music.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun Music (1)
 https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/sun_music.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Sun Music (2)
@@ -2177,24 +2188,35 @@ http://?PVlYZE1obU0yTW1hNUoxTHljWE9waG5iRmRETU5oWGV1WkdNWEYzZDBnMVN6SjBVM1JuVkdS
 
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/z/yVYhUoLXAQ.png",Zee Telugu
 
-#EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/z/quuKNFcizk.png",Zee Tamil
+#EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/z/quuKNFcizk.png",Zee Tamil (1)
+http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/608981748ea1d/608981748ea1d.m3u8
+#EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/z/quuKNFcizk.png",Zee Tamil (2)
 https://catchup.yuppcdn.net/amazonv2/20/preview/zeetamil/master/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/uploads/2018/12/Zee-Channel-Logo_Zee-Keralam-HD_280-X-200.jpg" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Zee Keralam HD
 https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Colors Tamil
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Colors Tamil (1)
+http://uk1.zecast.com:1935/star-live/colours/chunklist_w907334263.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Colors Tamil (2)
 https://catchup.yuppcdn.net/amazonv2/20/preview/colorstamil/master/master.m3u8
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/z/zwrypSxCAh.png",Zee Picchar
 
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/fkvGbgydOk.png",Zee Thirai
-https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8?hdnts=st=1618928770~exp=1618931770~acl=/*~hmac=62b7bb58e9b84a00c37d7b024c4531590ad0bc606e6aab70440ddce188464117
+http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/6079438879c23/6079438879c23.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-LFshxm0LCAo/WIyO8AFq_NI/AAAAAAAADP0/317sR41hbGw5qEP2eQEEY5Jdiwzp3Kx7gCLcB/s1600/1hd.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Asianet HD
 
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/TpRBzTmKyy.png",Asianet Movies
 
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/lqRSENYJfE.png",Asianet Plus
 
-#EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/iuIOuFUfZu.png",KTV HD
+#EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/iuIOuFUfZu.png",KTV HD (1)
 http://uk1.zecast.com:1935/star-live/ktv/index.m3u8
+#EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/iuIOuFUfZu.png",KTV HD (2)
+http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/60734d4da621b/60734d4da621b.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/l31LSCkGK8VE7LsrLYmMhVDRWF56ivbOJ7POqoUFrrla9lKuGLpKd25Vab3Eo41b3js" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",KCV
+http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Raj_TV_Tamil.png/250px-Raj_TV_Tamil.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",RajTV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 #https://load.airtelxstream.in/rajtv/smil:common.smil/index.m3u8
@@ -2206,12 +2228,19 @@ http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.wxca.cf/images/a/BpIYVAiEzi.png",Raj News Kannada
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Jaya Tv
+http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/145637.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Jaya MAX
 https://catchup.yuppcdn.net/amazonv2/20/preview/jayamax/master/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/jayaplus.jpg" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Jaya Plus
 https://catchup.yuppcdn.net/amazonv2/20/preview/jayatv/master/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/jaya-movie.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు", JAYA MOViE
 https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pVsN1z1r/IMG-20210501-125648.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",J vision tv
+http://198.144.149.82:8080/DINESH/JVISION/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzbvq3D9/Screenshot-2021-04-28-14-34-26-620-org-videolan-vlc-1619601709044.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Jay tv
+http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",M4 Malayalam
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
