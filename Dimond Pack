@@ -25,6 +25,11 @@ http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2ha
 
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,h_494,q_auto:low,w_344/https://origin-staticv2.sonyliv.com/portrait_thumb/SerieA20-21_Portrait_Thumb.jpg" group-title="Official Streaming",Serie A Football
+https://d3suou6a9afvzs.cloudfront.net/out/v1/c4ee26f87643415299bb830250a9d622/index.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,h_494,q_auto:low,w_344/https://origin-staticv2.sonyliv.com/portrait_thumb/SerieA20-21_Portrait_Thumb.jpg" group-title="Official Streaming",Serie A Football
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master.m3u8?hdnea=exp=1620005156~acl=/*~id=190722103586182465~hmac=2bf361087512343a4b8acee5bc36cd1bdd6cc74ae9719a39305ea98ccd44dea3
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,h_494,q_auto:low,w_344/https://origin-staticv2.sonyliv.com/portrait_thumb/SerieA20-21_Portrait_Thumb.jpg" group-title="Official Streaming",Serie A Football
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master.m3u8?hdnea=exp=1620005304~acl=/*~id=190722103586182465~hmac=e43000abd17f9748c9ab4615b26efb493233c1b106c8c721d025996736a25d5d
 
 
 #http://45.134.21.230/hls/T1.m3u8
@@ -1296,6 +1301,9 @@ http://?MVZIVG9Kak5qVlhlUzlpTTNsemQ0NVdSM0FUVHpsbmJtQnpWeGxITll0MGNDTmxkMFpsUjB3
 http://?PWtuVTNCM01wcEhlb1JuYjFrWFV0dEVUMU5HVFNOM2QzSWxkWlpVZDZwM2F6aFhjcHhHTWpGa2RFaG1laFJqVm5oRGFFdG1aUWRGTXJCRFp6SXpjdFpuVWtSMllscG5iejBrZEJ4VVYzRm5aQ2RWUWlkM1NYdHlNSWhYZFE1bU1QOWtlMGRqYlU5MlJuNUdWeXRHZDBWRmVrZFZaTHBXY3hGRldya1hhclUzSzRrMExMeEVjNWwwUUs5V2NvSmtTUjlTVnNkblYzQmxkd1pVY3daV2VUQkZkbzlDYm5wa1V0eG1kWkJqY041VWRRQlZWVE4yWW5CWGMwWmpOQlpuTTQ4MlF4dENlTlZIYzNsMFl3NVdiUDlHV1hoM1EzTlRNUWhHYXlwM2M0Y1ZW
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/354/logo/240x240/mobile_logo_838825001584856836.png" group-title="IND हिंदी",Zee Cinema (7)
 http://103.102.136.106:8080/cmcltv/tcm_zeecinema.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/354/logo/240x240/mobile_logo_838825001584856836.png" group-title="IND हिंदी",Zee Cinema (8)
+https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="IND हिंदी",Zee Cinema HD (1)
@@ -1801,8 +1809,10 @@ http://global.thunderbd.com/45/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="IND हिंदी",B4U Movies (3)
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="IND हिंदी",B4U Kadak
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="IND हिंदी",B4U Kadak (1)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?Live-TV™
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="IND हिंदी",B4U Kadak (2)
+https://d207nlzuawwh55.cloudfront.net/B4U_KADAK.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy5gj72S5WbAoyO5b9tgJPX-Yddw3Xfq9N-aTGp=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",BTV KADAK 
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
@@ -2040,6 +2050,9 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6719/index.m3u8
 http://?PXdtVTNCM01wcG5hb1JuYjFrWFUxdEVUMU5HVFNGM2QzSTFaeWd6WmhKR1NEcEZScWRXYUVaM1EzVlhacVpWWTJ4MmN5RW5Ra1pVZHpwbWJIdDBZTXBITnl0RU5CUjJjaGRsTW5SalpxbFVUd1lWVEZsWGVzUlVVb0ZqY0ROME5vcEhjNUpqVkZkMGF6Sm5kc1IyVGtwMGNQbEVNV056YzF0aU1RWjNkNWNIZVlkRFdsbEhhclpHYlRaMlFzSmtZcklVVzRzR2VSTm5WNXdrYjJsWE95VVZNbkJEU3pOVlMyY25kTjFVT3NORmIzcDNOemNGVDNSekw1cFVRdEpYUnFKaldXQlRjeUFqWnpaR00zZEVSeGhGZEdkV1Z5YzJLVWhqYzBBbFpYaFRl
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.toffee-cms.com/images/program/666/logo/115x115/mobile_logo_129012001571808877.png" group-title="پاکستان",ARY Digital (4)
 http://?c2RrV3lFVU5ZcFdURlpWYmg5aWF6MFdaSVJIWnNaWFJscEZVb0IzYjVrR2RuaEVjd2sxY2haamE1NUdNMzVVUU5wV00yc2thV2wxYVRobGNyVm5jcFZYTVV0Q1pqaEhiSHhHZENobGF2RWtheWtXVXFwV01EdEVUMFYzS3FCVFRoSmphck0wVjZSMlMyOWljTDlFZVlCbmNYUjJOUXAxY3p0bVd5RlZQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="پاکستان",ARY News
+http://42.201.228.226:8678/ARYNEWS_EBRAVO_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn61.liveonlineservices.com/upload/images/TGl2ZSBUViAtIERhbm5rYSAjMjM5MjA=/1496175.png" group-title="پاکستان",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
@@ -3128,7 +3141,8 @@ http://203.162.235.41:16917
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="English",BBC News World (1)
 http://103.153.175.254:8080/hls/stream36.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="English",BBC News World (2)
-http://hitectv.live/hls/stream36.m3u8
+https://d2cuyje6aq0ny8.cloudfront.net/BBC_WORLD.m3u8
+#http://hitectv.live/hls/stream36.m3u8
 
 #EXTINF: -1 tvg-logo="https://cdn.toffee-cms.com/images/program/669/logo/115x115/mobile_logo_008672001571808155.png" group-title="English",Rai Italia (1)
 http://?cWRrV3lFVU5ZbFhURlpWYmg5U2F6MFdaSVJIWnhaWFJscEZVb2gzYjVrR2RuaGtid2sxY2haamFxNUdNMzVVUU41Mk1waFROdk0xWkRWM01oaEVXbmhIU0psa1F1VjNiS0JUZGt0MGJ2VjFUNkpHVTFCRGRxRmtabFIzYlZwbU40QjNaMlIxS2xWMlI1SkRUTVJ6WjNBSE1OZERjM1VFZEVoMlVHdFdQ
@@ -3803,6 +3817,8 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?Live-TV™
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png" group-title="Music",B4U Music (2)
 http://89.187.169.205:2200/NL/b4umusic-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png" group-title="Music",B4U Music (3)
+https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 #http://dx3.gcdn.co/hindi-B4UMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng25zyBjV3cEOdnl385akI7zPkjiiq_0VIxJz__iA=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Zee ETC
 http://dx3.gcdn.co/hindi-ZEEETC/index.m3u8
@@ -3821,7 +3837,8 @@ https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png" group-title="Music",Zoom (1)
 http://103.146.55.212:8088/zoom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png" group-title="Music",Zoom (2)
-http://hitectv.live/hls/stream8.m3u8
+https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
+#http://hitectv.live/hls/stream8.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png" group-title="Music",Zoom (3)
 http://?dkoxZHdOVGE2MUdhMDVXTjVGRmFMeFVkanhrVTVkM05TTjNiMDhtTmpsSFJ4c1diRU56YjZCRE0yNTBTUEozVDJjSFZqWm1hSlpYZUhKblZabFZWbngwU285eWJsaDNZcE5GTXlRMGFzcDBRbUowTDA5R2MxVUVTVGhuTXloalVuaFRkQnBWVTVCVlcwUlhkc2huV3JOSFJrTlZZREZsZG5oMGI1bzNOcXBVY3JwWFF4Z1hUVnhtUnhOVGVrQlRkTVozYnRkbE12TldScjhtZVdsRWV3eGthaVIxWnJvbVV0Sm5TekIzS1N0R092NWtVaDUwWmlOMVFERmpjM2hUVGxkelV0MVdNTDFVUA==
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png" group-title="Music",Zoom (4)
@@ -3859,10 +3876,15 @@ http://?dkoxZHdOVGE2WkhhMDVXTjVGMWFMeFVkanhrVXBkM05TZG1NNFlYWWloMFFhUlVhbmxHUjJO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Music",CHANNEL [V]
 https://www.fanmingming.cn/hls/channelv.m3u8?Live-TV™
+#EXTINF:-1 tvg-logo="https://www.thefilmcatalogue.com/assets/company-logos/1515/237.jpg" group-title="Music",Show Box
+https://d2lybujvbxswjw.cloudfront.net/SHOW_MUSIC.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2431/logo/240x240/mobile_logo_258033001610630514.png" group-title="Music",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2431/logo/240x240/mobile_logo_258033001610630514.png" group-title="Music",MTV India
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2431/logo/240x240/mobile_logo_258033001610630514.png" group-title="Music",MTV India (1)
 http://?cGRrV3lFVU5ZVlhURlpWYmg5eWR6MFdaSVJIWnJaWFJscEZVb1ozYjVrR2RuaEVld2sxY2haamFxNUdNMzVVUU5sMk1LTmtSd0ZVYUZWR2V6OGlNdjkyY2hGRU1ySm5iSWRqZUo1MGN3SVZhNlZEYjZ0RVd0bGpRQlpIWm9wbGN2cFVlMUFuZVNGR1d5UjJiRkZHZENWblI0dGlUdllFY1BabGN5ZFdQ
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2431/logo/240x240/mobile_logo_258033001610630514.png" group-title="Music",MTV India (2)
+https://d3t60pmzggqymi.cloudfront.net/MTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2432/logo/240x240/mobile_logo_191682001609414705.png" group-title="Music",MTV Beats HD (1)
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
