@@ -4,55 +4,28 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Official Streaming",Live-TV™
 http://161.97.162.167:1936/live/watannews/playlist.m3u8
 #https://llvod.mxplay.com/video/2543714c43aef14fae52f0ac7331cf17/2/hls/h264_high.m3u8
-#https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/index_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Cricket
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#http://43.251.86.6:8080/hls/channel_1.m3u8
-#http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
 https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master.m3u8?hdnea=exp=1622334244~acl=/*~id=60579583057796109232069774136365~hmac=a5dd77fa914b93f87069ae60d722f2b2c9db69d806a556a08bb311cd8d3534ed
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",BAN VS SL
-http://?MmRrV3lFVU5ZdFdURlpWYmg5U2N6MFdaSVJIWnZaWFJscEZVb1ozYjVrR2RuaFVhd2sxY2haamE0NUdNMzVVUU41V01XcDJOYVp6ZDBzQ04wTWpjemhIY1Voa1pxQkhSSHgyY0hsVWIyUkVaM1VGVTVaVlF2MEdUUmhuVVVkV2N5bDNhV0JqY2pSbmIwRkZaS1owWlNkbWVRMVVSbmxHYkhOemFyUVRQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",BAN vs SL
-http://?dGRrV3lFVU5ZcFdURlpWYmg5U2J6MFdaSVJIWm9aWFJsRjFOTEJuYkhabmRybDFjdzFHT3ZaWFN2aFRSelIyYlgxR1p5UTJZUjlpZDNBWFdyVnphemQwS205V09IbDNZSkoxWTVBbGFuRkRkQnBWY3hWWFF2d1VlUmRITkVKemNEZEhjc0ZUYlRsSGNzOTBjNmhEVG9WblZIUlZUM0J6YnAxR1o2VmpTNnAzTVZOWFRCbEhkM05uZDRSRWRNaDBac2xWWTVCM0s=
 
 #EXTINF:-1 tvg-logo="https://www.news247plus.com/contents_img/N247P-news-image-6291405812-23776-1597979555.jpg" group-title="Official Streaming",IPL-2021
 http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2haamFuNUdNMzVVUU5GWE1XcDJOYVpqYTBzQ04wTWpjcGhIY1Voa1pxVkhSSHgyY3hOa2E2aFZhcTFFYzRkSFpsbGtlTjUyUmFoR2Q0bGpic0ZFWkhKV1dyVnphaFZFUzFJM1k2NVVPSk5GYXY1MllvOVdQ
 
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,h_494,q_auto:low,w_344/https://origin-staticv2.sonyliv.com/portrait_thumb/SerieA20-21_Portrait_Thumb.jpg" group-title="Official Streaming",Serie A Football
-https://d3suou6a9afvzs.cloudfront.net/out/v1/c4ee26f87643415299bb830250a9d622/index.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,h_494,q_auto:low,w_344/https://origin-staticv2.sonyliv.com/portrait_thumb/SerieA20-21_Portrait_Thumb.jpg" group-title="Official Streaming",Serie A Football
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master.m3u8?hdnea=exp=1620005156~acl=/*~id=190722103586182465~hmac=2bf361087512343a4b8acee5bc36cd1bdd6cc74ae9719a39305ea98ccd44dea3
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,h_494,q_auto:low,w_344/https://origin-staticv2.sonyliv.com/portrait_thumb/SerieA20-21_Portrait_Thumb.jpg" group-title="Official Streaming",Serie A Football
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master.m3u8?hdnea=exp=1620005304~acl=/*~id=190722103586182465~hmac=e43000abd17f9748c9ab4615b26efb493233c1b106c8c721d025996736a25d5d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",BAN VS SL
+http://?MmRrV3lFVU5ZdFdURlpWYmg5U2N6MFdaSVJIWnZaWFJscEZVb1ozYjVrR2RuaFVhd2sxY2haamE0NUdNMzVVUU41V01XcDJOYVp6ZDBzQ04wTWpjemhIY1Voa1pxQkhSSHgyY0hsVWIyUkVaM1VGVTVaVlF2MEdUUmhuVVVkV2N5bDNhV0JqY2pSbmIwRkZaS1owWlNkbWVRMVVSbmxHYkhOemFyUVRQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",BAN vs SL
 
-
-#http://45.134.21.230/hls/T1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football 2
-#http://45.134.21.230/hls/T2.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football 3
-#http://45.134.21.230/hls/T3.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football 4
-#http://45.134.21.230/hls/T4.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Movies 1 
-#http://fun6.xyz:8880/HINDI_CINEMA_01/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Movies 2
-#http://fun6.xyz:8880/HINDI_CINEMA_02/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Movies 3
-#http://fun6.xyz:8880/HINDI_CINEMA_03/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Official Streaming",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Official Streaming",NASA Media TV 
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8 
-
-
 
 
 #EXTINF:-1 tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/2c33201c7d208b0ea9ff445b6708ffb2.png" group-title="The Believer",(Illuminati Agenda) The Army of Shaytan Series
@@ -62,54 +35,15 @@ https://scontent.fdac6-1.fna.fbcdn.net/v/t42.27313-2/10000000_4144454115601415_1
 https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_492226471903248_3798615171677598315_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeGt9Ezxh5xFLqZWVI84oBLTI0ZkZCZaDIkjRmRkJloMiW0rrgE5qylHlk8qxe14YNS1fHXPJpNqe_YtZSnIXcQi&_nc_ohc=E6LL6WutK2cAX_l5QZX&_nc_ht=scontent.fdac6-1.fna&oh=f470e44ce8dac74ac0491dd2f06da299&oe=60B09FE1
 
 
-#EXTINF:-1 tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/2c33201c7d208b0ea9ff445b6708ffb2.png" group-title="The Believer",জুলকারনাইন এবং ইয়াজুজ মাজুজ এর আসল পরিচয়
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_1161994930894352_8270461895073254372_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeGbAI2OQnGJIBCWfSg2aK5GqLQTYzTF2Z6otBNjNMXZnpFE68EbSL0_9CpRRAahlB_iDgLs8yWWGtcqX_9ECXDq&_nc_ohc=lerkcxdVM4QAX9t862X&_nc_oc=AQmByZJVU5fV872cQezm6W9bsMPoz2Vg2kVjOZ-hBAzkZvE_Go22DmoCjUuxsZLSZKc&_nc_ht=scontent.fdac6-1.fna&oh=140ee7feead3b81216b6666261ed9dd6&oe=60B985A0
-#EXTINF:-1 tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/2c33201c7d208b0ea9ff445b6708ffb2.png" group-title="The Believer",জুলকারনাইন এবং ইয়াজুজ মাজুজ-পর্ব ১
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_101822112005697_5713088744116514178_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeEgtfq19LeJlkIX7y_UDCH6dlrECyeeyhF2WsQLJ57KEQUrYZfxl1KKXv0PEetMC7rqox9DPttTFndI2KdEjEN2&_nc_ohc=iza4jnFq-GQAX88E2Ws&_nc_ht=scontent.fdac6-1.fna&oh=a1b72406f715c6edf2501944dcaa2e16&oe=60B051A1
-#EXTINF:-1 tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/2c33201c7d208b0ea9ff445b6708ffb2.png" group-title="The Believer",জুলকারনাইন এবং ইয়াজুজ মাজুজ-পর্ব ২
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_1584266438430279_6561403999120481985_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeH-bmpK4MQ9O1OuijkelClLmHJwA3aIKhOYcnADdogqE9-gHtgzbb_-Q3F9pLOEOvnIrSGIDag5zHkHl9G8jdwY&_nc_ohc=TnHVrkQgmMkAX_U0kqb&_nc_ht=scontent.fdac6-1.fna&oh=71a374bd7b7484d615c39389a139066c&oe=60B007C0
-#EXTINF:-1 tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/2c33201c7d208b0ea9ff445b6708ffb2.png" group-title="The Believer",জুলকারনাইন এবং ইয়াজুজ মাজুজ-পর্ব ৩
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_483100909397193_3486659833037124446_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeHIiAK1X9OKAMyKhKrtZ3VwEa1z6z0b4jMRrXPrPRviMxSEPYQF_QnlKAuFw0FX5048XDad80rMjNMXE6Ts2nuK&_nc_ohc=IEcRAmoHRDkAX8SDUQ4&_nc_oc=AQkR6pKqxCbRT-ZsYnsEAQdLX77it82hvxfwP4Lc8kt0qtQFhUUQXDjb-oTRz4H-VBs&_nc_ht=scontent.fdac6-1.fna&oh=7b4dc5b280a97db089b8c84df1cc5f4a&oe=60B22C2E
-#EXTINF:-1 tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/2c33201c7d208b0ea9ff445b6708ffb2.png" group-title="The Believer",জুলকারনাইন এবং ইয়াজুজ মাজুজ-পর্ব ৪
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_203345427987528_3615521410524708849_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeGF5-abwWry_oiATRmydSgM2xeAQBIQ4PbbF4BAEhDg9qFYsZ2sVmumXU9hPee8FuZzVrIzq7335UDrkTdHVV9N&_nc_ohc=h7fo5mIyH7MAX-rfb6e&_nc_ht=scontent.fdac6-1.fna&oh=51f0a23599dd75976b6786070dc8b5bd&oe=60B224CF
-#EXTINF:-1 tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/2c33201c7d208b0ea9ff445b6708ffb2.png" group-title="The Believer",জুলকারনাইন এবং ইয়াজুজ মাজুজ-পর্ব ৫
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_754220348818897_8155567972354391557_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeGH2zu2fJRZdY7amb_jnu4Kw924KDAb3mjD3bgoMBveaE-ywYUNqUbz4SUWdG8hBjAqwQj9C1eXD_pTGtiDrKmq&_nc_ohc=1_E9cggMl-0AX-4WI1e&_nc_ht=scontent.fdac6-1.fna&oh=1ea5d9bd9bbfae803722317cfec16955&oe=60B19543
-#EXTINF:-1 tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/2c33201c7d208b0ea9ff445b6708ffb2.png" group-title="The Believer",জুলকারনাইন এবং ইয়াজুজ মাজুজ-পর্ব ৬
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_264381445336692_4350924575971392651_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeF_OIw2x10A3PbeNP0jjlMX99LL1C3oOLL30svULeg4sgApgk6TyKWLYehPxA3VGoZ9OsrMKO9MHwMoj4GqZcDv&_nc_ohc=GxobU_fht5AAX89JWpt&_nc_ht=scontent.fdac6-1.fna&oh=ba86dcee3a638e791ea3a9d133d97522&oe=60B1EB15
 
-#EXTINF:-1 tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/2c33201c7d208b0ea9ff445b6708ffb2.png" group-title="The Believer",১০০ বছরের দীর্ঘ পরিকল্পনা || ইজরাইলের আসল লক্ষ্য কি?
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_463736771528529_599535569446930000_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeH5gHqsXCW5P5Zq2fmcJ12yksUxQkwaANmSxTFCTBoA2WofKibSD4F_gxNNfBrGXb0S3ebQ81ItLfxwKPlz64o8&_nc_ohc=NBYD1UGPlrEAX-VZ16-&_nc_ht=scontent.fdac6-1.fna&oh=d54bb328a3a74221d1c34d9a89a3e613&oe=60B13A01
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.loyarburok.com/wp-content/uploads/2011/04/473728553_9f969e6775_z.jpg?fit=640%2C480&ssl=1" group-title="The Truth of Islam",(ঈমান) আবু ত্ব-হা মুহাম্মাদ আদনান
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_3848782081866693_6639015334898935021_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeGvDO9A4uHb0x4J6JyKkN91K6ebhSwqDrIrp5uFLCoOshHq8pMOesQ87APh0ZMjIDWjDKKgIHk9jkZNbjMIm3TD&_nc_ohc=FTRyVmHfG3UAX-_PkM8&_nc_ht=scontent.fdac6-1.fna&oh=4ee9436edf5e797455a7a0d0498cb88f&oe=60AC8A72
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.loyarburok.com/wp-content/uploads/2011/04/473728553_9f969e6775_z.jpg?fit=640%2C480&ssl=1" group-title="The Truth of Islam",(যিনা) আবু ত্ব-হা মুহাম্মাদ আদনান
-https://scontent.fdac6-1.fna.fbcdn.net/v/t42.1790-2/10000000_459600298716294_1006538134780146710_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=985c63&efg=eyJybHIiOjQzNywicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_eui2=AeFAquWK-SVLno0tq_yO450Mbf9NDUI6gWdt_00NQjqBZ1GW2GkVbcOw7vCJ9HHbQo6SfosjtPk5bdI--Z1Rzz_A&_nc_ohc=3exi_U6qyUcAX_N9hbN&rl=437&vabr=243&_nc_ht=video.fdac6-1.fna&oh=4f14561207ee534d0de050f6dfa7c829&oe=60883B1D
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.loyarburok.com/wp-content/uploads/2011/04/473728553_9f969e6775_z.jpg?fit=640%2C480&ssl=1" group-title="The Truth of Islam",(মালহামা❗❗) আবু ত্ব-হা মুহাম্মাদ আদনান
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_405125274011526_2255066247402703847_n.mp4?_nc_cat=108&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeGv_Dx-qJwZuFRJtmbO1zjJP222V_Ar124_bbZX8CvXbgzLhWLgcsE97MS40mX1CyZjWufB0A9kPJpZ0eSeITd8&_nc_ohc=UZupLLjdXjYAX8PPlKT&_nc_ht=scontent.fdac6-1.fna&oh=713f4b7c6923492b291b86ff073a4548&oe=60AD27D1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.loyarburok.com/wp-content/uploads/2011/04/473728553_9f969e6775_z.jpg?fit=640%2C480&ssl=1" group-title="The Truth of Islam",(কালকের জন্য অপেক্ষা করবেন না) আবু ত্ব-হা মুহাম্মাদ আদনান
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_801530940745034_7370368446683772803_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeE048NkNcRxGDOS1EYA-pNZ4ZYtk2DB96Hhli2TYMH3oYyQtAXJBsd-Ja_29K2O4_TYErCShQYjUPLuASflIe05&_nc_ohc=hCs-4dEUbswAX_ivzxa&_nc_ht=scontent.fdac6-1.fna&oh=55efd1e80f69c332eee734c9119b11a0&oe=60B137C6
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.loyarburok.com/wp-content/uploads/2011/04/473728553_9f969e6775_z.jpg?fit=640%2C480&ssl=1" group-title="The Truth of Islam",(ইসলাম ও বর্তমান বিশ্ব❗❗) আবু ত্ব-হা মুহাম্মাদ আদনান
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_917132432443696_7079854314983791923_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeHN-Qb9VOgje3jvAgi6l4MB2VMF7khkwTvZUwXuSGTBO01amHTVeYkRiA-yHWKmenEAXTrEbM_q7BwcIce-4t-y&_nc_ohc=GhQcmShwatMAX9RjY9c&_nc_ht=scontent.fdac6-1.fna&oh=1ab69411c4bdde1ce295a0bbee0a1c04&oe=60AE6E05
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.loyarburok.com/wp-content/uploads/2011/04/473728553_9f969e6775_z.jpg?fit=640%2C480&ssl=1" group-title="The Truth of Islam",(শেষ জমানার গল্প) আবু ত্ব-হা মুহাম্মাদ আদনান
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_248219547012424_8140876759234241489_n.mp4?_nc_cat=108&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeG7vUqkcNwbI4og8IOK8flnUPzGZZzu1MBQ_MZlnO7UwByFZmZElApmoo97EH553S12ktlVjr-Sz2hhSpMaCQQQ&_nc_ohc=PbJi90bNunMAX9Gah7i&_nc_ht=scontent.fdac6-1.fna&oh=0fca2b56e19d0f0689b1ef872fa7c462&oe=60B3060E
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.loyarburok.com/wp-content/uploads/2011/04/473728553_9f969e6775_z.jpg?fit=640%2C480&ssl=1" group-title="The Truth of Islam",(সূরা ফালাক ও সূরা নাস এর ৫ টি ফজীলত) আবু ত্ব-হা মুহাম্মাদ আদনান
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_1118255338650819_7488121242594841702_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeHL9WoX8I9EC0dVfqRty_Z-BjX1H3MOArQGNfUfcw4CtJvc1seosSqqwrMNH6_Gg7qNDeBSiP5fg89gdqphWM9A&_nc_ohc=2ushoQDUnxgAX8Ea5Ck&_nc_ht=scontent.fdac6-1.fna&oh=54623a8e0021a72f03ec1d36595213c7&oe=60B15947
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.loyarburok.com/wp-content/uploads/2011/04/473728553_9f969e6775_z.jpg?fit=640%2C480&ssl=1" group-title="The Truth of Islam",(EXPOSED - মিডিয়া❗❗) আবু ত্ব-হা মুহাম্মাদ আদনান
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_1365150427175831_3200452862086457224_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeF2OONFmAlcMAlbUSqgMUOYGqAoRywTItkaoChHLBMi2U8j8GtA-Nq1n09hokoPbogeM6tXkhexlRvmVh2iO6dK&_nc_ohc=TmYR7cLyFZgAX91W8ui&_nc_ht=scontent.fdac6-1.fna&oh=7de9fb64088aa797e53de5dca1c59095&oe=60B14171
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.loyarburok.com/wp-content/uploads/2011/04/473728553_9f969e6775_z.jpg?fit=640%2C480&ssl=1" group-title="The Truth of Islam",(ইতিহাসের প্রথম পাতা❗❗) আবু ত্ব-হা মুহাম্মাদ আদনান
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_2980377838858571_7082862991884020601_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeEcpZGqKL18TKrxeSGFDOcQhMXp2QBsTdqExenZAGxN2tnXzrRL4qLuaCJqePzjTozeOuZ9Z7KYvTsDh50zcjLF&_nc_ohc=YAEHmgF0BYoAX-mnfBm&_nc_ht=scontent.fdac6-1.fna&oh=c0bee551de7c43571e502cce8554de67&oe=60B287F8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.loyarburok.com/wp-content/uploads/2011/04/473728553_9f969e6775_z.jpg?fit=640%2C480&ssl=1" group-title="The Truth of Islam",(World HistorY,করোনা ভাইরাস,আগামী বিশ্ব,মালহামা ও শেষ জমানা) আবু ত্ব-হা মুহাম্মাদ আদনান
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_1683382325180471_6162424799973472334_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeHDAv7nR8M_BoLzlA741ThMoMLUmqPAtKSgwtSao8C0pIKsOOPSHMGYRNhIEZ7ZYVLY66GFNQ7nJmWwJFTYwsHj&_nc_ohc=sfD13L0UtAYAX8LoYxi&_nc_ht=scontent.fdac6-1.fna&oh=85851c1bbc564ad534b7f41bd5f39b82&oe=60B2C988
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.loyarburok.com/wp-content/uploads/2011/04/473728553_9f969e6775_z.jpg?fit=640%2C480&ssl=1" group-title="The Truth of Islam",(হে যুবক তুমি কি উমর হতে পার না?) আবু ত্ব-হা মুহাম্মাদ আদনান
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_1021333612009536_7924978797980288646_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeFf3zEd9xuMBh6a_mEf8wAQJO1xWQIf5ikk7XFZAh_mKZB3Ky0R29Ss5mPgsV7bxxZHUQjHDwywwTPD2Pax-ZsH&_nc_ohc=kY2OLz0g4KMAX9Zjixo&_nc_ht=scontent.fdac6-1.fna&oh=7a7135a4fe1becf040461e49d7ff8636&oe=60B1E9F5
 
 
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (1)
 http://103.205.133.21/hls/btv.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (2)
-http://master.beeiptv.com:8081/mob/btv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (3)
 http://103.205.133.19/hls/btv.m3u8?Live-TV™
+#EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (3)
+
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/64/logo/115x115/mobile_logo_392184001564902527.png" group-title="বাংলাদেশ",Sangsad TV (1)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8?Live-TV™
@@ -176,9 +110,10 @@ http://103.205.133.21/hls/ichannel.m3u8
 http://?d2RrV3lFVU5ZZFdURlpWYmg5eVp6MFdaSVJIWnJaWFJscEZVb0ozYjVrR2RuaGtkd2sxY2haamF2NUdNMzVVUU41Mk12SWxSeklUY2FSVFlLWjJONEpEVk9kVWI0ZG5Ud3BHYWx0bWI0ZDNOd3R5U3pkMGJOZG5SUmxIZUlOR09GOVNkTXBWZE9KR2NuQlZaSmQzVVp0bU1vbDBiaVpUZTJvMU5RVlVQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/3/logo/115x115/1481106966.png" group-title="বাংলাদেশ",CHANNEL I HD (4)
 http://?cWwzVTFJRFRwaG1acmhGYXlWVGUyRWpTblpUY29CbmUwZEZWMm8yWjBSekw0VW5jcWRVWW1sekw1VlVPVDVFTVRWbk5YbFVXNGd6ZEROVFVTdDJTdUJWUWFwbWQxYzNTek56TQ==
-#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/3/logo/115x115/1481106966.png" group-title="বাংলাদেশ",CHANNEL I HD (4)
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/3/logo/115x115/1481106966.png" group-title="বাংলাদেশ",CHANNEL I HD (5)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/3/logo/115x115/1481106966.png" group-title="বাংলাদেশ",CHANNEL I HD (6)
+http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx7Unvg9EAGQuSxRvw8XjCSAszWgvGJSDsiYMzCRA=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",EKUSHEY TV (1)
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?Live-TV™
@@ -187,9 +122,9 @@ http://103.141.66.36/bpk-tv/10006/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx7Unvg9EAGQuSxRvw8XjCSAszWgvGJSDsiYMzCRA=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",EKUSHEY TV (3)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx7Unvg9EAGQuSxRvw8XjCSAszWgvGJSDsiYMzCRA=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",EKUSHEY TV (4)
-http://163.172.29.246:8081/globalbd/ekushytv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx7Unvg9EAGQuSxRvw8XjCSAszWgvGJSDsiYMzCRA=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",EKUSHEY TV (5)
 http://103.205.133.21/hls/ekushey.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx7Unvg9EAGQuSxRvw8XjCSAszWgvGJSDsiYMzCRA=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",EKUSHEY TV (5)
+http://163.172.29.246:8081/globalbd/ekushytv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/41/logo/115x115/mobile_logo_227718001561970151.png" group-title="বাংলাদেশ",NTV (1)
 http://?cWRrV3lFVU5ZaFdURlpWYmg5Q2N6MFdaSVJIWnNaWFJscEZVb2gyYjVrR2RuaFVid2sxY2haamExNUdNMzVVUU45Mk1XZHpZRWRIZXlkbFVyb25ib1pqUTU5aVF6WjNZUnhVVnVwVWUya25SbU5tWndoWGF6bG1iNjUyTlJOa1VKRlRkc1ZHWmxaR1ZuUkZTdlVsZEtobWRwSlVRMk5FZFIxR1dVRlZQ
@@ -242,21 +177,21 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="বাংলাদেশ",BANGLA VISION (3)
 http://?PXNXZVRWak1NbEdjbXRHV29KWE5wWlRNS2RtTng5R2M2UlhXM1JXZDA0MGRvbFhadmRGTmFKM1F3SlhNQ1p6TFlaMWNTTm1TcnBrVjI5Q09UZGtkM2QzUUxaR2N4VUhkYXBYT21WMlVvaERTckUwU3oxV1lzQlZkNWdYZW9oVE5aWkZWc2xEYVlSelF4RTNNaDEyTk45eWN2ZFZONjFHVTI1V1pzdDJjMlkzUjFNMVN4OFdjVlZXVFNkVlJ2WkdSeXBuVUxWblVIbFdPaHAzYjVza2VTbERXNUpsV1RKalE1c21jdm9IUkhaamVKTjJWdUJYV3dWMGN2QkZWcjBHZE10V1lGUlVheEJ6YTZkbWEyQkRjSkJsYjIxMlZVWldXS1ZrY0MxVWQwMDJL
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="বাংলাদেশ",BANGLA VISION (4)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="বাংলাদেশ",BANGLA VISION (5)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="বাংলাদেশ",BANGLA VISION (5)
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/39/logo/115x115/mobile_logo_040588001485334247.png" group-title="বাংলাদেশ",DESH TV (1)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
+http://?eGRrV3lFVU5ZbFdURlpWYmg5U2R6MFdaSVJIWjBaWFJscEZVb2QzYjVrR2RuaEVhd2sxY2haamF4NUdNMzVVUU5kR00ydFVUVkpUZFlaa2FNSnpaMWxqUVlCaldTbFhkSnBsUkVabGRwSnpZTWxIUnBwR2I2QjNLb1ZYUjJKV1RqcGxhMFpIU0loWFR6bERVS1ZVTkdSSGRWcEZiTk5GZGFCVFpYOVdQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/39/logo/115x115/mobile_logo_040588001485334247.png" group-title="বাংলাদেশ",DESH TV (2)
 http://?bmRrV3lFVU5ZNVdURlpWYmg5aWN6MFdaSVJIWm9aWFJscEZVb2gyYjVrR2RuaDBjd2sxY2haamF6NUdNMzVVUU5sR00ydFVUVkpqZFlaa2FNSnpacmxqUVlCaldTMVdkSnBsUkVaMWRwSnpZTWxIUnJwR2I2QjNLb2RYUjJKV1RqcGxjMFpIU0loWFQ2bERVS1ZVTkdaSGRWcEZiTk4xZGFCVFpYOVdQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/39/logo/115x115/mobile_logo_040588001485334247.png" group-title="বাংলাদেশ",DESH TV (3)
 http://103.205.133.21/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/39/logo/115x115/mobile_logo_040588001485334247.png" group-title="বাংলাদেশ",DESH TV (4)
-https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshtv.stream/live-orgin/deshtv.stream/chunks.m3u8
+http://103.205.133.19/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/39/logo/115x115/mobile_logo_040588001485334247.png" group-title="বাংলাদেশ",DESH TV (5)
-http://?eGRrV3lFVU5ZbFdURlpWYmg5U2R6MFdaSVJIWjBaWFJscEZVb2QzYjVrR2RuaEVhd2sxY2haamF4NUdNMzVVUU5kR00ydFVUVkpUZFlaa2FNSnpaMWxqUVlCaldTbFhkSnBsUkVabGRwSnpZTWxIUnBwR2I2QjNLb1ZYUjJKV1RqcGxhMFpIU0loWFR6bERVS1ZVTkdSSGRWcEZiTk5GZGFCVFpYOVdQ
+http://103.205.133.48/hls/deshtv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/339/logo/115x115/mobile_logo_573846001563607560.png" group-title="বাংলাদেশ",MY TV HD (1)
@@ -271,7 +206,10 @@ http://?MGRrV3lFVU5ZdFdURlpWYmg5U2R6MFdaSVJIWjRaWFJscEZVbzEyYjVrR2RuaEVkd2sxY2ha
 http://?d2wzVTFJRFRwZG1acmhGYXlWVGIyRWpTblpUYzRCbmUwbFZPQlpYY0JOVlRRbEhhTGxUTjNObk13aEhjM1FsV1NkSE9QQjNjWkpVZDJaRmFMaFVPMjVtTlI5V1NZVkhlR1JEV0RsbGNVRmtXR2gyUnV0R2FTaEdOb3BtWm90a1VpOVdiTUJGTUtsVU0zWkdjVmhUVjRrR2N4OGtiMWtUZTVvVlRVZFZhcjUwU2t0Q1pLWlhieDgyS29semIxMTBhV1ZVTXRCVFpHeGtTSEZYV1A5a1JyY2xiTmgzUzA5Mk0yTjFNdjRHTXE1MmJrTlRUSGgxYTFnRFd3MTJUNWxVWW45VWR1MUdVTlZWUA==
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/339/logo/115x115/mobile_logo_573846001563607560.png" group-title="বাংলাদেশ",MY TV HD (6)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/339/logo/115x115/mobile_logo_573846001563607560.png" group-title="বাংলাদেশ",MY TV HD (7)
+http://103.205.133.19/hls/mytv.m3u8?Live-TV™
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/339/logo/115x115/mobile_logo_573846001563607560.png" group-title="বাংলাদেশ",MY TV HD (8)
+http://103.205.133.48/hls/mytv.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="বাংলাদেশ",MOHONA TV (1)
 http://?dGwzVTFJRFRwNW1acmhGYXlWeloyRWpTblpUY3BCbmUwRm1NWWRXZDBNMVF6a1ZhMHgwZFJOM1FuVlZjYVYyYVRWSFY0VURheFUyWlNsSE80WWtVNUoyYVBwVmFUNUdUT0prUQ==
@@ -282,22 +220,24 @@ http://103.205.133.21/hls/mohonatv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="বাংলাদেশ",MOHONA TV (4)
 http://?M2wzVTFJRFRwcG1acmhGYXlWRGUyRWpTblpUYzJCbmUwZFZhelUzVDE1a1Z4VjJjQ1owVHVkelk2NTJOeVlUWTFVM1lLdEVVcXRFY0NkamMwazBRdmRUTm41VWV0bFhXUUJYVVl0U2FpSkZTc3BWY3JSa2F3QmpNMTBXUUpoa2FrWjFkRzVrU0VKbWJ1Rkhka2gwVVNwWE8zRjNNaVJUY0k5a2I0c1NheDkyUnZOR2JuNVdOSFpqZUhCRGJpSmpla1JYVHQxV1pZOWlNeG9uZFBGR2I0RkVlRVoyY3JnVGVzUlRRdTVXWmpGbmUxSTBjUmgzYTFrM1MxaDBSdEZEY3dSbmNxRm5leUJUUA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="বাংলাদেশ",MOHONA TV (5)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0eezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
+http://103.205.133.19/hls/mohonatv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="বাংলাদেশ",MOHONA TV (6)
+http://103.205.133.48/hls/mohonatv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (1)
-http://163.172.29.246:8081/globalbd/maasranga/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (2)
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (3)
-http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (4)
-http://hitectv.live/hls/stream20.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (5)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (2)
+http://163.172.29.246:8081/globalbd/maasranga/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (3)
+http://103.153.175.254:8080/hls/stream20.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (4)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (5)
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="বাংলাদেশ",CHANNEL 9 HD (1)
-http://103.141.66.36/bpk-tv/10080/default/index.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="বাংলাদেশ",CHANNEL 9 HD (2)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="বাংলাদেশ",CHANNEL 9 HD (3)
@@ -307,16 +247,16 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="বাংলাদেশ",CHANNEL 9 HD (5)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="বাংলাদেশ",CHANNEL 9 HD (6)
-http://master.beeiptv.com:8081/mob/channel9/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (1)
 http://?eGRrV3lFVU5ZQlhURlpWYmg5Q2R6MFdaSVJIWnhaWFJsRjFOTE5uYkhabmRybDFjdzFHT3ZaWFMwaFRSelIyYlgxR1poWkhTVngyZGtWa1N3ZzBVdGRWV29OV1pxZDJReDBtUkhWRWNLcDNacFZuTXpoR1NIZEVkSFZIVWxOMGFKNW1kT05tWXZnV1FzNW1VdlVXT3hoMk5PMTJaanAzYjVOblFCbFhkek5rTXNkRE5HcDJidkVXWlRaWGV5TlRORXBWYTZCRlU=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (2)
-http://master.beeiptv.com:8081/master/gtv/playlist.m3u8
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (3)
-http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
+http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (4)
-http://43.230.123.20:8082/1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (5)
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (6)
@@ -327,20 +267,19 @@ http://43.230.123.20:8082/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (1)
 http://?MmwzVTFJRFRwRm5acmhGYXlWVGQyRWpTblpUY3ZCbmUwTlZPUFJYV3VaMVl3UjJaSVpHVVNwbFk0cG1iTDlHVDFobWRUTlhleGMxWm85eVV4TUZNeFJETUM5aWJaWjNSVWxVZHJnbGRGcEZTelJGTnJoekt6Um1UR0JIWm5obVk0OG1kNGRVUzNkVGMwVlRjcWxrYnBwM1ZNZDFOcWwxWlVsV2UzRTBUb2xVYXB0a1pSZFdhNWNFTnp4a2JJWkRkNkJsVTJSalNPOXlkUFJIVHdnM0xtcDNac2RFVzJzVWE0RmpUWGRtVDVFSFd3WldWMFVuZXhNbmNQdHlWclZYUnpZRVQxdDJNMWRXUA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (2)
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (3)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (4)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (5)
-http://163.172.29.246:8081/globalbd/asian/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (6)
 http://?dmwzVTFJRFRwMW1acmhGYXlWRGUyRWpTblpUYzVCbmUwUkZXMWduYldoblZFaGxjek56VE5abU12UkhOR2hsZUlOM2JXOW1aeWhHYTZwVlMxd1dZbnAxTUYxa1FVTkhjMEVqUw==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (3)
+http://163.172.29.246:8081/globalbd/asian/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (4)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (5)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (6)
+
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJya3Itl56_Eny_qUJyNvZ5HhKaLuYZMVmTeYEl5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",SA TV HD (1)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-#https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJya3Itl56_Eny_qUJyNvZ5HhKaLuYZMVmTeYEl5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",SA TV HD (2)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJya3Itl56_Eny_qUJyNvZ5HhKaLuYZMVmTeYEl5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",SA TV HD (3)
@@ -349,7 +288,10 @@ http://163.172.29.246:8081/globalbd/satv/chunks.m3u8
 http://103.205.133.21/hls/satv.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJya3Itl56_Eny_qUJyNvZ5HhKaLuYZMVmTeYEl5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",SA TV HD (5)
 http://?cWwzVTFJRFRwaG1acmhGYXlWamUyRWpTblpUY3JCbmUwRjJhaWwyWTZGM2RMcGtkMGhXVDFVMFNwTm5jaUJqYzF4bVV6cDNVRmhXYWxwM1ZEVjFkeHBWVkhoblltdG1OMGdsY1dCVmR5RVRSelpVTnRSV1l5b0ZOR2RuVFN4VWJ1WjBkeFZIYnIwa2N0Um5jWWxGVDR3bVNsQkRibHBrY2o5eWFMWkdkeWxqWXUxV1FheG1UTDFFZXpnVGR3WW1ZTWgyWW5abGRUaGtlMjgyVTJoM040UVRlUmxWWnhvRWJ1bFVPbHBGTlRsMmJ4QjNNUkZUZG0xa2QwaFhacnAzTjBSMlp0bDJLaGRXUA==
-
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJya3Itl56_Eny_qUJyNvZ5HhKaLuYZMVmTeYEl5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",SA TV HD (6)
+http://103.205.133.19/hls/satv.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJya3Itl56_Eny_qUJyNvZ5HhKaLuYZMVmTeYEl5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",SA TV HD (7)
+http://103.205.133.48/hls/satv.m3u8
 
 #EXTINF:-1 tvg-logo="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2020/04/17/deepto_tv_logo.jpg?itok=UV9LPjcP" group-title="বাংলাদেশ",DEEPTO TV HD (1)
 http://103.205.133.21/hls/deeptotv.m3u8
@@ -358,7 +300,7 @@ http://103.205.133.19/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2020/04/17/deepto_tv_logo.jpg?itok=UV9LPjcP" group-title="বাংলাদেশ",DEEPTO TV HD (3)
 http://103.132.180.245:8080/6/index.m3u8
 #EXTINF:-1 tvg-logo="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2020/04/17/deepto_tv_logo.jpg?itok=UV9LPjcP" group-title="বাংলাদেশ",DEEPTO TV HD (4)
-https://rhridoy136.shortcm.li/deeptotv.m3u8
+http://103.205.133.48/hls/deeptotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/375/logo/115x115/mobile_logo_623309001563772673.png" group-title="বাংলাদেশ",BANGLA TV HD (1)
 http://?b2RrV3lFVU5ZaFdURlpWYmg5aWF6MFdaSVJIWjVaWFJscEZVb3AyYjVrR2RuaEVld2sxY2haamF3NUdNMzVVUU5SM01TRkdVbHBWZDVnVE14eFVONmQyYTBwRmJ0ZDNkckpYU0Y5VWQ1YzNiVVIxZHdwM1FsdENVR0JIY1RGa1p6d0VheWRWVzZCRFY0aDFLUlpqY0tGSFUwWkhNazEyYTFWblY0RlVQ
@@ -369,7 +311,7 @@ http://103.205.133.21/hls/banglatv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/375/logo/115x115/mobile_logo_623309001563772673.png" group-title="বাংলাদেশ",BANGLA TV HD (4)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/375/logo/115x115/mobile_logo_623309001563772673.png" group-title="বাংলাদেশ",BANGLA TV HD (5)
-http://master.beeiptv.com:8081/mob/banglatv/playlist.m3u8
+http://103.205.133.48/hls/banglatv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/375/logo/115x115/mobile_logo_623309001563772673.png" group-title="বাংলাদেশ",BANGLA TV HD (6)
 http://103.205.133.19/hls/banglatv.m3u8
 
@@ -381,7 +323,8 @@ http://103.205.133.21/hls/nagorik.m3u8
 http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmHCjkpW8shE2O9bd61f4RgIITVyhcnvyqcg&usqp=CAU" group-title="বাংলাদেশ",NAGORIK TV HD (4)
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmHCjkpW8shE2O9bd61f4RgIITVyhcnvyqcg&usqp=CAU" group-title="বাংলাদেশ",NAGORIK TV HD (5)
+http://103.205.133.48/hls/nagorik.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="বাংলাদেশ",ATN NEWS (1)
 http://?cmwzVTFJRFRweG1acmhGYXlWVGEyRWpTblpUYzFCbmUwUjFSRWgyYkNaRlZ2ZzJaWTFXUVlSVFM2ZFhZWkJEY3pkWE1TMW1ST05UZTJ0eWNtVmpRdFoyYnNwVk4xczJTMHRFTw==
@@ -395,7 +338,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://?NmwzVTFJRFRwMW1acmhGYXlWemMyRWpTblpUYzNCbmUwWm1VbUJYYVlkWGN1bERicklUWTBoM2J2TmpXa0ZXY3o4MmJoWlRPRGQzY2FkMlREeDBReFJGV3dvWFV4azNTSDlXVm5sV2FSWlVTMTQwTHNaMUxEaFVSeU1uV29WVFFRZGpia3BHUlVGVk9zTmpXMHBIVTQ5V01HZEdWVHAxYlloRFJyWTFhb05FV3JaV1VGOTJTd056UXlVbmVPZEdWVVZuZTE5V00wTUhSWTFHY2toSFVGcFZieVJtYlk5R1d4QnpRVlZFZHl4V014bHpMUFpHZEMxa1YzZHpiNEYzUXExV1kzQTNTV0ZWUA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="বাংলাদেশ",ATN NEWS (6)
 https://khulnalive.anytv.live/atnnews/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="বাংলাদেশ",ATN NEWS (7)
+http://103.205.133.48/hls/atnnews.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="বাংলাদেশ",ATN NEWS (8)
+http://103.205.133.19/hls/atnnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/40/logo/115x115/mobile_logo_843792001561970789.png" group-title="বাংলাদেশ",INDEPENDENT TV (1)
 http://?cGRrV3lFVU5ZZFhURlpWYmg5U2F6MFdaSVJIWnlaWFJscEZVb2QyYjVrR2RuaGtid2sxY2haamF3NUdNMzVVUU5Obk0xSlZPMHNFYUR0MmJvcFhWMmRGT3dvWGF6WVhSeDEyS3JVRGR3a1RZdHAzTDJaV1pSbG1hd3hXTzJGVVJNaGxhcmdFZVpOWFJxUnpaRUJuTXhsbmEzbFdRMmNuYzBrVGRzVlVQ
@@ -413,7 +359,8 @@ http://?cmwzVTFJRFRwdG1acmhGYXlWamQyRWpTblpUY3NCbmUwWjJOMTBXYUpGektQWjNiM1VEWnZk
 http://?d2wzVTFJRFRwMW1acmhGYXlWamUyRWpTblpUYzBCbmUwSldiTHgyVHVwRlN2dEdiTmhIVzRWM1Q0SlRhWkowWkROM0tQZDFOaUIzYnlvRk1ZaFRRNUJ6YXZkbVowbFhRSkpsY241R2VyczBZMWxYTjRWemRMTjNUNXNHY3pjalpSdG1hMzhrUURKblR3WnpTMVZtTUlGWFRKTmxkTWREYzNNVWRGbGxjdU5HVDNWWFpNcDJVMlVWU0NObmVwaG5XbHhXTnRaRU9RSkZTVDVXZDVNV2VGWkdlNU1FWlZkRU12VlhNeDhXTmtWWFIzOVNPM1J6WndWMVozbEhicXBuUnZVR2FseG1WWXBsYXdVMGMxNFVkS0p6UXU1MEs2RkRNUGhIZG50V2JhQlhlemwyVmtoRWR0bDBReUJuZEhGWFY0RTBjTFowYVZGalJuMVRQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/40/logo/115x115/mobile_logo_843792001561970789.png" group-title="বাংলাদেশ",INDEPENDENT TV (8)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/40/logo/115x115/mobile_logo_843792001561970789.png" group-title="বাংলাদেশ",INDEPENDENT TV (9)
+http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/65/logo/115x115/mobile_logo_492797001483519440.png" group-title="বাংলাদেশ",SOMOY TV (1)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8?Live-TV™
@@ -422,9 +369,14 @@ http://?cGRrV3lFVU5ZOVdURlpWYmg5eWF6MFdaSVJIWjNaWFJscEZVb1YzYjVrR2RuaEVkd2sxY2ha
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/65/logo/115x115/mobile_logo_492797001483519440.png" group-title="বাংলাদেশ",SOMOY TV (3)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/65/logo/115x115/mobile_logo_492797001483519440.png" group-title="বাংলাদেশ",SOMOY TV (4)
-http://master.beeiptv.com:8081/mob/somoy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/65/logo/115x115/mobile_logo_492797001483519440.png" group-title="বাংলাদেশ",SOMOY TV (5)
 https://khulnalive.anytv.live/somoy/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/65/logo/115x115/mobile_logo_492797001483519440.png" group-title="বাংলাদেশ",SOMOY TV (5)
+http://103.205.133.21/hls/somoy.m3u8?Live-TV™
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/65/logo/115x115/mobile_logo_492797001483519440.png" group-title="বাংলাদেশ",SOMOY TV (6)
+http://103.205.133.19/hls/somoy.m3u8?Live-TV™
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/65/logo/115x115/mobile_logo_492797001483519440.png" group-title="বাংলাদেশ",SOMOY TV (7)
+http://103.205.133.48/hls/somoy.m3u8?Live-TV™
+
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/52/logo/115x115/mobile_logo_634940001561971044.png" group-title="বাংলাদেশ",CHANNEL 24 (1)
 http://103.205.133.21/hls/channel24.m3u8?Live-TV™
@@ -438,14 +390,17 @@ http://163.172.29.246:8081/globalbd/channel24/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/52/logo/115x115/mobile_logo_634940001561971044.png" group-title="বাংলাদেশ",CHANNEL 24 (6)
 http://?PWNtVTNCM01wcG5ib1JuYjFrWFUxdEVUMU5HVFNkM2QzSUZic3QyWm1sV1FhZDFZdUZVUTA5a1kwa25VUVYxY1RSelpyWldUeFZXWndwblpVWlhlUnRtVFNCbFpvQlRlclZXT25abmJ3RmpNeU4zTHZkM1F4QVZZaE5YZUJsVlRaWkRNb05EVVpSV2JwSjNMSUYxVURGbGRZRjJjUVZYZTBobE5sRmpVS3RHTVg5eWQyZzBjM1lXUjBCVFIxeDJjNjFFYk9wR1M0VlZadnhHYmFSa1I0SUVldFIzYVc1V1FVWlhkMGtuUnZNM2N3VWtUa2RUTm9sMGN5TlZjdlFIYXNwRU0wRWxlQ1puY09oM1pwUkZXeFZtWno0R1p2RUdVQmRUZUVKVVNPRkdN
-
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/52/logo/115x115/mobile_logo_634940001561971044.png" group-title="বাংলাদেশ",CHANNEL 24 (7)
+http://103.205.133.19/hls/channel24.m3u8?Live-TV™
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/52/logo/115x115/mobile_logo_634940001561971044.png" group-title="বাংলাদেশ",CHANNEL 24 (8)
+http://103.205.133.48/hls/channel24.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/53/logo/115x115/channel_logo_902825001481299896.png" group-title="বাংলাদেশ",EKATTOR TV HD (1)
-http://otv.ftpbd.net/streams/128/index.m3u8
+http://103.205.133.48/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/53/logo/115x115/channel_logo_902825001481299896.png" group-title="বাংলাদেশ",EKATTOR TV HD (2)
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
+http://103.205.133.19/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/53/logo/115x115/channel_logo_902825001481299896.png" group-title="বাংলাদেশ",EKATTOR TV HD (3)
-http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
+http://?PWNtVTNCM01wcEhjb1JuYjFrWFV4dEVUMU5HVFNsMmQzSWxjWlJHYk9KMEswbFdidEpVTVNsaldKTm5XdVJIYVdwRmVKcEhkSXR5S3dKR2VHVjBjc2gzU3hGVVRFRmpkd0lsWk10MloyZGtRVTEyWVgxV1lXNW1OeXdrY3hVbGFudGtUNUJuVmlWV1FaRlhPMHRpVHV0U2RJSmxlQ0ZFWjBOVk80RVhaQ2xYTXpNVGNaWmpjTGRFT0hGMWN1bFRlSUZFVzJsSFVrQkZiU3RHZTRNVGRLdG1aekoxTlFoWFczVkhkRFp6VDVabWNJUlhOa0JsYXpkbFpVVlhlVlJIYjJVVVNSWjJkMWhEWlNWR2V6VkRPRFZET3I4bWFXaG5WcWhsY1FOak13VVZh
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/53/logo/115x115/channel_logo_902825001481299896.png" group-title="বাংলাদেশ",EKATTOR TV HD (4)
 http://103.205.133.21/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/53/logo/115x115/channel_logo_902825001481299896.png" group-title="বাংলাদেশ",EKATTOR TV HD (5)
@@ -453,11 +408,10 @@ http://?MWRrV3lFVU5ZRlhURlpWYmg5eWF6MFdaSVJIWjZaWFJscEZVb3gyYjVrR2RuaGtkd2sxY2ha
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/53/logo/115x115/channel_logo_902825001481299896.png" group-title="বাংলাদেশ",EKATTOR TV HD (6)
 http://?PTBtVTNCM01wcFhhb1JuYjFrWFV3dEVUMU5HVFNCM2QzSVZkR3AzY3IwbVl1ZDFhcUZHWndwMGNLVkhlS3BWYzFFVmRzOVdTMWdYVHFwRlNLcG1RRmgzWXlOVk5EQmxjakpWTm50MFEzRjBUVkZXYVA5R01ReGtOMkJUYklsa1lDWmxVdzlVVXlRRGVPbFdTc3RFT2twMmNNdEdPTXQySzBGblRzcDBZbmxIVlhKMGFXbFhkMlEwS3RoVGMxTlVPWDFFY1lOM0xsWmxZU0JUZXBGWFJZZEZUeGRVYVlOMGFMbDNOREZYYXdnM2FxbFZWTmRYYnZsalExZ0RacnAzTXNoRWJYaEZkeEFuZTBabk56RjJSMkVuY2g5V1d3TVhjekYzZDZkR2NYUldW
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/53/logo/115x115/channel_logo_902825001481299896.png" group-title="বাংলাদেশ",EKATTOR TV HD (7)
-http://?PWNtVTNCM01wcEhjb1JuYjFrWFV4dEVUMU5HVFNsMmQzSWxjWlJHYk9KMEswbFdidEpVTVNsaldKTm5XdVJIYVdwRmVKcEhkSXR5S3dKR2VHVjBjc2gzU3hGVVRFRmpkd0lsWk10MloyZGtRVTEyWVgxV1lXNW1OeXdrY3hVbGFudGtUNUJuVmlWV1FaRlhPMHRpVHV0U2RJSmxlQ0ZFWjBOVk80RVhaQ2xYTXpNVGNaWmpjTGRFT0hGMWN1bFRlSUZFVzJsSFVrQkZiU3RHZTRNVGRLdG1aekoxTlFoWFczVkhkRFp6VDVabWNJUlhOa0JsYXpkbFpVVlhlVlJIYjJVVVNSWjJkMWhEWlNWR2V6VkRPRFZET3I4bWFXaG5WcWhsY1FOak13VVZh
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/67/c9/5a67c9024fd15ef0d42422f76500bd41.jpg" group-title="বাংলাদেশ",JAMUNA TV (1)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+http://103.205.133.19/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/67/c9/5a67c9024fd15ef0d42422f76500bd41.jpg" group-title="বাংলাদেশ",JAMUNA TV (2)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/67/c9/5a67c9024fd15ef0d42422f76500bd41.jpg" group-title="বাংলাদেশ",JAMUNA TV (3)
@@ -467,13 +421,13 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/67/c9/5a67c9024fd15ef0d42422f76500bd41.jpg" group-title="বাংলাদেশ",JAMUNA TV (5)
 https://khulnalive.anytv.live/jamuna/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/67/c9/5a67c9024fd15ef0d42422f76500bd41.jpg" group-title="বাংলাদেশ",JAMUNA TV (6)
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
+http://103.205.133.48/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/67/c9/5a67c9024fd15ef0d42422f76500bd41.jpg" group-title="বাংলাদেশ",JAMUNA TV (7)
 http://103.205.133.21/hls/jamunatv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/233/logo/115x115/mobile_logo_118933001493115916.png" group-title="বাংলাদেশ",NEWS 24 HD (1)
-http://163.172.29.246:8081/globalbd/news24/chunks.m3u8
+http://103.205.133.48/hls/news24.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/233/logo/115x115/mobile_logo_118933001493115916.png" group-title="বাংলাদেশ",NEWS 24 HD (2)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/233/logo/115x115/mobile_logo_118933001493115916.png" group-title="বাংলাদেশ",NEWS 24 HD (3)
@@ -482,7 +436,10 @@ http://103.205.133.21/hls/news24.m3u8
 http://?dGRrV3lFVU5ZZFhURlpWYmg5Q2R6MFdaSVJIWnFaWFJscEZVb1YzYjVrR2RuaEVhd2sxY2haamFzNUdNMzVVUU4xMk15UjJOdUYwYjJaRmFNRkVhdk5WTlNOblFHZG1VTEJIVUNKbWJtMUdPcloyYzNKbVZUZDBLVVJYVXVKek1TMUdjMzlpYjNNa1cwbGpjNGhUU250V1pDVjNZMmNsZEo1V1N5RlVQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/233/logo/115x115/mobile_logo_118933001493115916.png" group-title="বাংলাদেশ",NEWS 24 HD (5)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/233/logo/115x115/mobile_logo_118933001493115916.png" group-title="বাংলাদেশ",NEWS 24 HD (6)
+http://103.205.133.19/hls/news24.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/233/logo/115x115/mobile_logo_118933001493115916.png" group-title="বাংলাদেশ",NEWS 24 HD (7)
+http://163.172.29.246:8081/globalbd/news24/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/335/logo/115x115/mobile_logo_234052001514211142.png" group-title="বাংলাদেশ",DBC NEWS HD (1)
 https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw
@@ -497,22 +454,24 @@ http://?MUoxZHdOVGE2NUdhMDVXTjVGRmNMeFVkanhrVW9kM05TSlhVcUpYVXpFVFYzZzJkaDlFYllC
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/335/logo/115x115/mobile_logo_234052001514211142.png" group-title="বাংলাদেশ",DBC NEWS HD (6)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/335/logo/115x115/mobile_logo_234052001514211142.png" group-title="বাংলাদেশ",DBC NEWS HD (7)
-http://master.beeiptv.com:8081/mob/dbcnews/playlist.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/335/logo/115x115/mobile_logo_234052001514211142.png" group-title="বাংলাদেশ",DBC NEWS HD (8)
 http://103.205.133.21/hls/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/335/logo/115x115/mobile_logo_234052001514211142.png" group-title="বাংলাদেশ",DBC NEWS HD (9)
 http://163.172.29.246:8081/globalbd/dbc/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/335/logo/115x115/mobile_logo_234052001514211142.png" group-title="বাংলাদেশ",DBC NEWS HD (10)
+http://103.205.133.48/hls/dbcnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.megaflix.tv/uploads/tv_image/duronto-tv.png" group-title="বাংলাদেশ",DURONTO TV (1)
 http://163.172.29.246:8081/globalbd/duronto/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://live.megaflix.tv/uploads/tv_image/duronto-tv.png" group-title="বাংলাদেশ",DURONTO TV (2)
-http://103.141.66.36/bpk-tv/10226/default/index.m3u8
+http://stream.amrbd.com:8082/Duronto_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.megaflix.tv/uploads/tv_image/duronto-tv.png" group-title="বাংলাদেশ",DURONTO TV (3)
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
-#EXTINF:-1 tvg-logo="https://live.megaflix.tv/uploads/tv_image/duronto-tv.png" group-title="বাংলাদেশ",DURONTO TV (4)
-http://master.beeiptv.com:8081/mob/duronto/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live.megaflix.tv/uploads/tv_image/duronto-tv.png" group-title="বাংলাদেশ",DURONTO TV (4)
 http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
+#EXTINF:-1 tvg-logo="https://live.megaflix.tv/uploads/tv_image/duronto-tv.png" group-title="বাংলাদেশ",DURONTO TV (4)
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/10.m3u8
+#EXTINF:-1 tvg-logo="https://live.megaflix.tv/uploads/tv_image/duronto-tv.png" group-title="বাংলাদেশ",DURONTO TV (4)
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/374/logo/115x115/mobile_logo_253544001564828972.png" group-title="বাংলাদেশ",BIJOY TV HD (1)
@@ -521,11 +480,13 @@ http://?eGRrV3lFVU5ZTlhURlpWYmg5eWN6MFdaSVJIWjRaWFJscEZVb0ozYjVrR2RuaGtld2sxY2ha
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/374/logo/115x115/mobile_logo_253544001564828972.png" group-title="বাংলাদেশ",BIJOY TV HD (3)
 http://?c0oxZHdOVGE2cEhhMDVXTjVGRmRMeFVkanhrVTRkM05TQkhNRWRuVEdkbVVSSmxjdklHT3lkRWJ5bFVObUpYYnhJM2RCdFNhMmczYlhkMlVTWmtOcU5WZDZaM0tDTm5lNUoyVQ==
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/374/logo/115x115/mobile_logo_253544001564828972.png" group-title="বাংলাদেশ",BIJOY TV HD (3)
+http://stream.amrbd.com:8082/BijoyTv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/692/logo/240x240/mobile_logo_253296001609763294.png" group-title="বাংলাদেশ",ANANDA TV HD (1)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/692/logo/240x240/mobile_logo_253296001609763294.png" group-title="বাংলাদেশ",ANANDA TV HD (2)
-https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/live-orgin/anandatv.stream/chunks.m3u8
+http://stream.amrbd.com:8082/anandotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/692/logo/240x240/mobile_logo_253296001609763294.png" group-title="বাংলাদেশ",ANANDA TV HD (3)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/692/logo/240x240/mobile_logo_253296001609763294.png" group-title="বাংলাদেশ",ANANDA TV HD (4)
@@ -846,9 +807,9 @@ http://103.205.133.21/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND বাংলা",Star Jalsha (3)
 http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND বাংলা",Star Jalsha (4)
-http://45.127.244.7:8080/hls/channel12.m3u8
+http://103.205.133.19/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND বাংলা",Star Jalsha (5)
-https://any.hitectv.live:4443/starjalsha/tracks-v1a1/mono.m3u8
+http://103.205.133.48/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND বাংলা",Star Jalsha (6)
 https://khulnalive.anytv.live/starjalsha/index.m3u8
 
@@ -857,15 +818,13 @@ http://103.153.175.254:8080/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png" group-title="IND বাংলা",Star Jalsha HD (2)
 http://?PTRHZG9WRmNtRkhidGhGTlZaemN3UkRObU5WYUVsV1phZFVUdWRUZEtaVFMxTWtNM1ozTW9CWFdtcEdOS1IwYjYxa2RVRjJSMU1rUjJSblZTSmpNRVozTlloMmFucG5lNGNEZHhKWFJuaDFZMlJrY1U5bVlpWlRZeVZ6Y2E5aU16VjFOMTFVUUhkWFZ4Um5NRVJ6UXZORGJTSldVT0YwYnlOblMzRjNWMWhHY2hsV1NyUjNkcGR6Y2lGR1Z0NUdiUFpuYXI0MlRtbG5aV0ZUYjFrVlUzQVRSNHRDV1JwbVV5azNkWGRVT2xwSGVtTjJkU05UTjNkSGQydEVXREJIZHZJRVUwWVViMVExU1BkbWUwRmpUV1Z6VTVoMllZUlhUSU4zZHFkME00RmxXckptYVZCM2F3NUdXMDgyTVdka2I0Wm1ZdWhqU3lCemFwQkhhUmhuWnpna2E0VW5kbHBVVWlOelMyaDBNM1J6S3JZM1VPTlVNc1ZYY2lWSFpyb1dXMFYzYVE1R1UwRjNSTk5WYm5WM2JqWjBLSEp6WjJsVVpzcG5RaGQyVXZsMGJubDNkQ0pVVHlrbll6bDBOelIyU0p0MmRDSkRaTU5uYVd4VVptdHlZcmQxS3JGVmJTNTJZNHBsUmoxRWVyY0RWQlpUYzZoM1ZJTkZWWGRtYzBOV2FNWm5hNXhrYzFBalc2WlVRSkZsWTB3V1l1OUNXQk5WYkdwMmFRUmpONDlXYjROMktYZEdkeUpIVTNaSGVOSlhNNGhrTnJOWFpEWldjbWxHTnBkVlc0MVdhejRXVmhWVFduSlhNdnBYUnl4V1U2QkRTQ0IzZEJwbVk1ZEdVeVpETW9OV2VURjNSMkZYZDYxa2NyZ0RhUFJYU3ZWVVA=
 #http://172.32.1.88:1935/tvprogram/STAR-JALSHA/chunklist_w1295559448.m3u8
-#http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
+http://stream.amrbd.com:8082/Star-Jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png" group-title="IND বাংলা",Star Jalsha HD (3)
-http://stariptv.xyz:8880/661562/505844/179253
-#http://hitectv.live/hls/stream31.m3u8
-#http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
+http://?b2RrV3lFVU5ZOVdURlpWYmg5eWJ6MFdaSVJIWnJaWFJsUldXU2wzUVBaRVp0MW1iNUZEVDJGVmVvbEZhTFJuVk1SblRCRlRTd1FGYkhSWFVxbEZOMU5WV3JFMVYycFhaMllEY3RORGFQTmpRcVZXUXhWV1l6QkhPNVVuUzFaM1JNZDJiU1YzYTRJa1FyZGxjMGNEZVRsMkwyOVVXdkVIY3lBRlZWcFdleVpGUnJVbk56QUhiT0puUW5wVWNIOVVZMWRqZTVOR1o=
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png" group-title="IND বাংলা",Star Jalsha HD (4)
 http://103.146.55.212:8088/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png" group-title="IND বাংলা",Star Jalsha HD (5)
-http://?b2RrV3lFVU5ZOVdURlpWYmg5eWJ6MFdaSVJIWnJaWFJsUldXU2wzUVBaRVp0MW1iNUZEVDJGVmVvbEZhTFJuVk1SblRCRlRTd1FGYkhSWFVxbEZOMU5WV3JFMVYycFhaMllEY3RORGFQTmpRcVZXUXhWV1l6QkhPNVVuUzFaM1JNZDJiU1YzYTRJa1FyZGxjMGNEZVRsMkwyOVVXdkVIY3lBRlZWcFdleVpGUnJVbk56QUhiT0puUW5wVWNIOVVZMWRqZTVOR1o=
+
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png" group-title="IND বাংলা",Star Jalsha HD (6)
 
 
@@ -891,11 +850,10 @@ http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="IND বাংলা",Jalsha Movies HD (3)
 http://?MWRrV3lFVU5ZVlhURlpWYmg5aWV6MFdaSVJIWnVaWFJsUldXUzkyUVBaRVp0MW1lNUZEVDJGVmV2bEZhTFJuVk1wM1R6NGtiM1pFZXROM1V2VUZVdXRXZEVSamJZTkhNMHRrVjA5MGRaMWtSWlJuYXVCMVN2a3pMUWxYVnUxVVZGMW1jUlZrWTBoVllxcFZaaVZtWVRkbVFydFdaaVZUYkp4RU1JdFVWeWRYWXpjbWR0aDJWcEJsZTRKRmJPOWlZTXBXU3FCVFk=
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="IND বাংলা",Jalsha Movies HD (4)
-http://stariptv.xyz:8880/661562/505844/95428
-#http://hitectv.live/hls/stream27.m3u8
+http://stream.amrbd.com:8082/Jalshamovies/index.m3u8
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav
-http://dx3.gcdn.co/hindi-STARUTSAVHD/index.m3u8
+
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",Star Parvah
 http://?PTRHZG9WRmNtRjNidGhGTlZaemN1UkRObU5WYUVCWFphZFVUdWRqZUtaVFMxTWtNMVozTW9CWFdtOUdOS1IwYjYxVWRVaGtXckZWUzFKRWJYcDBLd0puWnZVRU5rbFhiS0pEV3o5Q1cwbHpZNWhHT0x0R1p2SjNZUk5WYXdsM1NyWW1id2xsTnhWMGRUaG5hVDlDYTRja2VsRldNM2RHU3loVWM1b2xRTVozTTFrVGIwcGxhSDFtVjN3a055UkRlRFZrVjU1bU0xY0ViVUZFYUNoR1NDMUdVbkZFYUlsbE14bEdaWnhtWm9WbWFOcG5TeFVuZHBaVE9HWkZacm9XVlM1R1JacDFaVmRHT0xoVWRzMTBjeklsY005R1M0RmxXUEowWjRnSE56SW5hME5qZWxOVU96OW1Rd0IzUmtORWJHQlRTSTUwZHo1a1p3VW5lbnBtV3ZGRFJ4OW1kb0JETXJNRGI2Rkdhd0VETUQ1MlZTQmpjclFYYjFOV1NWOW1VdDUwWkR4VVVXOVdTMWxsYjBaRGVWbFhUclVqTXV0eVpzcGxjSXBtWlBOa1pKVkhkNGh6WXpNbE54bFVjamRGVXJVSFI2aDNieUVsY0lCRGFuaDFSNGgyS3hFRlV2ZFhhWmhXU2FKVmJUcG5RaU5EYjNCWFJ5QWpkeFozVnBwMExTWlRjMVZIZVBCMUxxZEhkSnBGVVdoMlUyRWpWS1YwZDNRMFZCZFdRM2wwVE1sVWVGcG5hemtFTnhaWGUwbDJNdUYwU3VKa2RZUmpNRzlXY01ORWRDZG5jMFZqUjVJbGNvRmpUbXBXVVZSblVGZG1adFpuZFRWM1JZbFZld2xETXlVRVNXOW1RdlJsTlVwR2ExWm1OeFFHYXNOWFA=
 
@@ -926,6 +884,8 @@ http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-movu8hXt938/UH_QigkyqNI/AAAAAAAAAJI/lh9GXGMFauc/s1600/logo.png" group-title="IND বাংলা",Ekhon Kolkata (2)
 http://cdn.live5.in:1935/live/sun6/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6Ptl54.jpg" group-title="IND বাংলা",Aamar Cinema
+http://d1bf3b042hkby5.cloudfront.net/AAMAR_CINEMA.m3u8
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24685-jgrl9bqg-v1/imageContent-24685-jgrl9bqg-m2.png" group-title="IND বাংলা",Calcutta News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
@@ -1044,10 +1004,13 @@ http://103.205.133.19/hls/chsp.m3u8?Live-TV™
 http://global.thunderbd.com/67/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/1518144333_MALtTY_unnamed.jpg" group-title="IND हिंदी",Star Plus (3)
 http://103.251.247.106:3001/aostv/60083016af05178ef75e1df1/aos.m3u8|tokenUrl:/4_4
+#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/1518144333_MALtTY_unnamed.jpg" group-title="IND हिंदी",Star Plus (4)
+http://103.205.133.48/hls/chsp.m3u8?Live-TV™
+
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/1518144333_MALtTY_unnamed.jpg" group-title="IND हिंदी",Star Plus India
-http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
+#http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/1518144333_MALtTY_unnamed.jpg" group-title="IND हिंदी",Star Plus UK
-http://208.115.215.42/Star_Plus_HD_UK/tracks-v1a1/mono.m3u8
+#http://208.115.215.42/Star_Plus_HD_UK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="IND हिंदी",Star Plus HD (1)
 https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist.m3u8
@@ -1058,7 +1021,7 @@ http://103.146.55.212:8088/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="IND हिंदी",Star Plus HD (4)
 http://103.153.175.254:8080/hls/stream38.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="IND हिंदी",Star Plus HD (5)
-http://hitectv.live/hls/stream38.m3u8
+http://stream.amrbd.com:8082/Star_Plus/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="IND हिंदी",Star Bharat HD (1)
 http://103.251.247.106:3001/aostv/6008335daf05178ef75e1dfb/aos.m3u8|tokenUrl:/4_4
@@ -1072,16 +1035,17 @@ http://103.146.55.212:8088/starbharat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxXRbO9y2-zQOkFq_BcBlspqOX-pYz3V0Ms7fnhRg=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",Star Gold (1)
 https://dfe4lh87csqpu.cloudfront.net/ST_G.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxXRbO9y2-zQOkFq_BcBlspqOX-pYz3V0Ms7fnhRg=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",Star Gold (2)
-http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/61789
+
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="IND हिंदी",Star Gold HD (1)
 https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist_b478000.m3u8
-#https://khulnalive.anytv.live/stargold/index.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="IND हिंदी",Star Gold HD (2)
 http://103.153.175.254:8080/hls/stream19.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="IND हिंदी",Star Gold HD (3)
-
+https://khulnalive.anytv.live/stargold/index.m3u8
 #http://hitectv.live/hls/stream19.m3u8
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="IND हिंदी",Star Gold HD (4)
+http://stream.amrbd.com:8082/StarGold/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1039847503829585920/uHnCus7M.jpg" group-title="IND हिंदी",Star Gold Select HD (1)
 http://tv2.ebox.live:8080/live/star-gold-select.m3u8
@@ -1092,14 +1056,13 @@ http://tv2.ebox.live:8080/live/star-gold-select.m3u8
 
 #EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/73770383.cms" group-title="IND हिंदी",Star Gold 2
 
-
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/105614-image24.jpg" group-title="IND हिंदी",Star World
 
 #EXTINF:-1 tvg-logo="https://tvwish.com/img/channel/55.jpg" group-title="IND हिंदी",STAR WORLD HD
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2505/logo/240x240/mobile_logo_992202001610391308.png" group-title="IND বাংলা",Colors Bangla (1)
-http://103.205.133.19/hls/etvbangla.m3u8
+http://103.205.133.19/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2505/logo/240x240/mobile_logo_992202001610391308.png" group-title="IND বাংলা",Colors Bangla (2)
 http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2505/logo/240x240/mobile_logo_992202001610391308.png" group-title="IND বাংলা",Colors Bangla (3)
@@ -1107,12 +1070,14 @@ http://103.146.55.212:8088/colorsbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2505/logo/240x240/mobile_logo_992202001610391308.png" group-title="IND বাংলা",Colors Bangla (4)
 http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2505/logo/240x240/mobile_logo_992202001610391308.png" group-title="IND বাংলা",Colors Bangla (5)
-http://103.205.133.21/hls/etvbangla.m3u8
+http://103.205.133.48/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2505/logo/240x240/mobile_logo_992202001610391308.png" group-title="IND বাংলা",Colors Bangla (6)
 http://?eWRrV3lFVU5ZZFhURlpWYmg5Q2F6MFdaSVJIWjRaWFJscEZVb0ozYjVrR2RuaFVhd2sxY2haamFuNUdNMzVVUU5oR01wSkZWSWhGYTFvR1dPRmpRMGhrVEJKVk5MNTJZcUJWYjRjbGNWSm5kaHBXV3dKM1ZvWkRaNHAyVjVkbFI2aFdjNWRFYTNCVlIwSm1hQngyWldCbk1ReEdXdFJqYk5KR2R0aFRQ
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2505/logo/240x240/mobile_logo_992202001610391308.png" group-title="IND বাংলা",Colors Bangla (7)
+http://103.205.133.21/hls/colorsbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2423/logo/240x240/mobile_logo_667791001609587559.png" group-title="IND বাংলা",Colors Bangla HD (1)
-http://master.beeiptv.com:8081/mob/colorsbangla/playlist.m3u8
+http://103.153.175.254:8080/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2423/logo/240x240/mobile_logo_667791001609587559.png" group-title="IND বাংলা",Colors Bangla HD (2)
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2423/logo/240x240/mobile_logo_667791001609587559.png" group-title="IND বাংলা",Colors Bangla HD (3)
@@ -1120,12 +1085,13 @@ http://?cWRrV3lFVU5ZWlhURlpWYmg5aWR6MFdaSVJIWjNaWFJscEZVbzkyYjVrR2RuaDBkd2sxY2ha
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2423/logo/240x240/mobile_logo_667791001609587559.png" group-title="IND বাংলা",Colors Bangla HD (4)
 http://?ekoxZHdOVGE2SkhhMDVXTjVGMWRMeFVkanhrVXBkM05TMVdjTTFXWldKblNDZEZjNWh6VVRaVVU1VkVaSFpWY0xoV2F5VUhjcFJEY3dWVVQzaDJMd2hqVXNwWGNMbG5RYTlVZTQ0V2R6OVVRTkJuUXVKbE1FUldXTUZYVE5OM1kzTUhjRmxGYzRNWFN4WmpaUGxtYzR4R1RxMTBkWEpHYzBOMUxyUUhhd056Y2hORmRQaG5RdFZIVTRoMmEzVUROSGwwUXlaWE8wUjNNemgzTXZra2JNVjJaWGRuTVB0a1czMVVXVnhtYTJjMllHcFhONU1EYmlaR2N3Z1VOeGRuZHhaM2FJdEdheUptU3dNbWJZSjBSUE5YYnRsRmVzcDJZYWhYZTRGVVdwdFNiMUpHUnlrekx1dG1OT2RITnBkbk5aOVNVM0VqYnd4bWVSMVRQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2423/logo/240x240/mobile_logo_667791001609587559.png" group-title="IND বাংলা",Colors Bangla HD (5)
-http://103.153.175.254:8080/hls/stream28.m3u8
+http://stream.amrbd.com:8082/colorsbangla/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/e0/7b/b2e07b1848baad0cea0c95b879f8d9b9.jpg" group-title="IND हिंदी",COLORS (1)
 http://103.205.133.19/hls/chc.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/e0/7b/b2e07b1848baad0cea0c95b879f8d9b9.jpg" group-title="IND हिंदी",COLORS (2)
-https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/playlist.m3u8
+http://103.205.133.48/hls/chc.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/e0/7b/b2e07b1848baad0cea0c95b879f8d9b9.jpg" group-title="IND हिंदी",COLORS (3)
 http://103.205.133.21/hls/chc.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/e0/7b/b2e07b1848baad0cea0c95b879f8d9b9.jpg" group-title="IND हिंदी",COLORS (4)
@@ -1178,7 +1144,7 @@ http://103.251.247.106:3001/aostv/6008324baf05178ef75e1df7/aos.m3u8|tokenUrl:/4_
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/340/logo/115x115/mobile_logo_209158001561972797.png" group-title="IND বাংলা",Zee Bangla (1)
 http://103.205.133.21/hls/zeebangla.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/340/logo/115x115/mobile_logo_209158001561972797.png" group-title="IND বাংলা",Zee Bangla (2)
-http://otv.ftpbd.net/streams/107/index.m3u8
+http://d2k667g61yse6h.cloudfront.net/101.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/340/logo/115x115/mobile_logo_209158001561972797.png" group-title="IND বাংলা",Zee Bangla (3)
 https://any.hitectv.live:4443/zeebangla/tracks-v1a1/mono.m3u8
 #http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
@@ -2798,7 +2764,7 @@ http://?dGRrV3lFVU5ZcFdURlpWYmg5U2J6MFdaSVJIWm9aWFJsRjFOTEJuYkhabmRybDFjdzFHT3Za
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (2)
 http://103.251.247.105:3001/aostv/5f6f8d0883ec515e3c86bca9/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (3)
-
+http://atc.hopto.org/Cricket-Willow-Quality/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRS1KOa5Etrq8YBSpdqpSXxdsUzZtnI0JGOQ&usqp=CAU" group-title="Sports",Willow Extra (1)
 rtmp://58.200.131.2:1935/livetv/starsports
