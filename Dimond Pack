@@ -2,11 +2,22 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Official Streaming",Live-TV™
-http://161.97.162.167:1936/live/watannews/playlist.m3u8
-#https://llvod.mxplay.com/video/2543714c43aef14fae52f0ac7331cf17/2/hls/h264_high.m3u8
+https://llvod.mxplay.com/video/2543714c43aef14fae52f0ac7331cf17/2/hls/h264_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Cricket
+#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 1 )
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 2 )
+http://161.97.162.167:1936/live/watannews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 1 )
+https://d1qrlcqj36d57y.cloudfront.net/out/v1/b365d51598d34929a8429647b3949a0c/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 2 )
+https://d1h4f0emkyo7xe.cloudfront.net:443/out/v1/daed1fcf95e1491592aff0ba66dd82e4/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 3 )
+https://d1h4f0emkyo7xe.cloudfront.net/out/v1/daed1fcf95e1491592aff0ba66dd82e4/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 4 )
+https://d3g8ubaferj2d1.cloudfront.net/out/v1/3849055818a5461985839047f9ef6eae/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
 https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
@@ -21,19 +32,10 @@ http://?MmRrV3lFVU5ZdFdURlpWYmg5U2N6MFdaSVJIWnZaWFJscEZVb1ozYjVrR2RuaFVhd2sxY2ha
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",BAN vs SL
 
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Official Streaming",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Official Streaming",NASA Media TV 
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8 
-
-
-#EXTINF:-1 tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/2c33201c7d208b0ea9ff445b6708ffb2.png" group-title="The Believer",(Illuminati Agenda) The Army of Shaytan Series
-https://scontent.fdac6-1.fna.fbcdn.net/v/t42.27313-2/10000000_4144454115601415_1006289627332399462_n.mp4?_nc_cat=106&vs=3bc5b390aabf65e1&_nc_vs=HBksFQAYJEdJQ1dtQUFITEZuclc3a09BR2JSVHFJVkQtY05ickZxQUFBRhUAAsgBABUAGCRHTFlrcXdxdG5uVC1WVzRGQU9FS2dqRHZKNUo5YnY0R0FBQUYVAgLIAQBLA4gScHJvZ3Jlc3NpdmVfcmVjaXBlATEgbWVhc3VyZV9vcmlnaW5hbF9yZXNvbHV0aW9uX3NzaW0AKGNvbXB1dGVfc3NpbV9vbmx5X2F0X29yaWdpbmFsX3Jlc29sdXRpb24AFQAlABwAACbIp%2FfDiu71AxUCKAJDMxgLdnRzX3ByZXZpZXccF0B3HNDlYEGJGDJkYXNoX2dlbjNiYXNpY19wYXNzdGhyb3VnaGFsaWduZWRfaHEyX2ZyYWdfMl92aWRlbxIAGBh2aWRlb3MudnRzLmNhbGxiYWNrLnByb2Q4ElZJREVPX1ZJRVdfUkVRVUVTVBsEiBVvZW1fdGFyZ2V0X2VuY29kZV90YWcGb2VwX2hkE29lbV9yZXF1ZXN0X3RpbWVfbXMNMTYxOTc3MjUzNzI5MAxvZW1fY2ZnX3J1bGUHdW5tdXRlZBNvZW1fcm9pX3JlYWNoX2NvdW50BDEzMzUlAhwAJcQBGwaIAXMEMjM4OAJjZAoyMDIxLTA0LTI3A3JjYgQxMzAwA2FwcAZWaWRlb3MCY3QKR1JPVVBfUE9TVAJ0cw9vZXBfcHJvZ3Jlc3NpdmUA&ccb=1-3&_nc_sid=5e2f14&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeGmD90SUGmILMmRCwpyyXA3VnioPZ4W79ZWeKg9nhbv1mmgL_dTHwiUuWWOnzfIlZlZnh97exYfbjOAwBPJlml6&_nc_ohc=wcxxgVjXDhAAX9T28Kr&_nc_ht=video.fdac6-1.fna&oh=03f8e14485b0ff036e6caa75a0b88b6a&oe=608BE695&_nc_rid=e39473d22f3a403
-
-#EXTINF:-1 tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/2c33201c7d208b0ea9ff445b6708ffb2.png" group-title="The Believer",নারী বিপ্লব এবং নারীবাদ মুহাম্মাদ (সাঃ) এর বিস্ময়কর ভবিষ্যৎবাণী
-https://scontent.fdac6-1.fna.fbcdn.net/v/t66.36240-6/10000000_492226471903248_3798615171677598315_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeGt9Ezxh5xFLqZWVI84oBLTI0ZkZCZaDIkjRmRkJloMiW0rrgE5qylHlk8qxe14YNS1fHXPJpNqe_YtZSnIXcQi&_nc_ohc=E6LL6WutK2cAX_l5QZX&_nc_ht=scontent.fdac6-1.fna&oh=f470e44ce8dac74ac0491dd2f06da299&oe=60B09FE1
-
 
 
 
@@ -170,6 +172,12 @@ http://?dmwzVTFJRFRwSm5acmhGYXlWemQyRWpTblpUYzNCbmUwaEZjWlozVXExa1dtbFVkd3AyTTF3
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg" group-title="বাংলাদেশ",BOISHAKHI TV PLUS
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg" group-title="বাংলাদেশ",BOISHAKHI TV PLUS
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="বাংলাদেশ",BANGLA VISION (1)
 http://103.205.133.21/hls/banglavision.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="বাংলাদেশ",BANGLA VISION (2)
@@ -256,7 +264,7 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (3)
 http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (4)
-
+https://piratesiptv.shortcm.li/gazi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (5)
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (6)
@@ -535,6 +543,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="বাংলাদেশ",Cumilla 24 (2)
 http://?eEoxZHdOVGE2aEdhMDVXTjVGRmJMeFVkanhrVW9kM05TeEdTcGRHVkU5U2FFTjFhNHRFVDFvblJ5aFVPNWdEVE5sV05qeDBkNHNTYjBvMU41SW1UMjlTVUNOMVpXZG5heUFGVw==
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM7fCVtFypFcv_0mM9h6krCRbJaW68BLjf4DJUlAyaOdMmuFE7QmNewgCn2BvUzr5TCLo&usqp=CAU" group-title="বাংলাদেশ",সোনারী বাংলা টিভিি
+https://sonalitv-hls.telelivebd.com/sonalitv/sonalitv_manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="বাংলাদেশ",LIVE2WEB IPTV
 ?Live-TV™
 
@@ -641,8 +652,10 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="বাংলাদেশ",Jhankar TV
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/live-orgin/jhankartv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-DM-9bTa8Ebw/W7hLpa9mpmI/AAAAAAAACic/_ZEd4iFe4xEg4KnqWLyFZryB5duQRosHQCLcBGAs/w1200-h630-p-k-no-nu/Jonmobhumi-TV-bd.png" group-title="বাংলাদেশ",JonmoBhumi TV
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-DM-9bTa8Ebw/W7hLpa9mpmI/AAAAAAAACic/_ZEd4iFe4xEg4KnqWLyFZryB5duQRosHQCLcBGAs/w1200-h630-p-k-no-nu/Jonmobhumi-TV-bd.png" group-title="বাংলাদেশ",JonmoBhumi TV (1)
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-DM-9bTa8Ebw/W7hLpa9mpmI/AAAAAAAACic/_ZEd4iFe4xEg4KnqWLyFZryB5duQRosHQCLcBGAs/w1200-h630-p-k-no-nu/Jonmobhumi-TV-bd.png" group-title="বাংলাদেশ",JonmoBhumi TV (2)
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="বাংলাদেশ",Millennium24
 ?Live-TV™
@@ -736,9 +749,9 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/0c/71/0e0c71d1-587e-4de6-66cc-1bd1dc23b116/source/512x512bb.jpg" group-title="বাংলাদেশ",NANDAN IPTV (1)
-http://nandansyst.com/hls/nandan.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/0c/71/0e0c71d1-587e-4de6-66cc-1bd1dc23b116/source/512x512bb.jpg" group-title="বাংলাদেশ",NANDAN IPTV (2)
 http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/0c/71/0e0c71d1-587e-4de6-66cc-1bd1dc23b116/source/512x512bb.jpg" group-title="বাংলাদেশ",NANDAN IPTV (2)
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxBxQJHyanVV8gg61FGhGpclYUbrJ5r7sF5L8PpfQ=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",Alif IPTV
 http://128.199.212.160/alif/1080/index.m3u8?Live-TV™
@@ -851,6 +864,8 @@ http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
 http://?MWRrV3lFVU5ZVlhURlpWYmg5aWV6MFdaSVJIWnVaWFJsUldXUzkyUVBaRVp0MW1lNUZEVDJGVmV2bEZhTFJuVk1wM1R6NGtiM1pFZXROM1V2VUZVdXRXZEVSamJZTkhNMHRrVjA5MGRaMWtSWlJuYXVCMVN2a3pMUWxYVnUxVVZGMW1jUlZrWTBoVllxcFZaaVZtWVRkbVFydFdaaVZUYkp4RU1JdFVWeWRYWXpjbWR0aDJWcEJsZTRKRmJPOWlZTXBXU3FCVFk=
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="IND বাংলা",Jalsha Movies HD (4)
 http://stream.amrbd.com:8082/Jalshamovies/index.m3u8
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="IND বাংলা",Jalsha Movies HD (5)
+https://1449.myindian.tv/edge/19531/index.m3u8?token=48.1.7850.1cae7b545bccfa1b22b7d3a6c765e7ab.1.2.2.965.0.0.250228e8186a40b2a693ec0f42685a30
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav
 
@@ -4064,60 +4079,3 @@ http://220.158.149.28:8180/live/TV00000000000000000167@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000169@HHZT
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/mm/mv_tv_th.png" group-title="မြန်မာ",MVTV MYANMAR
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://p5.img.cctvpic.com/photoAlbum/templet/special/PAGEscDuWa51ueLmHqSynult190202/ELMTX2VugFomB1Hj1RdmAsgb190217_1550557434.jpg" group-title="中国",CCTV 1
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.meituan.net/csc/945cc0d005d4c98fbde9ded11c6c57d111784.jpg" group-title="中国",龙岩综合
-http://stream.lytv.net.cn/2/sd/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
-
-#EXTINF:-1 tvg-logo="" group-title="中国",
