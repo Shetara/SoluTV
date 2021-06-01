@@ -473,10 +473,8 @@ https://ott.bingebd.com/live/ngrp:colors_hd_all/playlist.m3u8
 https://ott.bingebd.com/live/ngrp:colors_asia_all/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Binge",Colors Rishtey 
 https://ott.bingebd.com/live/ngrp:rishtey_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Binge",B4U Movies
-https://ott.bingebd.com/live/ngrp:b4u_movies_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Binge",Comedy Central
-https://ott.bingebd.com/live/ngrp:comedy_central_all/playlist.m3u8
+ https://ott.bingebd.com/live/ngrp:comedy_central_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Binge",National Geographic 
 https://ott.bingebd.com/live/ngrp:nat_geo_in_all/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Binge",Nat Geo Wild 
@@ -509,4 +507,3 @@ https://ott.bingebd.com/live/ngrp:zoom_all/playlist.m3u8
 https://ott.bingebd.com/live/ngrp:vh1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Binge",Zing
 https://ott.bingebd.com:443/live/ngrp:ott_zing_all/playlist.m3u8
-
