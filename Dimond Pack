@@ -839,7 +839,9 @@ http://103.146.55.212:8088/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png" group-title="IND বাংলা",Star Jalsha HD (5)
 http://103.153.175.254:8080/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png" group-title="IND বাংলা",Star Jalsha HD (6)
-
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634741
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png" group-title="IND বাংলা",Star Jalsha HD (7)
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634742
 
 
 
@@ -866,6 +868,8 @@ http://?MWRrV3lFVU5ZVlhURlpWYmg5aWV6MFdaSVJIWnVaWFJsUldXUzkyUVBaRVp0MW1lNUZEVDJG
 http://stream.amrbd.com:8082/Jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="IND বাংলা",Jalsha Movies HD (5)
 https://1449.myindian.tv/edge/19531/index.m3u8?token=48.1.7850.1cae7b545bccfa1b22b7d3a6c765e7ab.1.2.2.965.0.0.250228e8186a40b2a693ec0f42685a30
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="IND বাংলা",Jalsha Movies HD (6)
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634738
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav
 
@@ -1065,12 +1069,12 @@ http://stream.amrbd.com:8082/StarGold/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1039847503829585920/uHnCus7M.jpg" group-title="IND हिंदी",Star Gold Select HD (1)
 http://tv2.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1039847503829585920/uHnCus7M.jpg" group-title="IND हिंदी",Star Gold Select HD (2)
-
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634757
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1039847503829585920/uHnCus7M.jpg" group-title="IND हिंदी",Star Gold Select HD (3)
 
 
 #EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/73770383.cms" group-title="IND हिंदी",Star Gold 2
-
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634756
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/105614-image24.jpg" group-title="IND हिंदी",Star World
 
 #EXTINF:-1 tvg-logo="https://tvwish.com/img/channel/55.jpg" group-title="IND हिंदी",STAR WORLD HD
@@ -1137,6 +1141,8 @@ http://103.153.175.254:8080/hls/stream29.m3u8
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
 #http://hitectv.live/hls/stream29.m3u8
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="IND हिंदी",Colors Cineplex HD (3)
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634768
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2436/logo/240x240/mobile_logo_855611001609415813.png" group-title="IND हिंदी",COLORS Rishtey (1)
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6586/index.m3u8
@@ -1241,6 +1247,8 @@ http://z5amshls.akamaized.net/apacsea/tracks-v1a1/index.m3u8
 http://?NWRrV3lFVU5ZNVdURlpWYmg5aWJ6MFdaSVJIWnZaWFJscEZVbzEyYjVrR2RuaFVjd2sxY2haamFuNUdNMzVVUU5wbU1UcFdZQlpHYjNaSFdFTmxTNWhqUTJabFU1c21lS2RHZEJ4MmE2dDBZNlJXUzJoV1ZSbDBkMVVYZXVwMUsxMDBiMlIwTDNoSFUxOUNiTmgxUjJnSGF6NDJRMnRtZG1GVE5EQlRQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/644/logo/240x240/mobile_logo_408712001584535267.png" group-title="IND हिंदी",Zee Tv HD (3)
 http://?blZIVG9Kak5qdFdlUzlpTTNsVGE0NVdSM0FUVHhsbmJtQnpWeDFHTll0MGNDTlZlMFpsUjB3bWExSldNeXBsYXVSbmNOTmtlcmhXY0JkbVY0RldhNjVXYTE4U1c1TkhVVVZHTXdOR2RKUlhNemxWT3RKblJ3c3lRRGxXYUNWRWNqWmpjc2QxTmo5MlNucDNUQkpqWW5kV2JScDFNWEpEYXJnbGJrVjJiemRWTXFSV1Z6QTNTa0ZIVlZKMmJxbDNLcjRHUzIxME01Y1VkNFZuVFZWVE9IUmxiUjVHTUI1MlZ4aDNWR2REYno5V1d3azJidGgzYzM4bVp2TWxNNVZUUzR0U1lrbFhZWnhHT3NCemFCZGpUb3RrUjFSM01ZUlROV2hXU3pwRlpacEdkNGxWY3ZSa1RvMWtlNVZXWnlKSE56ZFZVUGxWYlhaMVVSMVRQ
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/644/logo/240x240/mobile_logo_408712001584535267.png" group-title="IND हिंदी",Zee Tv HD (4)
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634748
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png" group-title="IND हिंदी",ZEE หนัง
 https://cdn6.goprimetime.info/feed/LC5/index.m3u8
@@ -1463,11 +1471,13 @@ http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6575/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/57/logo/115x115/channel_logo_830721001481302384.png" group-title="IND हिंदी",Sony Intertenment HD (2)
 http://?dWRrV3lFVU5ZbFdURlpWYmg5aWN6MFdaSVJIWnlaWFJscEZVb2wzYjVrR2RuaGthd2sxY2haamF3NUdNMzVVUU5kM011VkZXMGRWYzFORWJ5RlZSdWhVUll4MGJQUjNZemcxZEJKamVrWkZSSnRTWTFCSGFTVjBieXdXUnlFbFM0UmtidkVWVG5kR00wWldSaUZuTVJ4MlZhaDNaTjFVY0s5aWVpRkZXNlZuVmlGbGJPcG1abmxtV1doamEyaDBacTlFV3FwSGQ=
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/57/logo/115x115/channel_logo_830721001481302384.png" group-title="IND हिंदी",Sony Intertenment HD (3)
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634753
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/352/logo/115x115/mobile_logo_143317001514373547.png" group-title="IND हिंदी",Sony Max (1)
 http://45.127.244.7:8080/hls/channel6.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/352/logo/115x115/mobile_logo_143317001514373547.png" group-title="IND हिंदी",Sony Max (2)
-http://otv.ftpbd.net/streams/109/index.m3u8?Live-TV™
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634758
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/352/logo/115x115/mobile_logo_143317001514373547.png" group-title="IND हिंदी",Sony Max (3)
 http://?MGRrV3lFVU5ZWlhURlpWYmg5aWJ6MFdaSVJIWnVaWFJscEZVb1ozYjVrR2RuaGtjd2sxY2haamFvNUdNMzVVUU5wbU10NVVUM1pqYzY5aVQwTTBjdlpGT1ZSVVpVZG1OdDVFV3JNbmRWSlZRVHBsWnFsMUswdGtVSGgzU0oxV1RUZDNhRnBVWTJsM1l1TjFkdVpITzA1V2RRQkRNeGh6Wnpaa1doOVdQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/352/logo/115x115/mobile_logo_143317001514373547.png" group-title="IND हिंदी",Sony Max (4)
@@ -1490,6 +1500,8 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6574/index.m3u8
 http://mynetworks.info:80/live/ashraf333/333ashraf/6510.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/641/logo/115x115/mobile_logo_602468001571288709.png" group-title="IND हिंदी",Sony Max HD (4)
 http://?NWRrV3lFVU5ZQlhURlpWYmg5eWN6MFdaSVJIWjVaWFJscEZVb1IzYjVrR2RuaFVld2sxY2haamFvNUdNMzVVUU5oMk1vWmtRNGdYZGl0bWVpOTJVME5qYTI4MlVZSm5Rc3BWY29CMWN6WjBSaEZ6TXQ1bWFzZGtaU2hYYllSVVQxRTJabmQwWXZORlY1WkhUeEowWXhjMlVPQmxUcTUwWkQ1VU1RMVVQ
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/641/logo/115x115/mobile_logo_602468001571288709.png" group-title="IND हिंदी",Sony Max HD (5)
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634759
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/353/logo/240x240/mobile_logo_916505001610630048.png" group-title="IND हिंदी",Sony Max 2 (1)
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6625/index.m3u8
@@ -1510,6 +1522,9 @@ http://?c2RrV3lFVU5ZaFhURlpWYmg5eWF6MFdaSVJIWm5aWFJscEZVb2wyYjVrR2RuaDBkd2sxY2ha
 http://?bmRrV3lFVU5ZVlhURlpWYmg5U2F6MFdaSVJIWnpaWFJscEZVb3AyYjVrR2RuaFVkd2sxY2haamFuNUdNMzVVUU5oR001YzBRemxWY1p0MmNFcEdTNE5FWkdka1VQaDNhbVJXT1F0R2RIZDBkd2NtY3YxRWVLUm1TU1JuY3YwRVJURmtkeU1HTTVjVU5zeG1iajEyS1FsR1VxQm5VSEpFZEgxMExORlVQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2420/logo/240x240/mobile_logo_091920001610629573.png" group-title="IND हिंदी",Sony Sab HD (2)
 http://208.115.215.42/SonY_Sab_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2420/logo/240x240/mobile_logo_091920001610629573.png" group-title="IND हिंदी",Sony Sab HD (3)
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634747
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2421/logo/240x240/mobile_logo_112993001610629767.png" group-title="IND हिंदी",SONY PAL (1)
@@ -1586,6 +1601,8 @@ http://103.251.247.105:3001/aostv/5fafa2a66f4e8cc0b51d8d34/aos.m3u8|tokenUrl:/4_
 #http://103.99.250.202:1935/sunbanglatv/myStream/chunklist_w1270250710.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla (3)
 http://?NGRrV3lFVU5ZVlhURlpWYmg5U2R6MFdaSVJIWnhaWFJsRjFOTDltYkhabmRybDFjdzFHT3ZaWFM0aFRSelIyYlhCWFpPdEdlb0ZrYllCblVzMW1RbzlDTWhwR2FuVm5OMTRXUzFKVmR4Y0ZlbVJET29sMU40RkZTMUlIYzVWM0xTQkZjdlVuTXYxV01zZEdNb2wxU1B4MlFvaEZWa05rZUZ4a1lXSkZSdlJ6U2tObllyRkhORmRrZHlwMVpzTkVWV1YwY29KRWU=
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla (4)
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634736
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/402/logo/115x115/mobile_logo_789226001563606539.png" group-title="IND हिंदी",&tv (1)
@@ -1603,6 +1620,7 @@ http://103.141.66.36/bpk-tv/10182/default/index.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="IND हिंदी",&tv HD (3)
 https://liveanevia.mncnow.id/live/eds/AndTV/sa_dash_vmx/AndTV.mpd
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="IND हिंदी",&tv HD (4)
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634750
 
 
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png" group-title="IND हिंदी",& pictures (1)
@@ -1687,7 +1705,7 @@ http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 http://103.153.175.254:8080/hls/stream7.m3u8
 #http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/amp_metadata_content_image_min_696px_wide/public/images/story/2011/12/01/UTV.jpg?itok=NVaX2Q5V" group-title="IND हिंदी",Utv Action (3)
-
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634765
 #http://hitectv.live/hls/stream7.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2F20160517212023858398_20110425021810_UTV_bindass_whatIM_460.gif&h=630&w=1200&q=75&v=20170226&c=1" group-title="IND हिंदी",Utv Bindass
@@ -2883,7 +2901,7 @@ http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/uk-espn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORT EXTRA
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORT 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8?Live-TV™
@@ -4087,4 +4105,3 @@ http://220.158.149.28:8180/live/TV00000000000000000167@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000169@HHZT
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/mm/mv_tv_th.png" group-title="မြန်မာ",MVTV MYANMAR
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
-
