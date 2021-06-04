@@ -34,6 +34,8 @@ http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2ha
 http://?MmRrV3lFVU5ZdFdURlpWYmg5U2N6MFdaSVJIWnZaWFJscEZVb1ozYjVrR2RuaFVhd2sxY2haamE0NUdNMzVVUU41V01XcDJOYVp6ZDBzQ04wTWpjemhIY1Voa1pxQkhSSHgyY0hsVWIyUkVaM1VGVTVaVlF2MEdUUmhuVVVkV2N5bDNhV0JqY2pSbmIwRkZaS1owWlNkbWVRMVVSbmxHYkhOemFyUVRQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",BAN vs SL
 
+#EXTINF:-1 tvg-logo="https://img.cricketworld.com/images/d-092868/dhaka-premier-league-.jpg" group-title="Official Streaming",Dhaka T20 Premier League
+https://video.fdac6-1.fna.fbcdn.net/hvideo-prn-ftw/_nc_cat-1/v/rprh0q7HO28hRi06x1IOT/_nc_ohc-Ql00aFJoHp4AX9MdC0l/live-dash/dash-abr-ibr-audio/2949248342009627.mpd?_nc_rl=AfBbdypRHSnxWiJEcjg&aaf=1&ccb=2-4&ms=m_CTPA&replica=0&oh=8f5bda65d3bf6c1d36a36cdd856b1559&oe=60BBF698
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Official Streaming",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -42,13 +44,12 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (1)
 http://103.205.133.21/hls/btv.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (2)
 http://103.205.133.19/hls/btv.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (3)
-
+http://103.205.133.48/hls/btv.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/64/logo/115x115/mobile_logo_392184001564902527.png" group-title="বাংলাদেশ",Sangsad TV (1)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8?Live-TV™
@@ -3032,6 +3033,29 @@ http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/359.m3u8
 http://185.180.15.15:2200/EX/bein11hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
 #EXTINF:-1 group-title="Sports" tvg-logo="https://1.bp.blogspot.com/-tex37P2mfps/WpKTtGSVQvI/AAAAAAAACMY/xRNKA-EvhoYMCGYSjqySnJU-5tVZXQL7wCLcBGAs/w320/dz%2Bprokora%2Bkooora%2Bkora%2Byallashoot_12-HD.png",|best|BEINSPORTS 12 ʰᵈ
 http://185.180.15.15:2200/EX/bein12hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
+
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
+http://ferrarico.referrari.com/live/60166_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
+http://ferrarico.referrari.com/live/60167_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
+http://ferrarico.referrari.com/live/60168_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
+http://ferrarico.referrari.com/live/60169_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5
+http://ferrarico.referrari.com/live/60170_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="SPORTS",BeIN Sports 6
+http://ferrarico.referrari.com/live/60171_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="SPORTS",BeIN Sports 7
+http://ferrarico.referrari.com/live/60172_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Premium
+http://ferrarico.referrari.com/live/60091_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Premium
+http://ferrarico.referrari.com/live/60092_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3 Premium
+http://ferrarico.referrari.com/live/60093_.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/117-1175275_fox-sports-logo-png-fox-sports-1-logo.png" group-title="Sports",FOX SPORT 1 (2)
