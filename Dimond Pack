@@ -2698,7 +2698,7 @@ http://103.205.133.21/hls/chss1.m3u8
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" group-title="Sports",Star Sports 1 Hindi (3)
 http://?PUVIZG9WRmNtRm5jdGhGTlZaemN1UkRObU5WYUVGWFphZFVUdWRUYUtaVFMxTWtNcVozTW9CWFdtMUdOS1IwYjYxMFpUVlVOVnRrUnJGa010OVdTS2huVm9wa2JKRldkRjUyTjQ4MlR5RjNSMGRrTXFGM1RuUjJMMzFXZVpSRlNRNVVZdUJ6S0lsMFo1OFdNNmxUVnJwbmVSeFVWVWxrZXpsVWFwTnpUeEYzS3dOMGJ4RVVlNEZIZWpkVVkxWlZUNFVYWUxoWGQxUmtXSmxtY09wVmFGRnpaelIxTmpwbFROaFhaTGxqVVZoa2FJWkdSTEp6VXJ0ME1DQlhWR2hXZHh4V1ZDcEZiVmRYUW94V1Q0WlhiWVYzVHVoR2V0WjFac0oyYnNWalF6UVdOcHRTT3hjblkyUjNaSFJYWXYxa2NJSkdVeWh6UXpkSE1WZERaUVpuZTFWVFE0WVZlMTl5Uk9aSE0zdDJkWWgyUU01R2V4TmpNUzkwYWh0RWUxSldTNjVHU1U5bVlodEdlT3AxWUhaMWFTOVNWTVJYVHdwa1ZFTkhhcHAyTlB4MFJXSmxkS1pGZW5GMWM1Rm1NdUZWUm01bWRLbGtTNlozZDNOWE1UdEVack5UT3VkelZNTm5aMlkwZHJRa2NVRkhWRmRtYTFoRlMyUVhPNHBYWUtabWFMQkhkUFJITXdsRU1vcG1iWk5sZVNwV1FDSlVUbnBHZTJRekw0dDJWNXRpVXlkRU50Tm5NREoxTXBGSGM1UkZhYXhrWXZSRlpWdGlhd1FIYjNORk5DWm1iemRUUzRrMmRzdGtUUDkyTHBobU1tTjFZemxHZWw5U1F5MDBMeFYzYjJSRFZUZDNMMVIwVTVKV2RJZFVkSEJIWndGVlA=
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" group-title="Sports",Star Sports 1 Hindi (3)
-http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/661
+http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" group-title="Sports",Star Sports 1 Hindi (4)
 
 
@@ -2804,7 +2804,9 @@ http://103.251.247.105:3001/aostv/5f9687840ebdfb11f1048e46/aos.m3u8|tokenUrl:/4_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (7)
 http://103.205.133.19/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (8)
-
+https://streamcdn.getloconow.com/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a_hi/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (9)
+https://streamcdn.getloconow.com/CJV0DSAWS5_4317c984-f174-4f0f-92f1-bf8485a60f9c/manifest.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjEGlmlRlgpSF6zn3RdwHAlR4LgckyXnhWPYIPH=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Geo Super (1)
@@ -3671,11 +3673,11 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 #EXTINF:-1 tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Kids/5bebcba7a609d202b3000005/large_16_9.jpg" group-title="Kids",Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/playlist_ak.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",CARTOON NETWORK IND (1)
-http://otv.ftpbd.net/streams/123/index.m3u8?Live-TV™
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",CARTOON NETWORK IND (2)
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",Cartoon Network
-http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",CN Plus
 http://103.251.247.106:3001/aostv/60083660af05178ef75e1e01/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",CN Arabic
