@@ -24,8 +24,9 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
-https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
+https://sonydai.akamaized.net/hls/live/2018457/DAI9ME/master.m3u8?hdnea=exp=1623362579~acl=/*~id=2007171117128571202~hmac=76871131c72f95bd73a4d6ba7439fcead9b6a91687b4427a34f414f4cd670416&originpath=/linear/hls/pb/event/cihN52epToSN20WqT8yygA/stream/81598c94-08f4-4c06-a6c3-d48640fc3704:SIN/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
+https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.news247plus.com/contents_img/N247P-news-image-6291405812-23776-1597979555.jpg" group-title="Official Streaming",IPL-2021
 http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2haamFuNUdNMzVVUU5GWE1XcDJOYVpqYTBzQ04wTWpjcGhIY1Voa1pxVkhSSHgyY3hOa2E2aFZhcTFFYzRkSFpsbGtlTjUyUmFoR2Q0bGpic0ZFWkhKV1dyVnphaFZFUzFJM1k2NVVPSk5GYXY1MllvOVdQ
@@ -1820,12 +1821,15 @@ https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1331_1.png" group-title="IND हिंदी",FOX FAMILY HD (2)
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/af/ee/7f/afee7f902e65a98c2c2c5537f4d45b45.png" group-title="IND हिंदी",FOX Movies
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28676?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/af/ee/7f/afee7f902e65a98c2c2c5537f4d45b45.png" group-title="IND हिंदी",FOX Movies (1)
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/af/ee/7f/afee7f902e65a98c2c2c5537f4d45b45.png" group-title="IND हिंदी",FOX Movies (2)
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1330_1.png" group-title="IND हिंदी",FOX Action Movies
 http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28775?token=QhVcUhcJRggXVwMAUFIHBQBUAQdRUgVWVl0MVFBWBFgLDgQBVQMGAQRGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWV1BXABsWQw0FRggXVgRTC1YSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANfCQVUFEs=
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1330_1.png" group-title="IND हिंदी",FOX Family Movies
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28678?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.tavilatam.com/wp-content/uploads/2020/03/TAVI_FoxPremium.png" group-title="IND हिंदी",FOX PREMIUM
 http://ts.ec.cx:8080/a/hls1/foxpremium1.m3u8
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/FOX-HD.png" group-title="IND हिंदी",Fox HD
@@ -1833,7 +1837,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="IND हिंदी",Paramount HD
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/FOX-HD.png" group-title="IND हिंदी",Fox
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/z1x8j5OWyBbl7YNLeJUK3uKn5B4=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/219201/fox-crime-035db1.jpg" group-title="IND हिंदी",Fox Crime (1)
 http://194.54.183.122:8000/play/a01m
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/z1x8j5OWyBbl7YNLeJUK3uKn5B4=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/219201/fox-crime-035db1.jpg" group-title="IND हिंदी",Fox Crime (2)
@@ -3336,12 +3340,12 @@ http://?d2RrV3lFVU5ZaFdURlpWYmg5Q2N6MFdaSVJIWjJaWFJscEZVb1ozYjVrR2RuaEVjd2sxY2ha
 #EXTINF: -1 tvg-logo="https://cdn.toffee-cms.com/images/program/2427/logo/240x240/mobile_logo_557742001609413756.png" group-title="English",Comedy Central HD
 http://?emRrV3lFVU5ZcFdURlpWYmg5U2N6MFdaSVJIWnlaWFJscEZVb2gzYjVrR2RuaDBjd2sxY2haamExNUdNMzVVUU5wV00zSm5SMkZsZVFkVGNyVUdVcjVVYWtablRPVjNVeWNHT1JaSGFsTjNhTmxXVTJsRldyVVRNWUZuU1FKRmVEUmtjclJ6TDA1RWRwTmpNNXQyVHVGM1ZTRlVaV05UZHhJV1Q0OFdQ
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="English",Cinemax (3)
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="English",Cinemax (1)
-http://me.zichannels.my.id/ch/max.m3u8
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="English",Cinemax (2)
-https://rebrand.ly/CIN-62
+https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="English",Cinemax (3)
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/340?cb=20190815211939" group-title="English",Sony Movies Action
 http://51.52.156.22:8888/http/009
@@ -3379,33 +3383,39 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 #EXTINF:-1 tvg-logo="https://72it.ru/wp-content/uploads/2018/10/815_telekanal-amedia-hit-hd-voshyol-v-s.png" group-title="English",Amedia Hit HBO
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg" group-title="English",RED HBO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg" group-title="English",RED HBO HD (1)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?Live-TV™
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg" group-title="English",RED HBO HD (2)
+https://raw.githubusercontent.com/angahjee1994/tv/master/red.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="English",Thrill (1)
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="English",Thrill (2)
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="English",HBO Signature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="English",HBO Signature (1)
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8?Live-TV™
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="English",HBO Signature (2)
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="English",HBO Hits (1)
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="English",HBO Hits (2)
-https://raw.githubusercontent.com/zaltvplayer/play01/master/hbohit.m3u8
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="English",HBO Family (1)
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="English",HBO Family (2)
-https://raw.githubusercontent.com/zaltvplayer/play01/master/hbofam.m3u8
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="English",HBO (1)
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="English",HBO (2)
 http://cdn.ihub.live:8080/j-hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="English",HBO (3)
-https://raw.githubusercontent.com/zaltvplayer/play01/master/hbo.m3u8
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ewscripps.brightspotcdn.com/2c/7a/2284f50e49c1b7595592ddfc51f5/hbo.png" group-title="English",HBO Chinese
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
@@ -3524,7 +3534,8 @@ http://?dmRrV3lFVU5ZZFdURlpWYmg5eWN6MFdaSVJIWjNaWFJscEZVb2wyYjVrR2RuaGtkd2sxY2ha
 http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="English",History TV
-https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8?Live-TV™
+http://185.180.221.194:8278/streams/d/History/playlist.m3u8
+#https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/220px-History2Logo2019.png" group-title="English",History 2
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8?Live-TV™
@@ -3663,10 +3674,14 @@ http://210.210.155.35:80/uq2663/h/h37/01.m3u8
 #EXTINF: tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/73/184454.jpg" group-title="English",Sky Cinema Select
 #http://89.187.169.206:2200/EX/Sky_Cinema_Select_HD-uk/index.m3u8?token=Live-TV™.live
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7CEvBzPxqUOgwINekoyE281BTQxsFu8opxw&usqp=CAU" group-title="English",Blue Ant Extreme
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7CEvBzPxqUOgwINekoyE281BTQxsFu8opxw&usqp=CAU" group-title="English",Blue Ant Extreme (1)
 http://45.126.83.51/dr9445/h/h15/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpqQmdRajh0w61GAiPsSdKUZDh8HTlLhwl8Q&usqp=CAU" group-title="English",Blue Ant Entertainment
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7CEvBzPxqUOgwINekoyE281BTQxsFu8opxw&usqp=CAU" group-title="English",Blue Ant Extreme (2)
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpqQmdRajh0w61GAiPsSdKUZDh8HTlLhwl8Q&usqp=CAU" group-title="English",Blue Ant Entertainment (1)
 http://45.126.83.51/dr9445/h/h16/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpqQmdRajh0w61GAiPsSdKUZDh8HTlLhwl8Q&usqp=CAU" group-title="English",Blue Ant Entertainment (2)
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
                                                                    
                             
