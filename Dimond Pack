@@ -36,7 +36,7 @@ http://?MmRrV3lFVU5ZdFdURlpWYmg5U2N6MFdaSVJIWnZaWFJscEZVb1ozYjVrR2RuaFVhd2sxY2ha
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",BAN vs SL
 
 #EXTINF:-1 tvg-logo="https://img.cricketworld.com/images/d-092868/dhaka-premier-league-.jpg" group-title="Official Streaming",Dhaka T20 Premier League
-https://video.fdac6-1.fna.fbcdn.net/hvideo-atn-prn/_nc_cat-1/v/r4-kGEqslLHUwCqce4auC/_nc_ohc-xTnsub8yb0sAX8ZCU_m/live-dash/dash-abr-ibr-audio/2950027908598337.mpd?_nc_rl=AfCWX5chgk4_SmGrPQs&ccb=2-4&ms=m_CTPA&sc_t=1&oh=61d8d276c7a7c02ae503e81dd5c24bf6&oe=60BCA818
+https://video.fdac6-1.fna.fbcdn.net/hvideo-ldc-ftw/_nc_cat-1/v/r_X-_Jwhfsgend6RupoF7/_nc_ohc-yKsLdl94W60AX-hEMV2/live-dash/dash-abr-ibr-audio/2954383294829465.mpd?_nc_rl=AfAYm0yLPhwrH19DynQ&ccb=2-4&ms=m_CTPA&oh=e86b994cde94c0b843dc23b6189383a0&oe=60C329B0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Official Streaming",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -134,6 +134,8 @@ http://?cWwzVTFJRFRwaG1acmhGYXlWVGUyRWpTblpUY29CbmUwZEZWMm8yWjBSekw0VW5jcWRVWW1s
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/3/logo/115x115/1481106966.png" group-title="বাংলাদেশ",CHANNEL I HD (6)
 http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/3/logo/115x115/1481106966.png" group-title="বাংলাদেশ",CHANNEL I HD (7)
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx7Unvg9EAGQuSxRvw8XjCSAszWgvGJSDsiYMzCRA=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",EKUSHEY TV (1)
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?Live-TV™
@@ -1337,7 +1339,8 @@ https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
 http://cdn.ihub.live:8080/ZeeCinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="IND हिंदी",Zee Cinema HD (1)
-http://hitectv.live/hls/stream25.m3u8
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ZEECINEMA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ea01782c6689f21f02fd5da12f2ab9c9f565cea5ad71cdbe493f6ef01aa7f8cb1505aa2f2d76d8c370143c994a504af765a60dcc233e1296e561d8e80beb0bf0be6272949e752a69c91210e9eb649f1e32ea143a7969d63519ca1de570381830e8b9&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#http://hitectv.live/hls/stream25.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="IND हिंदी",Zee Cinema HD (2)
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="IND हिंदी",Zee Cinema HD (3)
@@ -1517,7 +1520,7 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6575/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/57/logo/115x115/channel_logo_830721001481302384.png" group-title="IND हिंदी",Sony Intertenment HD (2)
 http://?dWRrV3lFVU5ZbFdURlpWYmg5aWN6MFdaSVJIWnlaWFJscEZVb2wzYjVrR2RuaGthd2sxY2haamF3NUdNMzVVUU5kM011VkZXMGRWYzFORWJ5RlZSdWhVUll4MGJQUjNZemcxZEJKamVrWkZSSnRTWTFCSGFTVjBieXdXUnlFbFM0UmtidkVWVG5kR00wWldSaUZuTVJ4MlZhaDNaTjFVY0s5aWVpRkZXNlZuVmlGbGJPcG1abmxtV1doamEyaDBacTlFV3FwSGQ=
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/57/logo/115x115/channel_logo_830721001481302384.png" group-title="IND हिंदी",Sony Intertenment HD (3)
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634753
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/352/logo/115x115/mobile_logo_143317001514373547.png" group-title="IND हिंदी",Sony Max (1)
 http://45.127.244.7:8080/hls/channel6.m3u8
@@ -1695,7 +1698,8 @@ http://103.153.175.254:8080/hls/stream14.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="IND हिंदी",& Pictures HD (6)
 http://cdn.ihub.live:8080/j-and-picture-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="IND हिंदी",& Pictures HD (7)
-http://hitectv.live/hls/stream14.m3u8
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae493a4359cfdcea90f8dfa04e4bc42fcca7bcd1d853320dab3c4ded7709401b7a6c66646711c947c824d2ef15ce47a2eea6846438f5ceee0f55402b01fd8caad8034216e4c458138d898027cf262530fc9defd78a48d9&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#http://hitectv.live/hls/stream14.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/98204-xplore.jpg" group-title="IND हिंदी",& Xplor HD (1)
 http://z5amshls.akamaized.net/action/tracks-v2a1/playlist.m3u8
@@ -1715,7 +1719,8 @@ http://103.146.55.212:8088/flix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.likeetv.com/uploads/tv_image/and-flix-hd.jpg" group-title="IND हिंदी",& Flix HD (1)
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.likeetv.com/uploads/tv_image/and-flix-hd.jpg" group-title="IND हिंदी",& Flix HD (2)
-http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5f98abc05d35144b0842889500df1e9fd27885b72a866b2df851f0d5a0607245acc438455a2dc039981889e16cb81ae1dca1989d037e7e7c2e542fc5743c7553fdd64bd4268cd5876aa2c4743d3b&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/comedy-bg_041218121746.png",Comedy Active
@@ -3444,7 +3449,7 @@ https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/raRMhafJrd.png" group-title="English",NAT GEO HD (4)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/raRMhafJrd.png" group-title="English",NAT GEO HD (5)
-https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/chunks.m3u8
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-NATGEOCH/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b798594ea4703895a13c15835ab3644651242a882479d4ed734e49a6fbcfac2e76c84bbbed6abe3475fa67edcfb90c3a58b9563f440bc1dbbd25c005aa782b5d537c3dd05dc2ffaf3f6f02d57a6b2&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/raRMhafJrd.png" group-title="English",NAT GEO HD (6)
 
 
@@ -3453,7 +3458,8 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="English",NAT GEO WILD (1)
 http://103.251.247.106:3001/aostv/600838aeaf05178ef75e1e07/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="English",NAT GEO WILD (2)
-https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf64fa8235da80cdab652f86b9c1be050328d447b1471bc025e2f9ab03c30a7a2fd1c43b523fa41b6455412145b1a2d6878b1a28fbd4d706e48afb1602866940927ea134da9170e97eebc29f3823a69f42e90681f26&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+
 
 EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniUbwrMfPBdDWqHYSjAHL93O8Z1THc3lRzQUwz8=s900-c-k-c0x00ffffff-no-rj" group-title="English",Wild Life
 https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
