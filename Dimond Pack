@@ -23,9 +23,9 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Movie 2
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Official Streaming",Sony Liv
 https://sonydai.akamaized.net/hls/live/2018457/DAI9ME/master.m3u8?hdnea=exp=1623362579~acl=/*~id=2007171117128571202~hmac=76871131c72f95bd73a4d6ba7439fcead9b6a91687b4427a34f414f4cd670416&originpath=/linear/hls/pb/event/cihN52epToSN20WqT8yygA/stream/81598c94-08f4-4c06-a6c3-d48640fc3704:SIN/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1264908708519137280/BSJxRqzw_400x400.jpg" group-title="Official Streaming",Sony Liv
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Official Streaming",Sony Liv
 https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.news247plus.com/contents_img/N247P-news-image-6291405812-23776-1597979555.jpg" group-title="Official Streaming",IPL-2021
@@ -37,7 +37,7 @@ http://?MmRrV3lFVU5ZdFdURlpWYmg5U2N6MFdaSVJIWnZaWFJscEZVb1ozYjVrR2RuaFVhd2sxY2ha
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",BAN vs SL
 
 #EXTINF:-1 tvg-logo="https://img.cricketworld.com/images/d-092868/dhaka-premier-league-.jpg" group-title="Official Streaming",Dhaka T20 Premier League
-https://video.fdac6-1.fna.fbcdn.net/hvideo-ldc-ftw/_nc_cat-1/v/r_X-_Jwhfsgend6RupoF7/_nc_ohc-yKsLdl94W60AX-hEMV2/live-dash/dash-abr-ibr-audio/2954383294829465.mpd?_nc_rl=AfAYm0yLPhwrH19DynQ&ccb=2-4&ms=m_CTPA&oh=e86b994cde94c0b843dc23b6189383a0&oe=60C329B0
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Official Streaming",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -46,10 +46,10 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="জুমার খুতবা",খতিব হুজ্জাতুল ইসলাম সৈয়দ ইবরাহিম খালিল রাজাভী
-https://video.fdac6-1.fna.fbcdn.net/hvideo-prn-ldc/_nc_cat-105/v/r8BDRP73WcgOoHJFPMz6Y/_nc_ohc-PWYDL7jPMAYAX-ZoNEW/live-dash/dash-abr3/2939731989597962.mpd?_nc_rl=AfCynAr8YUM0MzBvIDM&ccb=2-4&ms=m_CNP&oh=6ff9d5c3a870d1e70a19af00751d6941&oe=60C4B4E5
-#EXTINF:-1 tvg-logo="" group-title="জুমার খুতবা",শাইখ ড. মোজ্জাফর বিন মোহসিন
-https://video.fdac6-1.fna.fbcdn.net/hvideo-prn-frc/_nc_cat-109/v/rLTZqAEl9eoRtfNcO_Y-A/_nc_ohc-vJ0U6dGUJ0EAX_RTxkX/live-dash/dash-abr3/4041042332646647.mpd?_nc_cb=ce9d14c9-c95ddb0a&_nc_rl=AfBBtfD3QBemAo7Iu3U&ccb=2-4&e_cfg=eyJ1c2VfY2h1bmtlZF9zZWdtZW50X2hhbmRsZXIiOiJ0cnVlIn0&ms=m_CNP&oh=b61d03c1173aab2ba188863d94279bfc&oe=60C49232
+#EXTINF:-1 tvg-logo="" group-title="জুমার খুতবা",
+
+#EXTINF:-1 tvg-logo="" group-title="জুমার খুতবা",
+
 
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (1)
 http://103.205.133.21/hls/btv.m3u8?Live-TV™
