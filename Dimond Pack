@@ -8,15 +8,16 @@ https://llvod.mxplay.com/video/2543714c43aef14fae52f0ac7331cf17/2/hls/h264_high.
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 2 )
 http://161.97.162.167:1936/live/watannews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 3 )
+http://175.41.46.16:8081/hls/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football 
 https://tvstream.space/jtv/jtvxxx.php?c=Sony_Six_HD_Bengali&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football
 https://tvstream.space/jtv/jtvxxx.php?c=Sony_Six_SD_Bengali&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football
-https://tvstream.space/jtv/jtvxxx.php?c=Ten_4_HD_Tamil&q=1200&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/U3ZzNIU.png" group-title="Official Streaming",Live-TV™ Football
-https://tvstream.space/jtv/jtvxxx.php?c=Sony_Six_HD_Malayalam&q=1200&e=.m3u8
 
 #https://brandlogos.net/wp-content/uploads/2021/04/2021-copa-amrica-logo-512x512.png
 
@@ -926,9 +927,8 @@ http://103.146.55.212:8088/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png" group-title="IND বাংলা",Star Jalsha HD (5)
 http://103.81.104.118/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png" group-title="IND বাংলা",Star Jalsha HD (6)
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634741
+
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11813-j9kz0vow-v1/imageContent-11813-j9kz0vow-m1.png" group-title="IND বাংলা",Star Jalsha HD (7)
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634742
 
 
 
@@ -1169,6 +1169,10 @@ http://115.42.65.142:4000/play/a05l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/73770383.cms" group-title="IND हिंदी",Star Gold 2
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/105614-image24.jpg" group-title="IND हिंदी",Utsav Gold HD
+http://208.115.215.42:80/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/105614-image24.jpg" group-title="IND हिंदी",Star World
 
 #EXTINF:-1 tvg-logo="https://tvwish.com/img/channel/55.jpg" group-title="IND हिंदी",STAR WORLD HD
@@ -1972,7 +1976,7 @@ http://103.81.104.118/hls/stream9.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/357/logo/240x240/mobile_logo_222873001584536407.png" group-title="IND বাংলা",Discovery Bangla (2)
 https://idvd.multitvsolution.com/idvo/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/357/logo/240x240/mobile_logo_222873001584536407.png" group-title="IND বাংলা",Discovery Bangla (3)
-http://otv.ftpbd.net/streams/121/index.m3u8?Live-TV™
+http://103.109.56.116/live/skyfeed1015/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/357/logo/240x240/mobile_logo_222873001584536407.png" group-title="IND বাংলা",Discovery Bangla (4)
 http://hitectv.live/hls/stream9.m3u8
 
@@ -2699,7 +2703,6 @@ https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnv
 http://?NWRrV3lFVU5ZeFdURlpWYmg5aWJ6MFdaSVJIWnJaWFJscEZVb0YzYjVrR2RuaEVld2sxY2haamF0NUdNMzVVUU5sM00wWVZNU2wzYjNFMlZVTlZSeGxFZXJFbmVQQlhVYWhqZHc0V2NYdGtRNGtUWXpoSFJIWmpidmxuUWlaVWN5ZDFkME5sWTNOa2QyRjNkVzFrVHRwSE00cGxjT1JWZDNRMVlzTlhQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (2)
 https://webtv-stream.nettv.com.np/iptvlive_abr/sixhdabr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIxIDc6MTQ6MzkgQU0maGFzaF92YWx1ZT0zMWJhc25Udmx3MEw5akx1OEZVQUlRPT0mdmFsaWRtaW51dGVzPTE3MjgwMCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUyTVRJeE5qQXpPVGNzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl5TXpBeU56RTRJaXdpYzNSaUlqb2laMnhmTVRBNE5ETXhORGd3TXpZME5EazBORE15TWprMkxURXdOeUo5LnlRcHo3cjJsbGI2TW1Rdy1Gdm03MVltRlFDdWZFTVBjZXNyb1gyOFdQTGM=
-#http://otv.ftpbd.net/streams/106/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (3)
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (4)
@@ -2708,7 +2711,8 @@ http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (5)
 http://43.230.123.21:8080/live/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (6)
-http://45.127.244.7:8080/hls/channel7.m3u8
+http://103.109.56.116/live/skyfeed1025/index.m3u8
+#http://45.127.244.7:8080/hls/channel7.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (7)
 http://103.102.136.106:8080/cmcltv/tcm_six.m3u8
 #http://tv.neobd.net:1935/live/tv3/playlist.m3u8
@@ -2742,6 +2746,9 @@ http://?dWRrV3lFVU5ZQlhURlpWYmg5Q2N6MFdaSVJIWnlaWFJscEZVb1YzYjVrR2RuaEVid2sxY2ha
 http://?PTRtVTNCM01wcFhjb1JuYjFrWFV6dEVUMU5HVFN0MmQzSWxhNmRYYWlOMWJYWlhNdlpFT3g5RVYxaG1ieEVXT0taRWJLWlZaVnBrTXVkemNLZDJTVGQzWlU5RVdIbFRiSzUwTHBKbFp5RmpWb3BIUjNNWFkzbzBhMVZVZXZVMFU0SUVTeVJWUXdNVmNSeDJVRmhtVlB0MmNOVmphWEJWV3BObU16cDJMdXBHTVdkMVMwWmxkelVVVHZKbU0waDFiNVYyUmlWWFo2WmpUcjlHY1ROMWNZRm5kMnRrU0VsVlowOG1VdTUwUXN4MFozWUVUV0pGWnRsR2J3TjFWWHBIV1hSa05FSjJheHR5YndFRVN6VmtjTGgwTm1WSFN2aFVXVTlrZTQwV1cxRlZU
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/603/logo/115x115/mobile_logo_524057001567842834.png" group-title="Sports",Sony Ten 1 HD (8)
 http://103.102.136.106:8080/cmcltv/tcm_ten1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/603/logo/115x115/mobile_logo_524057001567842834.png" group-title="Sports",Sony Ten 1 HD (9)
+http://175.41.46.16:8081/hls/2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/604/logo/115x115/mobile_logo_995268001567842888.png" group-title="Sports",Sony Ten 2 HD (1)
 http://?dWRrV3lFVU5ZcFhURlpWYmg5U2J6MFdaSVJIWm5aWFJscEZVb1YzYjVrR2RuaFVhd2sxY2haamE1NUdNMzVVUU5sSE1xSjJOTlJsZWlwMktuZGtZc2hVU1FKSGRyMDJhSUZVZDRFV2VJcEdiUGxHVHFGMFl2NVVScGQzY2FwR1d0SkhhNU1VVTVJbVM0TnpOd2R6S09GWGJ2TldWd1ZIY1JSSGVGZFhQ
@@ -2804,7 +2811,8 @@ http://?M2RrV3lFVU5ZdFdURlpWYmg5eVp6MFdaSVJIWnpaWFJsUldXU3AzUVBaRVp0MVdkNUZEVDJG
 http://103.81.104.118/hls/stream15.m3u8
 #https://khulnalive.anytv.live/starsp1/index.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 (7)
-https://show.streamingbd.com/hls/eflix/May1fL2-M4SFUPy1z6bGYg/1619101232/bd_t_sports.m3u8
+http://175.41.46.16:8081/hls/3.m3u8
+#https://show.streamingbd.com/hls/eflix/May1fL2-M4SFUPy1z6bGYg/1619101232/bd_t_sports.m3u8
 #http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 (8)
 http://stream.amrbd.com:8082/kn1a/index.m3u8
@@ -2819,7 +2827,7 @@ http://?PUVIZG9WRmNtRm5jdGhGTlZaemN1UkRObU5WYUVGWFphZFVUdWRUYUtaVFMxTWtNcVozTW9C
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" group-title="Sports",Star Sports 1 Hindi (3)
 http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" group-title="Sports",Star Sports 1 Hindi (4)
-
+http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_1_HINDI_HD/tracks-v1a1/mono.m3u8
 
 
 
@@ -2848,7 +2856,7 @@ http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 (9)
 http://stream.amrbd.com:8082/kn2a/index.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 (10)
-
+http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_2_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112" group-title="Sports",Star Sports 3 (1)
@@ -2878,7 +2886,7 @@ http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star S 1 Sel. (7)
 http://stream.amrbd.com:8082/kn4a/index.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star S 1 Sel. (8)
-
+http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_SELECT_1_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (1)
@@ -2897,7 +2905,7 @@ http://43.230.123.21:8080/live/starsportsselect-2.m3u8
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 #htps://rhridoy136.shortcm.li/starsportsselect2hd.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (8)
-
+http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_SELECT_2_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDSports.in.png" group-title="Sports",DD Sports
