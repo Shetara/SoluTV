@@ -3143,7 +3143,8 @@ http://103.251.247.105:3001/aostv/5f8c83a40e5d270364c65b7f/aos.m3u8|tokenUrl:/4_
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://1.bp.blogspot.com/-Ef7FxZ3bcqo/XrqC9QpNUtI/AAAAAAAAC18/-PixYJS18vk9l8vWxOqdQCl47C1h7P81wCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BCricket.jpg",Sky Cricket
-http://?PUlIZG9WRmNtRjNidGhGTlZaemMwUkRObU5WYUVOWFphZFVUdWRUYktaVFMxTWtNNFozTW9CWFdtaEhOS1IwYjYxVWNVTjNaaDUwTjBoa2NYaEhidlFIYWFKalVsZEhhTEZVTW1KVVUxbHpLQkZITTJVSGFaVjBOcWxGZTN4bVNUbFdPcWxUWVJkMGJxZEdWemdYVGx0V2VGeEVhc2x6Yng1bVJtSjNjYWxXTTJnV01oZEVhNGczU0NKV1UxdFNlWVJEUlJObk1DVnpSWmQwY3paWFR6UmtjcEJqTTVOV1dDcEdkdjh5YVM5bWFNaFhTdlVXVHBKME1LZFVXWFpuVVF4MlNUWmpjQmxFZFR4V2V3Um5VaU5GVUloWFZqSkZiekZ6Y3lvRWF4c0dVdTltVTRWamQxcDNNUDVtVk9WVmF4WVVlRTFtVzFCSFVFSlhWVVJYVGp4V1l3TVdkNUpqYkhSamVweDBMSlpIUnJBWGUzRTBTS2RrYWtOM1FHTlVkd2hVYnljVmROaFdTT05WTURSV2RpVjFaVUpYTzJWRlVwbFZWemdITWg1R2J2SmpiSVZHVHpkbWN5bDJORnBtY3RKSE9EeEVaSDltYnpKVk41Vm1OeVIwU3NobVZ0eFdiNVlrYlpsRWJwbEdPbkJuU3NKa2R1RkdUWnRtYkU5VVF3Y2tjbk5qYldWMWFuRnpWNGxHYVhoSFZ5UUdhd0F6Y1JsbFo0Z3pRNVpEWk9oV1ZwZDJNakZtUkN0R2MyRldWaGxVWjVSM1Exd2tZd0JIY0doblp3UUVjWUIzUlBwbFlvdFVjaFpFZFZwV01HSkdjYWx6Y1VGellDbEdOMVpGZW5WM1ppbG5lU1ZXWVRGbmVzcFVWNTlVZXNGVVA=
+http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+#http://?PUlIZG9WRmNtRjNidGhGTlZaemMwUkRObU5WYUVOWFphZFVUdWRUYktaVFMxTWtNNFozTW9CWFdtaEhOS1IwYjYxVWNVTjNaaDUwTjBoa2NYaEhidlFIYWFKalVsZEhhTEZVTW1KVVUxbHpLQkZITTJVSGFaVjBOcWxGZTN4bVNUbFdPcWxUWVJkMGJxZEdWemdYVGx0V2VGeEVhc2x6Yng1bVJtSjNjYWxXTTJnV01oZEVhNGczU0NKV1UxdFNlWVJEUlJObk1DVnpSWmQwY3paWFR6UmtjcEJqTTVOV1dDcEdkdjh5YVM5bWFNaFhTdlVXVHBKME1LZFVXWFpuVVF4MlNUWmpjQmxFZFR4V2V3Um5VaU5GVUloWFZqSkZiekZ6Y3lvRWF4c0dVdTltVTRWamQxcDNNUDVtVk9WVmF4WVVlRTFtVzFCSFVFSlhWVVJYVGp4V1l3TVdkNUpqYkhSamVweDBMSlpIUnJBWGUzRTBTS2RrYWtOM1FHTlVkd2hVYnljVmROaFdTT05WTURSV2RpVjFaVUpYTzJWRlVwbFZWemdITWg1R2J2SmpiSVZHVHpkbWN5bDJORnBtY3RKSE9EeEVaSDltYnpKVk41Vm1OeVIwU3NobVZ0eFdiNVlrYlpsRWJwbEdPbkJuU3NKa2R1RkdUWnRtYkU5VVF3Y2tjbk5qYldWMWFuRnpWNGxHYVhoSFZ5UUdhd0F6Y1JsbFo0Z3pRNVpEWk9oV1ZwZDJNakZtUkN0R2MyRldWaGxVWjVSM1Exd2tZd0JIY0doblp3UUVjWUIzUlBwbFlvdFVjaFpFZFZwV01HSkdjYWx6Y1VGellDbEdOMVpGZW5WM1ppbG5lU1ZXWVRGbmVzcFVWNTlVZXNGVVA=
 #EXTINF:-1 group-title="Sports" tvg-logo="https://1.bp.blogspot.com/-Ef7FxZ3bcqo/XrqC9QpNUtI/AAAAAAAAC18/-PixYJS18vk9l8vWxOqdQCl47C1h7P81wCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BCricket.jpg",Sky Cricket HD
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://archive.org/services/img/SkySportsPremierLeague_201708",Sky sport EPL HD
@@ -3904,7 +3905,7 @@ http://103.251.247.106:3001/aostv/60083660af05178ef75e1e01/aos.m3u8|tokenUrl:/4_
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",CN Arabic
 http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/08/02/Untitled-1_26.jpg" group-title="Kids",Hungama Kids
-https://tivimateplaylists.live/hungamakidzszs
+http://103.153.39.34:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",DISNEY (1)
 http://otv.ftpbd.net/streams/122/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",DISNEY (2)
