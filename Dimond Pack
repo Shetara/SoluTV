@@ -974,7 +974,7 @@ http://89.41.180.253:8080/INDIA_BENGALI/STAR_JALSHA_MOVIES_HD/tracks-v1a1/mono.m
 
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav
-
+http://89.41.180.253:8080/INDIA_HINDI/STAR_UTSAV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",Star Parvah
 http://?PTRHZG9WRmNtRjNidGhGTlZaemN1UkRObU5WYUVCWFphZFVUdWRqZUtaVFMxTWtNMVozTW9CWFdtOUdOS1IwYjYxVWRVaGtXckZWUzFKRWJYcDBLd0puWnZVRU5rbFhiS0pEV3o5Q1cwbHpZNWhHT0x0R1p2SjNZUk5WYXdsM1NyWW1id2xsTnhWMGRUaG5hVDlDYTRja2VsRldNM2RHU3loVWM1b2xRTVozTTFrVGIwcGxhSDFtVjN3a055UkRlRFZrVjU1bU0xY0ViVUZFYUNoR1NDMUdVbkZFYUlsbE14bEdaWnhtWm9WbWFOcG5TeFVuZHBaVE9HWkZacm9XVlM1R1JacDFaVmRHT0xoVWRzMTBjeklsY005R1M0RmxXUEowWjRnSE56SW5hME5qZWxOVU96OW1Rd0IzUmtORWJHQlRTSTUwZHo1a1p3VW5lbnBtV3ZGRFJ4OW1kb0JETXJNRGI2Rkdhd0VETUQ1MlZTQmpjclFYYjFOV1NWOW1VdDUwWkR4VVVXOVdTMWxsYjBaRGVWbFhUclVqTXV0eVpzcGxjSXBtWlBOa1pKVkhkNGh6WXpNbE54bFVjamRGVXJVSFI2aDNieUVsY0lCRGFuaDFSNGgyS3hFRlV2ZFhhWmhXU2FKVmJUcG5RaU5EYjNCWFJ5QWpkeFozVnBwMExTWlRjMVZIZVBCMUxxZEhkSnBGVVdoMlUyRWpWS1YwZDNRMFZCZFdRM2wwVE1sVWVGcG5hemtFTnhaWGUwbDJNdUYwU3VKa2RZUmpNRzlXY01ORWRDZG5jMFZqUjVJbGNvRmpUbXBXVVZSblVGZG1adFpuZFRWM1JZbFZld2xETXlVRVNXOW1RdlJsTlVwR2ExWm1OeFFHYXNOWFA=
 
@@ -996,7 +996,7 @@ https://idvd.multitvsolution.com/idvo/rplusgold.m3u8?Live-TV™
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27017-jjo92wyg-v1/imageContent-27017-jjo92wyg-m1.png" group-title="IND বাংলা",Khusbo Bangla (1)
-http://103.141.66.36/bpk-tv/10139/default/index.m3u8?Live-TV™
+https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27017-jjo92wyg-v1/imageContent-27017-jjo92wyg-m1.png" group-title="IND বাংলা",Khusboo Bangla (2)
 https://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 
@@ -1136,7 +1136,8 @@ http://cdn.ihub.live:8080/j-star-plus/tracks-v1a1/mono.m3u8
 #http://208.115.215.42/Star_Plus_HD_UK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="IND हिंदी",Star Plus HD (1)
-https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist.m3u8
+http://89.41.180.253:8080/INDIA_HINDI/STAR_PLUS_HD/tracks-v1a1/mono.m3u8
+#https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="IND हिंदी",Star Plus HD (2)
 http://103.205.133.21/hls/chsp.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="IND हिंदी",Star Plus HD (3)
@@ -1152,9 +1153,9 @@ http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="IND हिंदी",Star Bharat HD (1)
 http://103.251.247.106:3001/aostv/6008335daf05178ef75e1dfb/aos.m3u8|tokenUrl:/4_4
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="IND हिंदी",Star Bharat HD (2)
-http://103.146.55.212:8088/starbharat/tracks-v1a1/mono.m3u8
+http://89.41.180.253:8080/INDIA_HINDI/STAR_BHARAT_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="IND हिंदी",Star Bharat HD (3)
-
+http://103.146.55.212:8088/starbharat/tracks-v1a1/mono.m3u8
 
 
 
@@ -1164,7 +1165,8 @@ https://dfe4lh87csqpu.cloudfront.net/ST_G.m3u8
 http://103.81.104.118/hls/stream19.m3u8
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="IND हिंदी",Star Gold HD (1)
-https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist_b478000.m3u8
+http://89.41.180.253:8080/INDIA_HINDI/STAR_GOLD_HD/tracks-v1a1/mono.m3u8
+#https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist_b478000.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="IND हिंदी",Star Gold HD (2)
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="IND हिंदी",Star Gold HD (3)
@@ -1180,6 +1182,7 @@ http://tv2.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1039847503829585920/uHnCus7M.jpg" group-title="IND हिंदी",Star Gold Select HD (2)
 http://115.42.65.142:4000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1039847503829585920/uHnCus7M.jpg" group-title="IND हिंदी",Star Gold Select HD (3)
+http://89.41.180.253:8080/INDIA_HINDI/STAR_GOLD_SELECT_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/73770383.cms" group-title="IND हिंदी",Star Gold 2
@@ -1755,7 +1758,7 @@ http://103.141.66.36/bpk-tv/10182/default/index.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="IND हिंदी",&tv HD (3)
 https://liveanevia.mncnow.id/live/eds/AndTV/sa_dash_vmx/AndTV.mpd
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="IND हिंदी",&tv HD (4)
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634750
+http://89.41.180.253:8080/INDIA_HINDI/AND_TV_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png" group-title="IND हिंदी",& pictures (1)
@@ -1861,6 +1864,7 @@ https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634765
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/utv-hd-logo-300x300.jpg" group-title="IND हिंदी",UTV HD
+http://89.41.180.253:8080/INDIA_HINDI/UTV_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/UTV_Software_Communications/UTV_Software_Communications-Logo.wine.png" group-title="IND हिंदी",UTV Edge
