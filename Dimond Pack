@@ -986,6 +986,8 @@ http://?PTRHZG9WRmNtRjNidGhGTlZaemN1UkRObU5WYUVCWFphZFVUdWRqZUtaVFMxTWtNMVozTW9C
 https://d3cg98dbjyu3j4.cloudfront.net/MOCLASSIC.m3u8
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="https://1.bp.blogspot.com/-7w4EIAURwvc/YL9atME9IHI/AAAAAAAABEc/xPjF0rfacNMrBz8KUpCg_HKQFrSvElP9wCLcBGAsYHQ/s320/movie_opera_logo.png",Movies Opera
 http://d2whc8q9z2af8n.cloudfront.net/MO1.m3u8
+#EXTINF:-1 group-title="IND हिंदी" tvg-logo="",Mo Music
+https://d38944htyexzq5.cloudfront.net/MO_MUSIC.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="IND বাংলা",Frinds TV
 https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/friendstv.stream/live-orgin/friendstv.stream/chunks.m3u8
@@ -2174,19 +2176,22 @@ http://?eEoxZHdOVGE2cEhhMDVXTjVGbGFMeFVkanhrVXZkM05TQjNScmtYTzNKM1FrRkhjcVZuVDJF
 https://livestream.5centscdn.com/pakustv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://d3cj74lp9272r8.cloudfront.net/channels/thumbnails/000/000/001/original/hum_channel_icon.png?1505470330" group-title="پاکستان",HUM TV HD (1)
-http://42.201.228.226:8678/HUMTV_EBRAVO_TV/tracks-v1a1/mono.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/humtvnewone.smil/playlist.m3u8
+#http://42.201.228.226:8678/HUMTV_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://d3cj74lp9272r8.cloudfront.net/channels/thumbnails/000/000/001/original/hum_channel_icon.png?1505470330" group-title="پاکستان",HUM TV HD (2)
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6730/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv//uploads/Hum-Sitaray-logo.png" group-title="پاکستان",HUM Sitaray World
 http://46.105.112.116/?watch=NL/humeurope-uk&token=RED&e=m3u8
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv//uploads/Hum-Sitaray-logo.png" group-title="پاکستان",HUM Sitaray
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6731/index.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/sitaraynew.smil/playlist.m3u8
+#http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6731/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/349/logo/240x240/mobile_logo_135661001584537257.png" group-title="پاکستان",Hum Masala (1)
 http://?cmRrV3lFVU5ZSlhURlpWYmg5eWF6MFdaSVJIWjBaWFJscEZVb3gyYjVrR2RuaEVid2sxY2haamEzNUdNMzVVUU5Cbk0yZ0RNNUYxY3BabFloSkRSNWhuYXRSMFU0QjNUYVpHU2kxMGFSUjFMa0oyYXoxMmI0bzJVMUFYVUNSRVZEVjBiNFptU0dwVVRzVlhZRE5sYkNoV012UkRNMU5rY3dSelpqOVdQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/349/logo/240x240/mobile_logo_135661001584537257.png" group-title="پاکستان",Hum Masala (2)
-http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6733/index.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/masala.smil/playlist.m3u8
+#http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6733/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029819158622560257/IX7fTqWA_400x400.jpg" group-title="پاکستان",Hum News
 http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
@@ -2276,11 +2281,14 @@ http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8
 http://niazitv.tk:8080/A-Plus-27/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/648/logo/115x115/mobile_logo_575089001571734077.png" group-title="پاکستان",A-Plus (2)
 http://?cWRrV3lFVU5ZSlhURlpWYmg5U2V6MFdaSVJIWnNaWFJscEZVb0IzYjVrR2RuaGtjd2sxY2haamFvNUdNMzVVUU5OSE16ZzNSSk5IZEhaVlFXTlZOcGhHY3pOelp5bFdNRkowWTFFbWNJaDNNa0YyTm9KRGMzUjBiM2tIZW5KVU0wa1RkeFluVXZKMVM2UlVRR1JsY3VkM1l5Y0VNMlkzYjRabGR4ZFdQ
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/648/logo/115x115/mobile_logo_575089001571734077.png" group-title="پاکستان",A-Plus (3)
+https://streams.simpaisa.com:8443/pitvlive4/aplus.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnifcFyc-pBK4sua6Ler_A0NgqLObQSSCf_z8jTQ=s900-c-k-c0x00ffffff-no-rj" group-title="پاکستان",ATV
-https://streams.simpaisa.com:8443/pitvlive3/atv.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnRlY2huaWNhbGJhbmcuYWFqZW50ZXJ0YWlubWVudF9pY29uXzE1OTIwOTUwOTVfMDE4/icon.png?w=170&fakeurl=1" group-title="پاکستان",Aaj Entertainment
-https://streams.simpaisa.com:8443/pitvlive3/aajent.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/aajent.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://karytv.com/wp-content/uploads/2018/04/canada-one-channel-logo.jpg" group-title="پاکستان",Canada One
@@ -2301,7 +2309,7 @@ https://tvreg.klemit.net/regionalna/stream/index.m3u8
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/29/f8/56/29f856c25ddcdeb1b42085a88fccf3b6.jpg" group-title="پاکستان",Express TV
-https://streams.simpaisa.com:8443/pitvlive3/expressent.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/expressent.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pk/ExpressNews.pk.png" group-title="پاکستان",Express News
 https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/playlist.m3u8
@@ -3908,7 +3916,7 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/playlist_ak
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",CARTOON NETWORK IND (1)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",CARTOON NETWORK IND (2)
-
+http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",CN Plus
@@ -3942,7 +3950,8 @@ http://103.146.55.212:8088/nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2430/logo/240x240/mobile_logo_487708001609588822.png" group-title="Kids",NICK (5)
 http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2430/logo/240x240/mobile_logo_487708001609588822.png" group-title="Kids",NICK (6)
-http://aklivetv.com:8080/nick/index.m3u8
+http://pkr.cinepex.tv:8278/nickhindikdin/playlist.m3u8
+#http://aklivetv.com:8080/nick/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2430/logo/240x240/mobile_logo_487708001609588822.png" group-title="Kids",NICK (7)
 http://stm.aklivetv.com:8080/nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2490/logo/240x240/mobile_logo_380683001610126964.png" group-title="Kids",NICK HD+
@@ -3954,7 +3963,7 @@ https://any.hitectv.live:4443/nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2434/logo/240x240/mobile_logo_453778001609415473.png" group-title="Kids",NICK Sonic (3)
 https://khulnalive.anytv.live/nick/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2434/logo/240x240/mobile_logo_453778001609415473.png" group-title="Kids",NICK Sonic (4)
-http://103.251.247.106:3001/aostv/60082b92af05178ef75e1dec/aos.m3u8|tokenUrl:/4_4
+http://pkr.cinepex.tv:8278/sonichindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000039210000/PORTRAIT/oilcCZz8.png" group-title="Kids",Nickelodeon (1)
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000039210000/PORTRAIT/oilcCZz8.png" group-title="Kids",Nickelodeon (2)
@@ -3967,12 +3976,16 @@ http://?cmRrV3lFVU5ZQlhURlpWYmg5aWR6MFdaSVJIWjVaWFJscEZVb0YzYjVrR2RuaFVid2sxY2ha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&u
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2435/logo/240x240/mobile_logo_705850001609415605.png" group-title="Kids",NICK Jr. (4)
 http://cdn.ihub.live:8080/Nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2435/logo/240x240/mobile_logo_705850001609415605.png" group-title="Kids",NICK Jr. (5)
+http://pkr.cinepex.tv:8278/nickjrhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/611/logo/240x240/mobile_logo_396663001603016437.png" group-title="Kids",Discovery Kids (1)
 https://idvd.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/611/logo/240x240/mobile_logo_396663001603016437.png" group-title="Kids",Discovery Kids (2)
 http://?bmRrV3lFVU5ZbFdURlpWYmg5Q2J6MFdaSVJIWjBaWFJscEZVb2gyYjVrR2RuaDBjd2sxY2haamE2NUdNMzVVUU5sbU15RVRVSmhqY3dFWFJsNTJhcFZIYjRsbmUzWUhkMjkwWXhnemRsMVdiT2xuWjVOM1FrVkRleWxHZFBWbGRYSlVlM0l6Tm54VVFzQlhkVUYyYk1abmJZdFNWMjRXYXZ4RWN3UlRQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/611/logo/240x240/mobile_logo_396663001603016437.png" group-title="Kids",Discovery Kids (3)
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/611/logo/240x240/mobile_logo_396663001603016437.png" group-title="Kids",Discovery Kids (4)
+http://pkr.cinepex.tv:8278/discoverykidshindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/612/logo/240x240/mobile_logo_032827001584856027.png" group-title="Kids",Sony YAY (1)
 http://?NmRrV3lFVU5ZbFdURlpWYmg5aWF6MFdaSVJIWnBaWFJscEZVbzUyYjVrR2RuaEVld2sxY2haamFwNUdNMzVVUU5sMk1EQlhhNjlDYjFnRVVPQm5lMDlHVjZKbGMwZ0dUT2xrVFZCamRCTlZVNGtHTnNKVVYwVlhacHBuUng5VVdraDFieklEZG1GRWRyUmthS05uYjVvMk5GSlhPMWhIZTFjWFpadFdQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/612/logo/240x240/mobile_logo_032827001584856027.png" group-title="Kids",Sony YAY (2)
@@ -3984,6 +3997,8 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 http://103.81.104.118/hls/stream32.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/612/logo/240x240/mobile_logo_032827001584856027.png" group-title="Kids",Sony YAY (5)
 http://cdn.ihub.live:8080/SonyYay/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/612/logo/240x240/mobile_logo_032827001584856027.png" group-title="Kids",Sony YAY (6)
+http://pkr.cinepex.tv:8278/sonyyayhindikdin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjHh88awY5zeaAdK1qqA1kIKNGYxOwGzB-PuNYd=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",WOW KIDS
 http://161.97.162.167:1936/live/watannews/chunklist_w799269245.m3u8
@@ -3991,7 +4006,7 @@ http://161.97.162.167:1936/live/watannews/chunklist_w799269245.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Kids",POGO (1)
 http://?PTBHZG9WRmNtRm5ldGhGTlZaemN5UkRObU5WYUVaWFphZFVUdWR6ZEtaVFMxTWtNclozTW9CWFdtWkhOS1IwYjYxVWFUaGpkNDRHYnNoMmJzbDNMMjRtVTA5V2N4UnpkSnBHT1ZkVFF5RlhiM1VrZU5oR1J3RmtOUUprZUl4a2RqSkdTb2xYUk1wRWVPUm5ObGQyVDRZVWEyRTBkSmxWWTFsRE9oVmxVbWhHYXJNVldORnpaUnBVY3JZSFJ6TkhVbjVXYmpabmFHdDJVVHRXY0NGamI2cG5ONlIySzBnRmFhcG5OUlIzVVBWV2JpdFdRWmxIWnlCM1YzUldhV2RIV3dCek4xbDJaRmRUUVVwRk02Um5WUGwySzBGblpIdDBWUmQxWkxKbWRoWmxUb05IYkZOR1V3d0dja1JtZFNaR2VQcFhWUUZVYXF4R081UTNMTVpIV3lkVE5yMG1idk4wTHpSRFdxdDJZbkYxTE1GWGV5SWpXSnhXYmxsWGNqWjFaeEJYYmFaVk5yRkhNeDl5TXpZMWJGbDJMVmxFVW54V1J3b0dkV2RtVk1kRFdudHljdXAzU0loamExZFdOaHBWV1BkM2NyUjJMc1JHZGhORE5SUkVlNE5HYVBoa1FJOTJZa2hqZDI0bWVMcEZjeGdqU3Y1MFV4QWpTUDFXVHZNM0w0RlRhVnBrVG9kbWEzbEdjNFJIUzFFblE1RkZOSmhUYlJ0RU4xb0VPc1pGVlo5a01ZTkhaazlTY1JoR2VWcGtTMmdEZTZ4R2RCUldleE1uTVU5a2NYQjNadFpuZXJWVVk1Um1OeDRXYTNWbmNDeDJkMk0wYkZSamNQeFVRdFIxS05wR2NDbFhjMmx6VEdWM2RKQjFObmhIUnVWVlA=
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Kids",POGO (2)
-http://182.176.93.225:8000/play/a01p
+http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/SewJoaeUcv.png" group-title="Kids",Jio KIDS
 https://wxca.cf/j/Jio_KIDS/master.m3u8?signature=c5562a2c55bed59890f51a1d473716f1c934e279&unique=6f194f82bfafa03b829962486c163e8d
