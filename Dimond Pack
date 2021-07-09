@@ -1074,6 +1074,8 @@ https://d276v0apjdxe7n.cloudfront.net:443/out/v1/94b12003316c4d6c9721a1508b0d1ba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HKJrsz3/images.png" group-title="IND हिंदी",ETV Bharat English
 https://d2zmy2ox1qkejw.cloudfront.net:443/out/v1/770fb77abc5d4ef487fc8b8b38d60510/ETVB_CF_EN_NewsTime_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-_ocnyPXzVxg/V5HizRn4JnI/AAAAAAAAQ48/A8wW9HayVn06jLHuLPfwB_vVZX1wTElbwCLcB/s1600/india%2Bnews.jpg" group-title="IND हिंदी",News India
+https://itvoign.multitvsolution.com/hls/inkhabar.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJz4OSukoMq-88pT7gpASWgzilQBnduj3quPfaP9=s900-c-k-c0x00ffffff-no-rj" group-title="IND বাংলা",Kolkatta Tv
 http://global.thunderbd.com/46/tracks-v1a1/mono.m3u8
@@ -1123,6 +1125,8 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11350-j9jpk8pk-v1/imageContent-11350-j9jpk8pk-m1.png" group-title="IND हिंदी",DD Kisan
 
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11350-j9jpk8pk-v1/imageContent-11350-j9jpk8pk-m1.png" group-title="IND हिंदी",DD Kashir
+https://itvoign.multitvsolution.com/idvo/ddkashir.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DlmS8q4WwAA_iom.jpg" group-title="IND हिंदी",Star Life
 http://ms-azure-video.gslb.startimestv.com/live/STAR_LIFE_1034_500_480x360_277468/playlist.m3u8
@@ -1681,16 +1685,18 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 http://?cGRrV3lFVU5ZeFdURlpWYmg5aWV6MFdaSVJIWnVaWFJscEZVb1IzYjVrR2RuaGtkd2sxY2haamF4NUdNMzVVUU41R01MQnpRNWwzWjJaa05OQlRabkZrYVhOVE1TTm5RWU5WZTJkMFpIVjJTTWhHU3BaMGM1SldWczkyTE5oMmQ0Um5kNFZUYVlWMFZuZEZSeFFqU0hwbVVCNTJLSUZIYzRsMVlPTldQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2422/logo/240x240/mobile_logo_395146001610630298.png" group-title="IND हिंदी",Sony Wah (3)
 http://208.115.215.42/Sony_Mix_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v3/imageContent-798-j5m7esnc-m10.png" group-title="IND हिंदी",Enter 10
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v3/imageContent-798-j5m7esnc-m10.png" group-title="IND हिंदी",Enter 10 (1)
 http://103.251.247.106:3001/aostv/600832e1af05178ef75e1df9/aos.m3u8|tokenUrl:/4_4
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v3/imageContent-798-j5m7esnc-m10.png" group-title="IND हिंदी",Enter 10 (2)
+https://idvd.multitvsolution.com/idvo/enter10.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhDVkXbG-WQsn3UwfxuZkkHWHtBBvNk447VqCch=s900-c-k-c0x00ffffff-no-rj" group-title="IND বাংলা",Enter 10 Bangla (1)
-https://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+https://idvd.multitvsolution.com/idvo/enter10bangla.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhDVkXbG-WQsn3UwfxuZkkHWHtBBvNk447VqCch=s900-c-k-c0x00ffffff-no-rj" group-title="IND বাংলা",Enter 10 Bangla (2)
 http://103.81.104.118/hls/stream26.m3u8
-
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-158-j5frd560-v2/imageContent-158-j5frd560-m3.png",Dangal TV (1)
 https://idvd.multitvsolution.com/idvo/dangal_540p/index.m3u8
+https://itvoign.multitvsolution.com/idvo/dangal.m3u8
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-158-j5frd560-v2/imageContent-158-j5frd560-m3.png",Dangal TV (2)
 http://103.251.247.106:3001/aostv/600830e2af05178ef75e1df3/aos.m3u8|tokenUrl:/4_4
 
@@ -1843,15 +1849,19 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/364/logo/115x115/mobile_logo_574846001561974497.png" group-title="IND हिंदी",Bflix Movie (3)
 http://?eWRrV3lFVU5ZeFdURlpWYmg5U2J6MFdaSVJIWjFaWFJscEZVb3QyYjVrR2RuaGtld2sxY2haamFzNUdNMzVVUU4xMk15eG1URUZ6YnlZVFNZaG5Oc3BsWUtGelJxdDJMeUVqVVRwbGM0STFTSmhFVzRCWGV1SmpWNVYzVlRobFV5TUVkdlpsVXVWelV2bDFTNGxGT1V4MmJDZFVNQ1JGYlRwR09WVlVQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/364/logo/115x115/mobile_logo_574846001561974497.png" group-title="IND हिंदी",Bflix Movie (4)
-http://103.251.247.106:3001/aostv/6008376baf05178ef75e1e03/aos.m3u8|tokenUrl:/4_4
+https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="IND हिंदी",Wow Cinema (1)
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_360p/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="IND हिंदी",Wow Cinema (2)
 https://d256325v3md1eh.cloudfront.net/WOW_CINEMA.m3u8
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="IND हिंदी",Wow Cinema (3)
+https://itvoign.multitvsolution.com/idvo/wowcinema.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fLiwIcBuhoqiCiPIqwx5z6Qbg0mvl7BfXTQZI9pMgRQDuXY53r-NiEgOybdfI6cq_RA" group-title="IND हिंदी",Maha Movie
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fLiwIcBuhoqiCiPIqwx5z6Qbg0mvl7BfXTQZI9pMgRQDuXY53r-NiEgOybdfI6cq_RA" group-title="IND हिंदी",Maha Movie (1)
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?Live-TV™
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fLiwIcBuhoqiCiPIqwx5z6Qbg0mvl7BfXTQZI9pMgRQDuXY53r-NiEgOybdfI6cq_RA" group-title="IND हिंदी",Maha Movie (2)
+https://itvoign.multitvsolution.com/idvo/mahamovie.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/box-cinema-tv-channel-logo-150x150.jpg" group-title="IND हिंदी",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8?Live-TV™
@@ -1944,7 +1954,7 @@ http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="IND हिंदी",Bollywood TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="IND हिंदी",Manoranjan Tv
-https://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
+https://idvd.multitvsolution.com/idvo/manoranjantv.m3u8
 
 #EXTINF:-1 tvg-logo="https://ihut.live/wp-content/uploads/2020/03/Monoronjon-Movies-768x456.jpg" group-title="IND हिंदी",Manoranjan Movie 
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?Live-TV™
@@ -1976,6 +1986,8 @@ http://global.thunderbd.com/45/tracks-v1a1/mono.m3u8
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="IND हिंदी",B4U Kadak (2)
 https://d207nlzuawwh55.cloudfront.net/B4U_KADAK.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="IND हिंदी",B4U Kadak (3)
+https://itvoign.multitvsolution.com/idvo/moviehouse.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy5gj72S5WbAoyO5b9tgJPX-Yddw3Xfq9N-aTGp=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",BTV KADAK 
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
@@ -2069,7 +2081,7 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6632/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTo2XXhXHYVwrXK6PuR8T8IfxLq53dIEnbPHw&usqp=CAU" group-title="অসমীয়া",Ramdhenu TV
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6631/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.satiitv.com/wp-content/uploads/2020/08/ddassam.jpg" group-title="অসমীয়া",DD Assam
-#https://load.airtelxstream.in/ddnortheast/smil:common.smil/chunklist.m3u8
+https://itvoign.multitvsolution.com/idvo/ddnortheast.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Assam_Talks_logo.png" group-title="অসমীয়া",Assam Talk
 #https://load.airtelxstream.in/assamtalks/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Assam_Talks_logo.png" group-title="অসমীয়া",Assam Talks
@@ -2162,7 +2174,7 @@ http://z5amshls.akamaized.net/kalak/tracks-v1a1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhfd3htgSPJTNf376BLyRvY_OpA5dUpCOuxJHjkJQ=s900-c-k-c0x00ffffff-no-rj" group-title="پاکستان",PTV Home
-http://46.105.112.116/?watch=EX/ptvhome-pa&token=RED&e=m3u8
+https://streams.simpaisa.com:8443/pitvlive4/ptvhome.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/mi3DwvgJwBz.png" group-title="پاکستان", PTV global (1)
 http://?PTRtVTNCM01wcG5jb1JuYjFrWFUwdEVUMU5HVFNCM2QzSUZjSHRpZTVjbmNEUldjM3BXZE9aVFVINVdjMlpYVjZoMVpEZHpOSEpWUTRWR1dvZEdjS1ozY1NoM1RJQlRhc2hHWllOa1RxTjBRb1prWXhvR2JJcDBLWlJ6YXJZamR3SVVhNEpIZVJKRmVEcDJWMXcyS3JSMWE2VlRVM0lVWTVoRWMzZ3pWU3BHYjFZRlRsZGplWU5uU3ZsR1N5MTJSVE4zUXpjM2RPTjBjR3AxWlF0Q2NSWldNMFZsZURwa1l2VjNaS1pHVXlwWGRFWmxOVlZWZTRKVVp1TjFhdjhHTjVkVFpIaERjNWtITU5sV2MxTkZiakIzUjE0bVd2RlhXTFZUZXhwbE1yRkhP
 #EXTINF: -1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/mi3DwvgJwBz.png" group-title="پاکستان", PTV global (2)
@@ -2198,6 +2210,8 @@ http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://humraaz.tv/wp-content/uploads/2019/04/cropped-Humraaz-TV-Logo-1-1.png" group-title="پاکستان",Humraaz
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pk-play-max-1218.jpg" group-title="پاکستان",Play Max
+https://streams.simpaisa.com:8443/pitvlive4/playmax.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/661/logo/115x115/mobile_logo_391613001571734325.png" group-title="پاکستان",Ary Family
 http://?MWRrV3lFVU5ZQlhURlpWYmg5U2J6MFdaSVJIWjZaWFJscEZVb2wzYjVrR2RuaFVhd2sxY2haamFwNUdNMzVVUU5kR00xMUdkSDEwZHZFSGExSW5jNUJqY0lkV2F5Z0hkcndXTjZwbWNaVlZadHAxYnRsMVZ3ZEZOR3hHZDVSMGMzQjNjMjlDTUY5MFU0Um5aTzUyVDF3bWVwbGxXWjFHYllWSFNaZFdQ
 
@@ -3917,6 +3931,8 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/playlist_ak
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",CARTOON NETWORK IND (2)
 http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",CARTOON NETWORK IND (3)
+https://streams.simpaisa.com:8443/pitvlive4/cartoonhindi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",CN Plus
