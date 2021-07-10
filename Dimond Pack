@@ -1164,7 +1164,8 @@ http://103.81.104.118/hls/stream38.m3u8
 http://stream.amrbd.com:8082/Star_Plus/index.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="IND हिंदी",Star Plus HD (6)
 http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="IND हिंदी",Star Plus HD (7)
+http://185.180.221.194:8278/streams/d/Starplushd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="IND हिंदी",Star Bharat HD (1)
 http://103.251.247.106:3001/aostv/6008335daf05178ef75e1dfb/aos.m3u8|tokenUrl:/4_4
@@ -1392,7 +1393,7 @@ http://?NWRrV3lFVU5ZNVdURlpWYmg5aWJ6MFdaSVJIWnZaWFJscEZVbzEyYjVrR2RuaFVjd2sxY2ha
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/644/logo/240x240/mobile_logo_408712001584535267.png" group-title="IND हिंदी",Zee Tv HD (3)
 http://?blZIVG9Kak5qdFdlUzlpTTNsVGE0NVdSM0FUVHhsbmJtQnpWeDFHTll0MGNDTlZlMFpsUjB3bWExSldNeXBsYXVSbmNOTmtlcmhXY0JkbVY0RldhNjVXYTE4U1c1TkhVVVZHTXdOR2RKUlhNemxWT3RKblJ3c3lRRGxXYUNWRWNqWmpjc2QxTmo5MlNucDNUQkpqWW5kV2JScDFNWEpEYXJnbGJrVjJiemRWTXFSV1Z6QTNTa0ZIVlZKMmJxbDNLcjRHUzIxME01Y1VkNFZuVFZWVE9IUmxiUjVHTUI1MlZ4aDNWR2REYno5V1d3azJidGgzYzM4bVp2TWxNNVZUUzR0U1lrbFhZWnhHT3NCemFCZGpUb3RrUjFSM01ZUlROV2hXU3pwRlpacEdkNGxWY3ZSa1RvMWtlNVZXWnlKSE56ZFZVUGxWYlhaMVVSMVRQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/644/logo/240x240/mobile_logo_408712001584535267.png" group-title="IND हिंदी",Zee Tv HD (4)
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634748
+http://185.180.221.194:8278/streams/d/Zeetvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png" group-title="IND हिंदी",ZEE หนัง
 https://cdn6.goprimetime.info/feed/LC5/index.m3u8
@@ -1474,8 +1475,10 @@ http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/08/Zee-Zest-16-9.jpg",Zee Zest (2)
 https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/04/773839-zee-news-logo.jpg" group-title="IND हिंदी",Zee News
+#EXTINF:-1 tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/04/773839-zee-news-logo.jpg" group-title="IND हिंदी",Zee News (1)
 https://y5w8j4a9.ssl.hwcdn.net/newsmpcg/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/04/773839-zee-news-logo.jpg" group-title="IND हिंदी",Zee News (2)
+http://185.180.221.194:8278/streams/d/Zeenews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/n1o2xVgQ_z_living.png" group-title="IND हिंदी",Zee Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
@@ -1531,21 +1534,21 @@ http://?M1ZIVG9Kak5qcFdlUzlpTTNselo0NVdSM0FUVHdsbmJtQnpWeE5ITll0MGNDTmxiMFpsUjB3
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png",Zee Bollywood (2)
 http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
-#EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png",Zee Bollywood (2)
+#EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png",Zee Bollywood (3)
 http://?NlZIVG9Kak5qSlhlUzlpTTNsamE0NVdSM0FUVHJsbmJtQnpWeGhITll0MGNDTmxlMFpsUjB3bWFySldNeXBsYXVobWMxbFZiVlZWYXFSRFR3dFdPNTVVUjRWR2JHOUdiczkwWTQwV2NoNVVjeEpGUjNwWFIwY2tNd2hXZTFFVVpEcEdjV1JGVDNSamRuSlZhVWx6VllGblE1SUdja2xUZVNwbmQySUhhdnBYVUNWMlloTkhOMUlUWWhKVWQxWjNWR05HYzNsVVNrWjNaMlZuWkk5R08zVlZkTkYxY2lOSFV1NUdPcXBrUjBaSE1hRmpaQ3hrYTZKM2I0aERhNjltZXNwSFN5WlhWMThXUA==
-#EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png",Zee Bollywood (2)
+#EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png",Zee Bollywood (4)
 http://?PW9uVTNCM01wcFhjb1JuYjFrWFV2dEVUMU5HVFNkM2QzSWxkWlprZTZwM2F6aFhjdXhHTWpGa2RFdG1laFJqVm5oamRFNTBjMWNVVndsblVwSmtTMFpuWjFCMUtCRjFiWjVXYnRCVFJuTkRTd3AxVnlrbVFPSldNM1UwYjRNMFR3a0hONVpXVlBWbVpzOTJkd1FYTjRBSGNIRkRlU2hFVXVsWGV4UTFUdFJYVU9sM1QwY0Rkd1JWV2lKWFN2Qm5aeWd6U1hsbWQwa1ZVc3R5YlRGM1VtbFVOMWRWWjVRVVRrOTJkMVZrZFB4V2MxcG5jNDlpZXhWMGN4b0ZUTnRHUlhwRlJ3VVViSFJFZGxsRFJ1VldSNFVFTlpOM2R3SWpRd2hXYzFnaldKTlRj
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/355/logo/240x240/mobile_logo_243960001584621984.png" group-title="IND हिंदी",Zee Action (1)
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/355/logo/240x240/mobile_logo_243960001584621984.png" group-title="IND हिंदी",Zee Action (2)
-http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
+http://185.180.221.194:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/355/logo/240x240/mobile_logo_243960001584621984.png" group-title="IND हिंदी",Zee Action (3)
 http://z5amshls.akamaized.net/action/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/355/logo/240x240/mobile_logo_243960001584621984.png" group-title="IND हिंदी",Zee Action (3)
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/355/logo/240x240/mobile_logo_243960001584621984.png" group-title="IND हिंदी",Zee Action (4)
 http://?cFZIVG9Kak5qeFdlUzlpTTNsRGM0NVdSM0FUVHVsbmJtQnpWeGxHTll0MGNDTlZiMFpsUjB3bWF4SldNeXBsYXV4bWMxbFZiVlZWY3FSRFR3dFdPNjVVUjRWR2JHSkhiczkwWTQwbWFoNVVjeEpGUm9wWFIwY2tNdzlXZTFFVVpEcG1hV0oyUjNZbWF2RmpkUWRtWVl0V1RROVNhRUYxYTJrelNSdFdNdXgyUk45Mk5PeDJTaVZHTkZKMmJ6WURacGRtYzNOMFRhSm1WejhXY3NkVU9DMWtkWGhqTXJoa2RxeDJRWjlXT0ZGblp2SjFMekpsYjFGVFYwMFVZcVJWTjJ4V1NLcFdNM2xWUA==
-#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/355/logo/240x240/mobile_logo_243960001584621984.png" group-title="IND हिंदी",Zee Action (3)
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/355/logo/240x240/mobile_logo_243960001584621984.png" group-title="IND हिंदी",Zee Action (5)
 http://?cmRrV3lFVU5ZWlhURlpWYmg5U2R6MFdaSVJIWm9aWFJscEZVb1ozYjVrR2RuaDBad2sxY2haamE1NUdNMzVVUU5oSE16a1RiM2QwYnROelFYeGthNWx6TElkbVUzZFdRSEZFZFoxMmREbFVRNW9VZTRwMGRIUm1jeXdHYWlaRVNyeDBkVUZtU3JRM1o2ZDFZSnQwYzRwSGEwUjNTVDlpYWpWSFRZbFVQ
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png",Zee Talkies
@@ -3948,7 +3951,7 @@ https://streams.simpaisa.com:8443/pitvlive4/cartoonhindi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",CN Plus
-http://103.251.247.106:3001/aostv/60083660af05178ef75e1e01/aos.m3u8|tokenUrl:/4_4
+http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",CN Arabic
 http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/08/02/Untitled-1_26.jpg" group-title="Kids",Hungama Kids
