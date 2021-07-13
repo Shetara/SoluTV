@@ -1243,7 +1243,7 @@ http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2505/logo/240x240/mobile_logo_992202001610391308.png" group-title="IND বাংলা",Colors Bangla (5)
 http://103.205.133.48/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2505/logo/240x240/mobile_logo_992202001610391308.png" group-title="IND বাংলা",Colors Bangla (6)
-http://?eWRrV3lFVU5ZZFhURlpWYmg5Q2F6MFdaSVJIWjRaWFJscEZVb0ozYjVrR2RuaFVhd2sxY2haamFuNUdNMzVVUU5oR01wSkZWSWhGYTFvR1dPRmpRMGhrVEJKVk5MNTJZcUJWYjRjbGNWSm5kaHBXV3dKM1ZvWkRaNHAyVjVkbFI2aFdjNWRFYTNCVlIwSm1hQngyWldCbk1ReEdXdFJqYk5KR2R0aFRQ
+http://?d2RrV3lFVU5ZTlhURlpWYmg5eVp6MFdaSVJIWnRaWFJscEZVbzUyYjVrR2RuaDBkd2sxY2haamExNUdNMzVVUU5sSE1wSkZWSWhWYTFvR1dPRmpRdmhrVEJKVk5MdDJZcUJWYjRjRmRWSm5kaHBXV3NKM1ZvWkRaNFozVjVkbFI2aEdiNWRFYTNCVlIwSm1hQngyWld0bU1ReEdXdFJqYU5KR2R0aFRQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2505/logo/240x240/mobile_logo_992202001610391308.png" group-title="IND বাংলা",Colors Bangla (7)
 http://103.205.133.21/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2505/logo/240x240/mobile_logo_992202001610391308.png" group-title="IND বাংলা",Colors Bangla (8)
@@ -1252,7 +1252,8 @@ http://cdn.ihub.live:8080/j-colors-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2423/logo/240x240/mobile_logo_667791001609587559.png" group-title="IND বাংলা",Colors Bangla HD (1)
 http://103.81.104.118/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2423/logo/240x240/mobile_logo_667791001609587559.png" group-title="IND বাংলা",Colors Bangla HD (2)
-http://89.41.180.253:8080/INDIA_BENGALI/COLORS_BANGLA_HD/tracks-v1a1/mono.m3u8
+http://?eGRrV3lFVU5ZRlhURlpWYmg5eWR6MFdaSVJIWjNaWFJscEZVb1ozYjVrR2RuaFVjd2sxY2haamF0NUdNMzVVUU5WSE1WTmphdjRrYUlGa1FOZFdid2wwYTRVa2RrUm5UMUVHVDY1RWV0bGpZaVZsVjRGM2NGdDBSMGRIZWhKbFlLRjJiYXRrTVFoelMxZDNVMlUzUlA5V1l4WTBiWUZ6YkZkbVJRaFRQ
+#http://89.41.180.253:8080/INDIA_BENGALI/COLORS_BANGLA_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2423/logo/240x240/mobile_logo_667791001609587559.png" group-title="IND বাংলা",Colors Bangla HD (3)
 http://?cWRrV3lFVU5ZWlhURlpWYmg5aWR6MFdaSVJIWjNaWFJscEZVbzkyYjVrR2RuaDBkd2sxY2haamFyNUdNMzVVUU5OSE1WTmphdjRFYklGa1FOZFdidmwwYTRVa2RrUm5UMUVHVDY1RWR0bGpZaVZsVjJGM2NGdDBSMHBIZWhKbFlLRjJhYXRrTVFoelN2ZDNVMlUzUlBsV1l4WTBiWUZqYUZkbVJRaFRQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2423/logo/240x240/mobile_logo_667791001609587559.png" group-title="IND বাংলা",Colors Bangla HD (4)
@@ -1319,7 +1320,7 @@ https://viacom-b.multitvsolution.com/dashv/oscarmovies.mpd|User-Agent:KAIOS
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2428/logo/240x240/mobile_logo_637416001609414006.png" group-title="IND हिंदी",COLORS INFINITY HD (1)
 http://?dmRrV3lFVU5ZaFhURlpWYmg5eWJ6MFdaSVJIWjZaWFJscEZVb0ozYjVrR2RuaDBad2sxY2haamFyNUdNMzVVUU5aSE13WVZWblpqZWg1RVpMbDJZdXBuU01oWFdKaEhVemsxS0NoRmFySldRdFZFYzBGM2FGSlRaMG9IZENWbWJLSmxjVVpqZURaV2QxZFRPNE1EZEZGblM1SURjWmwwYU9wbFlFdFVZb0oxTXZja2FoZDNMUEZsYlpkR2VtZEZiWVpFZXBoR1Y=
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2428/logo/240x240/mobile_logo_637416001609414006.png" group-title="IND हिंदी",COLORS INFINITY HD (2)
-http://103.251.247.106:3001/aostv/6008324baf05178ef75e1df7/aos.m3u8|tokenUrl:/4_4
+
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/340/logo/115x115/mobile_logo_209158001561972797.png" group-title="IND বাংলা",Zee Bangla (1)
 http://103.205.133.21/hls/zeebangla.m3u8?Live-TV™
@@ -1360,7 +1361,7 @@ http://45.127.244.7:8080/hls/channel10.m3u8
 http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
 #http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/645/logo/240x240/mobile_logo_976761001584535241.png" group-title="IND বাংলা",Zee Bangla HD (7)
-http://ctgiptv.kitv.live:1935/live/test/test1/26.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/403/logo/240x240/mobile_logo_832127001584856796.png" group-title="IND বাংলা",Zee Bangla Cinema (1)
 http://?b2RrV3lFVU5ZaFdURlpWYmg5eWR6MFdaSVJIWjVaWFJscEZVb3gyYjVrR2RuaFVhd2sxY2haamFvNUdNMzVVUU5kbk1sTldNWGxYZFFoME1LdGtkc1JXTjZKSE0ycG5SRmxWTkRGMGN4OUdWeXBYZXhsR1YxUUdiNGtHTk9sbmJ5dG1lbkZXVm9GMll3QkRiVE5YVXljWE5xdEVVQ3BsZDBWamFYTldQ
@@ -2794,7 +2795,7 @@ https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnv
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (1)
 http://?NWRrV3lFVU5ZeFdURlpWYmg5aWJ6MFdaSVJIWnJaWFJscEZVb0YzYjVrR2RuaEVld2sxY2haamF0NUdNMzVVUU5sM00wWVZNU2wzYjNFMlZVTlZSeGxFZXJFbmVQQlhVYWhqZHc0V2NYdGtRNGtUWXpoSFJIWmpidmxuUWlaVWN5ZDFkME5sWTNOa2QyRjNkVzFrVHRwSE00cGxjT1JWZDNRMVlzTlhQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (2)
-https://webtv-stream.nettv.com.np/iptvlive_abr/sixhdabr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIxIDc6MTQ6MzkgQU0maGFzaF92YWx1ZT0zMWJhc25Udmx3MEw5akx1OEZVQUlRPT0mdmFsaWRtaW51dGVzPTE3MjgwMCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUyTVRJeE5qQXpPVGNzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl5TXpBeU56RTRJaXdpYzNSaUlqb2laMnhmTVRBNE5ETXhORGd3TXpZME5EazBORE15TWprMkxURXdOeUo5LnlRcHo3cjJsbGI2TW1Rdy1Gdm03MVltRlFDdWZFTVBjZXNyb1gyOFdQTGM=
+
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (3)
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (4)
@@ -2812,11 +2813,11 @@ http://103.102.136.106:8080/cmcltv/tcm_six.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (8)
 http://103.205.133.21/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (9)
-http://?NUoxZHdOVGE2VkhhMDVXTjVGbGNMeFVkanhrVXFkM05TQjNScmdXTzNKM1FrRjNacVZuVDJFMVJ5Rm5kMlZsZVlaSFJXdFNlVzVHY1l0V05ZeGtWclJsWk1sVlJOcEhVRmRHYzJsbGUwVTNheUpHVHpWMFlzbERWek1uZU9SRGQwTkRjREpGVGlsRVV1TjFNVHAwUnpSSFowSVZUM2dIYUxWM0w1WUZUMXBWZDVNMGN6Y25jcmMzS3l0R2R5MEdXWUJUZTY1V1JrWmpWVFJuVGxCMUxKVmxhMmdWYjE4MGRzSkZadk1rZFBSWFFYTkZjeVZXYjVaMVRaUjBVMVJHU1BwbFR3RW5UQ2xVUA==
+http://?NGRrV3lFVU5ZbFdURlpWYmg5eWJ6MFdaSVJIWnNaWFJscEZVb1IzYjVrR2RuaEVid2sxY2haamFuNUdNMzVVUU5Cbk13a1RZR2hYZHFsbWRoVkdWd3AyUW54V2VDaG1UUzVtU3ZrR2J3WmtiUlZUVzA1V1lrZHpUellYWVNCRlZ0QlhjTU4zTDRKRE9ySlRic0ZWV3VkblZxaDBTeGdUYjVCVGIwQVRQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (10)
-http://?NmRrV3lFVU5ZOVdURlpWYmg5Q2R6MFdaSVJIWnlaWFJscEZVb3AzYjVrR2RuaDBjd2sxY2haamExNUdNMzVVUU50bU13a1RZR2hYYnFsbWRoVkdWb3AyUW54V2VDdG1UUzVtU3ZrbWJ3WmtiUlZUVzY1V1lrZHpUenNXWVNCRlZ0QjNiTU4zTDRKRE96SlRic0ZWV3VSblZxaDBTeGdqZDVCVGIwQVRQ
+http://?cmwzVTFJRFRwbG1acmhGYXlWamUyRWpTblpUY3FCbmUwbDFUcmRYT25kMlltVlZibnRDTXpsWFQ0RlVSTUZIUnp0MkxCbFdZd3cyZFZ0RWQ1SWpab1IwWnZzMmN0cEhTNXRTU1l0bWRwQlZSbmxFTTRKR1pqVlRjaUozVm81RVV6SmtjcWhtZTRFRFMzSkRWeUZFUnAxR1RyRTBUWkZYZDBGelR0ZHpid2RVVkw5eVo2Um5hTFpWTWhwR2Mwa1hWMEozTTVkRVY1Um1WSlJYTm9oblphQjFaeG9uZHMxbVluVnpUR0pEU3oxV1dqMVVkeFJGZUJaWFc0ZFdOeGRGZDVabFJyZ0hNejBVUA==
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (11)
-http://?PWttVTNCM01wcEhlb1JuYjFrWFVvdEVUMU5HVFNoM2QzSWxkWmwwY0VsalloQm5ibmxuZVlWME1aVlhjSkZuU0pGRmFFQkZkNjlVVndkelM0ZGpRTWxHTWhaVU56dzJadHQyWVZCek01Vmxla1JYTU9Gbk5rVlhScjFVZDRRalJuUjJkeUZIWlRKbVpWdG1ZbTlVYlBObGQ1OG1VdTVHZXR4MmR2Z0RlS3BtYjVORVJuZFRhR3BVZEVoblJ0VmxTeVpWTWpwM2EzTUVjMUJEYUw1bVZwUjJONXhXWUVkVk8zZ21ibmwzYVVoRWVoTjBZUWx6YTN4MmJJUmxZNWQzUzFnR1MzTldjNGNWTlRWM1J5MVVUM1JXYnhobVZSUmpXSlZsYjJnMU5ySW5j
+http://?dWRrV3lFVU5ZcFhURlpWYmg5Q2R6MFdaSVJIWnBaWFJscEZVb1IzYjVrR2RuaEVjd2sxY2haamFvNUdNMzVVUU5kMk0wWVZNU2xuZTNFMlZVTlZSd2xFZXJFbmVQTlhVYWhqZHc0V2NYdGtRNGtUWTNoSFJIWmpidmRuUWlaVWN5ZDFaME5sWTNOa2Q0RjNkVzFrVHQxR000cGxjT1IxZDNRMVlzTlhQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (12)
 http://103.81.104.118/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/606/logo/115x115/mobile_logo_532142001572844781.png" group-title="Sports",Sony Six HD (13)
@@ -2915,10 +2916,10 @@ https://dt1q9ova10xfm.cloudfront.net/SSPORTS1H.m3u8
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" group-title="Sports",Star Sports 1 Hindi (2)
 http://103.205.133.21/hls/chss1.m3u8
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" group-title="Sports",Star Sports 1 Hindi (3)
-http://?PUVIZG9WRmNtRm5jdGhGTlZaemN1UkRObU5WYUVGWFphZFVUdWRUYUtaVFMxTWtNcVozTW9CWFdtMUdOS1IwYjYxMFpUVlVOVnRrUnJGa010OVdTS2huVm9wa2JKRldkRjUyTjQ4MlR5RjNSMGRrTXFGM1RuUjJMMzFXZVpSRlNRNVVZdUJ6S0lsMFo1OFdNNmxUVnJwbmVSeFVWVWxrZXpsVWFwTnpUeEYzS3dOMGJ4RVVlNEZIZWpkVVkxWlZUNFVYWUxoWGQxUmtXSmxtY09wVmFGRnpaelIxTmpwbFROaFhaTGxqVVZoa2FJWkdSTEp6VXJ0ME1DQlhWR2hXZHh4V1ZDcEZiVmRYUW94V1Q0WlhiWVYzVHVoR2V0WjFac0oyYnNWalF6UVdOcHRTT3hjblkyUjNaSFJYWXYxa2NJSkdVeWh6UXpkSE1WZERaUVpuZTFWVFE0WVZlMTl5Uk9aSE0zdDJkWWgyUU01R2V4TmpNUzkwYWh0RWUxSldTNjVHU1U5bVlodEdlT3AxWUhaMWFTOVNWTVJYVHdwa1ZFTkhhcHAyTlB4MFJXSmxkS1pGZW5GMWM1Rm1NdUZWUm01bWRLbGtTNlozZDNOWE1UdEVack5UT3VkelZNTm5aMlkwZHJRa2NVRkhWRmRtYTFoRlMyUVhPNHBYWUtabWFMQkhkUFJITXdsRU1vcG1iWk5sZVNwV1FDSlVUbnBHZTJRekw0dDJWNXRpVXlkRU50Tm5NREoxTXBGSGM1UkZhYXhrWXZSRlpWdGlhd1FIYjNORk5DWm1iemRUUzRrMmRzdGtUUDkyTHBobU1tTjFZemxHZWw5U1F5MDBMeFYzYjJSRFZUZDNMMVIwVTVKV2RJZFVkSEJIWndGVlA=
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" group-title="Sports",Star Sports 1 Hindi (3)
-http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=
+http://?cngwY29kVVY0SVhWRVpFT0paSGNQaDNZTkpuYzFKelZQOVdiRmRIYTFOa2RzUlVhNGhWT3pwbWJ4UlVhMzAwS0RobVRUdGlSM00zYzRwblRVUkRkenAwYzB4Mk5URm5XR0JGTlhSM2J5WmtkeFVuYXdGbWV5UUVUMWwzVEhabmNyWjJjTU4yYXZGekx0RkZkQ1pHZVlSM1kzOEdlUVpIZVNGbVp5QlRQ
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" group-title="Sports",Star Sports 1 Hindi (4)
+http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" group-title="Sports",Star Sports 1 Hindi (5)
 http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_1_HINDI_HD/tracks-v1a1/mono.m3u8
 
 
@@ -2937,7 +2938,7 @@ http://global.thunderbd.com/26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 (4)
 http://103.146.55.212:8088/starsp2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 (5)
-http://?PTRHZG9WRmNtRkhhdGhGTlZaemN4UkRObU5WYUV4V1phZFVUdWRUZEtaVFMxTWtNdlozTW9CWFdteEdOS1IwYjYxMGFUaEVjMngyTTBKMGNVRjFMeWhXUlhSMllsdGlicmQxS2pGVmFvNVdXRGhWTlBSbmQ1aGxVaUpUYzRBRFdOdGtOMWxGV2hCVGRyWlhVcm9XVUdWVGFsdENkUVoyZHJGVFQwWVhVSEJuV29ObmRJVlhjdkluZXVWSFY0UjBScjUwTHc1MlN6bzNUbGxEYVpORmNKUkRTME5rTTY1MkxyRlhlalpYTUlGa2E0Z0dlRFZuZTFObWV5TTBaRmwyTTNWWE01TjJkNFJWVHZCelIzcDBUbkpYU3o0bU5ZUm5jeGgwYXhWVVFqeFVWdEpHTUQ5Q2EwMFdjYWhuWnVSa2JKRmpVT1JUVXFsRU5oaHpUS2QyUno5U1NCRkRkb1JIVnJjV2VuaDBhWk5XUk1kMk12dEVadVJUZFZSVloxMDBMNmREUkxkR2JrMW1SVVJsYTJ3RWN0OUNOdmNFZXcxRU1CWlZRcmRHTXdwVmJwWm5hMEVsV3BwVWV4Rm5UQ3BXWlJobmRpeFdNUTVrY1VabFNDdENjbkJsU2haVk82bG5UM0V6Tm1Ga2RVcFZWMW9sU3U5a1NzZFdSYU5uZHRSMU5SWlRlM2MwU3VaVWQ0dHlhbXBXVWFCSFNxbGpZUUJUYUVWVFk0bFdaeEIxWkNKeks1ZEhaeVUxY0RaRGNGTlZOdVJqVnU5aVF6UWxaMjEyTUlsVU5rWjBhMVUzVVhaVGFvUkRNbXhrVndRbmJoNTBaRUpFY3VaRWV4WkZab1oyUkxkMlVoQkhWQk5rTUlGWGRDNTBidlUwVm9WVlA=
+http://?dHgwY29kVVY0UVhWRVpFT0paSGFQaDNZTkpuY29KelZQOVdiRkJIYTFOa2RzUkVlNGhWT3pwbWJ3UlVhMzAwS0RobVRUdGlSM01YZDRwblRVUkRkMHAwYzB4Mk5UcG5XR0JGTkVWemQ2cFVRdkZHVHVSa040b21aMzVXVEdWV2FrWjJjM2MyVGFKVlFuWkZiTkZtVndsbWVMZGtiQ2hrYUVGVmRDRlVQ
 #https://khulnalive.anytv.live/starsp2/index.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 (6)
 http://103.205.133.48/hls/chss2.m3u8
@@ -2954,7 +2955,7 @@ http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112" group-title="Sports",Star Sports 3 (1)
 http://103.84.253.5:80/live/fastfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112" group-title="Sports",Star Sports 3 (2)
-http://?eGRrV3lFVU5ZTlhURlpWYmg5Q2J6MFdaSVJIWjBaWFJsRjFOTGxuYkhabmRybGxidzFHT3ZaWFNuaFRSelIyYlh0R1pyZ1ZhMmRIY29WSE1KRkVWdmxHUjVwR2UyZDNRSHAxUU01MGNFSjNiVlZXYnhsWE13bHpMdkozVmw5aWF2QWpiU0IxVHlNVVd2bEZjTlJqZTFCWFZ5Sm1iMnRHZW4xR2E1WUdkclpYVHdvbmNpWkhlRlZFUkVKRGFoRkZSMmRVT3BSV1k=
+http://?MngwY29kVVY0RVhWRVpFT0paM2RQaDNZTkpuY3lKelZQOVdiRkZIYTFOa2RzUjBaNGhWT3pwbWI1UlVhMzAwS0RKblRUdGlSM01YZTRwblRVUkRkdHAwYzB4Mk5UVm5XR0JGTkp0U2RwUlhSUFZqVDAxMll5Um1OeUozVFVoVWNyZGphSU5ITTFnRmFwbGtORXQwUXJwWFNUVkVkTXRFZW1WWFI1UVRQ
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112" group-title="Sports",Star Sports 3 (3)
 http://stariptv.xyz:8880/661562/505844/179353
 
@@ -2966,7 +2967,7 @@ http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star S 1 Sel. (1)
 http://221.120.204.4/STAR-SPORTS-SELECT-1-/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star S 1 Sel. (2)
-http://?PWdIZG9WRmNtRjNidGhGTlZaemMyUkRObU5WYUVKWFphZFVUdWRqYUtaVFMxTWtNcFozTW9CWFdtWkhOS1IwYjYxRWRVWjJTaTVtTTNkVFNCbEZNdmQzVnE5Q01yTVVkeUpsWjRGek0wMUViajlpUlFWM1FuUmxVWGQzWmF0MGNCeDJhNUpWT3h0a1NRNVdhSTFrTU9OR2NhNVVhTEZWVXNKMVJWUjFSekEzYVRSR1ZYTlZhTGxuYm41VVZuVmpNeXQyWktOWFI1SkVSd0EzYVpKMkxYcFdOMDVrYVlsRmFoaDNjUlJXWW1wR2V5a1VRalZWWXBwMFYxNG1UMEluYlVkbFEyVURkdmdrVXAxbU42TkVWR0pEVTZsWFVFNWtTMXRVZE9ORFZ4RmxSdWxuYnloM1QzcFhOTU5FTnpwMmRxRm5lNEEzWXVGbVFOcFZUbmQzWWtkbllOTmtjNkpVU3doMk14OUNXV3BHVENwbldtVmxiaU4yZGtSMVlDRm5jMGxHZHNSWFZHMTJMaGh6WTVKMmFXSldWVE5tTm9obmF2OWtNRk5IV3hKSFcxUkVlSU5VWnpVWFoxRkhNVEJGVXdsbVFQQjNNTkpIZFhKSGM0VVRkdFp6Y3pSWGNrOTJTUWRqVUJoVmRVaFhTYXhtZXpoSE9tRmtVVnAzYjJoVVZyRXpjbUpuVXp0a1VwaEZVdnRXU0JGblQwRjJTNkpWYllwM0xSQjNWNFpXTjRBM016cG5RUWRsZE5wa2VNZHpiQjUwTXQ1a1F6UldXdlJITVpkelVrRjFiRTUyYjJSVVd1ZFhPM0ZFVndOM2RtZGxkNEVXZDR0R1pKMW1kNWgzZHBoeks1bG5TRWhqYnlJVmJqWldSb1ozVDJsVVA=
+http://?NXgwY29kVVY0Z1hWRVpFT0paWGJQaDNZTkpuYzJKelZQOVdiRlZIYTFOa2RzUmtlNGhWT3pwbWJxUlVhMzAwS0RWblRUdGlSM01uYzRwblRVUkRkcHAwYzB4Mk5UNW1XR0JGTmhWV2FyZHpiMUltUjBoek1ZdFVjWlZYUWxoVFkzb2xkSFJEZTNVVWJwVjFVNFlUYzFnM1NTTkZPM05GYzJzV01VVlVQ
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star S 1 Sel. (3)
 http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star S 1 Sel. (4)
@@ -2984,7 +2985,7 @@ http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_SELECT_1_HD/tracks-v1a1/mono.
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (1)
 http://221.120.204.4/STAR-SPORTS-SELECT-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (2)
-http://?PWdIZG9WRmNtRkhidGhGTlZaemM1UkRObU5WYUV4V1phZFVUdWR6YktaVFMxTWtNdlozTW9CWFdtUkhOS1IwYjYxRWFScGtjblpVU3RSV1JTaDJZdkpuV3ZKVlZNWkRkeGxYVDVORFZ2aFdXbzkwY29OWGRXaEdlTVZEZDFoemNPVjBRMjVXUnRselZEOUdNTEJUVkJwVWVLZFVWRUZWVTNaRU1QbG1haFpuVm81a01FaG5lRTVtZHNwV1VzZFVWS1ZsZGlwSE55TVRPeVVHZHpGVVNhRkVXdmRqU0hKSFNIZEhVdnAwVjVnRGN1bGpaM2MzVndWMmNuUlVjMHAyUzVBRFVMTjBjbXAxVnFwSFV3OVVOT1JYY3J0bWVNSlhOMU1HZFpCVFp4c1NXcDFtU0cxR015Y1dWdFZUZGwxVWR2WWxVUmhYYngxR056OFNNdnBuYWs5RWV5cDJabFZqZXZZVVV6Vmtjck0wTVRSWFpybDJObkpEY3M5a1lPbGtZdmgzTkpGVFZQaFdPbDUyVnlWRGRFQkhPM1pYVW5aa1JFZFZXdXgyZDJvMVRCQkZiWFJuY0hoa2E0QkZkNVFFU3NwM2NrbDBUdGQzY3Naa2J5cDJibzVHVzV4bWNLWjNkWkpuU2paVGIzUWpUNEVIVDU5a1JKNUVXMlIzU2xoSFp5d2tieTRHVHp3bU0wTmtlTk5UT085bVMxWTFRck56YkI5bVNGRldjMDkyS1NoMEw0SjNTYVJUVG5sbmRqaG1VellrVHZKVVpoSkdTclZuTTJFbGI0bG1iTWxUYURsSE4xeDBhb2RUVm5GM1Mza25hRVYzYWFGbk1CSmtjdnBtUVlOWFlGbDNVTFpYZGxwMWI0Z1ZZemhITnQxVVA=
+http://?bngwY29kVVY0VVhWRVpFT0paM1pQaDNZTkpuY25KelZQOVdiRmhHYTFOa2RzUjBkNGhWT3pwbWIyUlVhMzAwS0RCblRUdGlSM01uZDRwblRVUkRkNnAwYzB4Mk5UUm5XR0JGTno5aWFabDBUdmttTm9KRFN0WlZWekozTnhoRFd1OUdiMUZtUVdselE2Tm1WcmgwYnl4R05MSkZacmdFYXNOV05zdFdQ
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (3)
 http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (4)
@@ -3039,7 +3040,7 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (1)
-http://?dGRrV3lFVU5ZcFdURlpWYmg5U2J6MFdaSVJIWm9aWFJsRjFOTEJuYkhabmRybDFjdzFHT3ZaWFN2aFRSelIyYlgxR1p5UTJZUjlpZDNBWFdyVnphemQwS205V09IbDNZSkoxWTVBbGFuRkRkQnBWY3hWWFF2d1VlUmRITkVKemNEZEhjc0ZUYlRsSGNzOTBjNmhEVG9WblZIUlZUM0J6YnAxR1o2VmpTNnAzTVZOWFRCbEhkM05uZDRSRWRNaDBac2xWWTVCM0s=
+http://?MXgwY29kVVY0OFdWRVpFT0pabmNQaDNZTkpuY3dKelZQOVdiRlJIYTFOa2RzUlVhNGhWT3pwbWJxUlVhMzAwS0RkWFRXbDNkMXgwYlBCRlRPZHpacXhtTXp4bVpSRm5jblJWY1NGbWNoRm1ZbjVtVjFWVWN6SWtWem9XWTVGVFYxVmphdEJIZUZOamV6NVdPNUJWUlY5R1QwRm1aTlZIZHdabU5xUlRQ
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (2)
 http://jupiter.bdcabletv.com/willow_hd-sim/video.m3u8
 #http://103.251.247.105:3001/aostv/5f6f8d0883ec515e3c86bca9/aos.m3u8|tokenUrl:/4_4
@@ -3050,6 +3051,8 @@ http://atc.hopto.org/Cricket-Willow-Quality/tracks-v2a1/mono.m3u8
 rtmp://58.200.131.2:1935/livetv/starsports
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRS1KOa5Etrq8YBSpdqpSXxdsUzZtnI0JGOQ&usqp=CAU" group-title="Sports",Willow Extra (2)
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRS1KOa5Etrq8YBSpdqpSXxdsUzZtnI0JGOQ&usqp=CAU" group-title="Sports",Willow Extra (3)
+http://?c3gwY29kVVY0Y1dWRVpFT0paSGRQaDNZTkpuY29KelZQOVdiRk5IYTFOa2RzUjBiNGhWT3pwbWIzUlVhMzAwS0RGM1R1QnpRSVZtZTBrR1prZFROekJUVUhaRWVoRkhkNmR6U3ZRSGROVlVWdmhVWTVsa2JaWjJMNTBHYng4V05LSnpkeVVGU1d4MlZuaG5VT3RpZVNwSGVabDNhMmdWZVlOa1FGTldQ
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/57/6c/36/576c36c2b45e2bc52b2360fcd2fd2eb4.png" group-title="Sports",Ten Sports (1)
 http://jupiter.bdcabletv.com/ten_sports-sim/video.m3u8
@@ -3079,24 +3082,23 @@ http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
 http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png",S Cricket
-
-#ttp://103.252.220.46:25461/live/41246671289321/41604451921808/79000.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
+http://?MHgwY29kVVY0Y1dWRVpFT0paSGJQaDNZTkpuYzJKelZQOVdiRkZIYTFOa2RzUkVjNGhWT3pwbWJyUlVhMzAwS0R4MlRKaERlUDVHZGloRFpMZFhTeWhVYnpWRFRPNTJkeGRsYkN4MmFqUm1RMUpHZHhSa1dYRlRlcmdXV0NWVlNMTjJjS3gyTE1sa010Tm5RQlozVDJjV1puTm1TMVVrY1VaVmRya1VQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-action.png",S Action 
-http://103.252.220.46:25461/live/41246671289321/41604451921808/78997.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA== 
+http://?M3gwY29kVVY0Z1dWRVpFT0pabmNQaDNZTkpuY3pKelZQOVdiRlZIYTFOa2RzUlVjNGhWT3pwbWJyUlVhMzAwS0RkM1RKaERlUDVXZWloRFpMZFhTd2hVYnpWRFRPRjNkeGRsYnhvVmNQVm5ac1IxS3FwMVZEaGtaemhtWUVKRVVIRldhVFYzVGw5a2V2VkVlMU16TFFabmVFcDBOUXRFZGhoa1l6Y1dQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png",S Football 
-http://103.252.220.46:25461/live/41246671289321/41604451921808/78999.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
+http://?eHgwY29kVVY0NFdWRVpFT0pabmNQaDNZTkpuYzJKelZQOVdiRnBHYTFOa2RzUmtkNGhWT3pwbWI0UlVhMzAwS0RkM1RKaERlUDVXYmloRFpMZFhTNmhVYnpWRFRPaDNkeGRsYlp4a2N1RmxkcEJEVDFaSGQxZDBOeDBXV3ZaSGJ3MWtkTWhUWUh0Q2J4NWtOckFWUmhKSE5WeEdlRE5rZUJOa2JuTldQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-grandstand-live.png",S Grandstand
-http://103.252.220.46:25461/live/41246671289321/41604451921808/78995.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
+http://?bngwY29kVVY0b1dWRVpFT0paWGVQaDNZTkpuYzNKelZQOVdiRmRIYTFOa2RzUkViNGhWT3pwbWJ1UlVhMzAwS0ROM1RKaERlUDUyZGloRFpMZFhTeWhVYnpWRFRPZDNkeGRsYnhObWJ2SlhlMkF6UjVGelp1RjBVbmRuZFBwbmMwZ0dkdE4xUmlCelIwUlVhaUpYTUM1V2I0TkdlNU0wY3Z4V2UxdFdQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png",S Primiar League
-http://103.252.220.46:25461/live/41246671289321/41604451921808/78994.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
+http://?dngwY29kVVY0d1dWRVpFT0paM2FQaDNZTkpuY29KelZQOVdiRkpIYTFOa2RzUlViNGhWT3pwbWJwUlVhMzAwS0RkMlRKaERlUDUyYWloRFpMZFhTdGhVYnpWRFRPaDNkeGRsYkhoV2JNOUVNQ0JWV3A5bVJ3MTJhRnRXY3hOWFRzQnpkdGRWUjVWM1p2QlRNUmxXY3ZoV05ySTBRdkZrYkVSMk14VVVQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-psl.png",S PSL
-http://103.252.220.46:25461/live/41246671289321/41604451921808/78993.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
+http://?PT1BZWlOV1JQbHpRb0pGYjNaM0syQkhVSFp6UVVwbmVhaFhUUFZsUnZSRFp5QVhWaXBHY2xOelVCbDFkQnRrVzRwbVZwRlZQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-laliga.png",S LaLiga
-http://103.252.220.46:25461/live/41246671289321/41604451921808/78991.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
+http://?NngwY29kVVY0VVhWRVpFT0pabmNQaDNZTkpuY29KelZQOVdiRmhHYTFOa2RzUmtiNGhWT3pwbWJ0UlVhMzAwS0RSM1RKaERlUDUyYmloRFpMZFhTNmhVYnpWRFRPSjNkeGRsYnpjRmRqSlhVaVIyYzFobmQwY21iQ0ozWlVCRFVqWnpjR0ZGVmpCblR4bFVaS0JuWnlwM1l2VjFZamhEZFJwR2FXZFhQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.dstvafrica.com/media/10685/ss-golf.png",S Gulf
-http://103.252.220.46:25461/live/41246671289321/41604451921808/79001.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
+http://?b3gwY29kVVY0OFdWRVpFT0pabmVQaDNZTkpuY3dKelZQOVdiRkZIYTFOa2RzUkVkNGhWT3pwbWIzUlVhMzAwS0RwM1RKaERlUDVHYWloRFpMZFhTdWhVYnpWRFRPdDJkeGRsYjF0VWVMbDFSeVlqWnhsRFpLdGlOSkozZG1OelFyVUhleGMzZEsxMlN4ZFhid2MwVjI5R1d4QWpZckVUYnlBRFpZUlRQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://lh3.googleusercontent.com/proxy/h-AqSbnmRMcLtMvhQpXn1R6fs-NSNHFiJ13yBvKjKtEpMTA3Lg7yJMXjkNROFyb3fxDLEmnaLFmi8g7XteZmYVH84bjWjB00yrJ4NnIyWpXFTh40LEWV5CRA8_RQWnhsmg",S Motorsports
-http://103.252.220.46:25461/live/41246671289321/41604451921808/79002.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
+http://?NngwY29kVVY0Y1dWRVpFT0paSGVQaDNZTkpuY3BKelZQOVdiRkJIYTFOa2RzUmtjNGhWT3pwbWIzUlVhMzAwS0RkM1RKaERlUDUyYmloRFpMZFhTcGhVYnpWRFRPOTJkeGRsYlVsbGI0OENjd0ltTjNSMVEwd1dTMDFXU3dOek5TUjBiaGwxTk5GRlU0dFNhNFVUYjRVSGRuMUdicWwxWk5aRk01aFRQ
 #EXTINF:-1 group-title="Sports" tvg-logo="",S 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.dstv.co.za/media/16637/ss_variety-1.png?preset=LogoThumbnail200",S Variety 1
