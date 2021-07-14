@@ -1318,7 +1318,7 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 https://viacom-b.multitvsolution.com/dashv/oscarmovies.mpd|User-Agent:KAIOS
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2428/logo/240x240/mobile_logo_637416001609414006.png" group-title="IND हिंदी",COLORS INFINITY HD (1)
-http://?dmRrV3lFVU5ZaFhURlpWYmg5eWJ6MFdaSVJIWjZaWFJscEZVb0ozYjVrR2RuaDBad2sxY2haamFyNUdNMzVVUU5aSE13WVZWblpqZWg1RVpMbDJZdXBuU01oWFdKaEhVemsxS0NoRmFySldRdFZFYzBGM2FGSlRaMG9IZENWbWJLSmxjVVpqZURaV2QxZFRPNE1EZEZGblM1SURjWmwwYU9wbFlFdFVZb0oxTXZja2FoZDNMUEZsYlpkR2VtZEZiWVpFZXBoR1Y=
+http://?cmRrV3lFVU5ZQlhURlpWYmg5U2F6MFdaSVJIWjRaWFJscEZVb0ozYjVrR2RuaDBad2sxY2haamFzNUdNMzVVUU5kR013WVZWblpUZWg1RVpMbDJZeHBuU01oWFdKSkhVemsxS0NobGFySldRdFZFYzVGM2FGSlRaMGNIZENWbWJLSmxhVVpqZURaV2QwZFRPNE1EZEZkblM1SURjWmxVYk9wbFlFdFVZeEoxTXZja2FobDNMUEZsYlpkV2VtZEZiWVpFZXhoR1Y=
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2428/logo/240x240/mobile_logo_637416001609414006.png" group-title="IND हिंदी",COLORS INFINITY HD (2)
 
 
@@ -1572,20 +1572,23 @@ http://?cFZIVG9Kak5qeFdlUzlpTTNsRGM0NVdSM0FUVHVsbmJtQnpWeGxHTll0MGNDTlZiMFpsUjB3
 http://?cmRrV3lFVU5ZWlhURlpWYmg5U2R6MFdaSVJIWm9aWFJscEZVb1ozYjVrR2RuaDBad2sxY2haamE1NUdNMzVVUU5oSE16a1RiM2QwYnROelFYeGthNWx6TElkbVUzZFdRSEZFZFoxMmREbFVRNW9VZTRwMGRIUm1jeXdHYWlaRVNyeDBkVUZtU3JRM1o2ZDFZSnQwYzRwSGEwUjNTVDlpYWpWSFRZbFVQ
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png",Zee Talkies
-http://z5amshls.akamaized.net/ztalkieshd/playlist.m3u8
+http://?PWtIZG9WRmNtRkhldGhGTlZaemNuUkRObU5WYUVkWFphZFVUdWRUYktaVFMxTWtNdlozTW9CWFdtZEdOS1IwYjYxRWFVTkhSTTVHYzNaM1kwSXpRaUYzYXY1V2JqaFZkM3cyTHZrelF5TkhPa1JEWlJoM05HUldZMVpVY3VOek5yWVVPMUpWWUp0RVo0bzNRcXRDYkg5U2N5cFZab3AyS3R0VU9ZWjNaMEZIZW5SVmNwWmxkaWxtUVVabk41Sm5TbnhFVzRwR04xcEZkTmxHZGh0VVpqVlVjdDl5YkVkWE9EQjNWS2hVTnRoVGJ5TTNOblozVTFwMkxETm5lSjUyVUwxbWFvQjNaUkZEWkx0VVJxcFZUSEpWU1dKSFpMVkZaeFIzYXprWGI0QUhTeUoyTnZSMmMzY0hTemdHTVNGemNKUmpTRWhuYjVsVlJsVjFWazFHY0RSbWR4VlhkR1ptZENSME50OVdXMU1XVFYxbU00TWtkdEpWYTNOblFJMW1NcVIwUXJjbFRUMTJTNlZqVlJOMmFVZEdSTkpYYzRKMk1VTkVXWnhXTXZ3V2FqWlVlNVVEZEM5a1JzVlZlM1JGT2F0R05PTm1ZUjVHZXJkMWNvVlZOcWRWVndJMlpVMUdXeUpFYndwM1pQNVVRckYzVDFaak1DQjNaSWQyYnJFSFR4QjNidnhVZFBGM1FuUnpWckEzZEM5V1V6cFZOVlpYYU1kRGJ4aGtXcFpqTnJCMVVSbFdaT3hXWlR0eWFSRnpaRnBsWjJwbmIwbHpidmdIVTNoekxzaDBjb0oyVG5WMFlxQkRaYVpUV3FKbk5HZEZSU05GYnhBWE9LUkhSdE5ITmxsbVdyNFdRMU1FV3l3a2FrWjNWanhHVzBGVVA=
+#http://z5amshls.akamaized.net/ztalkieshd/playlist.m3u8
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png",Zee Talkies (2)
 
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11930-j9l5hv1c-v1/imageContent-11930-j9l5hv1c-m1.png",Zee Marathi
-http://z5amshls.akamaized.net/marathiusa/playlist.m3u8
+http://?PVVIZG9WRmNtRm5ldGhGTlZaemNuUkRObU5WYUVWWFphZFVUdWREY0taVFMxTWtNNlozTW9CWFdtbEhOS1IwYjYxRWJUeFVVVUJYWnJWMWQyaFZhWE5uWXZFbU1rZDBaWkpVYjBSbk52ZEZkckZWYTFabmJPTkRkT0pXYktkelJZNUVTeDVXZUJkemNLZG5ScE5rUXVKR2RYZDJkNGNWZHRSMGIwZG5hdU4zUTVzMFUwSVdiS1ZWZDBjbGJ4dENOeTFtVEhaSGJMOTBLeVFqYzFsa1QyaERaNFZFTTJZalpPTkhaYUZsTnlGMWF4NUdNNEJ6UndKMVVpdG1lMG9YVnZaWFdYNTBkNGxGV1pKMmMwWm5WR3BsTkVoR09weFdSeVIwWjRvM016RTJSenAzUVVoRGRzVjNORHhXTjE4MGExUm1lMmRVVXBWRVdoTjFhSzlXTXdjRWFyZEVhUHQyTTM5a1d3VmplRkJsWXJkWFpqSmtabUp6WnVoelJhUjBUNFpUV1BGRU4xRm5UWnBITnVobmNIZDFMdDFrUzU5R2F2bDFjNWxuVUZWalQ2WjFjbUpIU1ZWelVuNUdOQlIyZFZkbVJUSm1UQ2xHYW9sR2VMTlZWdVZIYWE1bU5MUm5Td3BFY0dCRGF6OTBSbTVrYnVKRVdFQlZOTEJIVDVsM1QwTjBjTjVXWVpOVld4QjNOdVpIWk1sR2NPZDBNeVJGZHpvMVJqZHpjNU5GYWFoMlExNFdPcnhrVjFKMVoxZ2xabmwyVm5oRFY0VVVRRlIzZGhKVmVzMUdkSWwwWnV4MlpzTldUcWxGV1RkbVpVTkdjRFpUZTFZSFZsWkhhd3AwVWFCelNJOTJUd1FET3NCamJ4ZDFjS0p6VHlWVlA=
+#http://z5amshls.akamaized.net/marathiusa/playlist.m3u8
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11930-j9l5hv1c-v1/imageContent-11930-j9l5hv1c-m1.png",Zee Marathi HD (1)
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11930-j9l5hv1c-v1/imageContent-11930-j9l5hv1c-m1.png",Zee Marathi HD (2)
 
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11030-j8yk2g3s-v1/imageContent-11030-j8yk2g3s-m1.png",Zee Kannada
-http://z5amshls.akamaized.net/livingfoodzhd/playlist.m3u8
+#http://z5amshls.akamaized.net/livingfoodzhd/playlist.m3u8
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11030-j8yk2g3s-v1/imageContent-11030-j8yk2g3s-m1.png",Zee Kannada HD
+http://?PXdHZG9WRmNtRjNkdGhGTlZaemN1UkRObU5WYUVwV1phZFVUdWREZUtaVFMxTWtNNlozTW9CWFdtbEdOS1IwYjYxMGNSRlhkMGNVWTRKbk5NbGtNeTRHZFk5eVRIQlhlRVJXVVpwV1N6TjBNRmhuVkpWWFphdG1UdkFYYVNSRk52SlVlcVYwYzZSRFZpVlhlSHBrTjR0MGJZWmpUanR5S3VKRVZSQlZRWDlXUWpkbk5QTlhlUkpWTTFWalRuaDJkcWRGY1FWbmM2NUdlNWduYVdCVFJ2Z0dPcEpFTjFFMFp1dG1ld0pXUUhoVGJ4UVZRdlpHZXIxV1J0ZFVTQk5IY005VVFJSkdjaU4zVUZGM2F2cEVTMVVIYzNrMlp4bEVXNWhGYTZsbE54ODBadU4wWXpBbFprQkhScmMyZE8xR2FKOVdkMVIxUTF4MFYxWm1NanBIVjZoRGRqVkhieXN5Vng5U2NxUjBSSFZIY1d4bWR2WVVVTGh6YUdGMlFTQnpNcGgwU0UxVVNKaFdONmRVVlh0MmNYOTBkb1pYVjVoa2JxSmpTR2htUXl0MFNhMVViSHhXWjZWRmQwUlVkdk4wU0Z4V1p6ZGpXVkZXZEtKM0x3RkRPNkZYTVUxRWEwZ0dNMHAxTjJJa2F6OUVPV2x6VG85V09oRkRUNmRHYXdoa1dacFVjNUlVUTA5RWV3UkVTeE5qYlhoMlZvUkdNdjl5Y3VSalQzWldUeXAyYndvRWJRbEhhdVpsYjA5MmR2VWphWVZGWjNkVlN2TWxWdWhtY3JNa1dxRlZhaHBWWXN0eVYySmpkdWQwYTFaM013WUZaSE5tYzJoalZYcFdPM2xrZHgwRWF0aDJjcUZXTjFWVWRVOXlkeHhHVHpoVFA=
 
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="https://www.mobilfreetv.com/static/front/images/channel_logo/43ac8a41c04d70b1604e6799e03635b4_r.jpg",Humdard Laughter
@@ -1601,7 +1604,7 @@ http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/343/logo/115x115/mobile_logo_705542001514286228.png" group-title="IND বাংলা",Sony Aath (4)
 http://cdn.ihub.live:8080/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/343/logo/115x115/mobile_logo_705542001514286228.png" group-title="IND বাংলা",Sony Aath (5)
-http://?eUoxZHdOVGE2aEdhMDVXTjVGMWFMeFVkanhrVTRkM05TQjNScjBXTzNKM1FrRm5jcVZuVDJFMVJxRm5kMlZsZVlGblF3TUdSbHhrYkZaMFZCWlRSMTlXVUhCeksyeG1OREpFWnF0eWRJOVdVSVpHUjRkVlYyMEVVT1ZuWXhaa1JNdFNkdWhuYUlwV1RuRkhXMmtGTjJnV04xa2tiM2xUYjEwMFRyY2phMEpGVWpabWRIQkhTMlFIV0RWVWV0RjJZNlJrTnZCRlp5UTJidHBIUzNOWFdtbFhkT1JsZEtKSFI1cFVkTzUwYjVzbVUwVmpNcnR5Y1VKRWV3UW5OdEYwYWFWa1VSZDJTMkVVUA==
+http://?emwzVTFJRFRwNW1acmhGYXlWRGUyRWpTblpUY3lCbmUwbDFUcmRYT25kMlltVkZlbnRDTXpsWFQzRlVSTUZIUnpWWE9xTjJiaVZ6YXhObE5PUjFOMEZtVVRaRU9oTjNTamxUVndRV2RDUjNLMWRWZDVSVFl0OVNXM2ttWnNOMVoxTkRhc2hXV0NwMmF2aERkRXRpVEpCM054WTFLbmxVYjRFRU5ZcFdXeWRYTTZaV2F6Z21VQ1JsV1NKM2E2aDNTU3AyVTJSbk1NbERUSlJIYnFsMlM2ZDBaaGgxWjZsME5ycFhWTXRFZDBzV092cGxleXNTYXpBWFQxVm1VcUpEU3I5V2QwRjNkdmhUUA==
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/343/logo/115x115/mobile_logo_705542001514286228.png" group-title="IND বাংলা",Sony Aath (6)
 http://103.146.55.212:8088/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/343/logo/115x115/mobile_logo_705542001514286228.png" group-title="IND বাংলা",Sony Aath (7)
@@ -1633,7 +1636,7 @@ http://103.205.133.19/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/602/logo/240x240/mobile_logo_226035001584535399.png" group-title="IND हिंदी",Sony Intertenment (3)
 https://khulnalive.anytv.live/sony/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/602/logo/240x240/mobile_logo_226035001584535399.png" group-title="IND हिंदी",Sony Intertenment (4)
-http://?cmRrV3lFVU5ZMVdURlpWYmg5Q2F6MFdaSVJIWnBaWFJscEZVb1IzYjVrR2RuaFVid2sxY2haamFwNUdNMzVVUU5CM011VkZXMGQxYzFORWJ5RlZSNWhVUll4MGJQaDJZemcxZFFSRGRsWkZOdXBIVTN4VVE1Y2tXNVEzU1cxV1lYbFdlbkpIZXZFVVU0TjBRSTlFVnVGWGFOaFRjNHcwWk9WMFNDSlRUcDlpYzM1MFM0aEhUclYxY2FaRWIzTnpLU2xtWTB0U1E=
+http://?PWNIZG9WRmNtRkhjdGhGTlZaemM2UkRObU5WYUUxV1phZFVUdWR6YktaVFMxTWtNblozTW9CWFdtcEdOS1IwYjYxMFpSeDBkemwyYXdKVFpMbGxkNUJuV2p0U09JZHpiWXBHYWpaRFZxbG1kQnBHY3AxR2VIRkdiS2wyWkUxV094TWpZNGhWWmhobWVPZFhkVEJIZGpOamQ1RkVjYVJUUnZWblozUkdkQ0IzVjRzRVZCTlhkS2xUZUhCbFRvbFRXRnhVVHRGM1ZpQmxaVHBFY3pJM1ZwZEVWd0JUYTFNMmJhNTJRMHNtY3kwa2VUUm5aa2gxS3VwR2FIRkhOb3hXVnc4RU94SUVhTmxFTzNJRmQxbG5SeTQyWXg0R1ZLNVVUaGRWYjJobVpJUm1lNUYyWjFnMU4wTjNaMVJuZXJBemFJbFVaeThVWnRSV2FSVkdieEJuY0s1bVVaaFRiMk5rVTBVa1l4QlhZQ2hYZDFRM1YxOEdOVXAwY0g1VU1PaDNhMGwzVFZwVk1yMDJSMU5GYklCWGVYaDNhNVFYYzZkR2EwUTFVeU5YZE9GSFpseFVlWkpWWTN4bVpyTnpkNWtWV3N0bVZWWm5kbVIxWnhoMGNMbGpjNDlTT2hOMFJYeFdPeElWV3pnbGJtOVVXeGdqZHZaM0x6QTFZeTkyYzJ0MFRoSkZjMGRqWlBWbmF2TkhVTlYwYVlkR2VISldUa2QzYTZ4MllwWlVaM0IzYTU5R1JaQm5Ob1pYWnJFMGQ0WTFRc05EVjRoemMwWldjdjlXTjZOelN3MTJiRUpWVXJRa1kxdDBMaFJtV3prbloybG1jMGxXYk1kMVQzRmxhMWhXUzVobFU0ZDJaaDFtWU5oWGIzUlhjTGwwVnkxVVA=
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/602/logo/240x240/mobile_logo_226035001584535399.png" group-title="IND हिंदी",Sony Intertenment (5)
 http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/602/logo/240x240/mobile_logo_226035001584535399.png" group-title="IND हिंदी",Sony Intertenment (6)
@@ -1643,16 +1646,20 @@ http://cdn.ihub.live:8080/j-SonyTV/tracks-v1a1/mono.m3u8
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6575/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/57/logo/115x115/channel_logo_830721001481302384.png" group-title="IND हिंदी",Sony Intertenment HD (2)
-http://?dWRrV3lFVU5ZbFdURlpWYmg5aWN6MFdaSVJIWnlaWFJscEZVb2wzYjVrR2RuaGthd2sxY2haamF3NUdNMzVVUU5kM011VkZXMGRWYzFORWJ5RlZSdWhVUll4MGJQUjNZemcxZEJKamVrWkZSSnRTWTFCSGFTVjBieXdXUnlFbFM0UmtidkVWVG5kR00wWldSaUZuTVJ4MlZhaDNaTjFVY0s5aWVpRkZXNlZuVmlGbGJPcG1abmxtV1doamEyaDBacTlFV3FwSGQ=
+http://?PVVIZG9WRmNtRjNhdGhGTlZaemN3UkRObU5WYUVaWFphZFVUdWRUZUtaVFMxTWtNb1ozTW9CWFdtUkhOS1IwYjYxa2FSbEZiRkpIZHYxbVRUZDNWQmRYY1ZaelVNbDFabWhsV3daRlUxVlZVMFIwUUQxV2N2WjJacUYzYTVRRU9HSkRhcjkwYXlaVWFySTNUUTlFTTNaMWQzRTBMdmwxUnlKbVFDVldXUlJuWTEwa05LUjNheFpGUzNBSFZ4WkROWEJGWjY1MmN2UTJWME1qYXFaMFR6ZEhkeVJVU0d4MGQxb1hXVlJVVXlsMWIwSkZaVVJuUXk5MEtDTlhZM0UzYkdGVE12d0djQ04xUW9sRWNzcDFMbEoxTUt0bVdqUlZleTBtYXFKbWF6a0diMlJtV0lGRlIyZ0hjb3hVWW1CWGJQWkhiMFJGTjBGVE9IcDFSd2NYTnJJRU8wUXpjcXBYVWxoVWV5SmpVd1VVWXdGSE0ybFRUNWxUZHdSemJ2cDJOMlZUZWxCblVzTkhST2hUZW1OMWNHcDFNd01tUzNwVWREeFdOazEyWnpnRWNobDFidmNUYk5samRzbDBSNTVHTzNzR09zWjJMc1ZuYk54R2NFbFRSd05sUVRWRlNzOW1RNU1YZXRsSGVabFhlNDkyY3dkWE4za0hNeVJuVE5ORFVXUkVkT0ZVZENkVlZvUlhReVJEZW1kM0tQQlhUaWxqZUZkWFozRm5idlpXVUVaM1JUeFdkUGh6VHpNa2JzMUdTbFJUWTR0V2FFdFdaQ3AzVXhBbFQxVTJjeUprTjNORFZxUkVTWmwyYU9kblZDSjJhdUozWkZ0V1lyY0ZaMmRsYXhzQ2FNeEdlbEYxTlVsRWNRbG1XMUZuVXVkWFA=
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/57/logo/115x115/channel_logo_830721001481302384.png" group-title="IND हिंदी",Sony Intertenment HD (3)
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/57/logo/115x115/channel_logo_830721001481302384.png" group-title="IND हिंदी",Sony Intertenment HD (4)
+http://?dk56TUc5Q2J2RlhiamgzTkVKM1o1VjBMcDlVZG5ka1IwYzFWSzVtWkVkWFJtdEdjRXRVTWx4bVV5RnpNbE5IWndzR2JCTmtVU2RqYWhObFd6UVRTdEYxVnJVWE9tZFhTQlZUVXdNSGNYTm1ZR05XVXFWSGJ2Um1hUHBXYWpWbVZLWkVhQ2xuWXhVM2N5cDBibkprVWtsbWNCVjFZVEpEZFJKRU14OFdQ
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/57/logo/115x115/channel_logo_830721001481302384.png" group-title="IND हिंदी",Sony Intertenment HD (5)
+http://?dGRrV3lFVU5ZaFdURlpWYmg5aWN6MFdaSVJIWnZaWFJscEZVb3AzYjVrR2RuaGtjd2sxY2haamFyNUdNMzVVUU5kM011VkZXMGRWYjFORWJ5RlZSNGhVUll4MGJQZDNZemcxZEJKamFrWkZSSnRTWW5CSGFTVjBieWdXUnlFbFM0UmtidkVWVG5kR01yWldSaUZuTVJoMlZhaDNaTjEwYUs5aWVpRkZXclZuVmlGbGJPOW1abmxtV1doemEyaDBacTlFV3dwSGQ=
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/352/logo/115x115/mobile_logo_143317001514373547.png" group-title="IND हिंदी",Sony Max (1)
 http://45.127.244.7:8080/hls/channel6.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/352/logo/115x115/mobile_logo_143317001514373547.png" group-title="IND हिंदी",Sony Max (2)
 https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634758
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/352/logo/115x115/mobile_logo_143317001514373547.png" group-title="IND हिंदी",Sony Max (3)
-http://?MGRrV3lFVU5ZWlhURlpWYmg5aWJ6MFdaSVJIWnVaWFJscEZVb1ozYjVrR2RuaGtjd2sxY2haamFvNUdNMzVVUU5wbU10NVVUM1pqYzY5aVQwTTBjdlpGT1ZSVVpVZG1OdDVFV3JNbmRWSlZRVHBsWnFsMUswdGtVSGgzU0oxV1RUZDNhRnBVWTJsM1l1TjFkdVpITzA1V2RRQkRNeGh6Wnpaa1doOVdQ
+http://?eGwzVTFJRFRwZG1acmhGYXlWamQyRWpTblpUY3VCbmUwRjJhaU4zWTZGM2RMcGtiMGhXVDFVMFM2Tm5jaUJqYzFCSFZyQlhXS3hrYVlKVFF4Y1ZUb3RTU3lnSE12NEdlcjRVVTFSRGEwUTBUcVJsU3pwRWE0SjBVU3BIV01oemF6NG1ka05XWTNzbVlzRlhSNVpXTVZCSFdySjJRc1ZWYXhOVFdyTURTeFpXV1ZoVVk1RVhOc0ZIVFdoM1o0QTNMNVFHUnF0a2M1dGlWeTVXUjFFWFl6QkhjMUlHVTJjamJ6RmtTdmNIZEdsSE5NTm1RTmxuZFY1RVU0TlZhMFYzUVJkRE41eDJaaWRYUA==
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/352/logo/115x115/mobile_logo_143317001514373547.png" group-title="IND हिंदी",Sony Max (4)
 http://103.146.55.212:8088/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/352/logo/115x115/mobile_logo_143317001514373547.png" group-title="IND हिंदी",Sony Max (5)
@@ -1660,7 +1667,7 @@ http://106.0.54.6:8080/hls/tcm_sonymax_cm_ip.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/352/logo/115x115/mobile_logo_143317001514373547.png" group-title="IND हिंदी",Sony Max (6)
 https://khulnalive.anytv.live/sonymax/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/352/logo/115x115/mobile_logo_143317001514373547.png" group-title="IND हिंदी",Sony Max (7)
-http://?dUoxZHdOVGE2cEhhMDVXTjVGVmJMeFVkanhrVW9kM05TQjNScmdXTzNKM1FrRlhhcVZuVDJFMVJyRm5kMlZsZVlKSFJFRkdWYUJUY2FkRmRMUkZWMlpuZGhWbFJPcDJTTHBXTm0xa2N1SldXeW9GWnZCVE9aWkVSeFZuVkhwSFdXQkRkMlJXTnZOSE0xbFZUVFZUV0kxMlk2OUdWVTlrYnZFbll1QkhVdFowTjVOalR2WUhja2xtWXlVR2FyVTJjNUp6TTVKRlVGZFhXb0ZYUTBGMWFSbFRiMlVWWnlNbFY1dGlXcmxtVExOSGQ0Z25lYVZqZHQ1VWFraFhaMWxUUVdCRmJqMW1lelFUUA==
+http://?M2wzVTFJRFRweG1acmhGYXlWVGQyRWpTblpUY3ZCbmUwRjJhaXQyWTZGM2RMcDBaMGhXVDFVMFNwTm5jaUJqYzF0R1ZyQlhXS3hFYVlKVFF4Y1ZUcHRTU3lnSE12WUhlcjRVVTFSemQwUTBUcVJsU3RwRWE0SjBVU0pIV01oemF6NFdja05XWTNzbVl3RlhSNVpXTVZwSFdySjJRc1ZsYXhOVFdyTURTdFpXV1ZoVVk1a1hOc0ZIVFdoWGQ0QTNMNVFHUm90a2M1dGlWeU5YUjFFWFl6QlhhMUlHVTJjamJ1RmtTdmNIZEdsSE5NTm1RTmxuYlY1RVU0TlZhdFYzUVJkRE41SjNaaWRYUA==
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/352/logo/115x115/mobile_logo_143317001514373547.png" group-title="IND हिंदी",Sony Max (8)
 http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8
 
@@ -1671,9 +1678,9 @@ http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6574/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/641/logo/115x115/mobile_logo_602468001571288709.png" group-title="IND हिंदी",Sony Max HD (3)
-http://mynetworks.info:80/live/ashraf333/333ashraf/6510.m3u8
+http://?dGRrV3lFVU5ZTlhURlpWYmg5aWR6MFdaSVJIWm5aWFJscEZVb0YzYjVrR2RuaFVid2sxY2haamEzNUdNMzVVUU54Mk1vWmtRNGdIY2l0bWVpOTJVbk5qYTI4MlVZaG1Rc3BWY29CRmR6WjBSaEZ6TXE1bWFzZGtaU0pYYllSVVQxRTJjbmQwWXZORlYwWkhUeEowWXhBM1VPQmxUcTVFY0Q1VU1RMVVQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/641/logo/115x115/mobile_logo_602468001571288709.png" group-title="IND हिंदी",Sony Max HD (4)
-http://?NWRrV3lFVU5ZQlhURlpWYmg5eWN6MFdaSVJIWjVaWFJscEZVb1IzYjVrR2RuaFVld2sxY2haamFvNUdNMzVVUU5oMk1vWmtRNGdYZGl0bWVpOTJVME5qYTI4MlVZSm5Rc3BWY29CMWN6WjBSaEZ6TXQ1bWFzZGtaU2hYYllSVVQxRTJabmQwWXZORlY1WkhUeEowWXhjMlVPQmxUcTUwWkQ1VU1RMVVQ
+http://?PWNHZG9WRmNtRlhldGhGTlZaemN3UkRObU5WYUVSWFphZFVUdWRqZUtaVFMxTWtNblozTW9CWFdtbEdOS1IwYjYxa2NSRjFVVVJGWjZSVVF4VjFaU0ZuZFJoMFZYUldjcUJsZXpZMVQ0dFNXMnNTUnR0V1dCRkVOR1YwYzNFV2NURmxXMlJFTnhZWE5hOW1ZRUJsZXlaM2RISm1ORkpGYzI1R01wMTJZbGRITmtwMUtDcEVlRkJIVm94R04waGtSaFZrUkVOWFFDMTBMR1pIZVRGbk41VmplcEozU3k4V2JWcG5UNVFIUzBrV2JvVjNNNjlDT3lOalo0Z0ViTHgyYmhSMVpXMUViclYyYk5GVE9zUlVjeFoxY3VwM2Q1UW5ZbkJGZXJCWFQza1haM2hIZU5sRGUxQW5UeHNFZXZkbGF5RjJONWhtVjRKMGJ5SVRUcFZuVVlWVFNybDJhNUlVTnpVSGM2RkdWeUExTGFOM1lxQlZZdE5tY1pOMGRNUjJLbzlTY25SV1VGRm5jUlZYWkpGVmN3aFdTM1lWWTJsMVl2azNRRmxHY2hwbVF3NG1hYTlVYkpaWFRucFZaS2wwY1JKWFRXbEdTTnBsZXFkM1RvTlRkbk5qZFNGa1RwOVdkbGRVU0JsamQ0RldPQ2RuWm9SMVVKRkRXQjVtVllaa1MxVkVjbWhqZXRoSGE1NVdZUEZHTlhKblFENVdlcUowZEhOV2N4aDNkMmxEYjVWVlU0aEhXVkIzWjFza2R5RjFUWkoyYjBOVlV0cFZaUzFXY090Q2J3VjJjaVZIYUxGR1NvaFhUVjFtUlBwbk5JOVdOWGRVYUdsWFVZRlZkc2QzYnZWRGJsaFdlcEZqWnFKVGFDUkhWa05qTjVOWFA=
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/641/logo/115x115/mobile_logo_602468001571288709.png" group-title="IND हिंदी",Sony Max HD (5)
 http://cdn.ihub.live:8080/j-Sony-MAX-HD/index.m3u8
 
@@ -1682,42 +1689,43 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6625/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/353/logo/240x240/mobile_logo_916505001610630048.png" group-title="IND हिंदी",Sony Max 2 (2)
 http://208.115.215.42/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/353/logo/240x240/mobile_logo_916505001610630048.png" group-title="IND हिंदी",Sony Max 2 (3)
-http://?NWRrV3lFVU5ZeFdURlpWYmg5U2J6MFdaSVJIWnBaWFJscEZVb0YzYjVrR2RuaDBid2sxY2haamFwNUdNMzVVUU5kWE1sSmtVMzEyYnpJRmFQZGxlNE5GYkN4V2FORkhSelVVVHNSamJ4czBiWGRVVnRaSGN0WlZVbTFtWXFKamFDRldidUJ6VDNzVWF4SmtjVUZYUXlNbk5HcFhieEZrZHF0MkxTTldQ
+http://?M056TUc5Q2J2WlhiamgzTkVKSGE1VjBMcDlVZDBka1IwYzFWSzVtWkVkWFJtdG1lRXRVTWx4bVU2RnpNbE5IWndjR2JLMUdNaGxrYm5GVGFXeEdhNWwzVTRJRFRzdDJMSXhHZVpkbGFvVmpXWlprY3ZwblpUTnpkaGRYTVFsa1Uwb0ZidDEyWXY4R04ybFRkMmNtVnhwblpwVjJWcnRDYlZCbE5LZFhQ
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/342/logo/240x240/mobile_logo_015392001584350910.png" group-title="IND हिंदी",Sony Sab (1)
 http://103.146.55.212:8088/sonysab/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/342/logo/240x240/mobile_logo_015392001584350910.png" group-title="IND हिंदी",Sony Sab (2)
-http://?c2RrV3lFVU5ZaFhURlpWYmg5eWF6MFdaSVJIWm5aWFJscEZVb2wyYjVrR2RuaDBkd2sxY2haamEwNUdNMzVVUU54bU1LVkZVaWxVY3RSVVd0WjNLNE5WYzBobmNXeEdXNFJuYnJJMWJXSnpTVUZUVTBOM1lFeEdjeXRHWktWeksyaERlRGRGZDJsa1F2UnpacmREZVVkSFZpaFhUM3RHZGxKektaMVVQ
+http://?M2RrV3lFVU5ZTlhURlpWYmg5aWV6MFdaSVJIWnBaWFJsRjFOTHRtYkhabmRybFZidzFHT3ZaWFNvaFRSelIyYlhGblptcDNSekZUY2p0aWF5c1VObkZVUzZCellEdEdiUkZFYzBnRmRWbEhOWGhXTzE1R1Z0SjFaSGRYVG9aalQzc2lib2gzS1pGbVJwSjFacTUwVU1OSGRNSmtUNjl5ZFVOVFNKRkZWNUpqV3Qxa2FoWlhST2hHVHlaMmFaNWtUa1JtVTJOME0=
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/342/logo/240x240/mobile_logo_015392001584350910.png" group-title="IND हिंदी",Sony Sab (3)
-
+http://?c2RrV3lFVU5ZSlhURlpWYmg5U2F6MFdaSVJIWnJaWFJscEZVb3AyYjVrR2RuaEVhd2sxY2haamF4NUdNMzVVUU5abk1LVkZVaWxFZXRSVVd0WjNLMk5WYzBobmNXMUdXNFJuYnJJRmVXSnpTVUZUVXhOM1lFeEdjeVZIWktWeksyaERkRGRGZDJsa1E2UnpacmREZVVwSFZpaFhUM3QyYmxKektaMVVQ
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2420/logo/240x240/mobile_logo_091920001610629573.png" group-title="IND हिंदी",Sony Sab HD (1)
-http://?bmRrV3lFVU5ZVlhURlpWYmg5U2F6MFdaSVJIWnpaWFJscEZVb3AyYjVrR2RuaFVkd2sxY2haamFuNUdNMzVVUU5oR001YzBRemxWY1p0MmNFcEdTNE5FWkdka1VQaDNhbVJXT1F0R2RIZDBkd2NtY3YxRWVLUm1TU1JuY3YwRVJURmtkeU1HTTVjVU5zeG1iajEyS1FsR1VxQm5VSEpFZEgxMExORlVQ
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2420/logo/240x240/mobile_logo_091920001610629573.png" group-title="IND हिंदी",Sony Sab HD (2)
 http://208.115.215.42/SonY_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2420/logo/240x240/mobile_logo_091920001610629573.png" group-title="IND हिंदी",Sony Sab HD (3)
 http://cdn.ihub.live:8080/SonySAB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2420/logo/240x240/mobile_logo_091920001610629573.png" group-title="IND हिंदी",Sony Sab HD (4)
-http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+http://?NmRrV3lFVU5ZdFdURlpWYmg5eWN6MFdaSVJIWndaWFJscEZVb2gyYjVrR2RuaGthd2sxY2haamEzNUdNMzVVUU5wSE01YzBRemxsY1p0MmNFcEdTek5FWkdka1VQbDNhbVJXT1F0R2FIZDBkd2NtY3ExRWVLUm1TUzFtY3YwRVJURmtkeU1HTTVjVU52eG1iajEyS1FkR1VxQm5VSEprY0gxMExORlVQ
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2421/logo/240x240/mobile_logo_112993001610629767.png" group-title="IND हिंदी",SONY PAL (1)
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6626/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2421/logo/240x240/mobile_logo_112993001610629767.png" group-title="IND हिंदी",SONY PAL (2)
-http://?M2RrV3lFVU5ZOVdURlpWYmg5aWV6MFdaSVJIWnFaWFJscEZVb3QyYjVrR2RuaFVld2sxY2haamF0NUdNMzVVUU4xV01aQjNWSE5FZTVrelYxNTJTc3hrWTFBM1J4bEdieWtuY1FoSGRSUnpRQ2wwUXJCbmF3YzJMUk5uUlB4bWFHZFRlVFZVV0lsMFp0RmxlVVpVTXpwWE5GQlZSRlJFYTBKalNIUlRQ
+http://?M2RrV3lFVU5ZZFdURlpWYmg5U2N6MFdaSVJIWjZaWFJscEZVb2wyYjVrR2RuaFVjd2sxY2haamFvNUdNMzVVUU54V01aQjNWSE5rYTVrelYxNTJTcnhrWTFBM1J4OUdieWtuY1FoWGRSUnpRQ2wwUTZCbmF3YzJMUnBtUlB4bWFHZFRjVFZVV0lsMFpwRmxlVVpVTXpoV05GQlZSRlJVZDBKalNIUlRQ
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2422/logo/240x240/mobile_logo_395146001610630298.png" group-title="IND हिंदी",Sony Wah (1)
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2422/logo/240x240/mobile_logo_395146001610630298.png" group-title="IND हिंदी",Sony Wah (2)
-http://?cGRrV3lFVU5ZeFdURlpWYmg5aWV6MFdaSVJIWnVaWFJscEZVb1IzYjVrR2RuaGtkd2sxY2haamF4NUdNMzVVUU41R01MQnpRNWwzWjJaa05OQlRabkZrYVhOVE1TTm5RWU5WZTJkMFpIVjJTTWhHU3BaMGM1SldWczkyTE5oMmQ0Um5kNFZUYVlWMFZuZEZSeFFqU0hwbVVCNTJLSUZIYzRsMVlPTldQ
+http://?NmRrV3lFVU5ZSlhURlpWYmg5Q2F6MFdaSVJIWnVaWFJscEZVb3AyYjVrR2RuaGthd2sxY2haamEzNUdNMzVVUU45R01MQnpRNWxYYzJaa05OQlRaeUZrYVhOVE1TeG1RWU5WZTJkMGFIVjJTTWhHU3laMGM1SldWc2QyTE5oMmQ0UjNkNFZUYVlWMFZwZEZSeFFqU0hobVVCNTJLSUZIYTRsMVlPTldQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2422/logo/240x240/mobile_logo_395146001610630298.png" group-title="IND हिंदी",Sony Wah (3)
 http://208.115.215.42/Sony_Mix_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v3/imageContent-798-j5m7esnc-m10.png" group-title="IND हिंदी",Enter 10 (1)
-http://103.251.247.106:3001/aostv/600832e1af05178ef75e1df9/aos.m3u8|tokenUrl:/4_4
-#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v3/imageContent-798-j5m7esnc-m10.png" group-title="IND हिंदी",Enter 10 (2)
 https://idvd.multitvsolution.com/idvo/enter10.m3u8
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v3/imageContent-798-j5m7esnc-m10.png" group-title="IND हिंदी",Enter 10 (2)
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhDVkXbG-WQsn3UwfxuZkkHWHtBBvNk447VqCch=s900-c-k-c0x00ffffff-no-rj" group-title="IND বাংলা",Enter 10 Bangla (1)
 https://idvd.multitvsolution.com/idvo/enter10bangla.m3u8
@@ -2392,11 +2400,11 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12038-j9o0554o-v2/imageContent-12038-j9o0554o-m2.png",Star Suvarna Plus
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11553-j9julvag-v3/imageContent-11553-j9julvag-m6.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",MAA GOLD
-http://?PXdHZG9WRmNtRlhhdGhGTlZaemM2UkRObU5WYUV0V1phZFVUdWRqYUtaVFMxTWtNc1ozTW9CWFdtWkhOS1IwYjYxVWVUUlVPckZuTnJKVU92bzFRR3RHUlloelR2bzFiUEZUVHBkek5ycEhXMWRuZG9kR093bDBjQnhrYTNWMGFMcEdiNEpsVUVSbGNqTjNWMG9HVGpGbmJCOUNiUGRGUzBGR1JSWmxUTmhuU2pWVGF5WTNkMG8xSzNVRU1xSlZkdlYxTm54MlV2QlRTeHNVY3psMkttWnpkblpFTTFRalRGeEdleUVYVE5GSGQwUjJRd056UnhWbFZ1UkdlMnRXYVlCWFFDcGthVHRtVDQ4MmF5dENNNFZUT3hSWGFXOUVjcEJIY281RWNDZEZiMWgxUTNrbGR3czJkREJ6WjRvbmEzWW1iMWNYVzRGVE94ZDNLYTUySzJGemFveDBhWFIxYzB4MGMxVlRXRVZrWm1kV01USkZWSGRqY0lGalc2cGxlenRTVzZsMEtoOTJWbXQyS29wbGFNZFVUcVYyYnlWV1JqZDNaazVXYkpKelIybG1jU3AzZHh3Mll3TjFOQ3RTVTZablFIVmpjaGhuY1hKRmV3Y2tld0ZHVG5sVFlKcDJURFpHTTN0RWREeDJRa05HVzF0RVNHZDJRMmczTUxGVVFZZGplaWhqTVFSV042UlhPS2xYWTVwMlVpZEZTMU5tZUNSbE1ORkZVc1YyUnJ0R2VVQjNiUFprYnBOVWRJbHpWa2QwTTFGVVlEOWtjUFozTnFkRlQ2cFhiUXhVZDBOR2ExOVVWUVZ6WnlSSGRVVlRhMUFIZVhKWE9qcDJiNWxFVTNNek41NW1jdTFFV0xoa2R6OTBMTTEyYXhoVFA=
+http://?PTBHZG9WRmNtRkhkdGhGTlZaemNuUkRObU5WYUV0V1phZFVUdWREYktaVFMxTWtNNVozTW9CWFdtQkhOS1IwYjYxa2RUUlVPckZuTnJKVU92bzFRR2xHUlloelR2bzFaUEZUVHBkek40cEhXMWRuZG9CSE93bDBjQnhFZDNWMGFMcEdieEpsVUVSbGNqdDJWMG9HVGpGM2RCOUNiUGRGU3lGR1JSWmxUTmhtU2pWVGF5WW5iMG8xSzNVRU11SlZkdlYxTm5KM1V2QlRTeHNFZHpsMkttWnpkNVpFTTFRalRGcEhleUVYVE5GbmUwUjJRd056UjNWbFZ1UkdlMmhXYVlCWFFDcDBjVHRtVDQ4MmFwdENNNFZUT3hSWGFXOUVjcEJIZG81RWNDZEZicWgxUTNrbGR3bzJkREJ6WjRvbmQzWW1iMWNYVzJGVE94ZDNLYWwySzJGemFveDBiWFIxYzB4MGMzVlRXRVZrWm1oWE1USkZWSGREY0lGalc2cGxlc3RTVzZsMEtodDJWbXQyS29wVmVNZFVUcVYyYnhWV1JqZDNaa2xYYkpKelIybFdhU3AzZHh3Mll5TjFOQ3RTVTZsblFIVmpjaGhYY1hKRmV3Y2tlM0ZHVG5sVFlKMTJURFpHTTN0RWREeDJRa05HVzB0RVNHZDJRMk0zTUxGVVFZZFRiaWhqTVFSV041UlhPS2xYWTU1MlVpZEZTMU5XYkNSbE1ORkZVelYyUnJ0R2VVOTJiUFprYnBORWNJbHpWa2QwTXFGVVlEOWtjUGwzTnFkRlQ2cG5lUXhVZDBOR2F3OVVWUVZ6WnlGSGRVVlRhMUFYYVhKWE9qcDJicWxFVTNNek41Sm5jdTFFV0xoVWF6OTBMTTEyYXdoVFA=
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",MAA HD
-http://?PTRHZG9WRmNtRjNkdGhGTlZaemNwUkRObU5WYUVaWFphZFVUdWR6Y0taVFMxTWtNd1ozTW9CWFdtZEdOS1IwYjYxMFpTZFVicjAyY29GRmNRTnpZTVpYUjVsRVJ2TUdiR2hVTURsV1puZG1jdWRsZEd4R1RPWlZNNDBrZVZ0eWR5WTFTMEpVTTJoVE5yeFdUM2tHT1oxMmNLMVViM0ZqYnFkVWIyVm1ZdmsyWVVGa1lJcEdia3BWWkxCbmJweEdUVE5tYnJSbk4zQjNLMTQyWldGWFJ5RkZXeHBHZExCMWFJbEhTYWhUY0pka2FDWlRSeDFHTTNKM2N4VlRTelEzVXVSalVhVjNhclExTEpwRVNuaFZUbDEyS0tGWFN6TlZXV3RHZFpsV2JSVkVVdE5IVFp0R2FUbFdTeXNFYzZoM2IxSUhVTVoxTG5SbmF2a2pUcUpuVUpCRE81bG1kWTEyUzVwVlR2Wm1NWEpUTjRjM2ExTlZTM05WY1VOV2N5UWtXdGhUWktkV1ZXbEdjS3AwYUlaVGVySmtSNEpFY3ZsRmRQUkVhdXhXY1FCM1kxRjJkaEJIZURkMlV5UmpaSmgxTnZBM2EzTm5jRVZUZDJBblR0TkdjNlJHVFQ5V1R6TjNMbGhUVnNaV2EyUTBha3RpUnhkellsWjNaeFlYU29obVpzSjBheVVYT09wV1Q0SkRWeE5IT3pCWFRURkdScjlXYVk1MGRZbFZZcGhEVktSVE9XbG5aU3hFTVdaWGFxMUVXd2hqTXVKMWNadFVUemszTEhaalJuZFZkTlJVYXBWell6RkhiSUZHZW54MlF5RUZjMzlFYnFsSE1CWjNOd0ZGTXhVbVlqVlhOdmh6VVlwSGN3UVRPdk4zYzJ0V1A=
+http://?PXdHZG9WRmNtRjNhdGhGTlZaemN0UkRObU5WYUU1V1phZFVUdWRUZEtaVFMxTWtNdVozTW9CWFdtcEhOS1IwYjYxa2VTZFVicjAyY3lGRmNRTnpZTWhXUjVsRVJ2TUdkR2hVTURsV1o2ZG1jdWRsZEd4R1RPWlZNNDBrZVZ0eWR5WTFTNkpVTTJoVE5yWlhUM2tHT1oxV2JLMVViM0ZqYjFkVWIyVm1ZdjQyWVVGa1lJcEdka3BWWkxCbmJveEdUVE5tYnI5bU4zQjNLMTRXYVdGWFJ5RkZXb3BHZExCMWFJdEdTYWhUY0pka2RDWlRSeDFHTXpKM2N4VlRTelkzVXVSalVhVjNaclExTEpwRVMwaFZUbDEyS0tKWFN6TlZXV3QyY1psV2JSVkVVNE5IVFp0R2FUZFdTeXNFYzZoM2MxSUhVTVoxTDRSbmF2a2pUcXhtVUpCRE81bEdkWTEyUzVwVlQxWm1NWEpUTjRRM2ExTlZTM04xWlVOV2N5UWtXM2hUWktkV1ZXbEdjS3AwYUlaamJySmtSNEpFY3ZsRmRQUkVhdWxYY1FCM1kxRldkaEJIZURkMlV5UmpaSmgxTnZVM2EzTm5jRVZqYzJBblR0TkdjelJHVFQ5V1R6dDJMbGhUVnNaV2MyUTBha3RpUnhkellsWjNaeGtYU29obVpzSlVjeVVYT09wV1Q0SkRWeE5IT3pwV1RURkdScjkyZFk1MGRZbFZZemhEVktSVE9XZG5aU3hFTVdaM2NxMUVXd2hqTXhKMWNadFVUemszTEhaalJuZGxjTlJVYXBWell6RkhiSUZHZW5OM1F5RUZjMzlFZXFsSE1CWjNOc0ZGTXhVbVlqZFdOdmh6VVlwM2N3UVRPdk4zY3J0V1A=
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",MAA MOVIES
-http://?PTRHZG9WRmNtRkhhdGhGTlZaemN4UkRObU5WYUVCWFphZFVUdWRUZEtaVFMxTWtNelozTW9CWFdtRkhOS1IwYjYxVWJUWkRNeUkyVTMxVU1oMW1kRWhHTlVGRU01aERhNHRDTTA5MmJ0ZDJLbjlXTzJrM1F4QmxZc2R6YTVGemJyb1dkcGhqTjJzR2RIVjNMbE5XVElOVmFDaGxZck5HY3NaSGFNVlZXRHhHTm1GR2RuUmxhQ2gxYzFwWGJyVjBUWnQwWXlJbllJWlVRaHhVYlQ1a1UzWmxNNEZqVG1abFo2VkhTWGRuZG5wV2VTaDNMNGQwYTVsRGMwVlRkV0JuVEhoVFYyb21kQ2gxTmpwSE42TjNkd0FYWXY4V01DSldRTUZEYXhNR2J6UnpONEpsVHpNR1NOOVdTSTlFVTM0V2FuQmxWSzVHYnZGSE5PaGpaNkJuZTJsWFQ1TWxiR3RXTm9kSE9zbGxkMDEwU3p4bVNoeDBWbkpVZFhCSGMxaDNZcVZrUXpkamUzZ1dUalpWTWtOR2N6UjFVMDBXTW9SbVJ6Sm5OMzhtWndnR1pyVURkTUpUT3RwbVl3bDNhek1FVTFvM1JURmpaUVZtYXlobWRTTlZPNEYzU1ZWV1M2Sm5ib2hVVFFsa2R1bFdSMEkxUnhOWFJRSm1OTzFHWjRoalZKRldiQkpETnBaMmQyNTJVTUZsYkxWSGNxWkZNUFprYmhsMUxJZFRjdmRIZWtSRmJ2WVhSTWhVUnpsRWVsRkRUMGtWVjRaV1RKSlVUdjRXYlBGRk9ZZFdjREpsVmhObVQ0MUdVVmRGVXpsblE2RkVadGhWZG5SbmRxNTJiNFowVHI5bWJqbDJTRlpVZXY5Q2QzbDJTNDBHTTM5V1A=
+http://?PWNIZG9WRmNtRlhkdGhGTlZaemNxUkRObU5WYUVkWFphZFVUdWRUZUtaVFMxTWtNelozTW9CWFdtZEhOS1IwYjYxMFpUWkRNeUkyVW4xVU1oMW1kRVZITlVGRU01aERkNHRDTTA5MmJ1ZDJLbjlXTzJVM1F4QmxZc2RqZDVGemJyb1dkb2hqTjJzR2RIVjNMbE5XVElObGJDaGxZck5HYzFaSGFNVlZXREpITm1GR2RuUmxlQ2gxYzFwWGJyVjBUWnQwWXk0bVlJWlVRaHhVYVQ1a1UzWmxNcUZqVG1abFo2ZEdTWGRuZG5wbWNTaDNMNGQwYTNsRGMwVlRkV2xtVEhoVFYyb0diQ2gxTmpwSE40TjNkd0FYWXZnV01DSldRTUZ6YXhNR2J6UnpOMkpsVHpNR1NOUlhTSTlFVTM0bWRuQmxWSzVHYnBGSE5PaGpaNnBtZTJsWFQ1TTFjR3RXTm9kSE80bGxkMDEwU3pwblNoeDBWbkpFY1hCSGMxaDNZM1ZrUXpkamUzZ1dUalpWTWtOMmR6UjFVMDBXTXNSbVJ6Sm5OM2dtWndnR1pyVURiTUpUT3RwbVlxbDNhek1FVTE4MlJURmpaUVZtYnlobWRTTlZPNUYzU1ZWV1M2Vm5ib2hVVFFsVWJ1bFdSMEkxUnhOWFJRSm1OT2hIWjRoalZKRjJaQkpETnBaMmRzNTJVTUZsYkxoR2NxWkZNUFowWmhsMUxJZFRjNWRIZWtSRmJ2Y1dSTWhVUnpsa2VsRkRUMGtWVnNaV1RKSlVUdjBXYlBGRk9ZZG1hREpsVmhObVRuMUdVVmRGVXp4bVE2RkVadGhWZG5SbmRxNTJiNVowVHI5bWJqNTJTRlpVZXY5eVozbDJTNDBHTXk5V1A=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/StarSuvarnaLogo.jpg" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",STAR SUVARNA
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",STAR VIJAY HD (1)
@@ -2436,10 +2444,11 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemalusd/index.m3u8
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/rhvXhqicvI.png",Zee Cinemalu
 http://?PVlYZE1obU0yTW1hNUoxTHljWE9waG5iRmRETU5oWGV1WkdNWEYzZDBnMVN6SjBVM1JuVkdSRGJxbG1ZeEluV3E1V2R5VlhXdFZWVnpwR05NQjNhNWNtVEZoWFpzWlVhc3gyVGpoVGJ1Rm1UeEZuVUVsbmVGUnpSeUFuYTVWVFFsTmthcVpWWlpkVVd3aG5lME4yTG5WR2FwZEVhSUowS3RkSGNwZFdSdXBHTXNWMlZKaFdleFpIT25SV1l6bEVUaHRFZGpWbmRtTmpVQ2RVYTB3MmFydFdPM0pETnZjWGNrRm5VWmR6U3BKbGUxd0ViVEpHTzJKRk4wVm1lT0ZYVllGV2NRWlhlUjlrTlQxa1UxVlhiUFpuY1NSM1Y2ZFdTWkpGYjFnRFpKbERk
 
-#EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/z/yVYhUoLXAQ.png",Zee Telugu
+#EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/z/yVYhUoLXAQ.png",Zee Telugu HD
+http://?PXNHZG9WRmNtRlhidGhGTlZaemMwUkRObU5WYUV4V1phZFVUdWRUYUtaVFMxTWtNM1ozTW9CWFdtVkhOS1IwYjYxa2NTTkhUWnhXY29CWE5RTmpNWEpuWTBORGJzWkhjQmhuU3g4MlMzcG5aTXBIY1M5R1d2UTNORGhXZHl0ME5NOVVPNVowVFZ0VU9yQjNTVDUyWXVsbGVHRjNjeWNqU3RobWVsRkRTS0JYWkdwbVFyWXpjdlpqZDJzMlF1Wm1RTnhXYXpnSGJFNVdTUUZsYk9OV2I1czBSeFpFTlVsbE5GSlhjQkZ6TldsVGQ1WjNMeDVXU3NWVVVRRjBLSWRIWlBWSGRHSlVkNTUwVFdkM1JwaEVVTUZsYmloSFRYRlhiWkJqZXQ1V2VVdGlacXBuZTRSalIwMW1kcFYwTlRSMWR3a3pkWWhqTTZSVlM1STJORmRuUTVoVFJhSmxhVHAxUnhnR1J3ZDFad0lFTjFKM051UkZUV1JUYlZCMWJsSjBTczlTY3djRlVvVm5jbWQzTUdGR2VYdEdTeU0wZHlkME1MSlZlRWhXV1FCblp6VkVhMncyY21kR1d6TldhMlZIZHowV09hTnpOU1J6ZFIxR015VnpZNVJYUXNkRmJNaEhUV3BsV1RKM2FXSmxUeHNHVW5CMWQ0RUVVV3BHVExWVlN4Z2thdk1GY3lZMVU0OUVhdGRsVVZsM2FsTjJjMjVFZUNGRVp0WlVlM3RDVU5CMU5pbDNUb1J6THpnV2N1eFVPMFFWYTRKMExEWlZlNGgzY3Mxa2Jya2ticnNDYXFoemN2OUdld0lWWXdFWE53cEhPclJEYjQ5U2UyZzNhemxWY3NsVWRSRm5ZMVoxTlFWM2QzZ0RhRE5YUXdSVFA=
 
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/z/quuKNFcizk.png",Zee Tamil (1)
-http://rv.therevenge.co:80/live/307251602400/307251602400/83923.m3u8?checkedby
+http://?PXNHZG9WRmNtRlhjdGhGTlZaemNwUkRObU5WYUVsV1phZFVUdWRUZUtaVFMxTWtNdlozTW9CWFdtZEhOS1IwYjYxMGFTbFdjV0IxYXpGWE50ZFdXT3AyYXVaamRHMUdhQ0JUZXNGWFQ0aFRjTkpGTTFCbll3OW1WajkyZHo1a1p2TTFRdFIyU09CWFFuMTJiMm9VT2poVmFweDBicm8zTnd0eWNxaFZheXdXTm5aa1F6TkhhS0ZYUnhkM2J4ZFZWdk5rVVE5MmQySTJLSHgwY2xKRU54UTNSM3R5TVFWbGJoZDNVdXBYZU1wbGFqVlZRWnBWWjBCbFlFdDBVczEyUnZ3RVYzRm1lU0pXUWlKbVFxMUVOd1lEY0x4MlUxaEdXNFVVZFNoRVR6RUdlc1pWUjBRamF2TkhjM1kzWkpWM1puTkZUeHQwUnhwVWV6SW5kSXQyU29sWGFLNW1jdkluV1BoV2FybERlelYyTlRCSFZyOVNSMUFWYmtKa1JEbEdPcmhrY210R1d6c1dOTlZuUjRZbmEwSVhTMzRtV29aR1IzY0RjSmRIZHNaVWUzVWpkUmxFY3NwR1Q1OWlkRGhuUW5obmF0bEhjNThFZFJSMlVVZDBOcUptWkNKMVZDOVdUekVrZVdOSGJ5dEVaNGh6UTE1R05wWldRVjVHYU9GRlNtOUVlVWhWUnlKelR5RjBVeVpuUnp0MkxhTkhNSlpUZFhCSGNYSlZlMkpXUjQxMFJhbG1XMlYyYW45a2REeEdTUWRsZXBGbFFydzJOeDltY0M1R09GOVNkdDVtU0lsbFNzcGxiMFVYVlIxR2FQRkViNE4zYnpjbVJqNW1acmxXYTV0U2NTQkhWU1YzS09KSGRrMW1icmcxUnFkWFA=
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/z/quuKNFcizk.png",Zee Tamil (2)
 https://catchup.yuppcdn.net/amazonv2/20/preview/zeetamil/master/master.m3u8
 
