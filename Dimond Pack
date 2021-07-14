@@ -1852,8 +1852,10 @@ https://idvd.multitvsolution.com/idvo/banglatimetv.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://livebengalitv.files.wordpress.com/2017/10/news-time-bangla.jpg?w=1180" group-title="IND বাংলা",News Time Bangla
 https://idvd.multitvsolution.com/idvo/newstimebangla.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/385/logo/115x115/mobile_logo_174491001563772860.png" group-title="IND हिंदी",E24
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/385/logo/115x115/mobile_logo_174491001563772860.png" group-title="IND हिंदी",E24 (1)
 http://?eWRrV3lFVU5ZOVdURlpWYmg5Q2R6MFdaSVJIWndaWFJscEZVb2gzYjVrR2RuaFVld2sxY2haamFwNUdNMzVVUU5OSE1yVlRRMUZWZHIxRVprUkhNNloxUXg5bVdMOTJjMlJETlRobGF1QkhhSVZXVjF0Mkx4UTFMNGtHWnFaWE00UURlRXBYTjNNMlp6dGtNRmxEV1ZwbmFUVmxOeUpuY1RWWFV3TldQ
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/385/logo/115x115/mobile_logo_174491001563772860.png" group-title="IND हिंदी",E24 (2)
+http://?dWRrV3lFVU5ZNVdURlpWYmg5U2V6MFdaSVJIWnpaWFJscEZVbzkyYjVrR2RuaGtkd2sxY2haamEwNUdNMzVVUU54R01yVlRRMUZWZXIxRVprUkhNdFoxUXg5bVdMdDJjMlJETlRoVmR1QkhhSVZXVnZ0Mkx4UTFMNDBHWnFaWE00UWpkRXBYTjNNMlp5dGtNRmxEV1ZGbmFUVmxOeUpuYVRWWFV3TldQ
 
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla (1)
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
@@ -1866,7 +1868,7 @@ http://103.251.247.105:3001/aostv/5fafa2a66f4e8cc0b51d8d34/aos.m3u8|tokenUrl:/4_
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla (3)
 http://?NGRrV3lFVU5ZVlhURlpWYmg5U2R6MFdaSVJIWnhaWFJsRjFOTDltYkhabmRybDFjdzFHT3ZaWFM0aFRSelIyYlhCWFpPdEdlb0ZrYllCblVzMW1RbzlDTWhwR2FuVm5OMTRXUzFKVmR4Y0ZlbVJET29sMU40RkZTMUlIYzVWM0xTQkZjdlVuTXYxV01zZEdNb2wxU1B4MlFvaEZWa05rZUZ4a1lXSkZSdlJ6U2tObllyRkhORmRrZHlwMVpzTkVWV1YwY29KRWU=
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla (4)
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634736
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/402/logo/115x115/mobile_logo_789226001563606539.png" group-title="IND हिंदी",&tv (1)
