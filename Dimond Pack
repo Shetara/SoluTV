@@ -47,9 +47,9 @@ https://bdresults514.shortcm.li/SI_Tecnology_Ltd/2bP8No/Sony_Liv_Ban.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv Hindi
 http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/3381
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",WIN vs SA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",WIN vs AUS
 http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2haamFuNUdNMzVVUU5GWE1XcDJOYVpqYTBzQ04wTWpjcGhIY1Voa1pxVkhSSHgyY3hOa2E2aFZhcTFFYzRkSFpsbGtlTjUyUmFoR2Q0bGpic0ZFWkhKV1dyVnphaFZFUzFJM1k2NVVPSk5GYXY1MllvOVdQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",IND vs NZ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",ZIM vs BAN
 http://?MmRrV3lFVU5ZdFdURlpWYmg5U2N6MFdaSVJIWnZaWFJscEZVb1ozYjVrR2RuaFVhd2sxY2haamE0NUdNMzVVUU41V01XcDJOYVp6ZDBzQ04wTWpjemhIY1Voa1pxQkhSSHgyY0hsVWIyUkVaM1VGVTVaVlF2MEdUUmhuVVVkV2N5bDNhV0JqY2pSbmIwRkZaS1owWlNkbWVRMVVSbmxHYkhOemFyUVRQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",
 
@@ -1283,6 +1283,9 @@ http://?cWRrV3lFVU5ZWlhURlpWYmg5aWR6MFdaSVJIWjNaWFJscEZVbzkyYjVrR2RuaDBkd2sxY2ha
 http://?ekoxZHdOVGE2SkhhMDVXTjVGMWRMeFVkanhrVXBkM05TMVdjTTFXWldKblNDZEZjNWh6VVRaVVU1VkVaSFpWY0xoV2F5VUhjcFJEY3dWVVQzaDJMd2hqVXNwWGNMbG5RYTlVZTQ0V2R6OVVRTkJuUXVKbE1FUldXTUZYVE5OM1kzTUhjRmxGYzRNWFN4WmpaUGxtYzR4R1RxMTBkWEpHYzBOMUxyUUhhd056Y2hORmRQaG5RdFZIVTRoMmEzVUROSGwwUXlaWE8wUjNNemgzTXZra2JNVjJaWGRuTVB0a1czMVVXVnhtYTJjMllHcFhONU1EYmlaR2N3Z1VOeGRuZHhaM2FJdEdheUptU3dNbWJZSjBSUE5YYnRsRmVzcDJZYWhYZTRGVVdwdFNiMUpHUnlrekx1dG1OT2RITnBkbk5aOVNVM0VqYnd4bWVSMVRQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2423/logo/240x240/mobile_logo_667791001609587559.png" group-title="IND বাংলা",Colors Bangla HD (5)
 http://stream.amrbd.com:8082/colorsbangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Logo_of_Colors_Bangla_Cinema.jpg" group-title="IND বাংলা",Colors Bangla Cinema
+http://103.157.237.18:8000/play/214
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/e0/7b/b2e07b1848baad0cea0c95b879f8d9b9.jpg" group-title="IND हिंदी",COLORS (1)
