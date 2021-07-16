@@ -43,9 +43,12 @@ http://93.157.62.180/Supersport4/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv
 https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv Bangla
-https://bdresults514.shortcm.li/SI_Tecnology_Ltd/2bP8No/Sony_Liv_Ban.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv Hindi
-http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/3381
+https://bdresults514.shortcm.li/SI_Tecnology_Ltd/Live_TV_Premium/Sony_Liv_Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv Tamil
+https://bdresults514.shortcm.li/SI_Tecnology_Ltd/Live_TV_Premium/Sony_Liv_Tamil.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv Malayalam
+https://bdresults514.shortcm.li/SI_Tecnology_Ltd/Live_TV_Premium/Sony_Liv_Malayalam.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",WIN vs AUS
 http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2haamFuNUdNMzVVUU5GWE1XcDJOYVpqYTBzQ04wTWpjcGhIY1Voa1pxVkhSSHgyY3hOa2E2aFZhcTFFYzRkSFpsbGtlTjUyUmFoR2Q0bGpic0ZFWkhKV1dyVnphaFZFUzFJM1k2NVVPSk5GYXY1MllvOVdQ
@@ -2952,7 +2955,7 @@ http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2418/logo/240x240/mobile_logo_060335001610628658.png" group-title="Sports",Sony Ten 3 HD (1)
-http://103.205.133.21/hls/ten3.m3u8
+http://103.205.133.52/hls/ten3.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2418/logo/240x240/mobile_logo_060335001610628658.png" group-title="Sports",Sony Ten 3 HD (2)
 http://?bmRrV3lFVU5ZRlhURlpWYmg5eWN6MFdaSVJIWnFaWFJscEZVbzUyYjVrR2RuaGtjd2sxY2haamF2NUdNMzVVUU5sMk0zRmtjeXRFYVZ0bVowbG5lMDlDT01OMlFxZG5XdjEwUlQxbWVPOUNaUU5YTnlKRU5OWjNkUmxXYXBoM1VpTm1jUkpqY2lGbFI0VldiUGxGT0Robk5EVldTVGxsZTVVbGFqZFdQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2418/logo/240x240/mobile_logo_060335001610628658.png" group-title="Sports",Sony Ten 3 HD (3)
@@ -2963,7 +2966,8 @@ http://43.230.123.21:8080/live/sonyten-3.m3u8
 http://103.102.136.106:8080/cmcltv/tcm_ten1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2418/logo/240x240/mobile_logo_060335001610628658.png" group-title="Sports",Sony Ten 3 HD (6)
 http://cdn.ihub.live:8080/j-sony-ten3/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2418/logo/240x240/mobile_logo_060335001610628658.png" group-title="Sports",Sony Ten 3 HD (7)
+http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/3381
 
 
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2016/01/White_Vertical.png" group-title="Sports",Sony ESPN HD
