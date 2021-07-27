@@ -11,7 +11,8 @@ https://bdresults514.shortcm.li/SI_Tecnology_Ltd/Official_Stresming/Free/Trial.m
 #EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 1 )
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 2 )
-http://161.97.162.167:1936/live/watannews/playlist.m3u8
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+#http://161.97.162.167:1936/live/watannews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 3 )
 http://175.41.46.16:8081/hls/4.m3u8
 
@@ -31,6 +32,21 @@ http://175.41.46.16:8081/hls/4.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6fronZ7.png" group-title="Official Streaming",Live-TV™ Movie 2
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ab/23/17/ab2317c69978d71ab69ea3b62880eb4d.png" group-title="Official Streaming",Netflix Comedy
+http://ar148ferrari.referrari.com/live/601361_.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ab/23/17/ab2317c69978d71ab69ea3b62880eb4d.png" group-title="Official Streaming",Netflix Drama
+http://ar148ferrari.referrari.com/live/601362_.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ab/23/17/ab2317c69978d71ab69ea3b62880eb4d.png" group-title="Official Streaming",Netflix Horror
+http://ar148ferrari.referrari.com/live/601363_.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ab/23/17/ab2317c69978d71ab69ea3b62880eb4d.png" group-title="Official Streaming",Netflix Kids
+http://ar148ferrari.referrari.com/live/601364_.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ab/23/17/ab2317c69978d71ab69ea3b62880eb4d.png" group-title="Official Streaming",Netflix Movies
+http://ar148ferrari.referrari.com/live/601365_.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ab/23/17/ab2317c69978d71ab69ea3b62880eb4d.png" group-title="Official Streaming",Netflix Romancy
+http://ar148ferrari.referrari.com/live/601366_.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/km3beNg.png" group-title="Official Streaming",ZEE5 Originals
 https://y5w8j4a9.ssl.hwcdn.net/zee5_originals/playlist.m3u8
@@ -1099,7 +1115,9 @@ https://d2zmy2ox1qkejw.cloudfront.net:443/out/v1/770fb77abc5d4ef487fc8b8b38d6051
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-_ocnyPXzVxg/V5HizRn4JnI/AAAAAAAAQ48/A8wW9HayVn06jLHuLPfwB_vVZX1wTElbwCLcB/s1600/india%2Bnews.jpg" group-title="IND हिंदी",News India
 https://itvoign.multitvsolution.com/hls/inkhabar.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJz4OSukoMq-88pT7gpASWgzilQBnduj3quPfaP9=s900-c-k-c0x00ffffff-no-rj" group-title="IND বাংলা",Kolkatta Tv
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJz4OSukoMq-88pT7gpASWgzilQBnduj3quPfaP9=s900-c-k-c0x00ffffff-no-rj" group-title="IND বাংলা",Kolkatta Tv (1)
+https://d1chqz7l4sdk21.cloudfront.net/KOLKATA_TV.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJz4OSukoMq-88pT7gpASWgzilQBnduj3quPfaP9=s900-c-k-c0x00ffffff-no-rj" group-title="IND বাংলা",Kolkatta Tv (2)
 http://global.thunderbd.com/46/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnijC5mLJ4TP-iJe3lQnb20QdOi_rRTi-4nzzD8SJA=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",PATRIKA RAJASTHAN
@@ -1818,8 +1836,10 @@ https://itvoign.multitvsolution.com/idvo/dangal.m3u8
 http://103.251.247.106:3001/aostv/600830e2af05178ef75e1df3/aos.m3u8|tokenUrl:/4_4
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/371/logo/115x115/mobile_logo_330756001564829116.png" group-title="IND বাংলা",Akash 8 (1)
-http://?MWRrV3lFVU5ZbFhURlpWYmg5aWN6MFdaSVJIWnRaWFJscEZVb3AyYjVrR2RuaEVid2sxY2haamF3NUdNMzVVUU5GSE1TUjFSM2hYYzFKblF6WW1Sd3RFY2tCVk55UW5XMEZtZXBka2EybzBMSWhUWnk1V05IbEVSTkYzUlFSVWRMVm1hdzVXZG9KSFdweEdPM1VFT3ZrSE4yc1dlUHBVYjVGbk5ya1VQ
+https://dn09146u4bwct.cloudfront.net/AAKASH_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/371/logo/115x115/mobile_logo_330756001564829116.png" group-title="IND বাংলা",Akash 8 (2)
+http://?MWRrV3lFVU5ZbFhURlpWYmg5aWN6MFdaSVJIWnRaWFJscEZVb3AyYjVrR2RuaEVid2sxY2haamF3NUdNMzVVUU5GSE1TUjFSM2hYYzFKblF6WW1Sd3RFY2tCVk55UW5XMEZtZXBka2EybzBMSWhUWnk1V05IbEVSTkYzUlFSVWRMVm1hdzVXZG9KSFdweEdPM1VFT3ZrSE4yc1dlUHBVYjVGbk5ya1VQ
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/371/logo/115x115/mobile_logo_330756001564829116.png" group-title="IND বাংলা",Akash 8 (3)
 http://?cUoxZHdOVGE2cEhhMDVXTjVGVmJMeFVkanhrVXRkM05TZG1NNGdXWWloMFFhUlVlbmxHUjJOMGRwVm1hV0ZtZHM1Mk1hTjFMVFIwZDNnMFlaVkZldlZFUmtkSGN0ZEdSMGxsV1NsMlp4VkVWRWxXVTRGME55TUhNTHhtZFFCbFRCWkVkMGdYUnZVV2V1dGtWVFZrTVY1V1YyZEdXM2tFZXR4RU0zcFZjbk56Vlhsa2JzWkhkdmdFZHlramR5NDJSMnBGTTQxa01UZG5VeUJuUU5GMU56SWxjRkZXTm5ObWV6TkVPaHRFYVo1V1QwSlhOQ0pUYTNFVlpOMUdUb2RIYXdvMFRwbEhPMlVVUA==
 
 
@@ -3015,9 +3035,8 @@ http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?t
 http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_1_HINDI_HD/tracks-v1a1/mono.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2019/03/SS-Bangla-Logo_6.jpg&w=620&h=350&zc=1&q=100" group-title="Sports",Star Sports 1 Bangla
-
+http://103.157.237.18:8000/play/601
 
 
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 (1)
@@ -4072,7 +4091,7 @@ http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/08/02/Untitled-1_26.jpg" group-title="Kids",Hungama Kids
 http://103.153.39.34:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",DISNEY (1)
-http://otv.ftpbd.net/streams/122/index.m3u8?Live-TV™
+http://103.153.39.34:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",DISNEY (2)
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney Channel
