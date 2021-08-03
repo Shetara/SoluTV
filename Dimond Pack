@@ -330,6 +330,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/playlist.m3u8
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (6)
 http://?PT1BY3pNalJ2dzJiNTEyWTRkRFJ5cFhlRjlTYVBWbmFIWkVOWGRsU3RaR1IzVmtacmRIUkxGVFpzSkZieE1UWnpSR000NTJZSXAyTFZ4bWF1bDNadjlVYmFsME1yUTBUcVJUVG5kemNzMTJMdk5YYnJGemNQOW1kVWhUVzB0MFJWbGxUdEpYUzMxVFA=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (7)
+https://tv.bdtv.xyz:2096/live/maasranga/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="বাংলাদেশ",CHANNEL 9 HD (1)
@@ -351,7 +353,6 @@ http://?PT1BYnpNalJ2dzJidTEyWTRkRFJ5UlhlRjlTYVBWSGNIWkVOWGRsU29aR1IzVmtacjVHUkxG
 http://?eGRrV3lFVU5ZQlhURlpWYmg5Q2R6MFdaSVJIWnhaWFJsRjFOTE5uYkhabmRybDFjdzFHT3ZaWFMwaFRSelIyYlgxR1poWkhTVngyZGtWa1N3ZzBVdGRWV29OV1pxZDJReDBtUkhWRWNLcDNacFZuTXpoR1NIZEVkSFZIVWxOMGFKNW1kT05tWXZnV1FzNW1VdlVXT3hoMk5PMTJaanAzYjVOblFCbFhkek5rTXNkRE5HcDJidkVXWlRaWGV5TlRORXBWYTZCRlU=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (2)
 http://jupiter.bdcabletv.com:80/Gazi_SP/video.m3u8
-#https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1624326407&md5=-mkkAd2sVyRjXkhFwlkzGA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (3)
 http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (4)
@@ -362,13 +363,13 @@ http://cdn.ihub.live:8080/j-GTV/tracks-v1a1/mono.m3u8
 http://172.16.50.2:8081/live/gazi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (7)
 http://103.213.238.70:80/GaziTV/tracks-v1a1/mono.m3u8
-#http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (8)
 http://cdn.naturalbd.com:8083/j-GTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (9)
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (10)
-http://103.106.243.163:8181//1/index.m3u8
+https://tv.bdtv.xyz:2096/live/gazitv/playlist.m3u8
+#http://103.106.243.163:8181//1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (11)
 http://?dngwY29kVVY0b1hWRVpFT0pabmRQaDNZTkpuYzZKelZQOVdiRmhHYTFOa2RzUlVlNGhWT3pwbWJ3UlVhMzAwS0RkM1RHcFdUNTlFY0xoRlNsbGxOb3BHTllWbWFPOTJZSGgyUVJKMmN6ZGtZU2xsU3haMGJWMW1aNWNXYktka1FyNDBkRTlTY3BsMkx5OVdSUVIzUnZGSGFHWmtiRkZtZEpSWGRzdFdQ
 
@@ -1435,7 +1436,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/403/logo/240x240/mobile_logo_832127001584856796.png" group-title="IND বাংলা",Zee Bangla Cinema (3)
 http://163.172.29.246:8081/globalbd/zeebanglacinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/403/logo/240x240/mobile_logo_832127001584856796.png" group-title="IND বাংলা",Zee Bangla Cinema (4)
-http://z5amshls.akamaized.net:80/zbanglacnm/tracks-v1a1/index.m3u8
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6636/index.m3u8
+#http://z5amshls.akamaized.net:80/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/403/logo/240x240/mobile_logo_832127001584856796.png" group-title="IND বাংলা",Zee Bangla Cinema (5)
 http://cdn.ihub.live:8080/j-Zee-Bangla-Cinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/403/logo/240x240/mobile_logo_832127001584856796.png" group-title="IND বাংলা",Zee Bangla Cinema (6)
@@ -1447,7 +1449,7 @@ http://?PWNXZE1obU0yTUdiNUoxTHljWE8xaG5iRmRETU5CWGV1WkdNWEZuYzBnMVN6SjBVcFJuVkdS
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/403/logo/240x240/mobile_logo_832127001584856796.png" group-title="IND বাংলা",Zee Bangla Cinema (9)
 http://?dEoxZHdOVGE2NUdhMDVXTjVGMWJMeFVkanhrVXJkM05TWlhXR3htZTZ0MmM0Rm5lc0J6WUJaSFI1cFhZMFkxWjRZblF1SkhlRzEwZG9aRU5xcG5hcFpIYTJCblUyaFhlVGh6VlBoSGR3RUhNckkwTXlaM2N0aDJUTFIzTHloRWVJNVdlVkJsUXJkV2I0WmtXU3hrWVp4MlV6ODBRejVFY1E5R1ZVMTJMNTFrV1BKR1VRdG1OeEVFTWhORGNsbFVRcngyUjZkSE5YcG5WdnRXY0xoMlFtWjNkRzlVTnFCbFR5ZFhPNXBrZDJoR2RMOVNjdWgxYnlzQ1V0eEVNeU5sY3ZJV1lWaEdUUWhuUUVsWGI2QkRSaEZYUTZGa2J2a21WV3BHVk5wM05qWkVkMGRVTzNwbVQ1cFVSUmgyYXdKSE00WVRhUU5WZFBoR2FSMVRQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/403/logo/240x240/mobile_logo_832127001584856796.png" group-title="IND বাংলা",Zee Bangla Cinema (10)
-http://89.41.180.253:8080/INDIA_BENGALI/ZEE_BANGLA_CINEMA/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tv-hd-logo-300x300.jpg" group-title="IND हिंदी",Zee TV HD USA
@@ -1731,7 +1733,7 @@ http://103.205.133.21/hls/sonypix.m3u8
 #http://hitectv.live/hls/stream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/602/logo/240x240/mobile_logo_226035001584535399.png" group-title="IND हिंदी",Sony Intertenment (1)
-http://103.205.133.21/hls/chs.m3u8?Live-TV™
+http://209.126.120.153/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/602/logo/240x240/mobile_logo_226035001584535399.png" group-title="IND हिंदी",Sony Intertenment (2)
 http://103.205.133.19/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/602/logo/240x240/mobile_logo_226035001584535399.png" group-title="IND हिंदी",Sony Intertenment (3)
@@ -3120,21 +3122,19 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (1)
 http://103.205.133.48/hls/tsports.m3u8
-#http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (2)
 http://103.102.136.106:8080/cmcltv/tsports.m3u8
-#https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (3)
 http://?cWRrV3lFVU5ZQlhURlpWYmg5Q2J6MFdaSVJIWjBaWFJsRjFOTDltYkhabmRybGxjdzFHT3ZaWFN5aFRSelIyYlhSblpVbERjVUpXYndZbVFKaFhXeWxsUWFoV1pVaG5XdFYxUk9wa2VvcDBTaE5rWjNOWE9vSkdjQmxtVW9SWGNDVjBiNVUzVlBaMmIyeFVjeEpuVlpOblZZSm1kaFpYYjJobmR5QTNZd2htYTNsR1Z6bDJjc1ozVU1SRmRLZEdjMUpWUXRKRk4=
 #http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (4)
-https://probashibangla-tv.telelivebd.com/linkers/tsports.stream/playlist.m3u8
+https://tv.bdtv.xyz:2096/live/tsports/playlist.m3u8
 #http://otv.ftpbd.net/streams/108/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (5)
 http://103.205.133.21/hls/tsports.m3u8
 #http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (6)
-http://103.251.247.105:3001/aostv/5f9687840ebdfb11f1048e46/aos.m3u8|tokenUrl:/4_4
+http://103.106.243.163:8181//17/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (7)
 http://103.205.133.19/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (8)
@@ -3142,8 +3142,8 @@ http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (9)
 http://cdn.ihub.live:8080/j-TSports/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",Titas Sports (10)
-http://103.106.243.163:8181//17/index.m3u8
-#https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1624326468&md5=y8ix3VfDpgkoLedoSxusFg&user=ef3b0701f26743a4a12ce79435bc6d0d
+
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjEGlmlRlgpSF6zn3RdwHAlR4LgckyXnhWPYIPH=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Geo Super (1)
 http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8?Live-TV™
@@ -3963,7 +3963,7 @@ http://210.210.155.35:80/uq2663/h/h04/02.m3u8
 #EXTINF:-1 tvg-logo="https://hitstheatre.org/wp-content/uploads/2018/07/HITS-Logo_Color.png" group-title="English",HITS
 http://210.210.155.35:80/uq2663/h/h37/01.m3u8
 
-#EXTINF: tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-DISNEY-June-2020.png" group-title="English",Sky Cinema Disney
+#EXTINF: tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-FAMILY-June-2020.png" group-title="English",Sky Cinema Disney
 #http://89.187.169.206:2200/EX/Sky_Cinema_Disney_HD-uk/index.m3u8?token=Live-TV™.live
 #EXTINF: tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-FAMILY-June-2020.png" group-title="English",Sky Cinema Family
 #http://89.187.169.206:2200/EX/Sky_Cinema_Family_HD-uk/index.m3u8?token=Live-TV™.live
@@ -4100,7 +4100,7 @@ http://103.153.39.34:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",DISNEY (2)
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney Channel
-
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png" group-title="Kids",DISNEY jr. (1)
 http://79.137.41.99/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png" group-title="Kids",DISNEY jr. (2)
