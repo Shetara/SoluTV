@@ -58,9 +58,10 @@ https://bdresults514.shortcm.li/SI_Tecnology_Ltd/Live_TV_Premium/Sony_Liv_Malaya
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",WIN vs AUS
 http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2haamFuNUdNMzVVUU5GWE1XcDJOYVpqYTBzQ04wTWpjcGhIY1Voa1pxVkhSSHgyY3hOa2E2aFZhcTFFYzRkSFpsbGtlTjUyUmFoR2Q0bGpic0ZFWkhKV1dyVnphaFZFUzFJM1k2NVVPSk5GYXY1MllvOVdQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",ZIM vs BAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",BAN vs AUS
 http://?MmRrV3lFVU5ZdFdURlpWYmg5U2N6MFdaSVJIWnZaWFJscEZVb1ozYjVrR2RuaFVhd2sxY2haamE0NUdNMzVVUU41V01XcDJOYVp6ZDBzQ04wTWpjemhIY1Voa1pxQkhSSHgyY0hsVWIyUkVaM1VGVTVaVlF2MEdUUmhuVVVkV2N5bDNhV0JqY2pSbmIwRkZaS1owWlNkbWVRMVVSbmxHYkhOemFyUVRQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",BAN vs AUS
+https://fancodealive1-a.akamaihd.net/d91768f4d7e047f9a53c680602fc51f5/ap-south-1/6008340455001/playlist_dvr.m3u8?hdnea=exp=1628020102~acl=*~id=116502193_MbD_RBZ2ovlvdPQV~data=116502193~hmac=9e5ea398da9f3070fd5abb619884f4aeef19a869fa83f2051674be920798aedc&deviceId=Linux%20armv8l
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Official Streaming",NASA TV 
@@ -1009,8 +1010,10 @@ http://stream.amrbd.com:8082/Jalshamovies/index.m3u8
 https://dolv5imquuojb.cloudfront.net/ST_UTSAV.m3u8
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav (2)
 http://89.41.180.253:8080/INDIA_HINDI/STAR_UTSAV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",Star Parvah
+#EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",Star Parvah (1)
 http://?PUlIZG9WRmNtRjNkdGhGTlZaemNxUkRObU5WYUVwWFphZFVUdWRUY0taVFMxTWtNcVozTW9CWFdtZEdOS1IwYjYxa2VVaGtXckZWU3lKRWJYcDBLd1ZuWnZVRU5rbFhkS0pEV3o5Q1d0bHpZNWhHT0xOSFp2SjNZUk5WYXdsM1NyWW1ieGxsTnhWMGRURm5hVDlDYTRjMFpsRldNM2RHU3hoVWM1b2xRTWwyTTFrVGIwcDFhSDFtVjN3a050UkRlRFZrVjV0bU0xY0ViVUZrZENoR1NDMUdVcUZFYUlsbE14UkhaWnhtWm9WbWROcG5TeFVuZDNaVE9HWkZacmdXVlM1R1JacDFjVmRHT0xoVWQ0MTBjeklsY01KSFM0RmxXUEprZDRnSE56SW5hd05qZWxOVU96dG1Rd0IzUmtORWNHQlRTSTUwZG81a1p3VW5lbkJuV3ZGRFJ4OUdjb0JETXJNRGIwRkdhd0VETUR4MlZTQmpjclFIYTFOV1NWOW1VeDUwWkR4VVVXOVdTMWxsYjBaemJWbFhUclVqTXR0eVpzcGxjSWxuWlBOa1pKVkhlNGh6WXpNbE5ybFVjamRGVXJZSFI2aDNieUUxYklCRGFuaDFSdGgyS3hFRlV2bFdhWmhXU2FKMWRUcG5RaU5EYnFCWFJ5QWpkeEozVnBwMExTWkRlMVZIZVBCMUxvZEhkSnBGVVdSM1UyRWpWS1YwYzNRMFZCZFdRM2wwVE1sVWVGZG5hemtFTnhaM1owbDJNdUYwU3hKa2RZUmpNR2xXY01ORWRDZDNaMFZqUjVJbGN3RmpUbXBXVVZablVGZG1adFozY1RWM1JZbFZleGxETXlVRVNXZG1RdlJsTlVwV2ExWm1OeFFHYXlOWFA=
+#EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",Star Parvah (2)
+http://208.115.215.42/Star_Parvah_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="https://1.bp.blogspot.com/-31mVU8fz6Sw/YL9azM838HI/AAAAAAAABEg/U6ZjS_xIZgs3Q1YmlCAw2pJnGOE7R-7rwCLcBGAsYHQ/s320/m_classic_logo%25281%2529.png",Mo Classic
 https://d3cg98dbjyu3j4.cloudfront.net/MOCLASSIC.m3u8
