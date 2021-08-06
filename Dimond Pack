@@ -35,6 +35,9 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6fronZ7.png" group-title="Official Streaming",Live-TV™ Movie 2
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6fronZ7.png" group-title="Official Streaming",Live-TV™ Movie 3
+http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8
+
 
 
 
@@ -1212,7 +1215,8 @@ http://?PU1IZG9WRmNtRm5hdGhGTlZaemMyUkRObU5WYUU1V1phZFVUdWRUZUtaVFMxTWtNNFozTW9C
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="IND हिंदी",Star Bharat HD (1)
 http://?PT1BYnpNalJ2dzJiMDEyWTRkRFJ5SlhlRjlTYVBWbmFIWkVOWGRsU3JaR1IzVmtaclZIUkxGVFpzSkZjeE1UWnpSR014MTJObFYzVHUxbVV4aG1Vc1JGYjZCamFYNVVjeFZWWjJJVVM0OUdWQ2RFVXdaRmVMVlVVNEl6YzVabE5URjFkeWxuZFIxVFA=
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="IND हिंदी",Star Bharat HD (2)
-http://89.41.180.253:8080/INDIA_HINDI/STAR_BHARAT_HD/tracks-v1a1/mono.m3u8
+http://pn.tvott.info:80/307200113544/307200113544/83712
+#http://89.41.180.253:8080/INDIA_HINDI/STAR_BHARAT_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="IND हिंदी",Star Bharat HD (3)
 http://?PWdHZG9WRmNtRlhldGhGTlZaemM0UkRObU5WYUU1V1phZFVUdWREZEtaVFMxTWtNNFozTW9CWFdtcEhOS1IwYjYxRWJSWjNTdXRrVTE1MFR5RWxWd0JYYjBZbk1IcFZlNU5IYURkM01xWkdlWGh6TDJ4MlpSdDBMYUZYZTAwRWN6QlhONWwxUkZ4VU96dFdPVVpsWXg4Q2V4WVhUT1IzVXVkMFJZRjNZaGRHZTJjMlpDSmxjME0zZEVKRlUxQkhkTk5WYUJWblR5Y0Rhd3MyZHpnbWJqTlZlMEpWYUs5aVJsOVdTNThtZHBoamJxVkhhMlluZXg1a2Q2bEdWWk4zYlpwR1ppaGplTTFXYTBsbFJ0ZG1WNWNsYkIxbU5xcG1SRk5HY3hsbVE0RVhhdXAyU3JzU2FYRlhOanRDVHlCVmNDVldkMnRtVHVKVGNJeEVPSFZuYXRSa2IxTURkbTltTjRjVE56QjFMblpUYTNVWFI0Y0dWUGx6WkRwSFUwVUZScUpHWjVsMFRKSlhhSEYzYnY1bWVpVjFUMFlXTnJkalVTaFRWMXRXTTZKRk94TW1jc2xYUkpGa001MTJaRFoyWTFNSFpOdGliVHBsY3h4V1lsTjJjNVZWYTZkVFF4bFdVUU5VUlU5U2F5b0dSd2xIT3J0VWFzZDNNMTFHYU1WelN6TnpjM0prTnJwMlk2aGtieVFYUzVkblpaTmtZRE4yWllWVGN3SW1jdDVtTTRBalY2dFdZR2gyYW9CbmNEZEhVbTFrUjVsVldDZGtaRTlHVVlsblZPTmtlRDFtWTZCVFdzRmxScm8zY3BKWFRXOUdjdkZGYTRrblZuOTBMdjFVU3JGSFNwcG1iMDh5TTVSVWVqdFNlSWRYWm5CVFA=
 #http://103.146.55.212:8088/starbharat/tracks-v1a1/mono.m3u8
@@ -1623,7 +1627,7 @@ http://?c1ZIVG9Kak5qcFdlUzlpTTNsemI0NVdSM0FUVHNsbmJtQnpWeDFHTll0MGNDTlZkMFpsUjB3
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52945-ka1wdss8-v2/imageContent-52945-ka1wdss8-m2.png" group-title="IND हिंदी",Shemaroo TV (2)
 
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/z/SudAejvzDG.png" group-title="IND हिंदी",The Q
-
+https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJw4akZW2-UHCM1JQPDiXFRIvr_0Adj2eIo-hOGKVQ=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",Dabaang
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8?Live-TV™
@@ -1715,8 +1719,10 @@ http://?M2RrV3lFVU5ZdFdURlpWYmg5eVp6MFdaSVJIWjJaWFJscEZVb3AzYjVrR2RuaDBkd2sxY2ha
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2419/logo/240x240/mobile_logo_783997001610629373.png" group-title="IND हिंदी",Sony Pix HD (2)
 http://tv.pmcon.net/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2419/logo/240x240/mobile_logo_783997001610629373.png" group-title="IND हिंदी",Sony Pix HD (3)
-http://103.205.133.21/hls/sonypix.m3u8
+http://103.205.133.19/hls/sonypix.m3u8
 #http://hitectv.live/hls/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2419/logo/240x240/mobile_logo_783997001610629373.png" group-title="IND हिंदी",Sony Pix HD (4)
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/602/logo/240x240/mobile_logo_226035001584535399.png" group-title="IND हिंदी",Sony Intertenment (1)
 http://209.126.120.153/hls/chs.m3u8
@@ -2494,8 +2500,10 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11553-j9julvag-v3/imageContent-11553-j9julvag-m6.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",MAA GOLD
 http://?PTBHZG9WRmNtRkhkdGhGTlZaemNuUkRObU5WYUV0V1phZFVUdWREYktaVFMxTWtNNVozTW9CWFdtQkhOS1IwYjYxa2RUUlVPckZuTnJKVU92bzFRR2xHUlloelR2bzFaUEZUVHBkek40cEhXMWRuZG9CSE93bDBjQnhFZDNWMGFMcEdieEpsVUVSbGNqdDJWMG9HVGpGM2RCOUNiUGRGU3lGR1JSWmxUTmhtU2pWVGF5WW5iMG8xSzNVRU11SlZkdlYxTm5KM1V2QlRTeHNFZHpsMkttWnpkNVpFTTFRalRGcEhleUVYVE5GbmUwUjJRd056UjNWbFZ1UkdlMmhXYVlCWFFDcDBjVHRtVDQ4MmFwdENNNFZUT3hSWGFXOUVjcEJIZG81RWNDZEZicWgxUTNrbGR3bzJkREJ6WjRvbmQzWW1iMWNYVzJGVE94ZDNLYWwySzJGemFveDBiWFIxYzB4MGMzVlRXRVZrWm1oWE1USkZWSGREY0lGalc2cGxlc3RTVzZsMEtodDJWbXQyS29wVmVNZFVUcVYyYnhWV1JqZDNaa2xYYkpKelIybFdhU3AzZHh3Mll5TjFOQ3RTVTZsblFIVmpjaGhYY1hKRmV3Y2tlM0ZHVG5sVFlKMTJURFpHTTN0RWREeDJRa05HVzB0RVNHZDJRMk0zTUxGVVFZZFRiaWhqTVFSV041UlhPS2xYWTU1MlVpZEZTMU5XYkNSbE1ORkZVelYyUnJ0R2VVOTJiUFprYnBORWNJbHpWa2QwTXFGVVlEOWtjUGwzTnFkRlQ2cG5lUXhVZDBOR2F3OVVWUVZ6WnlGSGRVVlRhMUFYYVhKWE9qcDJicWxFVTNNek41Sm5jdTFFV0xoVWF6OTBMTTEyYXdoVFA=
-#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",MAA HD
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",MAA HD (1)
 http://?PXdHZG9WRmNtRjNhdGhGTlZaemN0UkRObU5WYUU1V1phZFVUdWRUZEtaVFMxTWtNdVozTW9CWFdtcEhOS1IwYjYxa2VTZFVicjAyY3lGRmNRTnpZTWhXUjVsRVJ2TUdkR2hVTURsV1o2ZG1jdWRsZEd4R1RPWlZNNDBrZVZ0eWR5WTFTNkpVTTJoVE5yWlhUM2tHT1oxV2JLMVViM0ZqYjFkVWIyVm1ZdjQyWVVGa1lJcEdka3BWWkxCbmJveEdUVE5tYnI5bU4zQjNLMTRXYVdGWFJ5RkZXb3BHZExCMWFJdEdTYWhUY0pka2RDWlRSeDFHTXpKM2N4VlRTelkzVXVSalVhVjNaclExTEpwRVMwaFZUbDEyS0tKWFN6TlZXV3QyY1psV2JSVkVVNE5IVFp0R2FUZFdTeXNFYzZoM2MxSUhVTVoxTDRSbmF2a2pUcXhtVUpCRE81bEdkWTEyUzVwVlQxWm1NWEpUTjRRM2ExTlZTM04xWlVOV2N5UWtXM2hUWktkV1ZXbEdjS3AwYUlaamJySmtSNEpFY3ZsRmRQUkVhdWxYY1FCM1kxRldkaEJIZURkMlV5UmpaSmgxTnZVM2EzTm5jRVZqYzJBblR0TkdjelJHVFQ5V1R6dDJMbGhUVnNaV2MyUTBha3RpUnhkellsWjNaeGtYU29obVpzSlVjeVVYT09wV1Q0SkRWeE5IT3pwV1RURkdScjkyZFk1MGRZbFZZemhEVktSVE9XZG5aU3hFTVdaM2NxMUVXd2hqTXhKMWNadFVUemszTEhaalJuZGxjTlJVYXBWell6RkhiSUZHZW5OM1F5RUZjMzlFZXFsSE1CWjNOc0ZGTXhVbVlqZFdOdmh6VVlwM2N3UVRPdk4zY3J0V1A=
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",MAA HD (2)
+http://pn.tvott.info/live/307271135111/307271135111/83988.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",MAA MOVIES
 http://?PWNIZG9WRmNtRlhkdGhGTlZaemNxUkRObU5WYUVkWFphZFVUdWRUZUtaVFMxTWtNelozTW9CWFdtZEhOS1IwYjYxMFpUWkRNeUkyVW4xVU1oMW1kRVZITlVGRU01aERkNHRDTTA5MmJ1ZDJLbjlXTzJVM1F4QmxZc2RqZDVGemJyb1dkb2hqTjJzR2RIVjNMbE5XVElObGJDaGxZck5HYzFaSGFNVlZXREpITm1GR2RuUmxlQ2gxYzFwWGJyVjBUWnQwWXk0bVlJWlVRaHhVYVQ1a1UzWmxNcUZqVG1abFo2ZEdTWGRuZG5wbWNTaDNMNGQwYTNsRGMwVlRkV2xtVEhoVFYyb0diQ2gxTmpwSE40TjNkd0FYWXZnV01DSldRTUZ6YXhNR2J6UnpOMkpsVHpNR1NOUlhTSTlFVTM0bWRuQmxWSzVHYnBGSE5PaGpaNnBtZTJsWFQ1TTFjR3RXTm9kSE80bGxkMDEwU3pwblNoeDBWbkpFY1hCSGMxaDNZM1ZrUXpkamUzZ1dUalpWTWtOMmR6UjFVMDBXTXNSbVJ6Sm5OM2dtWndnR1pyVURiTUpUT3RwbVlxbDNhek1FVTE4MlJURmpaUVZtYnlobWRTTlZPNUYzU1ZWV1M2Vm5ib2hVVFFsVWJ1bFdSMEkxUnhOWFJRSm1OT2hIWjRoalZKRjJaQkpETnBaMmRzNTJVTUZsYkxoR2NxWkZNUFowWmhsMUxJZFRjNWRIZWtSRmJ2Y1dSTWhVUnpsa2VsRkRUMGtWVnNaV1RKSlVUdjBXYlBGRk9ZZG1hREpsVmhObVRuMUdVVmRGVXp4bVE2RkVadGhWZG5SbmRxNTJiNVowVHI5bWJqNTJTRlpVZXY5eVozbDJTNDBHTXk5V1A=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/StarSuvarnaLogo.jpg" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",STAR SUVARNA
@@ -3711,6 +3719,9 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/STAR_MOVIES.png" group-title="English",Star Movies HD (2)
 http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
 #http://hitectv.live/hls/stream3.m3u8
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/STAR_MOVIES.png" group-title="English",Star Movies HD (3)
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/starmovies-hd-lg.jpg" group-title="English",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
@@ -4118,12 +4129,15 @@ http://?cmRrV3lFVU5ZNVdURlpWYmg5U2F6MFdaSVJIWjVaWFJscEZVb0IzYjVrR2RuaFVid2sxY2ha
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2434/logo/240x240/mobile_logo_453778001609415473.png" group-title="Kids",NICK Sonic (2)
 https://any.hitectv.live:4443/nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2434/logo/240x240/mobile_logo_453778001609415473.png" group-title="Kids",NICK Sonic (3)
-https://khulnalive.anytv.live/nick/index.m3u8
+http://103.153.39.34:8000/play/a04p/index.m3u8
+#https://khulnalive.anytv.live/nick/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2434/logo/240x240/mobile_logo_453778001609415473.png" group-title="Kids",NICK Sonic (4)
 http://pkr.cinepex.tv:8278/sonichindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2434/logo/240x240/mobile_logo_453778001609415473.png" group-title="Kids",NICK Sonic (5)
 http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/c9XqWeY.png",Nick Toons
+http://31.220.41.88:8081/live/nicktoons.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000039210000/PORTRAIT/oilcCZz8.png" group-title="Kids",Nickelodeon (1)
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000039210000/PORTRAIT/oilcCZz8.png" group-title="Kids",Nickelodeon (2)
@@ -4168,6 +4182,8 @@ http://161.97.162.167:1936/live/watannews/chunklist_w799269245.m3u8
 http://?PTBHZG9WRmNtRm5ldGhGTlZaemN5UkRObU5WYUVaWFphZFVUdWR6ZEtaVFMxTWtNclozTW9CWFdtWkhOS1IwYjYxVWFUaGpkNDRHYnNoMmJzbDNMMjRtVTA5V2N4UnpkSnBHT1ZkVFF5RlhiM1VrZU5oR1J3RmtOUUprZUl4a2RqSkdTb2xYUk1wRWVPUm5ObGQyVDRZVWEyRTBkSmxWWTFsRE9oVmxVbWhHYXJNVldORnpaUnBVY3JZSFJ6TkhVbjVXYmpabmFHdDJVVHRXY0NGamI2cG5ONlIySzBnRmFhcG5OUlIzVVBWV2JpdFdRWmxIWnlCM1YzUldhV2RIV3dCek4xbDJaRmRUUVVwRk02Um5WUGwySzBGblpIdDBWUmQxWkxKbWRoWmxUb05IYkZOR1V3d0dja1JtZFNaR2VQcFhWUUZVYXF4R081UTNMTVpIV3lkVE5yMG1idk4wTHpSRFdxdDJZbkYxTE1GWGV5SWpXSnhXYmxsWGNqWjFaeEJYYmFaVk5yRkhNeDl5TXpZMWJGbDJMVmxFVW54V1J3b0dkV2RtVk1kRFdudHljdXAzU0loamExZFdOaHBWV1BkM2NyUjJMc1JHZGhORE5SUkVlNE5HYVBoa1FJOTJZa2hqZDI0bWVMcEZjeGdqU3Y1MFV4QWpTUDFXVHZNM0w0RlRhVnBrVG9kbWEzbEdjNFJIUzFFblE1RkZOSmhUYlJ0RU4xb0VPc1pGVlo5a01ZTkhaazlTY1JoR2VWcGtTMmdEZTZ4R2RCUldleE1uTVU5a2NYQjNadFpuZXJWVVk1Um1OeDRXYTNWbmNDeDJkMk0wYkZSamNQeFVRdFIxS05wR2NDbFhjMmx6VEdWM2RKQjFObmhIUnVWVlA=
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Kids",POGO (2)
 http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Kids",POGO (3)
+http://103.153.39.34:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2020/11/gubbare.jpg" group-title="Kids",Gubbare TV
 https://d2061ne4i4l8ek.cloudfront.net/GUBBARE.m3u8
