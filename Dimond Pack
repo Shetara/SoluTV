@@ -64,7 +64,8 @@ http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2ha
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",BAN vs AUS
 http://?MmRrV3lFVU5ZdFdURlpWYmg5U2N6MFdaSVJIWnZaWFJscEZVb1ozYjVrR2RuaFVhd2sxY2haamE0NUdNMzVVUU41V01XcDJOYVp6ZDBzQ04wTWpjemhIY1Voa1pxQkhSSHgyY0hsVWIyUkVaM1VGVTVaVlF2MEdUUmhuVVVkV2N5bDNhV0JqY2pSbmIwRkZaS1owWlNkbWVRMVVSbmxHYkhOemFyUVRQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",BAN vs AUS
-https://fancodealive1-a.akamaihd.net/d91768f4d7e047f9a53c680602fc51f5/ap-south-1/6008340455001/playlist_dvr.m3u8?hdnea=exp=1628020102~acl=*~id=116502193_MbD_RBZ2ovlvdPQV~data=116502193~hmac=9e5ea398da9f3070fd5abb619884f4aeef19a869fa83f2051674be920798aedc&deviceId=Linux%20armv8l
+https://live-jadoo-banani.bioscopelive.com/hls/anonymous/WFLb7OTzDmFRMcek6nzYmA/1628333444/external-sports_mid/index.m3u8
+#https://fancodealive1-a.akamaihd.net/d91768f4d7e047f9a53c680602fc51f5/ap-south-1/6008340455001/playlist_dvr.m3u8?hdnea=exp=1628020102~acl=*~id=116502193_MbD_RBZ2ovlvdPQV~data=116502193~hmac=9e5ea398da9f3070fd5abb619884f4aeef19a869fa83f2051674be920798aedc&deviceId=Linux%20armv8l
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Official Streaming",NASA TV 
