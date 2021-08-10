@@ -1616,7 +1616,7 @@ http://185.180.221.194:8278/streams/d/Zeenews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/n1o2xVgQ_z_living.png" group-title="IND हिंदी",Zee Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-
+#https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="https://content3.jdmagicbox.com/comp/navi-mumbai/v1/022pxx22.xx22.130904121133.y3v1/catalogue/cinema-tv-rabale-navi-mumbai-satellite-channels-puloe2a4mr-250.jpg",Cinema TV
 
@@ -2579,7 +2579,7 @@ http://?PXNHZG9WRmNtRlhjdGhGTlZaemNwUkRObU5WYUVsV1phZFVUdWRUZUtaVFMxTWtNdlozTW9C
 https://catchup.yuppcdn.net/amazonv2/20/preview/zeetamil/master/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/uploads/2018/12/Zee-Channel-Logo_Zee-Keralam-HD_280-X-200.jpg" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Zee Keralam HD
-https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zkeralamhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Colors Tamil (1)
 http://?PVlIZG9WRmNtRkhjdGhGTlZaemMwUkRObU5WYUU1V1phZFVUdWR6Y0taVFMxTWtNeVozTW9CWFdtdEdOS1IwYjYxa2JSZG5OcFYyVTNsRlJ1QjNheHgyYTFJM1VYMW1id056WXVObGM0SmxWME1FY0h0bVpqSlhUdEZHY0c1a1FTUlhPdXBuV1A5aVpqdEdSeTFrVXB0R2VHWlhRaUYzTHBGek1hZG5US2RIU2laelVqMTJjSWQwYU5kRWFvQjNiUFJUY0Q5V05qbFRXWXBVZDRvVldYZEdjeEJ6UzVoVVFCdDJVUVZWTTRCVGNpVkdidkltWnQxa1FINVVUYXQyUVRSM2JTQlZhSDFrYVlaWFp1bFZXdkprV1dOM1JuMW1RNVpqYVdsbFUzUm1jNk5XZHpvWFF4a25TclFUT0VKMmMxZFZjMHNtVnl0eVl4czJkSXBHTmhoMVl6Tm5kNDlVT0RwVloyQjFNMmhHYUpoblVHVlRZeTFFZDBjbFJtTlZOcXAzZHJJalltVkhjczUwTWpsMWJ0Sm1VdmR6WXFGVk4wUlVVVmxXWW5abGV5a1dlMzhrTXlNWGVuWjFVeFFYV3hRbllMSjJaNU1HYXJRMUx2WUdOeUprWVlkWFdvdFdURDFHVHdRVmF5TlZka05sVXpKMlJFRm5OUDltZVA5R1NSMTJhd0l6YVk5V1VzdGljWlprUURoWFVyNGtOUVoxY3RkRk4zZG1TMHRtV3prbE1sRlhZVnBWUklWamR5VWpNWVpXYzVabVF0VkVNRGQzUXFOV2NyRWpjbmhFTm9aa2NvdDBNMndtTk5kWFpyWjFiSTlrYXR0MlFqQjNTcmgxVEZORWI2cEdkcWRqVG9ORGVIaDJVNGREYTROV1A=
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Colors Tamil (2)
@@ -2762,9 +2762,9 @@ http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Amrita_TV.svg/1200px-Amrita_TV.svg.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Amrita TV
-#https://load.airtelxstream.in/amritatv/smil:common.smil/chunklist_b364000_sleng.m3u8
+https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2008/07/Kairali-We-Tv-Logo.jpg" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Kairali We 
-#https://load.airtelxstream.in/kairaliwe/smil:common.smil/chunklist_b896000_sleng.m3u8
+https://idvd.multitvsolution.com/idvo/kairaliarabia.m3u8
 #EXTINF:-1 tvg-logo="https://ubltv.ae/images/logo/logo.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",UBL TV
 https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 #EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/comp/kozhikode/q1/0495px495.x495.120822153602.s4q1/catalogue/darshana-tv-eranhipalam-kozhikode-satellite-channels-1mt61b3j6q.jpg?clr=#09335d" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Darshana TV
@@ -3055,7 +3055,7 @@ http://103.205.133.21/hls/chss1.m3u8
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" group-title="Sports",Star Sports 1 Hindi (3)
 http://?cngwY29kVVY0SVhWRVpFT0paSGNQaDNZTkpuYzFKelZQOVdiRmRIYTFOa2RzUlVhNGhWT3pwbWJ4UlVhMzAwS0RobVRUdGlSM00zYzRwblRVUkRkenAwYzB4Mk5URm5XR0JGTlhSM2J5WmtkeFVuYXdGbWV5UUVUMWwzVEhabmNyWjJjTU4yYXZGekx0RkZkQ1pHZVlSM1kzOEdlUVpIZVNGbVp5QlRQ
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" group-title="Sports",Star Sports 1 Hindi (4)
-http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/2813.m3u8
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" group-title="Sports",Star Sports 1 Hindi (5)
 http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_1_HINDI_HD/tracks-v1a1/mono.m3u8
 
