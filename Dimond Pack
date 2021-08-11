@@ -2028,7 +2028,7 @@ https://viacom-b.multitvsolution.com/viacomhls/suryacinema.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8?Live-TV™
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/HousefullMoviesLogo.jpg" group-title="IND हिंदी",Housefull Movies
-https://idvd.multitvsolution.com/idvo/housefullmovies.m3u8
+https://itvoign.multitvsolution.com//idvo/housefullmovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/amp_metadata_content_image_min_696px_wide/public/images/story/2011/12/01/UTV.jpg?itok=NVaX2Q5V" group-title="IND हिंदी",Utv Action (1)
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
@@ -2036,7 +2036,6 @@ http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 http://103.81.104.118/hls/stream7.m3u8
 #http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/amp_metadata_content_image_min_696px_wide/public/images/story/2011/12/01/UTV.jpg?itok=NVaX2Q5V" group-title="IND हिंदी",Utv Action (3)
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634765
 #http://hitectv.live/hls/stream7.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2F20160517212023858398_20110425021810_UTV_bindass_whatIM_460.gif&h=630&w=1200&q=75&v=20170226&c=1" group-title="IND हिंदी",Utv Bindass
@@ -2117,8 +2116,11 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="IND हिंदी",Manoranjan Tv
 https://idvd.multitvsolution.com/idvo/manoranjantv.m3u8
 
-#EXTINF:-1 tvg-logo="https://ihut.live/wp-content/uploads/2020/03/Monoronjon-Movies-768x456.jpg" group-title="IND हिंदी",Manoranjan Movie 
+#EXTINF:-1 tvg-logo="https://ihut.live/wp-content/uploads/2020/03/Monoronjon-Movies-768x456.jpg" group-title="IND हिंदी",Manoranjan Movie (1)
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?Live-TV™
+#EXTINF:-1 tvg-logo="https://ihut.live/wp-content/uploads/2020/03/Monoronjon-Movies-768x456.jpg" group-title="IND हिंदी",Manoranjan Movie (2)
+https://idvd.multitvsolution.com/idvo/manoranjanmovies.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/display_665x429/public/images/story/2013/05/17/care1.jpg?itok=seCVjHsw" group-title="IND हिंदी",Care World
 http://103.204.164.136:1935/live/smil:careworld.smil/playlist.m3u8?Live-TV™
@@ -3061,7 +3063,8 @@ http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_1_HINDI_HD/tracks-v1a1/mono.m
 
 
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2019/03/SS-Bangla-Logo_6.jpg&w=620&h=350&zc=1&q=100" group-title="Sports",Star Sports 1 Bangla
-http://103.157.237.18:8000/play/601
+https://sitechnologyltd.xyz/Star_Sports_1_Bangla.m3u8
+#http://103.157.237.18:8000/play/601
 
 
 #EXTINF:-1 tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 (1)
@@ -3269,16 +3272,28 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:0 tvg-logo="" tvg-ID="" group-title="Sports",TRUE SPORT 7
 
 
-#EXTINF:-1o="" group-title="Sports",BT Sports 1
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg" group-title="Sports",BT Sports 1
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg" group-title="Sports",BT Sports 1
+http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg" group-title="Sports",BT Sports 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
-#EXTINF:-1o="" group-title="Sports",BT Sports 2
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="Sports",BT Sports 2
 https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="Sports",BT Sports 2
+http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg" group-title="Sports",BT Sports 2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
-#EXTINF:-1o="" group-title="Sports",BT Sports 3
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg" group-title="Sports",BT Sports 3
 http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg" group-title="Sports",BT Sports 3
+http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg" group-title="Sports",BT Sports 3
+http://77.83.117.60:8888/02_BTSPORTHD_3_720p/chunklist.m3u8
 
-#EXTINF:-1o="" group-title="Sports",BT Sports ESPN
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports ESPN
 http://160.119.77.116:8081/iptv/uk-espn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORT EXTRA (1)
@@ -3321,27 +3336,27 @@ http://31.220.41.88:8081/live/bein12.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="Sports",Bein Sports 1 HD
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="Sports",Bein Sports 2 HD
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="Sports",Bein Sports 3 HD
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/bein3.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="Sports",Bein Sports 4 HD
-https://b.pscdn.live/hls/bein-sports-4.m3u8
+http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="Sports",Bein Sports 5 HD
-http://103.251.247.105:3001/aostv/5f8b15340e5d270364c65b6e/aos.m3u8|tokenUrl:/4_4
+http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4RSKRsZ/HD6.png" group-title="Sports",Bein Sports 6 HD
-http://103.251.247.105:3001/aostv/5f8b15710e5d270364c65b70/aos.m3u8|tokenUrl:/4_4
+http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYfQFGh/HD7.png" group-title="Sports",Bein Sports 7 HD
-http://103.251.247.105:3001/aostv/5f8b16270e5d270364c65b72/aos.m3u8|tokenUrl:/4_4
+http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YXC7Wgy/HD8.png" group-title="Sports",Bein Sports 8 HD
-http://103.251.247.105:3001/aostv/5f8b16670e5d270364c65b74/aos.m3u8|tokenUrl:/4_4
+http://stream.tvtap.live:8081/live/bein8.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zX4TC60/HD9.png" group-title="Sports",Bein Sports 9 HD
-http://103.251.247.105:3001/aostv/5f8b16b00e5d270364c65b76/aos.m3u8|tokenUrl:/4_4
+http://stream.tvtap.live:8081/live/bein9.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T8Gw0JT/HD10.png" group-title="Sports",Bein Sports 10 HD
-http://103.251.247.105:3001/aostv/5f8b16ec0e5d270364c65b78/aos.m3u8|tokenUrl:/4_4
+http://stream.tvtap.live:8081/live/bein10.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pPktm5R8tTQ/WpKWWzdKisI/AAAAAAAACM0/erJcZTuy4VMhDeNkravjGSk9UzdiPeZGgCLcBGAs/s1600/dz%2Bprokora%2Bkooora%2Bkora%2Byallashoot_11-HD.png" group-title="Sports",Bein Sports 11 HD
-http://103.251.247.105:3001/aostv/5f8c83a40e5d270364c65b7f/aos.m3u8|tokenUrl:/4_4
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://1.bp.blogspot.com/-tex37P2mfps/WpKTtGSVQvI/AAAAAAAACMY/xRNKA-EvhoYMCGYSjqySnJU-5tVZXQL7wCLcBGAs/w320/dz%2Bprokora%2Bkooora%2Bkora%2Byallashoot_12-HD.png",Bein Sports 12 HD
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.nadirsat.com/Packages_files/HD13-1.png",Bein Sports 13 HD
@@ -3403,6 +3418,13 @@ http://185.180.15.15:2200/EX/bein11hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2u
 http://185.180.15.15:2200/EX/bein12hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="BeINSports",Bein Sports 1 HD
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="BeINSports",Bein Sports 2 HD
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="BeINSports",Bein Sports 3 HD
+http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="BeINSports",BeIN Sports 1
 http://ferrarico.referrari.com/live/60091_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="BeINSports",BeIN Sports 2
@@ -3441,6 +3463,17 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vectorbn.net/wp-content/uploads/2019/08/Fox-Sports-3.jpg" group-title="Sports",FOX SPORT 3 (2)
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/tv-station-rmc-sport-1-1427.png" group-title="Sports",RMC SPORTS 1
+http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/rmc2.png" group-title="Sports",RMC SPORTS 2
+http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://servismarjanovic.com/kanali/SK1.png" group-title="Sports",SPORT KLUB 1
+http://stream.tvtap.live:8081/live/klub1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://servismarjanovic.com/kanali/SK2.png" group-title="Sports",SPORT KLUB 2
+http://stream.tvtap.live:8081/live/klub2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://servismarjanovic.com/kanali/SK3.png" group-title="Sports",SPORT KLUB 3
+http://stream.tvtap.live:8081/live/klub3.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS HD
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
