@@ -2624,7 +2624,7 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/colorstamil/master/master.m3u8
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/z/zwrypSxCAh.png",Zee Picchar
 
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/fkvGbgydOk.png",Zee Thirai
-http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/6079438879c23/6079438879c23.m3u8
+https://luckonline.eu/live/KjPypddrq4/8p1pLrAVDh/515.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-LFshxm0LCAo/WIyO8AFq_NI/AAAAAAAADP0/317sR41hbGw5qEP2eQEEY5Jdiwzp3Kx7gCLcB/s1600/1hd.png" group-title="தமிழ்+ಕನ್ನಡ+తెలుగు",Asianet HD
 
 #EXTINF:-1 group-title="தமிழ்+ಕನ್ನಡ+తెలుగు" tvg-logo="https://assets.botallen.live/images/t/TpRBzTmKyy.png",Asianet Movies
@@ -3059,7 +3059,7 @@ https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/F1D_425x243.png" group-title="Sports",Fox Cricket HD (1)
 https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/F1D_425x243.png" group-title="Sports",Fox Cricket HD (2)
-http://sonyiptv.net:8080/prasad123/00000/120192
+https://luckonline.eu/live/KjPypddrq4/8p1pLrAVDh/516.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/F1D_425x243.png" group-title="Sports",Fox Cricket HD (3)
 
 
@@ -3225,6 +3225,8 @@ http://?MXgwY29kVVY0OFdWRVpFT0pabmNQaDNZTkpuY3dKelZQOVdiRlJIYTFOa2RzUlVhNGhWT3pw
 http://jupiter.bdcabletv.com/willow_hd-sim/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (3)
 http://atc.hopto.org/Cricket-Willow-Quality/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg" group-title="Sports",Willow HD (4)
+https://luckonline.eu/live/KjPypddrq4/8p1pLrAVDh/517.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRS1KOa5Etrq8YBSpdqpSXxdsUzZtnI0JGOQ&usqp=CAU" group-title="Sports",Willow Extra (1)
 rtmp://58.200.131.2:1935/livetv/starsports
