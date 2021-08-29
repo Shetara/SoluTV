@@ -3104,6 +3104,9 @@ http://cdn.ihub.live:8080/j-sony-ten3/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2418/logo/240x240/mobile_logo_060335001610628658.png" group-title="Sports",Sony Ten 3 HD (7)
 http://173.199.120.51/hls/ten3.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Sony_Ten_4_HD.png/revision/latest/scale-to-width-down/250?cb=20210601055318" group-title="Sports",Sony Ten 4 HD
+http://www.luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/512.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2016/01/White_Vertical.png" group-title="Sports",Sony ESPN HD
 https://gma2.blab.email/espnu.m3u8 
@@ -3213,6 +3216,8 @@ http://stream.amrbd.com:8082/kn4a/index.m3u8
 http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_SELECT_1_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star S 1 Sel. (9)
 http://bd.digiiptv.net:25461/live/moznu43/PA2443/651.m3u8
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star S 1 Sel. (10)
+http://103.106.243.163:8989/star-sports-select1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (1)
@@ -3234,6 +3239,9 @@ http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_SELECT_2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (9)
 http://bd.digiiptv.net:25461/live/moznu43/PA2443/719.m3u8
+#EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star S 2 Sel. (10)
+http://103.106.243.163:8989/star-sports-select2/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDSports.in.png" group-title="Sports",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
