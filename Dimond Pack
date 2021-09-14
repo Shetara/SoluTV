@@ -70,9 +70,9 @@ http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2ha
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",BAN vs NZ
 http://?MmRrV3lFVU5ZdFdURlpWYmg5U2N6MFdaSVJIWnZaWFJscEZVb1ozYjVrR2RuaFVhd2sxY2haamE0NUdNMzVVUU41V01XcDJOYVp6ZDBzQ04wTWpjemhIY1Voa1pxQkhSSHgyY0hsVWIyUkVaM1VGVTVaVlF2MEdUUmhuVVVkV2N5bDNhV0JqY2pSbmIwRkZaS1owWlNkbWVRMVVSbmxHYkhOemFyUVRQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",BAN vs NZ
-https://sitechnologyltd.xyz/Official_Stresming/BDLive_1/ICCSports/Live_TV_Premium.m3u8
+https://sitechnologyltd.xyz/Official_Stresming/BDLive_1/ICC-Sports/Live_TV_Premium.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/1200px-International_Cricket_Council_%28logo%29.svg.png" group-title="Official Streaming",BAN vs NZ
-https://sitechnologyltd.xyz/Official_Stresming/BDLive_2/ICCSports/Live_TV_Premium.m3u8
+https://sitechnologyltd.xyz/Official_Stresming/BDLive_2/ICC-Sports/Live_TV_Premium.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Official Streaming",NASA TV 
@@ -1099,6 +1099,7 @@ http://stream.amrbd.com:8082/Jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="IND বাংলা",Jalsha Movies HD (5)
 #http://89.41.180.253:8080/INDIA_BENGALI/STAR_JALSHA_MOVIES_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="IND বাংলা",Jalsha Movies HD (6)
+http://jupiter.bdcabletv.com/JalshaMovies/index.m3u8
 
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav (1)
@@ -3201,7 +3202,7 @@ http://103.84.253.5:80/live/fastfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112" group-title="Sports",Star Sports 3 (2)
 http://?MngwY29kVVY0RVhWRVpFT0paM2RQaDNZTkpuY3lKelZQOVdiRkZIYTFOa2RzUjBaNGhWT3pwbWI1UlVhMzAwS0RKblRUdGlSM01YZTRwblRVUkRkdHAwYzB4Mk5UVm5XR0JGTkp0U2RwUlhSUFZqVDAxMll5Um1OeUozVFVoVWNyZGphSU5ITTFnRmFwbGtORXQwUXJwWFNUVkVkTXRFZW1WWFI1UVRQ
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112" group-title="Sports",Star Sports 3 (3)
-http://stariptv.xyz:8880/661562/505844/179353
+http://51.159.19.36:80/pkind-Sports:StarSportstamil1/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a6/38/33/a6383306c863e1987a7636a90154b2c1.jpg" group-title="Sports",Star Sports 4
