@@ -18,7 +18,6 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #http://161.97.162.167:1936/live/watannews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 3 )
 #http://175.41.46.16:8081/hls/4.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 1 )
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 2 )
@@ -2132,7 +2131,8 @@ http://103.81.104.118/hls/utv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/utv-hd-logo-300x300.jpg" group-title="IND हिंदी",UTV HD (1)
-http://89.41.180.253:8080/INDIA_HINDI/UTV_HD/tracks-v1a1/mono.m3u8
+http://143.244.60.10/HINDI__UTV_HD/index.m3u8?token=test
+#http://89.41.180.253:8080/INDIA_HINDI/UTV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/utv-hd-logo-300x300.jpg" group-title="IND हिंदी",UTV HD (2)
 http://85.203.33.88/live/xIJYJ5P6113/Z80Gk09755/6236.m3u8
 
@@ -2141,7 +2141,7 @@ http://85.203.33.88/live/xIJYJ5P6113/Z80Gk09755/6236.m3u8
 http://81.196.0.126/utvedge/utvlivehls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/dth-images/2015/11/10/Untitled-2.jpg" group-title="IND हिंदी",Miniplex HD (1)
-https://cutt.ly/RnExQGm
+http://143.244.60.10/HINDI__MINIPLEX_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/dth-images/2015/11/10/Untitled-2.jpg" group-title="IND हिंदी",Miniplex HD (2)
 
 
@@ -2371,30 +2371,34 @@ https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist
 
 
 
-#EXTINF: -1 tvg-logo="https://assets.rstream.me/images/t/VLDDFKbKCC.png" group-title="ଓଡ଼ିଆ",Zee Sarthak
+#EXTINF: -1 tvg-logo="https://assets.rstream.me/images/t/VLDDFKbKCC.png" group-title="ଓଡ଼ିଆ",ସାର୍ଥକ ଟିଭି
 http://?dFZIVG9Kak5qOVdlUzlpTTNsRGU0NVdSM0FUVG5sbmJtQnpWeHhHTll0MGNDTjFhMFpsUjB3bWF5SldNeXBsYXV4bWMxbFZiVlZsZXFSRFR3dFdPcTVVUjRWR2JHNUdiczkwWTQwbWNoNVVjeEpGUnBwWFIwY2tNd1ZYZTFFVVpEcDJaV2xWTnVGbVp1WjFWd3gwYkx0R1JoVkRVaGxWZTFabFFZTm1ZekJIU1lSMGFRNVdiSmhXTkdwRmJ5aDBkV1oxTjU5aVZGcDBTb2xtYWt4a2J1SkdkaGhuVTBOWFdvOVNRelJUVXJjWGR6aEdaQ1pUZVRoRFo2aDNac0IxVURWMWQ0c21kNU1YUA==
 #EXTINF: -1 tvg-logo="https://villamart.in/images/Zee_Odisha.jpg" group-title="ଓଡ଼ିଆ",Zee Odia
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6663/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Colors_Odia.jpg" group-title="ଓଡ଼ିଆ",Colors Oriya 
+http://flusjav.xyz/IND_COLORSORIYA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJw3_xqyR7EWuIdTi4_YH3CThaaN1tsYeTmJhnQW=s900-c-k-c0x00ffffff-no-rj" group-title="ଓଡ଼ିଆ",Prag News
 #https://load.airtelxstream.in/pragnews/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11366-j9jpvkw0-v1/imageContent-11366-j9jpvkw0-m1.png" group-title="ଓଡ଼ିଆ",DD Odia
 https://idvd.multitvsolution.com/idvo/ddodia.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyw_roXq4XySiDUSelWTyx1K_WYJdvY5L3hm5Hweg=s900-c-k-c0xffffffff-no-rj-mo" group-title="ଓଡ଼ିଆ",MBC TV
 #https://load.airtelxstream.in/mbctv/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TARANG_TV.jpg" group-title="ଓଡ଼ିଆ",Tarang TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TARANG_TV.jpg" group-title="ଓଡ଼ିଆ",ତରଙ୍ଗ ଟିଭି
 https://cdn.smartstream.video/smartstream-us/tarangtvmbr/tarangtvmbr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8K5BJTjvRnB-iO4teJ9aGLLf6IAk3wHkZnQcXuY_UqsfiycSLMDDCdAuluyZag2pYHRA&usqp=CAU" group-title="ଓଡ଼ିଆ",Tarang Music
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8K5BJTjvRnB-iO4teJ9aGLLf6IAk3wHkZnQcXuY_UqsfiycSLMDDCdAuluyZag2pYHRA&usqp=CAU" group-title="ଓଡ଼ିଆ",ତରଙ୍ଗ Music
 https://cdn.smartstream.video/smartstream-us/tarangmusicmbr/tarangmusicmbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.livetvmesh.com/wp-content/uploads/2018/11/Naxatra-News.png" group-title="ଓଡ଼ିଆ",Naxatra News
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
-#EXTINF:-1 tvg-logo="http://kanaknews.com/wp-content/uploads/2018/12/K-LOGO-SMALL-1.png" group-title="ଓଡ଼ିଆ",Kanak News
+#EXTINF:-1 tvg-logo="http://kanaknews.com/wp-content/uploads/2018/12/K-LOGO-SMALL-1.png" group-title="ଓଡ଼ିଆ",କନକ ନ୍ୟୁଜ୍
 #https://load.airtelxstream.in/kanaknews/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://ghaintnet.akamaized.net/GhaintPunjab/otv-ghaintpunjab.jpg" group-title="ଓଡ଼ିଆ",OTV 
+#EXTINF:-1 tvg-logo="https://ghaintnet.akamaized.net/GhaintPunjab/otv-ghaintpunjab.jpg" group-title="ଓଡ଼ିଆ",ଓ-ଟିଭି
 https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnii-HD3lEqOkLxbjQn2qfDELoOjAxS5FEjvPIYR=s900-c-k-c0x00ffffff-no-rj" group-title="ଓଡ଼ିଆ",Alanker TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnii-HD3lEqOkLxbjQn2qfDELoOjAxS5FEjvPIYR=s900-c-k-c0x00ffffff-no-rj" group-title="ଓଡ଼ିଆ",ଅଳଙ୍କାର
 https://cdn.smartstream.video/smartstream-us/alankartvmbr/alankartvmbr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Nandighosha_TV.jpeg/revision/latest/scale-to-width-down/250?cb=20200108064908" group-title="ଓଡ଼ିଆ",Nandighosha TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Nandighosha_TV.jpeg/revision/latest/scale-to-width-down/250?cb=20200108064908" group-title="ଓଡ଼ିଆ",ନନ୍ଦିଘୋଷ ଟିଭି
 https://live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prathana_TV.png" group-title="ଓଡ଼ିଆ",ପ୍ରାର୍ଥନା
+https://cdn.smartstream.video/smartstream-us/prarthanaodiambr/prarthanaodiambr.smil/playlist.m3u8
 
 
 
