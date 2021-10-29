@@ -22,6 +22,22 @@ https://sitechnologyltd.xyz/Official_Stresming/BDLive_1/ICC-Sports_2021/Live_TV_
 https://sitechnologyltd.xyz/Official_Stresming/BDLive_2/ICC-Sports_2021/Live_TV_Premium.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NEmNRWv.png" group-title="Official Streaming",T20 WC 2021
 https://sitechnologyltd.xyz/Official_Stresming/BDLive_3/ICC-Sports_2021/Live_TV_Premium.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NEmNRWv.png" group-title="Official Streaming",T20 WC 2021
+
+https://sitechnologyltd.xyz/Official_Stresming/BDLive_1/ICC-Sports/Live_TV_Premium.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NEmNRWv.png" group-title="Official Streaming",T20 WC 2021
+
+https://sitechnologyltd.xyz/Official_Stresming/BDLive_2/ICC-Sports/Live_TV_Premium.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NEmNRWv.png" group-title="Official Streaming",T20 WC 2021
+
+http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NEmNRWv.png" group-title="Official Streaming",T20 WC 2021
+
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv
