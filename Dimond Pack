@@ -41,13 +41,15 @@ https://sitechnologyltd.xyz/Official_Stresming/BDLive_1/ICC-Sports/Live_TV_Premi
 https://sitechnologyltd.xyz/Official_Stresming/BDLive_2/ICC-Sports/Live_TV_Premium.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 3 )
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 4 )
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 1 )
-
+https://localiptv.tk/Local_IPTV_PLAYLIST/Indian_Super_League_LIVE_5.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 2 )
-
+https://localiptv.tk/Local_IPTV_PLAYLIST/Indian_Super_League_LIVE_3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 3 )
-
+https://localiptv.tk/Local_IPTV_PLAYLIST/Indian_Super_League_LIVE_4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 4 )
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 5 )
@@ -316,13 +318,13 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="বাংলাদেশ",MOHONA TV (1)
 http://?dGwzVTFJRFRwNW1acmhGYXlWeloyRWpTblpUY3BCbmUwRm1NWWRXZDBNMVF6a1ZhMHgwZFJOM1FuVlZjYVYyYVRWSFY0VURheFUyWlNsSE80WWtVNUoyYVBwVmFUNUdUT0prUQ==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="বাংলাদেশ",MOHONA TV (2)
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="বাংলাদেশ",MOHONA TV (3)
 http://103.205.133.40/hls/mohonatv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="বাংলাদেশ",MOHONA TV (4)
 http://?M2wzVTFJRFRwcG1acmhGYXlWRGUyRWpTblpUYzJCbmUwZFZhelUzVDE1a1Z4VjJjQ1owVHVkelk2NTJOeVlUWTFVM1lLdEVVcXRFY0NkamMwazBRdmRUTm41VWV0bFhXUUJYVVl0U2FpSkZTc3BWY3JSa2F3QmpNMTBXUUpoa2FrWjFkRzVrU0VKbWJ1Rkhka2gwVVNwWE8zRjNNaVJUY0k5a2I0c1NheDkyUnZOR2JuNVdOSFpqZUhCRGJpSmpla1JYVHQxV1pZOWlNeG9uZFBGR2I0RkVlRVoyY3JnVGVzUlRRdTVXWmpGbmUxSTBjUmgzYTFrM1MxaDBSdEZEY3dSbmNxRm5leUJUUA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="বাংলাদেশ",MOHONA TV (5)
-http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/playlist.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="বাংলাদেশ",MOHONA TV (6)
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="বাংলাদেশ",MOHONA TV (7)
@@ -330,7 +332,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/play
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (1)
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mass.stream/live-orgin/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (2)
 http://163.172.29.246:8081/globalbd/maasranga/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (3)
@@ -342,13 +344,12 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (6)
 http://?PT1BY3pNalJ2dzJiNTEyWTRkRFJ5cFhlRjlTYVBWbmFIWkVOWGRsU3RaR1IzVmtacmRIUkxGVFpzSkZieE1UWnpSR000NTJZSXAyTFZ4bWF1bDNadjlVYmFsME1yUTBUcVJUVG5kemNzMTJMdk5YYnJGemNQOW1kVWhUVzB0MFJWbGxUdEpYUzMxVFA=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="বাংলাদেশ",MAASRANGA TV HD (7)
-https://tv.bdtv.xyz:2096/live/maasranga/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="বাংলাদেশ",CHANNEL 9 HD (1)
-http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="বাংলাদেশ",CHANNEL 9 HD (2)
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="বাংলাদেশ",CHANNEL 9 HD (3)
 http://163.172.29.246:8081/globalbd/channel9/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="বাংলাদেশ",CHANNEL 9 HD (4)
@@ -371,7 +372,7 @@ https://piratesiptv.shortcm.li/gazi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (3)
 http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (4)
-http://10.16.100.203:8082/bangla/gtv.m3u8
+https://liv-usa.sonyplex.net/ott/gtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (5)
 http://cdn.ihub.live:8080/j-GTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (6)
@@ -383,12 +384,11 @@ http://cdn.naturalbd.com:8083/j-GTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (9)
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (10)
-https://tv.bdtv.xyz:2096/live/gazitv/playlist.m3u8
-#http://103.106.243.163:8181//1/index.m3u8
+http://103.81.104.118/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (11)
 http://?dngwY29kVVY0b1hWRVpFT0pabmRQaDNZTkpuYzZKelZQOVdiRmhHYTFOa2RzUlVlNGhWT3pwbWJ3UlVhMzAwS0RkM1RHcFdUNTlFY0xoRlNsbGxOb3BHTllWbWFPOTJZSGgyUVJKMmN6ZGtZU2xsU3haMGJWMW1aNWNXYktka1FyNDBkRTlTY3BsMkx5OVdSUVIzUnZGSGFHWmtiRkZtZEpSWGRzdFdQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="বাংলাদেশ",GAZI TV HD (12)
-http://103.81.104.118/hls/Gazi-TV.m3u8
+http://103.77.188.27:1935/live/gtv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (1)
@@ -396,17 +396,17 @@ http://?emwzVTFJRFRwcG1acmhGYXlWVGUyRWpTblpUY3RCbmUwTlZPUGhYV3VaMVl3UkdlSVpHVVNw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (2)
 http://?MGwzVTFJRFRwSm5acmhGYXlWemQyRWpTblpUY25CbmUwUkZXMXNtYldoblZFaFZkek56VE5abU1vUkhOR2hsZUlwMmJXOW1aeWhtYTZwVlMxd1dZeXAxTUYxa1FVOUdjMEVqUw==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (3)
-http://163.172.29.246:8081/globalbd/asian/chunks.m3u8
+http://cdn-sgp.oc.bd-cast.com/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (4)
 http://?PT1nZXpNalJ2dzJicjEyWTRkRFJ5OVdlRjlTYVBWSGJIWkVOWGRsU3laR1IzVmtaclpIUkxGVFpzSmxieE1UWnpSR012MTJhSFZUUUsxMllKTldZdFowWmFWVlFPNTJVNmxGTWlOVU0wbFdkdlFtVkJ0R2RXRjNjeXBFUzUxbVcxY0ZNdGRXYTMxVFA=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (5)
 http://?PThXZVRWak1NbFdlbXRHV29KWE5uWlRNS2RtTnhwSGM2UjNWTVZUYlhGbVlWRkVTMGhYV3ljVVJLRjNVMWMxU3FoMmRUWkhlMFUzTDZsbVJZaERacmtXV2xGbFlPNUdia2hVUmlsV2JwcDFZdk1VVWtsWE5GWjBjMFZHY3JWbFR4dEVNM1ZWUVk5MFp6RTNOaDFrZVlkelo1Z0ROeWQzSzRWV1lrbDNaUFpIVHlFbVZySjFkSEoyUXJNSGFvTlVRc2hIVVdkWE54VTNRV0ZIZDNFMlJySnpOdkpFYm5ka1FKOUdXT0ZYTTVJa2VrOUNid2xuVXIxMkx3dEdNSHgyS0IxbU5rOWlhd016WXlwbFMxdDBaMWNtWmhoM1VGZGpkdDEyYzFjRk9uWkVa
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="বাংলাদেশ",ASIAN TV HD (6)
-
+http://163.172.29.246:8081/globalbd/asian/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJya3Itl56_Eny_qUJyNvZ5HhKaLuYZMVmTeYEl5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",SA TV HD (1)
-http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/playlist.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJya3Itl56_Eny_qUJyNvZ5HhKaLuYZMVmTeYEl5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",SA TV HD (2)
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJya3Itl56_Eny_qUJyNvZ5HhKaLuYZMVmTeYEl5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",SA TV HD (3)
@@ -421,10 +421,11 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJya3Itl56_Eny_qUJyNvZ5HhKaLuYZMVmTeYEl5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="বাংলাদেশ",SA TV HD (8)
 
+
 #EXTINF:-1 tvg-logo="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2020/04/17/deepto_tv_logo.jpg?itok=UV9LPjcP" group-title="বাংলাদেশ",DEEPTO TV HD (1)
-http://103.205.133.40/hls/deeptotv.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2020/04/17/deepto_tv_logo.jpg?itok=UV9LPjcP" group-title="বাংলাদেশ",DEEPTO TV HD (2)
-https://tv.bdtv.xyz:2096/live/deeptotv/playlist.m3u8
+http://103.205.133.40/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2020/04/17/deepto_tv_logo.jpg?itok=UV9LPjcP" group-title="বাংলাদেশ",DEEPTO TV HD (3)
 http://103.132.180.245:8080/6/index.m3u8
 #EXTINF:-1 tvg-logo="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2020/04/17/deepto_tv_logo.jpg?itok=UV9LPjcP" group-title="বাংলাদেশ",DEEPTO TV HD (4)
@@ -436,11 +437,11 @@ http://?PT1BYXpNalJ2dzJiNTEyWTRkRFJ5dFdlRjlTYVBWM2FIWkVOWGRsUzVaR1IzVmtacmhHUkxG
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/375/logo/115x115/mobile_logo_623309001563772673.png" group-title="বাংলাদেশ",BANGLA TV HD (1)
 http://?b2RrV3lFVU5ZaFdURlpWYmg5aWF6MFdaSVJIWjVaWFJscEZVb3AyYjVrR2RuaEVld2sxY2haamF3NUdNMzVVUU5SM01TRkdVbHBWZDVnVE14eFVONmQyYTBwRmJ0ZDNkckpYU0Y5VWQ1YzNiVVIxZHdwM1FsdENVR0JIY1RGa1p6d0VheWRWVzZCRFY0aDFLUlpqY0tGSFUwWkhNazEyYTFWblY0RlVQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/375/logo/115x115/mobile_logo_623309001563772673.png" group-title="বাংলাদেশ",BANGLA TV HD (2)
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/375/logo/115x115/mobile_logo_623309001563772673.png" group-title="বাংলাদেশ",BANGLA TV HD (3)
 http://103.205.133.40/hls/banglatv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/375/logo/115x115/mobile_logo_623309001563772673.png" group-title="বাংলাদেশ",BANGLA TV HD (4)
-http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/playlist.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/375/logo/115x115/mobile_logo_623309001563772673.png" group-title="বাংলাদেশ",BANGLA TV HD (5)
 http://173.199.120.51/hls/banglatv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/375/logo/115x115/mobile_logo_623309001563772673.png" group-title="বাংলাদেশ",BANGLA TV HD (6)
@@ -456,13 +457,13 @@ http://103.205.133.40/hls/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmHCjkpW8shE2O9bd61f4RgIITVyhcnvyqcg&usqp=CAU" group-title="বাংলাদেশ",NAGORIK TV HD (3)
 http://173.199.120.51/hls/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmHCjkpW8shE2O9bd61f4RgIITVyhcnvyqcg&usqp=CAU" group-title="বাংলাদেশ",NAGORIK TV HD (4)
-https://cdn.nowhdtime.com.bd/NagorikTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmHCjkpW8shE2O9bd61f4RgIITVyhcnvyqcg&usqp=CAU" group-title="বাংলাদেশ",NAGORIK TV HD (5)
-https://tv.bdtv.xyz:2096/live/nagorik/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmHCjkpW8shE2O9bd61f4RgIITVyhcnvyqcg&usqp=CAU" group-title="বাংলাদেশ",NAGORIK TV HD (6)
-http://jupiter.bdcabletv.com/NagorikTVHD-IRD/video.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmHCjkpW8shE2O9bd61f4RgIITVyhcnvyqcg&usqp=CAU" group-title="বাংলাদেশ",NAGORIK TV HD (7)
 http://?PT1nZXpNalJ2dzJidDEyWTRkRFJ5eFdlRjlTYVBWSGFIWkVOWGRsUzVaR1IzVmtacmhHUkxGVFpzSkZjeE1UWnpSR01zdDJWU1ZHTTVoV2JPMTBTQlZEY3JCemFDTjNaekZtYTRRVmRWZFdibFZEYTY1V2NHcDNha3hVWncxMFQ0OUVObGRYUTMxVFA=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmHCjkpW8shE2O9bd61f4RgIITVyhcnvyqcg&usqp=CAU" group-title="বাংলাদেশ",NAGORIK TV HD (5)
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmHCjkpW8shE2O9bd61f4RgIITVyhcnvyqcg&usqp=CAU" group-title="বাংলাদেশ",NAGORIK TV HD (6)
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmHCjkpW8shE2O9bd61f4RgIITVyhcnvyqcg&usqp=CAU" group-title="বাংলাদেশ",NAGORIK TV HD (7)
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmHCjkpW8shE2O9bd61f4RgIITVyhcnvyqcg&usqp=CAU" group-title="বাংলাদেশ",NAGORIK TV HD (8)
 
 
@@ -470,7 +471,7 @@ http://?PT1nZXpNalJ2dzJidDEyWTRkRFJ5eFdlRjlTYVBWSGFIWkVOWGRsUzVaR1IzVmtacmhHUkxG
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="বাংলাদেশ",ATN NEWS (1)
 http://?cmwzVTFJRFRweG1acmhGYXlWVGEyRWpTblpUYzFCbmUwUjFSRWgyYkNaRlZ2ZzJaWTFXUVlSVFM2ZFhZWkJEY3pkWE1TMW1ST05UZTJ0eWNtVmpRdFoyYnNwVk4xczJTMHRFTw==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="বাংলাদেশ",ATN NEWS (2)
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="বাংলাদেশ",ATN NEWS (3)
 http://103.205.133.40/hls/atnnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="বাংলাদেশ",ATN NEWS (4)
@@ -478,7 +479,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="বাংলাদেশ",ATN NEWS (5)
 http://?NmwzVTFJRFRwMW1acmhGYXlWemMyRWpTblpUYzNCbmUwWm1VbUJYYVlkWGN1bERicklUWTBoM2J2TmpXa0ZXY3o4MmJoWlRPRGQzY2FkMlREeDBReFJGV3dvWFV4azNTSDlXVm5sV2FSWlVTMTQwTHNaMUxEaFVSeU1uV29WVFFRZGpia3BHUlVGVk9zTmpXMHBIVTQ5V01HZEdWVHAxYlloRFJyWTFhb05FV3JaV1VGOTJTd056UXlVbmVPZEdWVVZuZTE5V00wTUhSWTFHY2toSFVGcFZieVJtYlk5R1d4QnpRVlZFZHl4V014bHpMUFpHZEMxa1YzZHpiNEYzUXExV1kzQTNTV0ZWUA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="বাংলাদেশ",ATN NEWS (6)
-https://khulnalive.anytv.live/atnnews/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="বাংলাদেশ",ATN NEWS (7)
 http://173.199.120.51/hls/atnnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="বাংলাদেশ",ATN NEWS (8)
@@ -489,7 +490,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/40/logo/115x115/mobile_logo_843792001561970789.png" group-title="বাংলাদেশ",INDEPENDENT TV (1)
 http://?cGRrV3lFVU5ZZFhURlpWYmg5U2F6MFdaSVJIWnlaWFJscEZVb2QyYjVrR2RuaGtid2sxY2haamF3NUdNMzVVUU5Obk0xSlZPMHNFYUR0MmJvcFhWMmRGT3dvWGF6WVhSeDEyS3JVRGR3a1RZdHAzTDJaV1pSbG1hd3hXTzJGVVJNaGxhcmdFZVpOWFJxUnpaRUJuTXhsbmEzbFdRMmNuYzBrVGRzVlVQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/40/logo/115x115/mobile_logo_843792001561970789.png" group-title="বাংলাদেশ",INDEPENDENT TV (2)
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/40/logo/115x115/mobile_logo_843792001561970789.png" group-title="বাংলাদেশ",INDEPENDENT TV (3)
 http://103.205.133.40/hls/independent.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/40/logo/115x115/mobile_logo_843792001561970789.png" group-title="বাংলাদেশ",INDEPENDENT TV (4)
@@ -508,11 +509,11 @@ http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/playlist.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/65/logo/115x115/mobile_logo_492797001483519440.png" group-title="বাংলাদেশ",SOMOY TV (1)
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8?Live-TV™
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/65/logo/115x115/mobile_logo_492797001483519440.png" group-title="বাংলাদেশ",SOMOY TV (2)
 http://?cGRrV3lFVU5ZOVdURlpWYmg5eWF6MFdaSVJIWjNaWFJscEZVb1YzYjVrR2RuaEVkd2sxY2haamF0NUdNMzVVUU5sSE1SbDFUamwwWlU5VVNTTmpZMjFHT3FkVFJ3aEdSd0FuVnRoVmN3a1RUVkYzVjVKVE1LTlZacmwzYzZ0VWNWWjFaeVVHZDNSME54aGtlNXhFVlE1V2JpUlZNUGxVZHR0VWR1MVVQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/65/logo/115x115/mobile_logo_492797001483519440.png" group-title="বাংলাদেশ",SOMOY TV (3)
-http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/playlist.m3u8
+https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/65/logo/115x115/mobile_logo_492797001483519440.png" group-title="বাংলাদেশ",SOMOY TV (4)
 https://khulnalive.anytv.live/somoy/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/65/logo/115x115/mobile_logo_492797001483519440.png" group-title="বাংলাদেশ",SOMOY TV (5)
@@ -520,27 +521,27 @@ http://103.205.133.40/hls/somoy.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/65/logo/115x115/mobile_logo_492797001483519440.png" group-title="বাংলাদেশ",SOMOY TV (6)
 http://173.199.120.51/hls/somoy.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/65/logo/115x115/mobile_logo_492797001483519440.png" group-title="বাংলাদেশ",SOMOY TV (7)
-https://tv.bdtv.xyz:2096/live/somoy/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/65/logo/115x115/mobile_logo_492797001483519440.png" group-title="বাংলাদেশ",SOMOY TV (8)
 
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/52/logo/115x115/mobile_logo_634940001561971044.png" group-title="বাংলাদেশ",CHANNEL 24 (1)
-http://103.205.133.40/hls/channel24.m3u8?Live-TV™
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/52/logo/115x115/mobile_logo_634940001561971044.png" group-title="বাংলাদেশ",CHANNEL 24 (2)
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+http://103.205.133.40/hls/channel24.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/52/logo/115x115/mobile_logo_634940001561971044.png" group-title="বাংলাদেশ",CHANNEL 24 (3)
 http://?cWRrV3lFVU5ZSlhURlpWYmg5Q2N6MFdaSVJIWndaWFJscEZVb04zYjVrR2RuaFVjd2sxY2haamF3NUdNMzVVUU5kV01hSkdNSkZuZTRZSGMyY2xiM3RtTndNV1VORlhlaGhVVnpsbGRyOVdhcm9VVjVWbWNQbG5ObFZuYXY1a2NaeG1id0p6Y3VKM1RwWjJMNUVEYkdsWGV3WmxWeUFIZXZOMFV3VVZQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/52/logo/115x115/mobile_logo_634940001561971044.png" group-title="বাংলাদেশ",CHANNEL 24 (4)
 http://163.172.29.246:8081/globalbd/channel24/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/52/logo/115x115/mobile_logo_634940001561971044.png" group-title="বাংলাদেশ",CHANNEL 24 (5)
-http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/playlist.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/52/logo/115x115/mobile_logo_634940001561971044.png" group-title="বাংলাদেশ",CHANNEL 24 (6)
 http://?PT13ZHpNalJ2dzJiMDEyWTRkRFJ5UlhlRjlTYVBWM2JIWkVOWGRsUzJaR1IzVmtacnBHUkxGVFpzSjFjeE1UWnpSR01udEdaNlZrYzJsV1dOQmpOU1ptYVpORFpxcDBVb0JIVkpGVFJ2Sm5kbEpUVzBnWGRIVmpkNUVHU3NsRU01OEdXU2hYU1IxVFA=
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/52/logo/115x115/mobile_logo_634940001561971044.png" group-title="বাংলাদেশ",CHANNEL 24 (7)
 http://173.199.120.51/hls/channel24.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/52/logo/115x115/mobile_logo_634940001561971044.png" group-title="বাংলাদেশ",CHANNEL 24 (8)
-https://tv.bdtv.xyz:2096/live/channel24/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/52/logo/115x115/mobile_logo_634940001561971044.png" group-title="বাংলাদেশ",CHANNEL 24 (9)
 
 
@@ -560,7 +561,7 @@ http://?PT1RYnpNalJ2dzJidDEyWTRkRFJ5eFdlRjlTYVBWSGRIWkVOWGRsU3haR1IzVmtackpIUkxG
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/53/logo/115x115/channel_logo_902825001481299896.png" group-title="বাংলাদেশ",EKATTOR TV HD (7)
 http://?PVFYZVRWak1NbDJibXRHV29KWE52WlRNS2RtTnhOSGM2Um5WQnBYZTBjRVRTcFVPMDFHTzNBelV5VkhVeloxTDFsRGNCbDJUTXAwZHI1VU53RlhTd2tuYjQ0RVRrVm1ialpIVnlOa1l5SkRSU0oyY0RaSGVMTnpNTWhuY3ZBM1I2ZFdRb1ZYZXhZRVVacG1jUU5GYXFWbGMxVkRhcU5WZDFkR015a1dUNVpIYnNsVFVRdFNjclFGTnl4Mk5xcEZjSGRYWU5GSFJ6TVhONnBsY0tGMkt2RUVXMmxGZVk5VVFzcEhPM2hHU0lwbGV5eDJiM2tqYzR4R1d6RTJZdTVXTTBSRlR2QkRiM0kxZHhjVWEwZGxkemRWWTFzMlpPVjJkMGtUY3VaM2JvbGxj
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/53/logo/115x115/channel_logo_902825001481299896.png" group-title="বাংলাদেশ",EKATTOR TV HD (8)
-https://tv.bdtv.xyz:2096/live/ekattor/playlist.m3u8
+http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/53/logo/115x115/channel_logo_902825001481299896.png" group-title="বাংলাদেশ",EKATTOR TV HD (9)
 http://tvflix2.ddns.net/bee-global/ekattor/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/53/logo/115x115/channel_logo_902825001481299896.png" group-title="বাংলাদেশ",EKATTOR TV HD (10)
@@ -568,9 +569,9 @@ http://tvflix2.ddns.net/bee-global/ekattor/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/67/c9/5a67c9024fd15ef0d42422f76500bd41.jpg" group-title="বাংলাদেশ",JAMUNA TV (1)
-http://103.205.133.40/hls/jamunatv.m3u8
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/67/c9/5a67c9024fd15ef0d42422f76500bd41.jpg" group-title="বাংলাদেশ",JAMUNA TV (2)
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/67/c9/5a67c9024fd15ef0d42422f76500bd41.jpg" group-title="বাংলাদেশ",JAMUNA TV (3)
 http://173.199.120.51/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/67/c9/5a67c9024fd15ef0d42422f76500bd41.jpg" group-title="বাংলাদেশ",JAMUNA TV (4)
@@ -584,20 +585,20 @@ http://?PT1RZHpNalJ2dzJicDEyWTRkRFJ5cFdlRjlTYVBWM2JIWkVOWGRsU3daR1IzVmtacmxIUkxG
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/67/c9/5a67c9024fd15ef0d42422f76500bd41.jpg" group-title="বাংলাদেশ",JAMUNA TV (8)
 http://?M2wzVTFJRFRwOW1acmhGYXlWamMyRWpTblpUY3pCbmUwSkZXRWhXZHI4V094Tm5heG9YZVZwVk40VlRWNXBFY2hsWFNrQjFSTEJUYkxORFZ5Tm1OMmRuUWhOMWR4MFdUNlJuVg==
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/67/c9/5a67c9024fd15ef0d42422f76500bd41.jpg" group-title="বাংলাদেশ",JAMUNA TV (9)
-
+http://103.205.133.40/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/67/c9/5a67c9024fd15ef0d42422f76500bd41.jpg" group-title="বাংলাদেশ",JAMUNA TV (10)
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/233/logo/115x115/mobile_logo_118933001493115916.png" group-title="বাংলাদেশ",NEWS 24 HD (1)
 http://103.205.133.40/hls/news24.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/233/logo/115x115/mobile_logo_118933001493115916.png" group-title="বাংলাদেশ",NEWS 24 HD (2)
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/233/logo/115x115/mobile_logo_118933001493115916.png" group-title="বাংলাদেশ",NEWS 24 HD (3)
 http://173.199.120.51/hls/news24.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/233/logo/115x115/mobile_logo_118933001493115916.png" group-title="বাংলাদেশ",NEWS 24 HD (4)
 http://?PWNXZVRWak1NbEdhbXRHV29KWE5wWlRNS2RtTnhsR2M2UjNVT1ZUYVVwR1JyUjBUeWQzTlloM1pvMUdlbVZUWUlaVmVYQm5ZNXBHVDY5eVU1UW1NbmQyUXhaVlJXNVdha1JYWkxoV00ySlZjcDlTUWlsM1Z0VmpUcFJGYlZkWE9xTldOcUpFV1ZSRFZYZFhWQ3QwU3hSVWN3bEVTWFpuY3VGalYwWnpOb2xuYXFOMFRNUlVlV05YYTJ4bVl0cDBSNmh6WlZsbmIwSW5icFpuY3lVWFFMbHpWemhVVHNCSE9UQjNWaFpYWVZaWGNJRkhSeWgwYjR4VVMzSVVkeGhuYjRkVk12Rm5lSFZrV3g0a1F5Rm5SUjltUVZabmJYQkhNUUpEYnBsVE5NaDBS
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/233/logo/115x115/mobile_logo_118933001493115916.png" group-title="বাংলাদেশ",NEWS 24 HD (5)
-http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/playlist.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/233/logo/115x115/mobile_logo_118933001493115916.png" group-title="বাংলাদেশ",NEWS 24 HD (6)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/233/logo/115x115/mobile_logo_118933001493115916.png" group-title="বাংলাদেশ",NEWS 24 HD (7)
@@ -607,7 +608,7 @@ http://163.172.29.246:8081/globalbd/news24/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/335/logo/115x115/mobile_logo_234052001514211142.png" group-title="বাংলাদেশ",DBC NEWS HD (1)
 https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/335/logo/115x115/mobile_logo_234052001514211142.png" group-title="বাংলাদেশ",DBC NEWS HD (2)
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/335/logo/115x115/mobile_logo_234052001514211142.png" group-title="বাংলাদেশ",DBC NEWS HD (3)
 http://103.205.133.40/hls/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/335/logo/115x115/mobile_logo_234052001514211142.png" group-title="বাংলাদেশ",DBC NEWS HD (4)
@@ -615,7 +616,7 @@ http://?dWRrV3lFVU5ZRlhURlpWYmg5Q2N6MFdaSVJIWnZaWFJscEZVb3AyYjVrR2RuaFVjd2sxY2ha
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/335/logo/115x115/mobile_logo_234052001514211142.png" group-title="বাংলাদেশ",DBC NEWS HD (5)
 http://?PT1BZHpNalJ2dzJiczEyWTRkRFJ5VlhlRjlTYVBWWGVIWkVOWGRsUzBaR1IzVmtacnRHUkxGVFpzSkZheE1UWnpSR00yMW1ldFJVVDFrV1ZDZEZaMUltZU1OektzUnpSeWhIV1JKWFVRSlhWQ1ZrYWtWbmFpbDFjcnNXY3lkVlRUcGtiUFJuTW4xVFA=
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/335/logo/115x115/mobile_logo_234052001514211142.png" group-title="বাংলাদেশ",DBC NEWS HD (6)
-http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/playlist.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/335/logo/115x115/mobile_logo_234052001514211142.png" group-title="বাংলাদেশ",DBC NEWS HD (7)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/335/logo/115x115/mobile_logo_234052001514211142.png" group-title="বাংলাদেশ",DBC NEWS HD (8)
@@ -626,22 +627,23 @@ http://163.172.29.246:8081/globalbd/dbc/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://live.megaflix.tv/uploads/tv_image/duronto-tv.png" group-title="বাংলাদেশ",DURONTO TV (1)
-http://163.172.29.246:8081/globalbd/duronto/chunks.m3u8
+https://liv-usa.sonyplex.net/ott/durontotv.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.megaflix.tv/uploads/tv_image/duronto-tv.png" group-title="বাংলাদেশ",DURONTO TV (2)
 http://stream.amrbd.com:8082/Duronto_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.megaflix.tv/uploads/tv_image/duronto-tv.png" group-title="বাংলাদেশ",DURONTO TV (3)
-http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
+http://163.172.29.246:8081/globalbd/duronto/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://live.megaflix.tv/uploads/tv_image/duronto-tv.png" group-title="বাংলাদেশ",DURONTO TV (4)
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/10.m3u8
+https://shark2-3232.bd-cast.net/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.megaflix.tv/uploads/tv_image/duronto-tv.png" group-title="বাংলাদেশ",DURONTO TV (5)
 http://?PT1BY3pNalJ2dzJiNjEyWTRkRFJ5bFhlRjlTYVBWbmVIWkVOWGRsUzBaR1IzVmtaclZIUkxGVFpzSmxjeE1UWnpSR002dDJVR0ZXWXpBM01NUjNWVzVtYktOVGE0Y0ZhM3BHYWxSR1QwNW1ZbVZET1Y5VWV6SjJSTVJuY3FoR2F1eG1TM2NuWUIxVFA=
-
+#EXTINF:-1 tvg-logo="https://live.megaflix.tv/uploads/tv_image/duronto-tv.png" group-title="বাংলাদেশ",DURONTO TV (6)
+http://89.187.185.89:3232/ban-duronto/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/374/logo/115x115/mobile_logo_253544001564828972.png" group-title="বাংলাদেশ",BIJOY TV HD (1)
 http://?dmRrV3lFVU5ZZFhURlpWYmg5eWJ6MFdaSVJIWm9aWFJscEZVb2wyYjVrR2RuaDBid2sxY2haamFwNUdNMzVVUU5kR01HbG1OWlZIY0dWemJ3aG1kdVoyYXROV1d2TlhPbWxXTTFBSGVLMTJkb3BIUm9KRGN4MTBkU2RuWjBZVWFONUdidjlTYUoxa1p4VkdlNFFYV3ljM014ZEZlbUozWnRaRWJTZFdQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/374/logo/115x115/mobile_logo_253544001564828972.png" group-title="বাংলাদেশ",BIJOY TV HD (2)
-http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/playlist.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/live-orgin/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/374/logo/115x115/mobile_logo_253544001564828972.png" group-title="বাংলাদেশ",BIJOY TV HD (3)
 http://?eGwzVTFJRFRwUm5acmhGYXlWVGUyRWpTblpUY29CbmUwVkdWMVpuVWxWMmQySmtjdjBtZG9sa01zZFhRVWxWTndZWFI0czBRSWxVYVFSelNQTkVlMlozZDJRMFEydzJWMEJqWQ==
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/374/logo/115x115/mobile_logo_253544001564828972.png" group-title="বাংলাদেশ",BIJOY TV HD (4)
@@ -657,24 +659,17 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://?NmRrV3lFVU5ZcFdURlpWYmg5aWF6MFdaSVJIWjNaWFJscEZVb04zYjVrR2RuaFVjd2sxY2haamFuNUdNMzVVUU5KSE1GQkZPMFFrYUN4bVpQQkZkeU5EU2poVk5UbDJRSWhrVjIxa2RTSmpUeEJuYzY5MlFscEdNclFIZXdzR05weFVleVpXUnpnWGFwQlZWcmxYTXprSE5rOWtWNkpFYlpoMWE1UlRQ
 
 
-#EXTINF:-1 tvg-logo="https://channels.asia/wp-content/uploads/2019/10/71323379_2467465366811710_690413707909398528_n.png" group-title="বাংলাদেশ",CHANNEL-S (1)
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/chunks.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://channels.asia/wp-content/uploads/2019/10/71323379_2467465366811710_690413707909398528_n.png" group-title="বাংলাদেশ",CHANNEL-S (2)
-http://?dmwzVTFJRFRwZG1acmhGYXlWamQyRWpTblpUY3dCbmUwVjJkNXAzVlhwMlR1TjNiTXRDVXI5VVYySldSYUZGY1RSSE80SnpLbWR6Y014RVdSQlhScUZYWnlaRGREbG5Rb0prYQ==
 #EXTINF:-1 tvg-logo="https://channels.asia/wp-content/uploads/2019/10/71323379_2467465366811710_690413707909398528_n.png" group-title="বাংলাদেশ",Channel-S (3)
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="বাংলাদেশ",NTV UK
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaboxbd.com/wp-content/uploads/2020/09/Channel-S-500x500xct.png" group-title="বাংলাদেশ",CHANNEL S (1)
 http://?M2wzVTFJRFRwbG1acmhGYXlWRGMyRWpTblpUY3lCbmUwcDFWUHBuTkVsM1Q2bEVkclIzS0tkSFo1bG1XeVVUTlpsbWNsWnpTbXAzYTNJbmR2cEdUcnRVVkx0MGN5SlhSUlJtUw==
 #EXTINF:-1 tvg-logo="https://mediaboxbd.com/wp-content/uploads/2020/09/Channel-S-500x500xct.png" group-title="বাংলাদেশ",CHANNEL S (2)
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://mediaboxbd.com/wp-content/uploads/2020/09/Channel-S-500x500xct.png" group-title="বাংলাদেশ",CHANNEL S (3)
-http://iptvbd.jagobd.com:1931/boishakhi/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mediaboxbd.com/wp-content/uploads/2020/09/Channel-S-500x500xct.png" group-title="বাংলাদেশ",CHANNEL S (4)
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bd-bangla-21-8660.jpg" group-title="বাংলাদেশ",Bangla 21 TV (1)
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8?Live-TV™
