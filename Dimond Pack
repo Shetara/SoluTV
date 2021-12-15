@@ -2,6 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/7v2nosu.png" group-title="Official Streaming",Live-TV™
+#EXTVLCOPT:network-caching=1000
 https://imgur.com/2E3BH5G.mp4
 #https://od.lk/s/NDRfMjk1OTkzNDVf/%40sitechnology.net.mp4
 #https://llvod.mxplay.com/video/2543714c43aef14fae52f0ac7331cf17/2/hls/h264_high.m3u8
@@ -11,8 +12,10 @@ https://sitechnologyltd.xyz/hKDOOT/Official_Stresming/Free/Trial.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Ca9sdrj.png" group-title="Official Streaming",BAN vs PAK
+#EXTVLCOPT:network-caching=1000
 http://?MmRrV3lFVU5ZdFdURlpWYmg5U2N6MFdaSVJIWnZaWFJscEZVb1ozYjVrR2RuaFVhd2sxY2haamE0NUdNMzVVUU41V01XcDJOYVp6ZDBzQ04wTWpjemhIY1Voa1pxQkhSSHgyY0hsVWIyUkVaM1VGVTVaVlF2MEdUUmhuVVVkV2N5bDNhV0JqY2pSbmIwRkZaS1owWlNkbWVRMVVSbmxHYkhOemFyUVRQ
 #EXTINF:-1 tvg-logo="https://imgur.com/ONUdeWk.png" group-title="Official Streaming",LPL T20
+#EXTVLCOPT:network-caching=1000
 http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2haamFuNUdNMzVVUU5GWE1XcDJOYVpqYTBzQ04wTWpjcGhIY1Voa1pxVkhSSHgyY3hOa2E2aFZhcTFFYzRkSFpsbGtlTjUyUmFoR2Q0bGpic0ZFWkhKV1dyVnphaFZFUzFJM1k2NVVPSk5GYXY1MllvOVdQ
 #EXTINF:-1 tvg-logo="https://imgur.com/p9bmmUG.png" group-title="Official Streaming",IND vs NZ
 https://sitechnologyltd.xyz/Official_Streaming/Live_TV_Premium/Outside_Sports_1.m3u8
@@ -26,49 +29,66 @@ https://bdresults514.shortcm.li/SI_Tecnology_Ltd/Official_Stresming/Free/Trial.m
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv
+#EXTVLCOPT:network-caching=1000
 https://bdresults514.shortcm.li/SI_Tecnology_Ltd/Live_TV_Premium/Sony_Liv_Hindi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv Bangla
+#EXTVLCOPT:network-caching=1000
 https://bdresults514.shortcm.li/SI_Tecnology_Ltd/Live_TV_Premium/Sony_Liv_Bangla.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 1 )
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 1 )
+#EXTVLCOPT:network-caching=1000
 https://sitechnologyltd.xyz/Official_Stresming/BDLive_1/ICC-Sports/Live_TV_Premium.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 2 )
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 2 )
+#EXTVLCOPT:network-caching=1000
 https://sitechnologyltd.xyz/Official_Stresming/BDLive_2/ICC-Sports/Live_TV_Premium.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 3 )
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 3 )
+#EXTVLCOPT:network-caching=1000
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 1 )
+#EXTINF:-1 tvg-id="ts1239" tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 1 )
+#EXTVLCOPT:network-caching=1000
 https://bdresults514.shortcm.li/n1NQAl/Official_Streaming/Football-1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 2 )
+#EXTINF:-1 tvg-id="ts1165" tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 2 )
+#EXTVLCOPT:network-caching=1000
 https://bdresults514.shortcm.li/w5n7km/Official_Streaming/Football-2.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 3 )
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 3 )
+#EXTVLCOPT:network-caching=1000
 
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/6fronZ7.png" group-title="Official Streaming",Live-TV™ Movie 1
+#EXTVLCOPT:network-caching=1000
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6fronZ7.png" group-title="Official Streaming",Live-TV™ Movie 2
+#EXTVLCOPT:network-caching=1000
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6fronZ7.png" group-title="Official Streaming",Live-TV™ Movie 3
+#EXTVLCOPT:network-caching=1000
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6fronZ7.png" group-title="Official Streaming",Live-TV™ Movie 4
+#EXTVLCOPT:network-caching=1000
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6fronZ7.png" group-title="Official Streaming",Live-TV™ Movie 5
+#EXTVLCOPT:network-caching=1000
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/km3beNg.png" group-title="Official Streaming",ZEE5 Originals
+#EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-logo="https://imgur.com/km3beNg.png" group-title="Official Streaming",ZEE5 Romance
+#EXTVLCOPT:network-caching=1000
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Official Streaming",NASA TV 
+#EXTVLCOPT:network-caching=1000
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Official Streaming",NASA Media TV 
+#EXTVLCOPT:network-caching=1000
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8 
 
 
@@ -82,53 +102,70 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (1)
+#EXTVLCOPT:network-caching=1000
 http://103.205.133.40/hls/btv.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (2)
+#EXTVLCOPT:network-caching=1000
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (3)
+#EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (4)
-
-#EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (5)
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/64/logo/115x115/mobile_logo_392184001564902527.png" group-title="বাংলাদেশ",Sangsad TV (1)
+#EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/64/logo/115x115/mobile_logo_392184001564902527.png" group-title="বাংলাদেশ",Sangsad TV (2)
+#EXTVLCOPT:network-caching=1000
 http://?bmRrV3lFVU5ZUlhURlpWYmg5aWR6MFdaSVJIWjZaWFJscEZVb3gyYjVrR2RuaDBjd2sxY2haamEwNUdNMzVVUU45R01KcEdTeFZHY3ZRWGN5dENkMEIxVjFVV1RyaG1jaEpGZE9aVmJTaFhOM2tGVnNaWGU1WjJiQ1JuUk5kMEttWmpldFIxWXJ4a2UzaGtUcXBtTlp4R054WURhVWhqZXpORE1aRlVQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/64/logo/115x115/mobile_logo_392184001564902527.png" group-title="বাংলাদেশ",Sangsad TV (3)
+#EXTVLCOPT:network-caching=1000
 http://?PWdXZVRWak1NbG1jbXRHV29KWE56WlRNS2RtTnhWSGM2UlhXUHQyZDVjMlpqWldWeGQyS3dNWGVOaFdRRnhVY0VOSGRySTNVeGxsVjNkRE1JSlVZNHcyVkhCak5MSjJjblJFWnhnRGJwVkhUNElXVllwWFk0QUZUVnBGY1o5R01pSjFTclIzSzVsRWNKMVdkeVVHTUpkVGFvZEZNaTlXZHdoRk5ZaEdNNW8zTFd0V1VUTldlMGRuZTRRbGN3MUdSUEZrUXFwV082TjJkVHBXZVFKVE9ITmtNblZsTXFORE16TTNZMVZ6S0Q5R2FQNWtZa3BYUXE1RU1JSjJLMVFYUjZsMWFTSlhjMGwwY0xCVGNxVlZPbk5YVzJ3bVQ1TlZTRVoxZGlGVFoxcEdU
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/64/logo/115x115/mobile_logo_392184001564902527.png" group-title="বাংলাদেশ",Sangsad TV (4)
+#EXTVLCOPT:network-caching=1000
 http://?PUlYZVRWak1NbG1ibXRHV29KWE53WlRNS2RtTnh4R2M2UlhZREpWZVVwbVcwTVdSdzUyU2haM042WkhUSzVXZXlGbWRJeFdPS04wWTQ5RVcydFVOMTBtVnhWalNGVlhldmMzVlI5VVVzOVdjQmRVWW5sSGVySldhV1ZsZHlnbFp5UUVXcEprYkNSRE1KOW1VYTlXTm1KRWNxVnpiSmRsVXloRFZLMUdkd0ozUmFoMExJNWtkV0oxWnU5MmF2cFdlYVoyS21sMlVwUldhcFJYZHZFbFFCRkhhdGRFVk1kMmN1ZEhad1JEV3hoVmN3TjFieEZtY3VaVmE2SmpZMzUyVjRSVmJNSjBhWVYzYllaRE9yRjJMeFpFT05kMmF6QkRjaWxtYXFwR1dVOVdP
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/64/logo/115x115/mobile_logo_392184001564902527.png" group-title="বাংলাদেশ",Sangsad TV (5)
+#EXTVLCOPT:network-caching=1000
 http://?M2RrV3lFVU5ZWlhURlpWYmg5Q2F6MFdaSVJIWnZaWFJscEZVbzEyYjVrR2RuaEVjd2sxY2haamF4NUdNMzVVUU5WSE1KcEdTeFYyY3ZRWGN5dENkeUIxVjFVV1RySm5jaEpGZE9abGNTaFhOM2tGVnJaWGU1WjJiQ2RuUk5kMEttWlRhdFIxWXJ4a2V2aGtUcXBtTlpaSE54WURhVWh6YXpORE1aRlVQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/64/logo/115x115/mobile_logo_392184001564902527.png" group-title="বাংলাদেশ",Sangsad TV (6)
+#EXTVLCOPT:network-caching=1000
 http://103.106.2.149:13456/sangsad.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/64/logo/115x115/mobile_logo_392184001564902527.png" group-title="বাংলাদেশ",Sangsad TV (7)
+#EXTVLCOPT:network-caching=1000
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (1)
+#EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (2)
+#EXTVLCOPT:network-caching=1000
 http://103.205.133.40/hls/btvworld.m3u8
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (3)
+#EXTVLCOPT:network-caching=1000
 http://?c2wzVTFJRFRwaG1acmhGYXlWRGQyRWpTblpUY29CbmUwVkdUdUZuU2FwWFJPNTJha3hXYjNWVFFyVm5jb1ZtWlM1bVJ6NUdadWRIZW5CVFVxRm5WbmhYWm5kR2JYZG5ZSGRrUg==
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (4)
+#EXTVLCOPT:network-caching=1000
 http://?PUFYZVRWak1NbDJibXRHV29KWE5vWlRNS2RtTnhOSGM2UlhZVlpHYnVkMlN6QkZSd3RHZXcwV2N2dG1adnhXYzNNMWMwcG5XMXRHUndCRFdxUkRSR2wyYkVwRmFPZG5kMm9tZHpKMmF1bHpSeUlYWUY1V2FVOUdScEpVYjBGbWFYVlZaeGhGYVFwVVVKZG1VTVJWY3BOVmRCUjBSWTEyWnVwRVV5UWpaWEpuZTVaMFRaRmtleUlYUzJwVk1zRnpiMVF6YTY5R1NoaFdXMWx6YnlNWFQ0UXpkclZVTWxORFZQUlhVRGwyWXZSelo0Z21VSUJGZHdwRlJ3RkVVQ1puUTMxMEtJbEdia05uUlNsblUwaEVSdmNVZDNKM1Q0aGpWSGxrYTNrMlVGOVdh
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (5)
+#EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (6)
+#EXTVLCOPT:network-caching=1000
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (7)
+#EXTVLCOPT:network-caching=1000
 http://?MGwzVTFJRFRwOW1acmhGYXlWemQyRWpTblpUY3RCbmUwVlZUV3QyWTRjamFJTjFjUE5GTXZkblJ4cGxiWWhXWXJvV2VyVUZhcHgwWkdOa052VXpRd1ZtVEcxbVN3Y0hWTGwzTkZSemF0ZEVPNUJsUnlKVll5ZFVZa3BtWXVKMllhWm5kT0J6Y0hWalJ1TlRjSnAwZG10V1Z1bEZNUU5FYUlaMFN4WTJhMzFXTXNwM05ocG1kb0ZtYjN3MGRrTjFNYXhFYTNCWFc1bGxWb2gyWjNGVll2TjBja05WTTJkRlIxTnpZa0JWWnlnSFJyYzNTMjhTZWtsR00xTkdjdE56Y1ZkVWNCNUdVdnNXUA==
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (8)
+#EXTVLCOPT:network-caching=1000
 http://163.172.29.246:8081/globalbd/btv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (9)
+#EXTVLCOPT:network-caching=1000
 http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (10)
+#EXTVLCOPT:network-caching=1000
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (11)
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQC2zdf6oJj1bO0EGcMUkNZZ0mpr9wqnlW3Mw&usqp=CAU" group-title="বাংলাদেশ",BTV CTG (1)
