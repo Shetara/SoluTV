@@ -37,24 +37,24 @@ https://bdresults514.shortcm.li/SI_Tecnology_Ltd/Live_TV_Premium/Sony_Liv_Bangla
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 1 )
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YY9wRQO.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 1 )
 #EXTVLCOPT:network-caching=1000
 https://sitechnologyltd.xyz/Official_Stresming/BDLive_1/ICC-Sports/Live_TV_Premium.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 2 )
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YY9wRQO.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 2 )
 #EXTVLCOPT:network-caching=1000
 https://sitechnologyltd.xyz/Official_Stresming/BDLive_2/ICC-Sports/Live_TV_Premium.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 3 )
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YY9wRQO.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 3 )
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ts1239" tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 1 )
+#EXTINF:-1 tvg-id="ts1239" tvg-logo="https://imgur.com/vhNCzNg.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 1 )
 #EXTVLCOPT:network-caching=1000
 https://bdresults514.shortcm.li/n1NQAl/Official_Streaming/Football-1.m3u8
-#EXTINF:-1 tvg-id="ts1165" tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 2 )
+#EXTINF:-1 tvg-id="ts1165" tvg-logo="https://imgur.com/vhNCzNg.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 2 )
 #EXTVLCOPT:network-caching=1000
 https://bdresults514.shortcm.li/w5n7km/Official_Streaming/Football-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/uYjuoWz.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 3 )
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/vhNCzNg.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 3 )
 #EXTVLCOPT:network-caching=1000
 
 
