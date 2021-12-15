@@ -1740,6 +1740,8 @@ http://?c1ZIVG9Kak5qcFdlUzlpTTNsemI0NVdSM0FUVHNsbmJtQnpWeDFHTll0MGNDTlZkMFpsUjB3
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/z/SudAejvzDG.png" group-title="IND हिंदी",The Q (2)
 https://qyou-samsungindia.amagi.tv/v1/master/1748002a7c5f50a5e76423ca32f5fb44fdb69c58/QYouSamsungIndia/master.m3u8
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/z/SudAejvzDG.png" group-title="IND हिंदी",The Q (3)
+https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/796290/assetType/media/assetFileId/8167711/contextType/PLAYBACK/isAltUrl/False/a.m3u8?playSessionId=9f9aed47-1dd5-aa3a-4540-5ad6b8306b2e:3122a12b-a73a-16a2-fcfa-48dc0cfb4da2&referrer=aHR0cHM6Ly93d3cud2F0Y2hvLmNvbS93YXRjaC9jaGFubmVsL3RoZS1xLzc5NjI5MA==&clientTag=html5:v7.42
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJw4akZW2-UHCM1JQPDiXFRIvr_0Adj2eIo-hOGKVQ=s900-c-k-c0x00ffffff-no-rj" group-title="IND हिंदी",Dabaang
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8?Live-TV™
@@ -2450,25 +2452,19 @@ http://y5w8j4a9.ssl.hwcdn.net/kalak/tracks-v1a1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhfd3htgSPJTNf376BLyRvY_OpA5dUpCOuxJHjkJQ=s900-c-k-c0x00ffffff-no-rj" group-title="پاکستان",PTV Home
-https://streams.simpaisa.com:8443/pitvlive4/ptvhome.smil/playlist.m3u8
+https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/mi3DwvgJwBz.png" group-title="پاکستان", PTV global (1)
 http://?PTRtVTNCM01wcG5jb1JuYjFrWFUwdEVUMU5HVFNCM2QzSUZjSHRpZTVjbmNEUldjM3BXZE9aVFVINVdjMlpYVjZoMVpEZHpOSEpWUTRWR1dvZEdjS1ozY1NoM1RJQlRhc2hHWllOa1RxTjBRb1prWXhvR2JJcDBLWlJ6YXJZamR3SVVhNEpIZVJKRmVEcDJWMXcyS3JSMWE2VlRVM0lVWTVoRWMzZ3pWU3BHYjFZRlRsZGplWU5uU3ZsR1N5MTJSVE4zUXpjM2RPTjBjR3AxWlF0Q2NSWldNMFZsZURwa1l2VjNaS1pHVXlwWGRFWmxOVlZWZTRKVVp1TjFhdjhHTjVkVFpIaERjNWtITU5sV2MxTkZiakIzUjE0bVd2RlhXTFZUZXhwbE1yRkhP
 #EXTINF: -1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/mi3DwvgJwBz.png" group-title="پاکستان", PTV global (2)
 http://46.105.112.116/?watch=NL/ptvglobal-pk&token=RED&e=m3u8
 #EXTINF: -1 tvg-logo="https://cdn.toffee-cms.com/images/program/656/logo/115x115/mobile_logo_595018001571747444.png" group-title="پاکستان", PTV World
-http://?d2RrV3lFVU5ZZFdURlpWYmg5eWJ6MFdaSVJIWnNaWFJscEZVb0ozYjVrR2RuaEVld2sxY2haamE0NUdNMzVVUU5CSE0zNUVlVFJ6ZEJ0aWIxWlRXc2RXWTBnSGFOcG1ZemxqZWhKRmFxZDJZd3QyTHM5Q011MTJaM3RtZXA5aWQyY1ZjSEJWYjNGMll1Wm5kUGhWTzNnbVRJNUdiNDRVY2toVWRsZFhQ
-#EXTINF: -1 tvg-logo="https://cdn.toffee-cms.com/images/program/656/logo/115x115/mobile_logo_595018001571747444.png" group-title="پاکستان", PTV World
-http://?eEoxZHdOVGE2cEhhMDVXTjVGbGFMeFVkanhrVXZkM05TQjNScmtYTzNKM1FrRkhjcVZuVDJFMVJxRm5kMlZsZVlGSFI0MVVRMWtrY3dnektKcEZldlIzVlBOR1Ixb1hicVZqUUtoemF3WWplNmgzTDQ5MmQxVmpOUEZuYjJGbWJ4c0VhUkZVTjM1RVM2TlhUS0JGY3JNWE1ZWjJhdmgzYjNjRVZKbEhTdEowTnp4V1dEbG5XWnhVV3ZZRGMzb25Td1FFV29SM1JDVmpXeUFuVHdFRVNNTmpkellGVlZwVlp3aEhSc0oyUTNvV1JCZGtaV3RtZTNrRGFHaEVUenRVUmFKa1J2Z0dTaUZWUA==
+https://live.ptv.com.pk/live/ptvworld/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://secureservercdn.net/198.71.233.141/27r.eed.myftpupload.com/wp-content/uploads/2018/03/cropped-PAKUSTV-1-2-300x300.jpg" group-title="پاکستان",PakUs TV
 https://livestream.5centscdn.com/pakustv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://d3cj74lp9272r8.cloudfront.net/channels/thumbnails/000/000/001/original/hum_channel_icon.png?1505470330" group-title="پاکستان",HUM TV HD (1)
-https://streams.simpaisa.com:8443/pitvlive4/humtvnewone.smil/playlist.m3u8
-#http://42.201.228.226:8678/HUMTV_EBRAVO_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://d3cj74lp9272r8.cloudfront.net/channels/thumbnails/000/000/001/original/hum_channel_icon.png?1505470330" group-title="پاکستان",HUM TV HD (2)
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
-#http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6730/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv//uploads/Hum-Sitaray-logo.png" group-title="پاکستان",HUM Sitaray World
 http://46.105.112.116/?watch=NL/humeurope-uk&token=RED&e=m3u8
@@ -2483,9 +2479,9 @@ https://streams.simpaisa.com:8443/pitvlive4/masala.smil/playlist.m3u8
 #http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6733/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029819158622560257/IX7fTqWA_400x400.jpg" group-title="پاکستان",Hum News
-http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
+http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://humraaz.tv/wp-content/uploads/2019/04/cropped-Humraaz-TV-Logo-1-1.png" group-title="پاکستان",Humraaz
-http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+http://221.120.204.4/LAHORE-RANG-LOCKLE/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pk-play-max-1218.jpg" group-title="پاکستان",Play Max
 https://streams.simpaisa.com:8443/pitvlive4/playmax.smil/playlist.m3u8
@@ -2527,11 +2523,10 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="پاکستان",GEO ENTERTAINMENT (1)
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3505.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="پاکستان",GEO ENTERTAINMENT (2)
 http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
-#http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6723/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="پاکستان",GEO SUPER
+http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/672/logo/115x115/mobile_logo_366665001572086539.png" group-title="پاکستان",Geo News 
 http://?MmRrV3lFVU5ZbFdURlpWYmg5eWF6MFdaSVJIWjZaWFJscEZVb2gzYjVrR2RuaDBkd2sxY2haamEyNUdNMzVVUU5WSE1EcG1VNXBGZHBkWFFKaDJhcFZGYzNRVFJYdDJVNk5tVFpWamNKOUNaWFJrWjJkRk4yWlVUNGdXYkZGRWN2bzBidmRHT0VSVmR3RkdjaGhWTXo1R2I1cFZadXAzWjRWMFQxOFdQ
 
@@ -3345,23 +3340,23 @@ http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
 http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png",S Cricket
-http://?MHgwY29kVVY0Y1dWRVpFT0paSGJQaDNZTkpuYzJKelZQOVdiRkZIYTFOa2RzUkVjNGhWT3pwbWJyUlVhMzAwS0R4MlRKaERlUDVHZGloRFpMZFhTeWhVYnpWRFRPNTJkeGRsYkN4MmFqUm1RMUpHZHhSa1dYRlRlcmdXV0NWVlNMTjJjS3gyTE1sa010Tm5RQlozVDJjV1puTm1TMVVrY1VaVmRya1VQ
+http://?MkpWUWxOR01ybEdUaUptV1paM2QwNUdOR0JuTnFOamUzUkdPMnBXWTJjVFpPQnpid1kyTGoxbVN4aEZPb0pUWmFOSGVoWnpOaVpFYnpCalVJOW1VMGhqYlFkbGM1VVhjczUyTjBjVmF4TVdiWlZrWnRkWGNGbGpSTmhYTzFkRU11eDJiTTVHY210RU52WjJUM2dsY05CblRQNVdkcmtHZTVKamVRTldQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-action.png",S Action 
-http://?M3gwY29kVVY0Z1dWRVpFT0pabmNQaDNZTkpuY3pKelZQOVdiRlZIYTFOa2RzUlVjNGhWT3pwbWJyUlVhMzAwS0RkM1RKaERlUDVXZWloRFpMZFhTd2hVYnpWRFRPRjNkeGRsYnhvVmNQVm5ac1IxS3FwMVZEaGtaemhtWUVKRVVIRldhVFYzVGw5a2V2VkVlMU16TFFabmVFcDBOUXRFZGhoa1l6Y1dQ
+http://?MEpWUWxOR01yUkhUaUptV1paWGMwNUdOR0JuTjROamUzUkdPMmhXWTJjVFpPQkRld1kyTGoxbVN4aEZPb0pUWmFoSGVXeDJhVngwYjNVMlp5ZDBLeUJYY3ZkMmJNcFdjRWxWWmpkMVpNOUdXMXRTZTJoelowZ0ZWQ0JYWnFoa2JWVkVlcGxqVUxWVVF6UmpheWNsTXlnbVlpaFdUb0ZrY2lsVlMyQVRQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png",S Football 
-http://?eHgwY29kVVY0NFdWRVpFT0pabmNQaDNZTkpuYzJKelZQOVdiRnBHYTFOa2RzUmtkNGhWT3pwbWI0UlVhMzAwS0RkM1RKaERlUDVXYmloRFpMZFhTNmhVYnpWRFRPaDNkeGRsYlp4a2N1RmxkcEJEVDFaSGQxZDBOeDBXV3ZaSGJ3MWtkTWhUWUh0Q2J4NWtOckFWUmhKSE5WeEdlRE5rZUJOa2JuTldQ
+http://?cEpWUWxOR01yVkhUaUptV1paM2EwNUdOR0JuTnROamUzUkdPMlZYWTJjVFpPQkRld1kyTGoxbVN6aEZPb0pUWmFsR2VKMVVjRGxUYWlOR1VZUlVXemwwTEJGbFJ1dEdTMGhXYXdOV2VYNUdjMU5YYXlSWFVGTkZTc0IzWkROV09ZSjBiSkJIZVNsamJ0bFZVeE5UT1VwSGJySVRhQlYyWkJaRmQxQlRQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-grandstand-live.png",S Grandstand
-http://?bngwY29kVVY0b1dWRVpFT0paWGVQaDNZTkpuYzNKelZQOVdiRmRIYTFOa2RzUkViNGhWT3pwbWJ1UlVhMzAwS0ROM1RKaERlUDUyZGloRFpMZFhTeWhVYnpWRFRPZDNkeGRsYnhObWJ2SlhlMkF6UjVGelp1RjBVbmRuZFBwbmMwZ0dkdE4xUmlCelIwUlVhaUpYTUM1V2I0TkdlNU0wY3Z4V2UxdFdQ
+http://?b0pWUWxOR01ydEdUaUptV1paSGIwNUdOR0JuTjVOamUzVkZSTGxuZFg5eWRsUm1hSjEwWklsSFowNVdhT3RrUTJ0R01JZDFkdVpFY0NWalcyRVZlNFZVVlBGRFpISm5VRGxqYjJsamE1ZEZaU2gzUnB0aVN5aFdjRGhYZEZOVVQ0WkdkMlIzUWxSemJuaG1WM2RuYnd3V2FRTkdSM0lYYVFGbFNOVlVQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png",S Primiar League
-http://?dngwY29kVVY0d1dWRVpFT0paM2FQaDNZTkpuY29KelZQOVdiRkpIYTFOa2RzUlViNGhWT3pwbWJwUlVhMzAwS0RkMlRKaERlUDUyYWloRFpMZFhTdGhVYnpWRFRPaDNkeGRsYkhoV2JNOUVNQ0JWV3A5bVJ3MTJhRnRXY3hOWFRzQnpkdGRWUjVWM1p2QlRNUmxXY3ZoV05ySTBRdkZrYkVSMk14VVVQ
+http://?d0pWUWxOR01yZEhUaUptV1paWGQwNUdOR0JuTjNOamUzVkZSTGhtZFg5eWRsUjJjSjEwWklsSFp1NVdhT3RrUTJaWE0zRlZiR0pHYXdGRFpSOVdacUIxTXNwVVF0bFdiWUJWVUdwMGFvWmpUYXRFVXdGWE56aGtjcXRXVUdWektuRnpiTzFHV3ZFVVc2OVdOTXR5VnpkSGVTSjFVUXAyWmhGbGN2VlZQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-psl.png",S PSL
-http://?PT1BZWlOV1JQbHpRb0pGYjNaM0syQkhVSFp6UVVwbmVhaFhUUFZsUnZSRFp5QVhWaXBHY2xOelVCbDFkQnRrVzRwbVZwRlZQ
+http://?MkpWUWxOR01ybEhUaUptV1paWGEwNUdOR0JuTjZOamUzVkZSTDFtZFg5eWRsUldiSjEwWklsSFo0NVdhT3RrUTIxV01VcDJLbkZWZHBoV2FuaFVkb2hUTm1ObVJvUjNUcEJWVTBrRGFzcGtjMmRXYjVwWFk2eDJNVmQzYlZGbU12aFVjWXBWWldoMFRzcFVhMVptYTJGWFZGWjNkTzkwWlBsVWNGbFVQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-laliga.png",S LaLiga
-http://?NngwY29kVVY0VVhWRVpFT0pabmNQaDNZTkpuY29KelZQOVdiRmhHYTFOa2RzUmtiNGhWT3pwbWJ0UlVhMzAwS0RSM1RKaERlUDUyYmloRFpMZFhTNmhVYnpWRFRPSjNkeGRsYnpjRmRqSlhVaVIyYzFobmQwY21iQ0ozWlVCRFVqWnpjR0ZGVmpCblR4bFVaS0JuWnlwM1l2VjFZamhEZFJwR2FXZFhQ
+http://?NUpWUWxOR01yRkhUaUptV1paWGIwNUdOR0JuTnNOamUzUkdPMlpYWTJjVFpPQnphd1kyTGoxbVM0aEZPb0pUWmExMmQyTUZibkpYZEJCbE5OZDBjdGRWWjVsVk9CTjNRMmsyUzFaMmFSaG1TaFpEZXl4R01HZGpWdUJYT3ljR1RDVldiVGxFVVVKVlIzWkZPdlkyYldWM0tRUmplblJGZXRKa1J3OFdQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.dstvafrica.com/media/10685/ss-golf.png",S Gulf
-http://?b3gwY29kVVY0OFdWRVpFT0pabmVQaDNZTkpuY3dKelZQOVdiRkZIYTFOa2RzUkVkNGhWT3pwbWIzUlVhMzAwS0RwM1RKaERlUDVHYWloRFpMZFhTdWhVYnpWRFRPdDJkeGRsYjF0VWVMbDFSeVlqWnhsRFpLdGlOSkozZG1OelFyVUhleGMzZEsxMlN4ZFhid2MwVjI5R1d4QWpZckVUYnlBRFpZUlRQ
+http://?c0pWUWxOR01ybEhUaUptV1pabmIwNUdOR0JuTjBOamUzUkdPMjVXWTJjVFpPQkRhd1kyTGoxbVNxaEZPb0pUWmFGM2RSRmxaWGhqZTU5Q1owaGxVek5EYTQ1V2E1c21keXBsVXZGRWV3TkVUelpYT3hOVlREWjNLV1pIWjFvVU0yY1Rhc1ptWmk1a1FuaDBUeWNHVmlwWFkwcDFMSzVtYkRGelE2TlhQ
 #EXTINF:-1 group-title="Sports" tvg-logo="https://lh3.googleusercontent.com/proxy/h-AqSbnmRMcLtMvhQpXn1R6fs-NSNHFiJ13yBvKjKtEpMTA3Lg7yJMXjkNROFyb3fxDLEmnaLFmi8g7XteZmYVH84bjWjB00yrJ4NnIyWpXFTh40LEWV5CRA8_RQWnhsmg",S Motorsports
-http://?NngwY29kVVY0Y1dWRVpFT0paSGVQaDNZTkpuY3BKelZQOVdiRkJIYTFOa2RzUmtjNGhWT3pwbWIzUlVhMzAwS0RkM1RKaERlUDUyYmloRFpMZFhTcGhVYnpWRFRPOTJkeGRsYlVsbGI0OENjd0ltTjNSMVEwd1dTMDFXU3dOek5TUjBiaGwxTk5GRlU0dFNhNFVUYjRVSGRuMUdicWwxWk5aRk01aFRQ
+http://?eUpWUWxOR01yTkhUaUptV1pabmEwNUdOR0JuTnFOamUzVkZSTE5uZFg5eWRsUjJkSjEwWklsSFp5NVdhT3RrUTJsbU1qcGxaNVpVY3pBRlpZUm1jNWxYTWlGemE1a21hSEpUUjBrSGRPcEZkcVZVYTNkVE5wSmpNaHRHY09oMEtJUkdiVDVFVXlJblo2aFZXQ2wyTHY5Mk13WUZTeVlFYzQxR1d3QVRQ
 #EXTINF:-1 group-title="Sports" tvg-logo="",S 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.dstv.co.za/media/16637/ss_variety-1.png?preset=LogoThumbnail200",S Variety 1
