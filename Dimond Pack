@@ -7,8 +7,6 @@ https://imgur.com/2E3BH5G.mp4
 #https://od.lk/s/NDRfMjk1OTkzNDVf/%40sitechnology.net.mp4
 #https://llvod.mxplay.com/video/2543714c43aef14fae52f0ac7331cf17/2/hls/h264_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/fOmSLSQ.png" group-title="বাংলাদেশ",Trial Link
-https://sitechnologyltd.xyz/hKDOOT/Official_Stresming/Free/Trial.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Ca9sdrj.png" group-title="Official Streaming",BAN vs PAK
@@ -17,15 +15,18 @@ http://?MmRrV3lFVU5ZdFdURlpWYmg5U2N6MFdaSVJIWnZaWFJscEZVb1ozYjVrR2RuaFVhd2sxY2ha
 #EXTINF:-1 tvg-logo="https://imgur.com/ONUdeWk.png" group-title="Official Streaming",LPL T20
 #EXTVLCOPT:network-caching=1000
 http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2haamFuNUdNMzVVUU5GWE1XcDJOYVpqYTBzQ04wTWpjcGhIY1Voa1pxVkhSSHgyY3hOa2E2aFZhcTFFYzRkSFpsbGtlTjUyUmFoR2Q0bGpic0ZFWkhKV1dyVnphaFZFUzFJM1k2NVVPSk5GYXY1MllvOVdQ
-#EXTINF:-1 tvg-logo="https://imgur.com/p9bmmUG.png" group-title="Official Streaming",IND vs NZ
-https://sitechnologyltd.xyz/Official_Streaming/Live_TV_Premium/Outside_Sports_1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/p9bmmUG.png" group-title="Official Streaming",IND vs NZ
-https://sitechnologyltd.xyz/Official_Streaming/Live_TV_Premium/Outside_Sports_2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Official Streaming",PAK vs WIN
-https://bdresults514.shortcm.li/SI_Tecnology_Ltd/Official_Stresming/Free/Trial.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Official Streaming",
+#EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NEmNRWv.png" group-title="Official Streaming",
+#EXTINF:-1 tvg-logo="" group-title="Official Streaming",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Official Streaming",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="" group-title="Official Streaming",
+#EXTVLCOPT:network-caching=1000
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv
@@ -39,23 +40,21 @@ https://bdresults514.shortcm.li/SI_Tecnology_Ltd/Live_TV_Premium/Sony_Liv_Bangla
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YY9wRQO.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 1 )
 #EXTVLCOPT:network-caching=1000
-https://sitechnologyltd.xyz/Official_Stresming/BDLive_1/ICC-Sports/Live_TV_Premium.m3u8
+https://bdresults514.shortcm.li/Official_Stresming/Sarver-1/Cricket/Live_TV_Premium.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YY9wRQO.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 2 )
 #EXTVLCOPT:network-caching=1000
-https://sitechnologyltd.xyz/Official_Stresming/BDLive_2/ICC-Sports/Live_TV_Premium.m3u8
+https://bdresults514.shortcm.li/Official_Stresming/Sarver-2/Cricket/Live_TV_Premium.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YY9wRQO.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 3 )
 #EXTVLCOPT:network-caching=1000
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+https://bdresults514.shortcm.li/Official_Stresming/Sarver-3/Cricket/Live_TV_Premium.m3u8
 
 
 #EXTINF:-1 tvg-id="ts1239" tvg-logo="https://imgur.com/vhNCzNg.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 1 )
 #EXTVLCOPT:network-caching=1000
-https://bdresults514.shortcm.li/n1NQAl/Official_Streaming/Football-1.m3u8
+https://bdresults514.shortcm.li/Official_Stresming/Sarver-1/Football/Live_TV_Premium.m3u8
 #EXTINF:-1 tvg-id="ts1165" tvg-logo="https://imgur.com/vhNCzNg.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 2 )
 #EXTVLCOPT:network-caching=1000
-https://bdresults514.shortcm.li/w5n7km/Official_Streaming/Football-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/vhNCzNg.png" group-title="Official Streaming",Live-TV™ Football ( Sarver 3 )
-#EXTVLCOPT:network-caching=1000
+https://bdresults514.shortcm.li/Official_Stresming/Sarver-2/Football/Live_TV_Premium.m3u8
 
 
 
@@ -3292,8 +3291,8 @@ http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRS1KOa5Etrq8YBSpdqpSXxdsUzZtnI0JGOQ&usqp=CAU" group-title="Sports",Willow Extra (3)
 http://?c3gwY29kVVY0Y1dWRVpFT0paSGRQaDNZTkpuY29KelZQOVdiRk5IYTFOa2RzUjBiNGhWT3pwbWIzUlVhMzAwS0RGM1R1QnpRSVZtZTBrR1prZFROekJUVUhaRWVoRkhkNmR6U3ZRSGROVlVWdmhVWTVsa2JaWjJMNTBHYng4V05LSnpkeVVGU1d4MlZuaG5VT3RpZVNwSGVabDNhMmdWZVlOa1FGTldQ
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/57/6c/36/576c36c2b45e2bc52b2360fcd2fd2eb4.png" group-title="Sports",Ten Sports
-http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/57/6c/36/576c36c2b45e2bc52b2360fcd2fd2eb4.png" group-title="Sports",A-SPORTS
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dishurdu.com/images/PK-Sports-Logo.png" group-title="Sports",PK Sports
 http://103.81.104.118/hls/ten-cricket.m3u8
