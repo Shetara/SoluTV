@@ -1491,9 +1491,10 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11653-j9k1kyn4-v1/imageContent-11653-j9k1kyn4-m1.png" group-title="IND हिंदी",Oscar Movies
 http://?PT1RY1NGVVpqQnphc3hrWWlwVlcyTkhkdVJqUndaVGF6bzNkaGhXUXRwMFF4c0VPWEZIYTNSek00c2llVzlrYldoblZyWkVhc1ZIWjBNWFFvVmxib2xuZVJabVd3VUZXNGRtWW9KVWNMMUdNd2hYYXBGbmMzMG1RbGgwTm9CSGNMTldUM1JYVVIxVFA=
 
-#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2428/logo/240x240/mobile_logo_637416001609414006.png" group-title="IND हिंदी",COLORS INFINITY HD
+#EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2428/logo/240x240/mobile_logo_637416001609414006.png" group-title="IND हिंदी",COLORS INFINITY HD (1)
 http://?MUpWUWxOR01yaEdUaUptV1paWGUwNUdOR0JuTm9OamUzUkdPMnBXWTJjVFpPQnpid1kyTGoxbVNyaEZPb0pUWmFWSGVveDBjT3QyYkhOWFlreEVhckJsTUpsbGVhcFhZMUVtZFlabmJOVjJONEEzUjZSM1lNeDBWTmgyVkVCMWN5QlZlTDFVUXRsemQxSlZNbjEyS01abld5a1hSUFZqZEJSWGNxaFRQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2428/logo/240x240/mobile_logo_637416001609414006.png" group-title="IND हिंदी",COLORS INFINITY HD
+http://221.120.204.4:80/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/340/logo/115x115/mobile_logo_209158001561972797.png" group-title="IND বাংলা",Zee Bangla (1)
@@ -1659,7 +1660,7 @@ http://?PWdIZG9WRmNtRjNidGhGTlZaemMzUkRObU5WYUV4V1phZFVUdWR6WktaVFMxTWtNNVozTW9C
 
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox-Life.jpg" group-title="IND हिंदी",FOX Life HD
-
+http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-HjoJutrNZqo/XMSGY_1auXI/AAAAAAAAAV8/V3qgRASCU7wmFsK6l2T7Nc7eCF5VfuXrgCLcBGAs/s640/fox-thai-full.jpg" group-title="IND हिंदी",FOX THAI
 
@@ -2156,6 +2157,7 @@ http://221.120.204.4/AXN-LOCKLE/tracks-v1a1/mono.m3u8
 #http://hitectv.live/hls/stream2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="IND हिंदी",STAR WORLD HD
+http://221.120.204.4:80/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://b4uplus.com/images/logo.png" group-title="IND हिंदी",B4U Plus (1)
 http://eurotv.vip:80/live/60/60/51642.m3u8
