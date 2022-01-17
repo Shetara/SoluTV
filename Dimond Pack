@@ -35,7 +35,7 @@ https://sitechnologyltd.xyz/okepqx/BPLT20/2022.m3u8
 https://sitechnologyltd.xyz/SRctJN/PSLT20/2022.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Official Streaming",
 
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=100
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv
