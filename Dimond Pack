@@ -25,7 +25,8 @@ https://sitechnologyltd.xyz/Official_Stresming/BDLive_1/ICC-Sports/Live_TV_Premi
 https://sitechnologyltd.xyz/Official_Stresming/BDLive_2/ICC-Sports/Live_TV_Premium.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kFhZ8Lo.png" group-title="Official Streaming",Pro Kabaddi League
 #EXTVLCOPT:network-caching=1000
-https://sitechnologyltd.xyz/jLp0Mj/Pro_Kabaddi_League.m3u8
+http://31.172.87.31:2200/R-EX/FHD_HINDI_STAR_SPORTS_1_-in/index.m3u8?token=|User-agent=REDLINECLIENT
+#https://sitechnologyltd.xyz/jLp0Mj/Pro_Kabaddi_League.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/02/BAN_vs_AFG.png" group-title="Official Streaming",BAN vs AFG
 #EXTVLCOPT:network-caching=1000
