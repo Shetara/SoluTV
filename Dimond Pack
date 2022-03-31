@@ -82,13 +82,13 @@ https://bdresults514.shortcm.li/Official_Stresming/Sarver-2/Football/Live_TV_Pre
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6fronZ7.png" group-title="Official Streaming",Live-TV™ Movie 2
 #EXTVLCOPT:network-caching=1000
-https://sonar.sinclair.wurl.com/manifest/3000.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://imgur.com/6fronZ7.png" group-title="Official Streaming",Live-TV™ Movie 3
 #EXTVLCOPT:network-caching=1000
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://imgur.com/6fronZ7.png" group-title="Official Streaming",Live-TV™ Movie 4
 #EXTVLCOPT:network-caching=1000
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://imgur.com/6fronZ7.png" group-title="Official Streaming",Live-TV™ Movie 5
 #EXTVLCOPT:network-caching=1000
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
@@ -1501,7 +1501,7 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52853-k982u9ts-v1/imageContent-52853-k982u9ts-m1.png" group-title="IND हिंदी",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52853-k982u9ts-v1/imageContent-52853-k982u9ts-m1.png" group-title="IND हिंदी",Zee Bioskop
-http://?M1ZIVG9Kak5qcFdlUzlpTTNselo0NVdSM0FUVHdsbmJtQnpWeE5ITll0MGNDTmxiMFpsUjB3bWE2SldNeXBsYXVWbmMxbFZiVlZsYnFSRFR3dFdPMzVVUjRWR2JHeEdiczkwWTQwMmJoNVVjeEpGUjRwWFIwY2tNd2RYZTFFVVpEcFdhV1JXTXVObFNxbGtUNVFIYjV0V1RXaGtXc0pWZXdSWE40Y2tUMlp6Y0lsak1TcEhaemR6S05oa2JVbFZZWHRrVnBWSFpIZGpaM0lIYTNNbllYMTJaMEoyWTFNMmF4TkdSMlJXWnpvMlZ1bEVUbnRVYlVaWFJ3UmpXd0pIVjUxVVNGaG5iS0JUUA==
+http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:-1 group-title="IND हिंदी" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png",Zee Bollywood (1)
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
@@ -1937,7 +1937,7 @@ http://136.243.177.164/FOXCRIME/playlist.m3u8
 http://103.81.104.118/hls/rock-enter.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="IND हिंदी",Bollywood TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="IND हिंदी",Manoranjan Tv
 https://idvd.multitvsolution.com/idvo/manoranjantv.m3u8
 
