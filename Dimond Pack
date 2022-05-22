@@ -1233,14 +1233,14 @@ http://103.205.133.40/hls/colorsbangla.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2423/logo/240x240/mobile_logo_667791001609587559.png" group-title="IND বাংলা",Colors Bangla HD (1)
-http://103.81.104.118/hls/colorsbangla.m3u8
-#http://89.41.180.253:8080/INDIA_BENGALI/COLORS_BANGLA_HD/tracks-v1a1/mono.m3u8
+http://103.167.190.250/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/2423/logo/240x240/mobile_logo_667791001609587559.png" group-title="IND বাংলা",Colors Bangla HD (3)
-http://stream.amrbd.com:8082/colorsbangla/index.m3u8
+http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34385?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Logo_of_Colors_Bangla_Cinema.jpg" group-title="IND বাংলা",Colors Bangla Cinema
-http://alllivesportslinks.myftp.biz/hls/colore-bangla-cinema.m3u8
+http://103.167.190.250/hls/colore-bangla-cinema.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/e0/7b/b2e07b1848baad0cea0c95b879f8d9b9.jpg" group-title="IND हिंदी",COLORS (1)
@@ -1728,15 +1728,11 @@ http://?dWRrV3lFVU5ZNVdURlpWYmg5U2V6MFdaSVJIWnpaWFJscEZVbzkyYjVrR2RuaGtkd2sxY2ha
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla (1)
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla (2)
-http://103.251.247.105:3001/aostv/5fafa2a66f4e8cc0b51d8d34/aos.m3u8|tokenUrl:/4_4
-#http://rv.imax.re:80/307200102131/307200102131/83740
-#http://sunnetwork.in/vedio/SNBA_06_07_NANDINI_PROMO_30SEC_PRO_557781.mp4
-#https://103.99.250.202:1935/sunbanglatv/myStream/playlist.m3u8
-#http://103.99.250.202:1935/sunbanglatv/myStream/chunklist_w1270250710.m3u8
+http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla (3)
-http://?NGRrV3lFVU5ZVlhURlpWYmg5U2R6MFdaSVJIWnhaWFJsRjFOTDltYkhabmRybDFjdzFHT3ZaWFM0aFRSelIyYlhCWFpPdEdlb0ZrYllCblVzMW1RbzlDTWhwR2FuVm5OMTRXUzFKVmR4Y0ZlbVJET29sMU40RkZTMUlIYzVWM0xTQkZjdlVuTXYxV01zZEdNb2wxU1B4MlFvaEZWa05rZUZ4a1lXSkZSdlJ6U2tObllyRkhORmRrZHlwMVpzTkVWV1YwY29KRWU=
+http://103.167.190.250/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1280x720_917db336-23b6-408c-a836-54b1e5b91455.jpg" group-title="IND বাংলা",Sun Bangla (4)
-http://103.81.104.118/hls/sunbangla.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/402/logo/115x115/mobile_logo_789226001563606539.png" group-title="IND हिंदी",&tv (1)
