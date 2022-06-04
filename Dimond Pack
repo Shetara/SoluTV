@@ -125,7 +125,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 http://stream.wowzacdn.com/fh3rhr3j3/23998_hhs/btv.m3u8
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (2)
 #EXTVLCOPT:network-caching=1000
-http://103.106.2.149:13456/btv.m3u8
+http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://www.thefinancialexpress.com.bd/uploads/1562054384.jpg" group-title="বাংলাদেশ",BTV (3)
 #EXTVLCOPT:network-caching=1000
 http://103.205.133.40/hls/btv.m3u8?Live-TV™
@@ -136,7 +136,7 @@ http://103.205.133.40/hls/btv.m3u8?Live-TV™
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/64/logo/115x115/mobile_logo_392184001564902527.png" group-title="বাংলাদেশ",Sangsad TV (2)
 #EXTVLCOPT:network-caching=1000
-http://103.106.2.149:13456/sangsad.m3u8
+http://103.106.2.152:13456/sangsad.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/64/logo/115x115/mobile_logo_392184001564902527.png" group-title="বাংলাদেশ",Sangsad TV (3)
 #EXTVLCOPT:network-caching=1000
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
@@ -144,7 +144,8 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (1)
 #EXTVLCOPT:network-caching=1000
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (2)
 #EXTVLCOPT:network-caching=1000
 http://stream.wowzacdn.com/74urhfje3/G6K25_6d8/btv_world.m3u8
@@ -159,7 +160,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://163.172.29.246:8081/globalbd/btv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (9)
 #EXTVLCOPT:network-caching=1000
-http://103.106.2.149:13456/btv_world.m3u8
+http://103.106.2.152:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://www.jolshabd.com/public/channel_logo/1588439806.jpg" group-title="বাংলাদেশ",BTV WORLD (10)
 #EXTVLCOPT:network-caching=1000
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
@@ -169,7 +170,7 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQC2zdf6oJj1bO0EGcMUkNZZ0mpr9wqnlW3Mw&usqp=CAU" group-title="বাংলাদেশ",BTV CTG (1)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQC2zdf6oJj1bO0EGcMUkNZZ0mpr9wqnlW3Mw&usqp=CAU" group-title="বাংলাদেশ",BTV CTG (2)
-http://103.106.2.149:13456/btv_ctg.m3u8
+http://103.106.2.152:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQC2zdf6oJj1bO0EGcMUkNZZ0mpr9wqnlW3Mw&usqp=CAU" group-title="বাংলাদেশ",BTV CTG (3)
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQC2zdf6oJj1bO0EGcMUkNZZ0mpr9wqnlW3Mw&usqp=CAU" group-title="বাংলাদেশ",BTV CTG (4)
@@ -241,7 +242,7 @@ http://163.172.29.246:8081/globalbd/rtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://meghnatv.com/source/TV/rtv_bd.png" group-title="বাংলাদেশ",RTV HD (5)
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://meghnatv.com/source/TV/rtv_bd.png" group-title="বাংলাদেশ",RTV HD (7)
-http://103.106.2.149:13456/rtv.m3u8
+http://103.106.2.152:13456/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://meghnatv.com/source/TV/rtv_bd.png" group-title="বাংলাদেশ",RTV HD (8)
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 
@@ -4511,3 +4512,163 @@ http://220.158.149.28:8180/live/TV00000000000000000167@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000169@HHZT
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/mm/mv_tv_th.png" group-title="မြန်မာ",MVTV MYANMAR
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTfFMTc.png" group-title="Samsung TV", -Samsung TV-
+https://i.imgur.com/KuqaZul.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Samsung TV",Euronews | HD | Francia
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Samsung TV", Sony Novelas | HD | Estados Unidos
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Samsung TV", Sony Comedias | HD | Estados Unidos
+https://spt-comedias-1-us.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Samsung TV", Sony Competencias | HD | Estados Unidos
+https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/elXndpw.png" group-title="Samsung TV", Rakuten  TV Acción | HD | España
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/elXndpw.png" group-title="Samsung TV", Rakuten  TV Comedias | HD | España
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/elXndpw.png" group-title="Samsung TV", Rakuten  TV Drama | HD | España
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/elXndpw.png" group-title="Samsung TV", Rakuten  TV Familia | HD | España
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/elXndpw.png" group-title="Samsung TV", Rakuten  TV Spotlight | HD | España
+https://rakuten-spotlight-2-es.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mV4smeb.png" group-title="Samsung TV", Butaca TV | HD | España
+https://veranda-butacatv-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mV4smeb.png" group-title="Samsung TV", Butaca TV | HD | México
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
+
+
+
+EXTINF:-1 tvg-id="ESBA14000024Z" tvg-chno="4078" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/44/ESBA14000024Z_20211013T011621.png" group-title="Spain",World Poker Tour
+https://ec94d62c288a4597ae317e2f30441067.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_WorldPokerTour/playlist.m3u8?ads.wurl_channel=983&ads.wurl_name=WorldPokerTour&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA1400003LA" tvg-chno="4251" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/84/ESBA1400003LA_20211013T011431.png" group-title="Spain",BBC Drama
+https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8?ads.wurl_channel=988&ads.wurl_name=BBCDrama&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA1400001OG" tvg-chno="4252" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/42/ESBA1400001OG_20211110T010738.png" group-title="Spain",Doctor Who
+https://24e45240eb464bb795218803d6c61cc4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_DoctorWho/playlist.m3u8?ads.wurl_channel=945&ads.wurl_name=DoctorWho&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA1400006NP" tvg-chno="4253" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/18/ESBA1400006NP_20210609T005141.png" group-title="Spain",FailArmy
+https://460689fd4b6d4c80a0c539b27dc7cea8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESAJ4500016BH" tvg-chno="4254" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/ESAJ4500016BH_20201208T050257.png" group-title="Spain",The Pet Collective
+https://6c3f9c3ead8a4a0888f6cff09728fc91.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_ThePetCollective/playlist.m3u8?ads.wurl_channel=152&ads.wurl_name=ThePetCollective&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESAJ4500021HQ" tvg-chno="4255" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/59/ESAJ4500021HQ_20210923T011022.png" group-title="Spain",Rakuten Stories
+https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=430&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESAJ4500023Y5" tvg-chno="4256" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/24/ESAJ4500023Y5_20201208T050258.png" group-title="Spain",People Are Awesome
+https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=386&ads.wurl_name=PeopleAreAwesome&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESAJ3800005C5" tvg-chno="4257" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/54/ESAJ3800005C5_20210428T113604.png" group-title="Spain",Comedia Made in Spain
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0a0109d930000711e610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="ESAJ380000226" tvg-chno="4258" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/ESAJ380000226_20201029T004343.png" group-title="Spain",MTV Originals
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f5b7cc331900075e7767/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="ESAJ3800003LX" tvg-chno="4259" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/91/ESAJ3800003LX_20210414T025436.png" group-title="Spain",MTV Catfish
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f661f68f9200078870d4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="ESAJ3800006TT" tvg-chno="4260" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/93/ESAJ3800006TT_20210414T024016.png" group-title="Spain",MTV Cribs
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0a5ea82f7200075cb926/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="ESAJ3800008ZD" tvg-chno="4261" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/15/ESAJ3800008ZD_20201118T003337.png" group-title="Spain",Pluto TV Mundo Real
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0b44cc331900075e7769/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="ESBA3300027H5" tvg-chno="4263" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/88/ESBA3300027H5_20210512T003426.png" group-title="Spain",Las Reglas Del Juego
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/604125ef4b0285000720271e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="ESBA3300039ZX" tvg-chno="4264" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/36/ESBA3300039ZX_20211013T011508.png" group-title="Spain",Tu Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESBA1400008NE" tvg-chno="4265" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png" group-title="Spain",¡Hola! Play
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA140000504" tvg-chno="4266" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/41/ESBA140000504_20220112T014305.png" group-title="Spain",Stormcast Novelas
+https://ac864287d62a45c9b168029d11a28e2a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_StormcastNovelas/playlist.m3u8?ads.wurl_channel=1057&ads.wurl_name=StormcastNovelas&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA22000102A" tvg-chno="4267" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/23/ESBA22000102A_20220112T014256.png" group-title="Spain",Love Nature
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-lnrcastilian-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESBA22000094V" tvg-chno="4268" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ESBA22000094V_20210811T022022.png" group-title="Spain",Explore by TVPlayer
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-explorebytves-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESAJ4500026J3" tvg-chno="4301" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/ESAJ4500026J3_20201208T050259.png" group-title="Spain",Planeta Junior
+https://8886309569b64a2780383bc1511fe3d5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PlanetaKidz/playlist.m3u8?ads.wurl_channel=594&ads.wurl_name=PlanetaKidz&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESAJ38000046O" tvg-chno="4302" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/62/ESAJ38000046O_20201029T004405.png" group-title="Spain",Pluto TV Kids
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&ads.coppa=1&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="ESAJ3800009VJ" tvg-chno="4303" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/48/ESAJ3800009VJ_20201029T004411.png" group-title="Spain",Pluto TV Animakids
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a2aea6bffc400076bb4e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="ESBA3300020W5" tvg-chno="4306" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/55/ESBA3300020W5_20210113T004316.png" group-title="Spain",Caillou
+https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel=665&ads.wurl_name=WildBrainPresentsCaillou&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA33000233H" tvg-chno="4307" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/ESBA33000233H_20220112T014307.png" group-title="Spain",SuperToons TV
+https://83bff381bbfb42e6b3f6c02b68e1170f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SuperToonsTV/playlist.m3u8?ads.wurl_channel=639&ads.wurl_name=SuperToonsTV&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA33000188W" tvg-chno="4309" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/ESBA33000188W_20210209T093457.png" group-title="Spain",duckTV
+https://f4af60daf0aa422bb11765ff62a4a92e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_DuckTV/playlist.m3u8?ads.wurl_channel=572&ads.wurl_name=DuckTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESAJ4500017Y1" tvg-chno="4352" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/95/ESAJ4500017Y1_20201029T004538.png" group-title="Spain",Fashion TV
+https://9d71e7fce78e454e967afe6d07e80146.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FashionTV/playlist.m3u8?ads.wurl_channel=382&ads.wurl_name=FashionTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESAJ3800007PC" tvg-chno="4353" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/93/ESAJ3800007PC_20210401T071459.png" group-title="Spain",Pluto TV Cocina
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0af1f26bc900079ab871/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="ESBA2200006B4" tvg-chno="4365" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/57/ESBA2200006B4_20210512T003434.png" group-title="Spain",Tastemade
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-es8intl-samsung-spain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESBA3300036W1" tvg-chno="4367" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/14/ESBA3300036W1_20211110T010719.png" group-title="Spain",Museum TV FAST
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESBA330004121" tvg-chno="4381" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/12/ESBA330004121_20220112T014309.png" group-title="Spain",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESBA3900001IB" tvg-chno="4450" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/ESBA3900001IB_20211013T011811.png" group-title="Spain",Vevo Pop
+https://eu.linear.zype.com/beda280b-d692-49c0-ba89-37f4d1437a1f/c7f2b6ab-519d-477b-8817-cc08965f2ba4-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA1500001C4" tvg-chno="4453" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/32/ESBA1500001C4_20210609T004612.png" group-title="Spain",Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8317fbfb-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID
+
+#EXTINF:-1 tvg-id="ESAJ49000041W" tvg-chno="4454" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/68/ESAJ49000041W_20210209T093441.png" group-title="Spain",Qwest TV Mix
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESAJ4900003N6" tvg-chno="4455" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/20/ESAJ4900003N6_20210209T093431.png" group-title="Spain",Qwest TV Classical
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESAJ49000023R" tvg-chno="4456" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/67/ESAJ49000023R_20210209T093433.png" group-title="Spain",Qwest TV Jazz and Beyond
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESBA330004064" tvg-chno="4457" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/38/ESBA330004064_20210908T010233.png" group-title="Spain",Flash
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESBB19000012F" tvg-chno="4464" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/88/ESBB19000012F_20210714T000925.png" group-title="Spain",Clubbing TV
+https://d1fd1zcttz7mx2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClubbingTV-ES-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESAJ3800001KT" tvg-chno="4502" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/02/ESAJ3800001KT_20210209T093445.png" group-title="Spain",Pluto TV Cine Estelar
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="ESBA3300019NX" tvg-chno="4503" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/83/ESBA3300019NX_20201208T050605.png" group-title="Spain",Butaca TV
+https://4c6d8a18bd384c8a944e3788ecde6ae4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_ButacaTV/playlist.m3u8?ads.wurl_channel=656&ads.wurl_name=ButacaTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA3300021PZ" tvg-chno="4504" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ESBA3300021PZ_20210209T093339.png" group-title="Spain",Cines Verdi TV
+https://31f24acc118141319c9501119a5fc9e9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_CinesVerdiTV/playlist.m3u8?ads.wurl_channel=655&ads.wurl_name=CinesVerdiTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA3300022SL" tvg-chno="4505" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/42/ESBA3300022SL_20210310T011154.png" group-title="Spain",Cine Feel Good – Verdi TV
+https://2e3e8b43622e4c46a739103488cf9ded.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_CanalFeelGood/playlist.m3u8?ads.wurl_channel=610&ads.wurl_name=CanalFeelGood&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESAJ4900005CX" tvg-chno="4508" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/33/ESAJ4900005CX_20210113T004320.png" group-title="Spain",Sofy.tv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-sofy-samsung-es/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESBA220000766" tvg-chno="4510" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/54/ESBA220000766_20210714T000849.png" group-title="Spain",Dark Matter Film & TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoast-darkmatter-spanish-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA2200004G5" tvg-chno="4511" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/81/ESBA2200004G5_20210310T011211.png" group-title="Spain",MyTime Movie Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-appletree-mytimespain-samsung-es/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESBA2200008NQ" tvg-chno="4512" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/37/ESBA2200008NQ_20210714T000945.png" group-title="Spain",Cortos
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-spain-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&tc_string=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA3300017FA" tvg-chno="4548" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/ESBA3300017FA_20210923T010723.png" group-title="Spain",Familiares - Rakuten TV
+https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel=718&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESAJ4500020V7" tvg-chno="4549" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/62/ESAJ4500020V7_20210923T010719.png" group-title="Spain",Dramas - Rakuten TV
+https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel=429&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESAJ45000181E" tvg-chno="4550" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/61/ESAJ45000181E_20210923T010403.png" group-title="Spain",Acción - Rakuten TV
+https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=427&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="ESBA2200005D6" tvg-chno="4001" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/ESBA2200005D6_20210414T024642.png" group-title="Spain",Detectives
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-uksono-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESAJ4500019AM" tvg-chno="4002" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/88/ESAJ4500019AM_20210923T010454.png" group-title="Spain",Comedias - Rakuten TV
+https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=428&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESAJ4500024LR" tvg-chno="4003" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/ESAJ4500024LR_20200923T101206.png" group-title="Spain",Euronews en directo
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8?ads.wurl_channel=544&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA33000262Z" tvg-chno="4004" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/98/ESBA33000262Z_20210209T093344.png" group-title="Spain",Bob Esponja
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="ESBA3300025WZ" tvg-chno="4005" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/67/ESBA3300025WZ_20201118T003340.png" group-title="Spain",Los Asesinatos de Midsomer
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8463f3b02eb40007f75f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="ESBA39000026L" tvg-chno="4006" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/31/ESBA39000026L_20211013T011752.png" group-title="Spain",Vevo Latino
+https://eu.linear.zype.com/0912f967-726e-42e6-9818-68d4af2b3db2/9c1fe80e-9af9-4e57-b48d-aee073c27e70-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA3300024AJ" tvg-chno="4007" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/56/ESBA3300024AJ_20201118T003335.png" group-title="Spain",Bloomberg TV+
+https://42890dd08f6e424e94c882424ced89c3.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA2200001BS" tvg-chno="4008" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/00/ESBA2200001BS_20220112T014258.png" group-title="Spain",Runtime
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-runtimeespana-samsung-spain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESBA3300037CD" tvg-chno="4020" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/ESBA3300037CD_20210908T010206.png" group-title="Spain",Euronews
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-euronewses-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESBA3300035DP" tvg-chno="4051" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ESBA3300035DP_20210811T022036.png" group-title="Spain",Trace Sportstars
+http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&tc_string=%7BTC_STRING%7D&app_name=%7BAPP_NAME%7D&coppa=0
+#EXTINF:-1 tvg-id="ESBA3300038FN" tvg-chno="4052" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/ESBA3300038FN_20210908T010442.png" group-title="Spain",Surf World TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-surfworldtv-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESAJ49000017H" tvg-chno="4053" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/91/ESAJ49000017H_20200923T100710.png" group-title="Spain",Insight TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-insighttvuk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="ESBA1500002B5" tvg-chno="4054" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/11/ESBA1500002B5_20200923T100346.png" group-title="Spain",Motorvision
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/be2e393a-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=ES&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA140000460" tvg-chno="4055" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/89/ESBA140000460_20211208T015344.png" group-title="Spain",Surf Channel
+https://def61244eb234707b92cb3bed4d895a2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SurfChannel/playlist.m3u8?ads.wurl_channel=969&ads.wurl_name=SurfChannel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESAJ4500025S7" tvg-chno="4072" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/04/ESAJ4500025S7_20201029T004331.png" group-title="Spain",FUEL TV
+https://ca770451d44445029c7d89918c921ba4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FuelTV/playlist.m3u8?ads.wurl_channel=587&ads.wurl_name=FuelTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
