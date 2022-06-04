@@ -10,40 +10,28 @@ https://imgur.com/YApOcR5.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0VAxRgC.png" group-title="Official Streaming",BAN vs PAK
+#EXTINF:-1 tvg-logo="https://imgur.com/rHCV9wN.png" group-title="Official Streaming",SI Live 01
 #EXTVLCOPT:network-caching=1000
-http://?NGRrV3lFVU5ZbFhURlpWYmg5U2V6MFdaSVJIWm9aWFJscEZVbzkyYjVrR2RuaGtkd2sxY2haamF1NUdNMzVVUU50V01XcDJOYVpEYjBzQ04wTWpjdmhIY1Voa1pxQkhSSHgyY0hsRWIyUkVaM1VGVTNaVlF2MEdUUkJuVVVkV2N5bFhkV0JqY2pSbmJ2RkZaS1owWlNwbmVRMVVSbmxtZEhOemFyUVRQ
-#EXTINF:-1 tvg-logo="https://imgur.com/yTB7zNZ.png" group-title="Official Streaming",LPL T20
+https://sitechnologyltd786.shortcm.li/6mYHlW/Official_Stresming/BDLive_1/ICC-Sports/Live_TV_Premium.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.io/kYwTuQc.png" group-title="Official Streaming",SI Live 02
 #EXTVLCOPT:network-caching=1000
-http://?dmRrV3lFVU5ZVlhURlpWYmg5aWF6MFdaSVJIWnVaWFJscEZVbzkyYjVrR2RuaGtld2sxY2haamFuNUdNMzVVUU5GWE1XcDJOYVpqYTBzQ04wTWpjcGhIY1Voa1pxVkhSSHgyY3hOa2E2aFZhcTFFYzRkSFpsbGtlTjUyUmFoR2Q0bGpic0ZFWkhKV1dyVnphaFZFUzFJM1k2NVVPSk5GYXY1MllvOVdQ
-
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/03/Icc_Womens.png" group-title="Official Streaming",ICC Woman World Cup
-#EXTVLCOPT:network-caching=1000
-https://sitechnologyltd.xyz/Official_Stresming/BDLive_1/ICC-Sports/Live_TV_Premium.m3u8
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/02/IND_vs_SL.png" group-title="Official Streaming",Live Sports
+https://sitechnologyltd786.shortcm.li/zqYRV7/Official_Stresming/BDLive_2/ICC-Sports/Live_TV_Premium.m3u8
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/02/IND_vs_SL.png" group-title="Official Streaming",IND Live Sports
 #EXTVLCOPT:network-caching=1000
 https://sitechnologyltd.xyz/Official_Stresming/BDLive_2/ICC-Sports/Live_TV_Premium.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wq1OA6U.png" group-title="Official Streaming",IPL-2022 S1
-#EXTVLCOPT:network-caching=1000
-https://sitechnologyltd.xyz/8Aca0a/official_streaming/IPL-2022/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wq1OA6U.png" group-title="Official Streaming",IPL-2022 S2
-#EXTVLCOPT:network-caching=1000
-https://sitechnologyltd.xyz/Ef6q9J/official_streaming/IPL-2022/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wq1OA6U.png" group-title="Official Streaming",IPL-2022 S3
-#EXTVLCOPT:network-caching=1000
-https://sitechnologyltd.xyz/CS4Aa7/official_streaming/IPL-2022/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wq1OA6U.png" group-title="Official Streaming",IPL-2022 S4
-#EXTVLCOPT:network-caching=1000
-https://sitechnologyltd.xyz/3ghl8X/official_streaming/IPL-2022/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/05/Mr-White_Logo.png" group-title="Official Streaming",BAN vs SL
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wq1OA6U.png" group-title="Official Streaming",IPL-2023
 #EXTVLCOPT:network-caching=1000
-https://sitechnologyltd.xyz/3npZzt/BAN_vs_AFG/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Official Streaming",BAN vs SL
+#EXTVLCOPT:network-caching=1000
+
 #EXTINF:-1 tvg-logo="https://imgur.com/nybcg7U.png" group-title="Official Streaming",PAK vs AUS
 #EXTVLCOPT:network-caching=1000
-https://sitechnologyltd.xyz/SRctJN/PSLT20/2022.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Official Streaming",
 
+#EXTINF:-1 tvg-logo="" group-title="Official Streaming",
 #EXTVLCOPT:network-caching=1000
 
 
