@@ -24,7 +24,7 @@ https://sitechnologyltd.xyz/Official_Stresming/BDLive_2/ICC-Sports/Live_TV_Premi
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wq1OA6U.png" group-title="Official Streaming",IPL-2023
 #EXTVLCOPT:network-caching=1000
-
+https://edge.playdj.tv/hls/video%2B6894b4a4-15da-431c-b1e0-695aa5388abb/index.m3u8?origin=origin-lon-02
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/06/WI_vs_BAN_2.png" group-title="Official Streaming",WIN vs BAN
 #EXTVLCOPT:network-caching=1000
 https://birutv.com/sport@birutv/live/bt1.m3u8
@@ -34,11 +34,32 @@ https://edge.playdj.tv/hls/video+e8e4f895-e164-48d2-9ae1-afdbe686c43c/playlist.m
 #EXTVLCOPT:network-caching=1000
 https://tanish-sharma.tk/SupersportsCricket.m3u8
 https://edge.playdj.tv/hls/video%2B0bd09b1e-9322-42aa-9904-5e43b82f4efc/4_0/index.m3u8?origin=origin-nyc-01
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+http://makanja.xyz/beleng/premium65/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/06/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",AFG vs ZIM
 #EXTVLCOPT:network-caching=1000
-http://221.120.204.4:8080/geo-super-LOCKLE/index.m3u8
 https://tanish-sharma.tk/AstroCricket/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/06/Emirates_D20_2022.png" group-title="Official Streaming",Emirates D20
+#EXTVLCOPT:network-caching=1000
+http://221.120.204.4:8080/geo-super-LOCKLE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/06/England-tour-of-Netherlands_Logo.png" group-title="Official Streaming",ENG vs NED
+#EXTVLCOPT:network-caching=1000
+http://qqtv.nl:8080/live/Nancy2/2Nancy/275731.m3u8
+
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/06/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",AFG vs ZIM
+#EXTVLCOPT:network-caching=1000
+
+
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/06/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",AFG vs ZIM
+#EXTVLCOPT:network-caching=1000
+
+
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/06/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",AFG vs ZIM
+#EXTVLCOPT:network-caching=1000
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv
 #EXTVLCOPT:network-caching=1000
