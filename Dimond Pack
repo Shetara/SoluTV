@@ -6,7 +6,6 @@
 https://imgur.com/YApOcR5.mp4
 #https://imgur.com/2E3BH5G.mp4
 #https://od.lk/s/NDRfMjk1OTkzNDVf/%40sitechnology.net.mp4
-#https://llvod.mxplay.com/video/2543714c43aef14fae52f0ac7331cf17/2/hls/h264_high.m3u8
 
 
 
@@ -24,11 +23,10 @@ https://sitechnologyltd.xyz/Official_Stresming/BDLive_2/ICC-Sports/Live_TV_Premi
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wq1OA6U.png" group-title="Official Streaming",IPL-2023
 #EXTVLCOPT:network-caching=1000
-https://edge.playdj.tv/hls/video%2B6894b4a4-15da-431c-b1e0-695aa5388abb/index.m3u8?origin=origin-lon-02
+
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/06/WI_vs_BAN_2.png" group-title="Official Streaming",WIN vs BAN
 #EXTVLCOPT:network-caching=1000
-https://birutv.com/sport@birutv/live/bt1.m3u8
-https://edge.playdj.tv/hls/video+e8e4f895-e164-48d2-9ae1-afdbe686c43c/playlist.m3u8?origin=origin-lon-02
+http://ranapk.cf/cdn/play-33/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/06/IND_vs_SA.png" group-title="Official Streaming",IND vs SA
 #EXTVLCOPT:network-caching=1000
@@ -61,13 +59,14 @@ http://qqtv.nl:8080/live/Nancy2/2Nancy/275731.m3u8
 #EXTVLCOPT:network-caching=1000
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv
+#EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv English
+#EXTVLCOPT:network-caching=1000
+https://bdresults514.shortcm.li/M8wC9g/SI_Tecnology_Ltd/Live_TV_Premium/Sony_Liv_English.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv Hindi
 #EXTVLCOPT:network-caching=1000
 https://bdresults514.shortcm.li/SI_Tecnology_Ltd/Live_TV_Premium/Sony_Liv_Hindi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv Bangla
-#EXTVLCOPT:network-caching=1000
 https://bdresults514.shortcm.li/SI_Tecnology_Ltd/Live_TV_Premium/Sony_Liv_Bangla.m3u8
-
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YY9wRQO.png" group-title="Official Streaming",Live-TV™ Cricket ( Sarver 1 )
@@ -961,7 +960,7 @@ http://208.86.19.21/908.stream/index.m3u8
 http://173.199.120.51/hls/chsj.m3u8
 #EXTINF:-1 tvg-id="ts468" tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND বাংলা",Star Jalsha (3)
 #EXTVLCOPT:network-caching=1000
-http://103.205.133.40/hls/chsj.m3u8
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-id="ts468" tvg-logo="https://img2.pngio.com/star-jalsha-logopedia-fandom-star-jalsha-png-600_700.png" group-title="IND বাংলা",Star Jalsha (4)
 
 
@@ -1333,7 +1332,7 @@ http://221.120.204.4:80/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/340/logo/115x115/mobile_logo_209158001561972797.png" group-title="IND বাংলা",Zee Bangla (1)
-http://103.205.133.40/hls/zeebanglahd.m3u8?Live-TV™
+http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/340/logo/115x115/mobile_logo_209158001561972797.png" group-title="IND বাংলা",Zee Bangla (2)
 http://?MUpWUWxOR01yaEdUaUptV1paWGUwNUdOR0JuTm9OamUzUkdPMnBXWTJjVFpPQnpid1kyTGoxbVNyaEZPb0pUWmFWSGVveDBjT3QyYkhOWFlreEVhckJsTUpsbGVhcFhZMUVtZFlabmJOVjJONEEzUjZSM1lNeDBWTmgyVkVCMWN5QlZlTDFVUXRsemQxSlZNbjEyS01abld5a1hSUFZqZEJSWGNxaFRQ
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/340/logo/115x115/mobile_logo_209158001561972797.png" group-title="IND বাংলা",Zee Bangla (3)
@@ -2820,7 +2819,7 @@ http://173.199.120.51/hls/sonysix.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/603/logo/115x115/mobile_logo_524057001567842834.png" group-title="Sports",Sony Ten 1 HD (1)
-http://103.81.104.118/hls/sonyten1.m3u8
+http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/603/logo/115x115/mobile_logo_524057001567842834.png" group-title="Sports",Sony Ten 1 HD (2)
 http://43.230.123.21:8080/live/sonyten-1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.toffee-cms.com/images/program/603/logo/115x115/mobile_logo_524057001567842834.png" group-title="Sports",Sony Ten 1 HD (3)
@@ -2898,7 +2897,7 @@ http://iptv.tvfix.org/hls/starsports.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 (1)
-http://?PWtHZG9WRmNtRjNkdGhGTlZaemMwUkRObU5WYUVkV1phZFVUdWRqY0taVFMxTWtNNlozTW9CWFdtcEdOS1IwYjYxVWNTOTBNaFJIZHJaMGJoVmpTUVJIZU9sWFpJZEZkalYwUkdaVk55QkhkTUZXTklwR2J1UnpRem9sZTNjak4wc2tTMkZqTUtkemIxSVhicXBXYklWV2UxZFhjRDlVY3h0a1E0c3lNakZuVTVnMFVabEViTEZHYnJFa2VvdEdhcUpsV3JoR1JzTnpRbnhrZXdKMlJGZFdkb0IxYndsWFI0OG1lMVZFZW10aWNySjFjeFVtVnh4VVVDTlRUQnBtTUhoM0sxbFhlSFJUU3lrR1QxTlZTeGxWZWlKSFV5aGpUdk5uZXNCbFRYQkhiNTVXTzF3MkxscG1ZeGdsVjVORmJRcDJOYWRUT3pSVlRpUlVWYVZIY3dKRlN6QURjeE0wU3Nsek42aHpSSFJHYzNSM1pVWlRRRWhEZUVwV1ZQeDJjcWxsY3pkMlpXaDNRTTUyUlU5bWEyZDFhU1prWTFkRWVUTm5jMGRtWUxOMlpNdEdjNXNVYXdra1VxOUNlelpHTmxWSFJJVlViM1pHY3ZwSFQzdDJUMEpEVmpSV2NqVm5ZSVpGYVVOa2F2RWpVdkpYZXJaWE13Z0RlWUIzTDFNbU5RaGpid1UwUzZsVVJ0WlVhb0pWWXZkV1VMVm5XdmtGYURsMEszZ2xjMWRsU0VKVFR3bFdPT0ZuUXN4RWJOZDFhdkZqYm9wVlRXcDJkb2wzTnJaSGN6RlhlUDEwTURSM1l1cEZOajUyYXlZSGR5WVVhMWQxYVB0bVJMRlRSMUZFY3c5RVV5Y25WMmN6U2xaRGFHdG1kV2RqYnk5V1A=
+http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 (2)
 http://173.199.120.51/hls/chsp1.m3u8
 #EXTINF:-1 tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 (3)
