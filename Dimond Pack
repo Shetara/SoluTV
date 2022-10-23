@@ -37,40 +37,40 @@ https://sitechnologyltd786.shortcm.li/PGV8y4/Official_Stresming/SILive_4/Sports/
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid1.png" group-title="Official Streaming",T20 World Cup - 2022
 #EXTVLCOPT:network-caching=1000
-
-
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid1.png" group-title="Official Streaming",T20 World Cup - 2022
-#EXTVLCOPT:network-caching=1000
+http://15.1.5.14:8082/en3-34/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid1.png" group-title="Official Streaming",T20 World Cup - 2022
 #EXTVLCOPT:network-caching=1000
-
+http://test-otv1.ftpbd.net/streams/120/index.m3u8
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid1.png" group-title="Official Streaming",T20 World Cup - 2022
+#EXTVLCOPT:network-caching=1000
+http://test-otv1.ftpbd.net/streams/119/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid1.png" group-title="Official Streaming",T20 World Cup - 2022
 #EXTVLCOPT:network-caching=1000
+https://live.prd.dlive.tv/hls/live/jiol.m3u8?web=true
 
-
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/06/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",T20 World Cup - 2022
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",T20 World Cup - 2022
 #EXTVLCOPT:network-caching=1000
-
+https://11live02.akamaized.net/FTX2_WILLOW/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid1.png" group-title="Official Streaming",T20 World Cup - 2022
 #EXTVLCOPT:network-caching=1000
+http://103.143.235.50:8080/ch4/ch4.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/06/England-tour-of-Netherlands_Logo.png" group-title="Official Streaming",ENG vs NED
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",T20 World Cup - 2022
 #EXTVLCOPT:network-caching=1000
-http://qqtv.nl:8080/live/Nancy2/2Nancy/275731.m3u8
+http://103.143.235.50:8080/ch5/ch5.m3u8
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/06/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",AFG vs ZIM
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",T20 World Cup - 2022
+#EXTVLCOPT:network-caching=1000
+http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",AFG vs ZIM
 #EXTVLCOPT:network-caching=1000
 
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/06/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",AFG vs ZIM
-#EXTVLCOPT:network-caching=1000
-
-
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/06/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",AFG vs ZIM
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",AFG vs ZIM
 #EXTVLCOPT:network-caching=1000
 
 
