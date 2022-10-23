@@ -49,7 +49,7 @@ http://test-otv1.ftpbd.net/streams/119/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live.prd.dlive.tv/hls/live/jiol.m3u8?web=true
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",T20 World Cup - 2022
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid1.png" group-title="Official Streaming",T20 World Cup - 2022
 #EXTVLCOPT:network-caching=1000
 https://11live02.akamaized.net/FTX2_WILLOW/tracks-v1a1/mono.m3u8
 
@@ -57,19 +57,19 @@ https://11live02.akamaized.net/FTX2_WILLOW/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.143.235.50:8080/ch4/ch4.m3u8
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",T20 World Cup - 2022
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid1.png" group-title="Official Streaming",T20 World Cup - 2022
 #EXTVLCOPT:network-caching=1000
 http://103.143.235.50:8080/ch5/ch5.m3u8
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",T20 World Cup - 2022
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid1.png" group-title="Official Streaming",T20 World Cup - 2022
 #EXTVLCOPT:network-caching=1000
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",T20 World Cup - 2022
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid1.png" group-title="Official Streaming",T20 World Cup - 2022
 #EXTVLCOPT:network-caching=1000
 http://103.158.2.10:1935/live/ch-1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",T20 World Cup - 2022
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid1.png" group-title="Official Streaming",T20 World Cup - 2022
 #EXTVLCOPT:network-caching=1000
 http://103.158.2.18/iTV/video.m3u8
 
