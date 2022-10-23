@@ -30,7 +30,6 @@ https://sitechnologyltd786.shortcm.li/tmjOS3/Official_Stresming/SILive_3/Sports/
 #EXTINF:-1 tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Live/IMG_LiveTV-4.png" group-title="Official Streaming",SI Live 04
 
 #EXTVLCOPT:network-caching=1000
-
 https://sitechnologyltd786.shortcm.li/PGV8y4/Official_Stresming/SILive_4/Sports/Live_TV_Premium.m3u8
 
 
@@ -66,13 +65,13 @@ http://103.143.235.50:8080/ch5/ch5.m3u8
 #EXTVLCOPT:network-caching=1000
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",AFG vs ZIM
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",T20 World Cup - 2022
 #EXTVLCOPT:network-caching=1000
+http://103.158.2.10:1935/live/ch-1/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",AFG vs ZIM
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2022/10/New_Tour_Logo-Grid-1.png" group-title="Official Streaming",T20 World Cup - 2022
 #EXTVLCOPT:network-caching=1000
-
+http://103.158.2.18/iTV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv English
 #EXTVLCOPT:network-caching=1000
