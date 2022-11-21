@@ -40,7 +40,7 @@ http://bdip.ddns.net:1895/live/fifa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_699614001668857458.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
-https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
+http://watchindia.net:8880/live/14100/70701/2405.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_686951001668856895.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
 http://103.78.255.178:8080/starselect1/index.m3u8
@@ -63,11 +63,11 @@ http://103.143.235.50:8080/ch5/ch5.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_699614001668857458.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
-http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_686951001668856895.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
-http://103.158.2.10:1935/live/ch-1/index.m3u8
+http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_699614001668857458.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
