@@ -59,7 +59,7 @@ http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_686951001668856895.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
-http://103.143.235.50:8080/ch5/ch5.m3u8
+http://167.172.79.191:9999/cloud/stream/e8115e6400c4415dbcf3f989c6fe82df/11/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_699614001668857458.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
