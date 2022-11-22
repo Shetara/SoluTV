@@ -75,19 +75,19 @@ http://89.187.175.143/3056/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_686951001668856895.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
-
+https://d2m5n28htvbpd2.cloudfront.net/out/v1/02017866ae1b4a1b8dd5d9a5e0572262/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_699614001668857458.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
-
+http://red.ipfox.org:8080/live/Karam2022/Karam2023/52346.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_699614001668856895.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
-
+http://168.235.110.118:8088/hls/os_stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_699614001668857458.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
-
+https://live5.thetavideoapi.com/hls/live/2015866/hls_streamer_us_central_0011/stream_4z2btq5qrfb7errkfe47k5gx4_source/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_699614001668856895.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
