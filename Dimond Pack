@@ -36,7 +36,7 @@ https://sitechnologyltd786.shortcm.li/PGV8y4/Official_Stresming/SILive_4/Sports/
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_686951001668856895.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
-http://bdip.ddns.net:1895/live/fifa/playlist.m3u8
+http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_699614001668857458.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
@@ -51,7 +51,7 @@ http://103.78.255.178:8080/gtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_686951001668856895.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
-http://live.hplink.com.bd/streams/105/ch4.m3u8
+http://humiptv.live:8080/live/Musasidiqi/Musasidiqi87/771.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_699614001668857458.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
@@ -72,6 +72,12 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_699614001668857458.png" group-title="Official Streaming",FIFA World Cup Qatar2022
 #EXTVLCOPT:network-caching=1000
 http://89.187.175.143/3056/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_686951001668856895.png" group-title="Official Streaming",FIFA World Cup Qatar2022
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sK6TEqR.png" group-title="Official Streaming",Sony Liv English
 #EXTVLCOPT:network-caching=1000
